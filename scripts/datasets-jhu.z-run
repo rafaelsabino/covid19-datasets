@@ -1,0 +1,407 @@
+#!/dev/null
+
+
+
+
+<< plots / jhu
+	
+	test "${#}" -eq 5
+	_dataset="${1}"
+	_output="${2}"
+	_format="${3}"
+	_index="${4}"
+	_metric="${5}"
+	shift -- 5
+	
+	"${ZRUN[@]}" ':: tools / julia / exec' \
+			./sources/jhu-plot.jl \
+			"${_dataset}" \
+			"${_output}.tmp" \
+			"${_format}" \
+			"${_index}" \
+			"${_metric}" \
+	#
+	
+	mv -T -- \
+			"${_output}.tmp" \
+			"${_output}" \
+	#
+!!
+
+
+
+
+<< imports / jhu / merge
+	
+	test "${#}" -ge 2
+	_output="${1}"
+	shift -- 1
+	_inputs=( "${@}" )
+	shift -- "${#}"
+	test "${#}" -eq 0
+	
+	exec -- "${ZRUN[@]}" ':: tools / jq / filter' \
+			'
+				
+				.
+				
+				| (
+					map (
+						.keys
+						| to_entries
+						| .[]
+					)
+					| unique
+					| from_entries
+				) as $keys
+				
+				| (
+					map (
+						.dataset as $dataset
+						| .records
+						| map (.dataset = $dataset)
+					)
+					| add
+				) as $records
+				
+				| {
+					keys : $keys,
+					records : $records,
+				}
+				
+			' \
+			<( exec -- cat -- "${_inputs[@]}" ) \
+			"${_output}" \
+			--slurp \
+	#
+!!
+
+
+
+
+<< imports / jhu / extract / locations
+	
+	test "${#}" -eq 2
+	_input="${1}"
+	_output="${2}"
+	shift -- 2
+	test "${#}" -eq 0
+	
+	exec -- "${ZRUN[@]}" ':: tools / jq / filter' \
+			'
+				
+				.
+				| .records
+				| map ([.Country_Region, .Province_State, .Lat, .Long])
+				| group_by ([.[0], .[1]])
+				| map (
+					.[0]
+					| {
+						key : [.[0], .[1]] | crypto_md5,
+						country : .[0],
+						province : .[1],
+						lat_long : [.[2], .[3]],
+					}
+					| .province_0 = (
+						if (.country == "US") then
+							.province
+							| split (", ")
+							| if ((. | length) == 2) then
+								.[1] + " / " + .[0]
+							else
+								.[0]
+							end
+						else
+							.province
+						end)
+					| .label = (
+						if (.province_0 != null) then
+							.country + " / " + .province_0
+						else
+							.country
+						end)
+					| del (.province_0)
+				)
+				| sort_by (.label)
+				| map ({key : .key, value : .})
+				| from_entries
+				
+			' \
+			"${_input}" \
+			"${_output}" \
+	#
+!!
+
+
+
+
+<< imports / jhu / extract / dates
+	
+	test "${#}" -eq 2
+	_input="${1}"
+	_output="${2}"
+	shift -- 2
+	test "${#}" -eq 0
+	
+	exec -- "${ZRUN[@]}" ':: tools / jq / filter' \
+			'
+				
+				.
+				| .keys
+				| to_entries
+				| map (select (.key | startswith ("_")))
+				| map (
+					{
+						key : .key,
+						original : .value,
+					} + (
+						.value
+						| split ("/")
+						| {
+							year : (2000 + (.[2] | tonumber)),
+							month : .[0] | tonumber,
+							day : .[1] | tonumber,
+						}
+					)
+					| .date = (
+						[.year, .month, .day]
+						| map (tostring)
+						| map (if ((. | length) == 1) then "0" + . else . end)
+						| join ("-"))
+				)
+				| sort_by (.date)
+				| map ({key : .key, value : .})
+				| from_entries
+				
+			' \
+			"${_input}" \
+			"${_output}" \
+	#
+!!
+
+
+
+
+<< imports / jhu / extract / values
+	
+	test "${#}" -eq 2
+	_input="${1}"
+	_output="${2}"
+	shift -- 2
+	test "${#}" -eq 0
+	
+	exec -- "${ZRUN[@]}" ':: tools / jq / filter' \
+			'
+				
+				.
+				| .records
+				| map (
+					.location = ([.Country_Region, .Province_State] | crypto_md5 | $locations[.])
+				)
+				| map (
+					. as $record
+					| $dates
+					| .[]
+					| {
+						dataset : $record.dataset,
+						location : $record.location,
+						date : .,
+						value : $record[.key],
+					}
+				)
+				| group_by ([.location.key, .date.key])
+				| map ({
+					location : .[0].location,
+					date : .[0].date | del (.key),
+					values : map ({key : .dataset, value : .value}) | from_entries,
+				})
+				| group_by ([.location.country, .date])
+				| map (
+					{
+						location : {
+							key : [.[0].location.country, "total"] | crypto_md5,
+							country : .[0].location.country,
+							province : "total",
+							label : .[0].location.country,
+						},
+						date : .[0].date,
+						values :
+							map (.values | to_entries | .[])
+							| group_by (.key)
+							| map ({
+								key : .[0].key,
+								value : map (.value) | add,
+							})
+							| from_entries
+					}
+					,
+					.[]
+				)
+				| sort_by ([.location.country, .date.date, .location.label, .location.province, .location.key])
+				
+			' \
+			"${_input}" \
+			"${_output}" \
+			--argfile dates ./imports/jhu/dates.json \
+			--argfile locations ./imports/jhu/locations.json \
+	#
+!!
+
+
+
+
+<< exports / jhu / values / json
+	
+	test "${#}" -eq 2
+	_input="${1}"
+	_output="${2}"
+	shift -- 2
+	test "${#}" -eq 0
+	
+	exec -- "${ZRUN[@]}" ':: tools / jq / filter' \
+			'
+				
+				.
+				| map (
+					.values = {absolute : .values}
+				)
+				| map (
+					.values.absolute.infected = (.values.absolute.confirmed - .values.absolute.recovered - .values.absolute.deaths)
+				)
+				| sort_by ([.location.key, .date.date])
+				| reduce
+					.[] as $current
+					(
+						{previous : null, records : []}
+					;
+						.
+						| .previous as $previous
+						| .records as $records
+						| (if (($previous != null) and ($previous.location.key == $current.location.key)) then $previous else null end) as $previous
+						| $current
+						| if ($previous != null) then
+							.
+							| .values.relative = {
+								confirmed : ($current.values.absolute.confirmed - $previous.values.absolute.confirmed) | (if (. != 0) then . else null end),
+								recovered : ($current.values.absolute.recovered - $previous.values.absolute.recovered) | (if (. != 0) then . else null end),
+								deaths : ($current.values.absolute.deaths - $previous.values.absolute.deaths) | (if (. != 0) then . else null end),
+								infected : ($current.values.absolute.infected - $previous.values.absolute.infected) | (if (. != 0) then . else null end),
+							}
+							| .values.relative_pct = {
+								confirmed : (try (.values.relative.confirmed * 100.0 / $previous.values.absolute.confirmed) catch null) | (if (. != 0) then . else null end),
+								recovered : (try (.values.relative.recovered * 100.0 / $previous.values.absolute.recovered) catch null) | (if (. != 0) then . else null end),
+								infected : (try (.values.relative.infected * 100.0 / $previous.values.absolute.infected) catch null) | (if (. != 0) then . else null end),
+								deaths : (try (.values.relative.deaths * 100.0 / $previous.values.absolute.deaths) catch null) | (if (. != 0) then . else null end),
+							}
+						else
+							.
+						end
+						| if ((.values.absolute.confirmed >= 1) or ($previous.day_index_1 != null)) then
+							.day_index_1 = (($previous.day_index_1 // 0) + 1)
+						else . end
+						| if ((.values.absolute.confirmed >= 10) or ($previous.day_index_10 != null)) then
+							.day_index_10 = (($previous.day_index_10 // 0) + 1)
+						else . end
+						| if ((.values.absolute.confirmed >= 100) or ($previous.day_index_100 != null)) then
+							.day_index_100 = (($previous.day_index_100 // 0) + 1)
+						else . end
+						| if ((.values.absolute.confirmed >= 1000) or ($previous.day_index_1000 != null)) then
+							.day_index_1000 = (($previous.day_index_1000 // 0) + 1)
+						else . end
+						| {
+							previous : .,
+							records : ($records + [.]),
+						}
+					)
+				| .records
+				| map (select (.day_index_1 != null))
+				
+			' \
+			"${_input}" \
+			"${_output}" \
+	#
+!!
+
+
+<< exports / jhu / values / tsv
+	
+	test "${#}" -eq 2
+	_input="${1}"
+	_output="${2}"
+	shift -- 2
+	test "${#}" -eq 0
+	
+	exec -- "${ZRUN[@]}" ':: tools / jq / filter' \
+			'
+			(
+				[
+					
+					"location_key",
+					"location_label",
+					"country",
+					"province",
+					"location_lat",
+					"location_long",
+					
+					"date",
+					"day_index_1",
+					"day_index_10",
+					"day_index_100",
+					"day_index_1000",
+					
+					"absolute_confirmed",
+					"absolute_deaths",
+					"absolute_recovered",
+					"absolute_infected",
+					
+					"relative_confirmed",
+					"relative_deaths",
+					"relative_recovered",
+					"relative_infected",
+					
+					"relative_confirmed_pct",
+					"relative_deaths_pct",
+					"relative_recovered_pct",
+					"relative_infected_pct"
+					
+				]
+				| join ("\t")
+				
+			) , (
+				
+				.[]
+				| (
+					[
+					
+						.location.key,
+						.location.label,
+						.location.country,
+						.location.province,
+						.location.lat_long[0],
+						.location.lat_long[1],
+						
+						.date.date,
+						.day_index_1,
+						.day_index_10,
+						.day_index_100,
+						.day_index_1000
+						
+					] + [
+						
+						.values
+						| (.absolute, .relative, .relative_pct)
+						| (.confirmed, .deaths, .recovered, .infected)
+						
+					]
+				)
+				| map (if (. != null) then tostring else "" end)
+				| join ("\t")
+				
+			)
+			' \
+			"${_input}" \
+			"${_output}" \
+			--raw-output \
+	#
+!!
+

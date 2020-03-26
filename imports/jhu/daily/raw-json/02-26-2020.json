@@ -31,811 +31,1417 @@
   "records" : [
     {
       "confirmed" : 65187,
+      "confirmed__normalized" : "65187",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 2615,
+      "deaths__normalized" : "2615",
       "last_update" : "2020-02-26T14:13:10",
+      "last_update__normalized" : "2020_02_26t14_13_10",
       "province_state" : "Hubei",
-      "recovered" : 20969
+      "province_state__normalized" : "hubei",
+      "recovered" : 20969,
+      "recovered__normalized" : "20969"
     },
     {
       "confirmed" : 1347,
+      "confirmed__normalized" : "1347",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 7,
+      "deaths__normalized" : "7",
       "last_update" : "2020-02-26T10:33:02",
+      "last_update__normalized" : "2020_02_26t10_33_02",
       "province_state" : "Guangdong",
-      "recovered" : 851
+      "province_state__normalized" : "guangdong",
+      "recovered" : 851,
+      "recovered__normalized" : "851"
     },
     {
       "confirmed" : 1271,
+      "confirmed__normalized" : "1271",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 19,
+      "deaths__normalized" : "19",
       "last_update" : "2020-02-26T10:33:02",
+      "last_update__normalized" : "2020_02_26t10_33_02",
       "province_state" : "Henan",
-      "recovered" : 1033
+      "province_state__normalized" : "henan",
+      "recovered" : 1033,
+      "recovered__normalized" : "1033"
     },
     {
       "confirmed" : 1261,
+      "confirmed__normalized" : "1261",
       "country_region" : "South Korea",
+      "country_region__normalized" : "south_korea",
       "deaths" : 12,
+      "deaths__normalized" : "12",
       "last_update" : "2020-02-26T11:03:11",
+      "last_update__normalized" : "2020_02_26t11_03_11",
       "province_state" : null,
-      "recovered" : 22
+      "province_state__normalized" : null,
+      "recovered" : 22,
+      "recovered__normalized" : "22"
     },
     {
       "confirmed" : 1205,
+      "confirmed__normalized" : "1205",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 1,
+      "deaths__normalized" : "1",
       "last_update" : "2020-02-26T10:33:02",
+      "last_update__normalized" : "2020_02_26t10_33_02",
       "province_state" : "Zhejiang",
-      "recovered" : 867
+      "province_state__normalized" : "zhejiang",
+      "recovered" : 867,
+      "recovered__normalized" : "867"
     },
     {
       "confirmed" : 1016,
+      "confirmed__normalized" : "1016",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 4,
+      "deaths__normalized" : "4",
       "last_update" : "2020-02-26T10:13:11",
+      "last_update__normalized" : "2020_02_26t10_13_11",
       "province_state" : "Hunan",
-      "recovered" : 783
+      "province_state__normalized" : "hunan",
+      "recovered" : 783,
+      "recovered__normalized" : "783"
     },
     {
       "confirmed" : 989,
+      "confirmed__normalized" : "989",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 6,
+      "deaths__normalized" : "6",
       "last_update" : "2020-02-26T10:13:11",
+      "last_update__normalized" : "2020_02_26t10_13_11",
       "province_state" : "Anhui",
-      "recovered" : 744
+      "province_state__normalized" : "anhui",
+      "recovered" : 744,
+      "recovered__normalized" : "744"
     },
     {
       "confirmed" : 934,
+      "confirmed__normalized" : "934",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 1,
+      "deaths__normalized" : "1",
       "last_update" : "2020-02-26T01:13:04",
+      "last_update__normalized" : "2020_02_26t01_13_04",
       "province_state" : "Jiangxi",
-      "recovered" : 719
+      "province_state__normalized" : "jiangxi",
+      "recovered" : 719,
+      "recovered__normalized" : "719"
     },
     {
       "confirmed" : 756,
+      "confirmed__normalized" : "756",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 6,
+      "deaths__normalized" : "6",
       "last_update" : "2020-02-26T12:43:02",
+      "last_update__normalized" : "2020_02_26t12_43_02",
       "province_state" : "Shandong",
-      "recovered" : 377
+      "province_state__normalized" : "shandong",
+      "recovered" : 377,
+      "recovered__normalized" : "377"
     },
     {
       "confirmed" : 705,
+      "confirmed__normalized" : "705",
       "country_region" : "Others",
+      "country_region__normalized" : "others",
       "deaths" : 4,
+      "deaths__normalized" : "4",
       "last_update" : "2020-02-26T19:33:02",
+      "last_update__normalized" : "2020_02_26t19_33_02",
       "province_state" : "Diamond Princess cruise ship",
-      "recovered" : 10
+      "province_state__normalized" : "diamond_princess_cruise_ship",
+      "recovered" : 10,
+      "recovered__normalized" : "10"
     },
     {
       "confirmed" : 631,
+      "confirmed__normalized" : "631",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T10:13:11",
+      "last_update__normalized" : "2020_02_26t10_13_11",
       "province_state" : "Jiangsu",
-      "recovered" : 478
+      "province_state__normalized" : "jiangsu",
+      "recovered" : 478,
+      "recovered__normalized" : "478"
     },
     {
       "confirmed" : 576,
+      "confirmed__normalized" : "576",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 6,
+      "deaths__normalized" : "6",
       "last_update" : "2020-02-26T23:43:02",
+      "last_update__normalized" : "2020_02_26t23_43_02",
       "province_state" : "Chongqing",
-      "recovered" : 384
+      "province_state__normalized" : "chongqing",
+      "recovered" : 384,
+      "recovered__normalized" : "384"
     },
     {
       "confirmed" : 531,
+      "confirmed__normalized" : "531",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 3,
+      "deaths__normalized" : "3",
       "last_update" : "2020-02-26T10:13:11",
+      "last_update__normalized" : "2020_02_26t10_13_11",
       "province_state" : "Sichuan",
-      "recovered" : 307
+      "province_state__normalized" : "sichuan",
+      "recovered" : 307,
+      "recovered__normalized" : "307"
     },
     {
       "confirmed" : 480,
+      "confirmed__normalized" : "480",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 12,
+      "deaths__normalized" : "12",
       "last_update" : "2020-02-26T10:33:02",
+      "last_update__normalized" : "2020_02_26t10_33_02",
       "province_state" : "Heilongjiang",
-      "recovered" : 249
+      "province_state__normalized" : "heilongjiang",
+      "recovered" : 249,
+      "recovered__normalized" : "249"
     },
     {
       "confirmed" : 453,
+      "confirmed__normalized" : "453",
       "country_region" : "Italy",
+      "country_region__normalized" : "italy",
       "deaths" : 12,
+      "deaths__normalized" : "12",
       "last_update" : "2020-02-26T23:43:03",
+      "last_update__normalized" : "2020_02_26t23_43_03",
       "province_state" : null,
-      "recovered" : 3
+      "province_state__normalized" : null,
+      "recovered" : 3,
+      "recovered__normalized" : "3"
     },
     {
       "confirmed" : 400,
+      "confirmed__normalized" : "400",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 4,
+      "deaths__normalized" : "4",
       "last_update" : "2020-02-26T00:53:02",
+      "last_update__normalized" : "2020_02_26t00_53_02",
       "province_state" : "Beijing",
-      "recovered" : 235
+      "province_state__normalized" : "beijing",
+      "recovered" : 235,
+      "recovered__normalized" : "235"
     },
     {
       "confirmed" : 337,
+      "confirmed__normalized" : "337",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 3,
+      "deaths__normalized" : "3",
       "last_update" : "2020-02-26T23:53:01",
+      "last_update__normalized" : "2020_02_26t23_53_01",
       "province_state" : "Shanghai",
-      "recovered" : 272
+      "province_state__normalized" : "shanghai",
+      "recovered" : 272,
+      "recovered__normalized" : "272"
     },
     {
       "confirmed" : 312,
+      "confirmed__normalized" : "312",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 6,
+      "deaths__normalized" : "6",
       "last_update" : "2020-02-26T10:33:02",
+      "last_update__normalized" : "2020_02_26t10_33_02",
       "province_state" : "Hebei",
-      "recovered" : 261
+      "province_state__normalized" : "hebei",
+      "recovered" : 261,
+      "recovered__normalized" : "261"
     },
     {
       "confirmed" : 294,
+      "confirmed__normalized" : "294",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 1,
+      "deaths__normalized" : "1",
       "last_update" : "2020-02-26T10:33:02",
+      "last_update__normalized" : "2020_02_26t10_33_02",
       "province_state" : "Fujian",
-      "recovered" : 218
+      "province_state__normalized" : "fujian",
+      "recovered" : 218,
+      "recovered__normalized" : "218"
     },
     {
       "confirmed" : 252,
+      "confirmed__normalized" : "252",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 2,
+      "deaths__normalized" : "2",
       "last_update" : "2020-02-26T14:13:10",
+      "last_update__normalized" : "2020_02_26t14_13_10",
       "province_state" : "Guangxi",
-      "recovered" : 147
+      "province_state__normalized" : "guangxi",
+      "recovered" : 147,
+      "recovered__normalized" : "147"
     },
     {
       "confirmed" : 245,
+      "confirmed__normalized" : "245",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 1,
+      "deaths__normalized" : "1",
       "last_update" : "2020-02-26T14:13:10",
+      "last_update__normalized" : "2020_02_26t14_13_10",
       "province_state" : "Shaanxi",
-      "recovered" : 192
+      "province_state__normalized" : "shaanxi",
+      "recovered" : 192,
+      "recovered__normalized" : "192"
     },
     {
       "confirmed" : 189,
+      "confirmed__normalized" : "189",
       "country_region" : "Japan",
+      "country_region__normalized" : "japan",
       "deaths" : 2,
+      "deaths__normalized" : "2",
       "last_update" : "2020-02-26T23:43:03",
+      "last_update__normalized" : "2020_02_26t23_43_03",
       "province_state" : null,
-      "recovered" : 22
+      "province_state__normalized" : null,
+      "recovered" : 22,
+      "recovered__normalized" : "22"
     },
     {
       "confirmed" : 174,
+      "confirmed__normalized" : "174",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 2,
+      "deaths__normalized" : "2",
       "last_update" : "2020-02-26T05:13:16",
+      "last_update__normalized" : "2020_02_26t05_13_16",
       "province_state" : "Yunnan",
-      "recovered" : 144
+      "province_state__normalized" : "yunnan",
+      "recovered" : 144,
+      "recovered__normalized" : "144"
     },
     {
       "confirmed" : 168,
+      "confirmed__normalized" : "168",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 5,
+      "deaths__normalized" : "5",
       "last_update" : "2020-02-26T12:43:02",
+      "last_update__normalized" : "2020_02_26t12_43_02",
       "province_state" : "Hainan",
-      "recovered" : 129
+      "province_state__normalized" : "hainan",
+      "recovered" : 129,
+      "recovered__normalized" : "129"
     },
     {
       "confirmed" : 146,
+      "confirmed__normalized" : "146",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 2,
+      "deaths__normalized" : "2",
       "last_update" : "2020-02-25T08:03:07",
+      "last_update__normalized" : "2020_02_25t08_03_07",
       "province_state" : "Guizhou",
-      "recovered" : 104
+      "province_state__normalized" : "guizhou",
+      "recovered" : 104,
+      "recovered__normalized" : "104"
     },
     {
       "confirmed" : 139,
+      "confirmed__normalized" : "139",
       "country_region" : "Iran",
+      "country_region__normalized" : "iran",
       "deaths" : 19,
+      "deaths__normalized" : "19",
       "last_update" : "2020-02-26T23:43:03",
+      "last_update__normalized" : "2020_02_26t23_43_03",
       "province_state" : null,
-      "recovered" : 49
+      "province_state__normalized" : null,
+      "recovered" : 49,
+      "recovered__normalized" : "49"
     },
     {
       "confirmed" : 135,
+      "confirmed__normalized" : "135",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 3,
+      "deaths__normalized" : "3",
       "last_update" : "2020-02-26T12:43:02",
+      "last_update__normalized" : "2020_02_26t12_43_02",
       "province_state" : "Tianjin",
-      "recovered" : 96
+      "province_state__normalized" : "tianjin",
+      "recovered" : 96,
+      "recovered__normalized" : "96"
     },
     {
       "confirmed" : 133,
+      "confirmed__normalized" : "133",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T14:13:10",
+      "last_update__normalized" : "2020_02_26t14_13_10",
       "province_state" : "Shanxi",
-      "recovered" : 104
+      "province_state__normalized" : "shanxi",
+      "recovered" : 104,
+      "recovered__normalized" : "104"
     },
     {
       "confirmed" : 121,
+      "confirmed__normalized" : "121",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 1,
+      "deaths__normalized" : "1",
       "last_update" : "2020-02-26T00:13:05",
+      "last_update__normalized" : "2020_02_26t00_13_05",
       "province_state" : "Liaoning",
-      "recovered" : 88
+      "province_state__normalized" : "liaoning",
+      "recovered" : 88,
+      "recovered__normalized" : "88"
     },
     {
       "confirmed" : 93,
+      "confirmed__normalized" : "93",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 1,
+      "deaths__normalized" : "1",
       "last_update" : "2020-02-26T14:13:10",
+      "last_update__normalized" : "2020_02_26t14_13_10",
       "province_state" : "Jilin",
-      "recovered" : 65
+      "province_state__normalized" : "jilin",
+      "recovered" : 65,
+      "recovered__normalized" : "65"
     },
     {
       "confirmed" : 93,
+      "confirmed__normalized" : "93",
       "country_region" : "Singapore",
+      "country_region__normalized" : "singapore",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T19:33:02",
+      "last_update__normalized" : "2020_02_26t19_33_02",
       "province_state" : null,
-      "recovered" : 62
+      "province_state__normalized" : null,
+      "recovered" : 62,
+      "recovered__normalized" : "62"
     },
     {
       "confirmed" : 91,
+      "confirmed__normalized" : "91",
       "country_region" : "Hong Kong",
+      "country_region__normalized" : "hong_kong",
       "deaths" : 2,
+      "deaths__normalized" : "2",
       "last_update" : "2020-02-26T23:43:02",
+      "last_update__normalized" : "2020_02_26t23_43_02",
       "province_state" : "Hong Kong",
-      "recovered" : 24
+      "province_state__normalized" : "hong_kong",
+      "recovered" : 24,
+      "recovered__normalized" : "24"
     },
     {
       "confirmed" : 91,
+      "confirmed__normalized" : "91",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 2,
+      "deaths__normalized" : "2",
       "last_update" : "2020-02-26T14:13:10",
+      "last_update__normalized" : "2020_02_26t14_13_10",
       "province_state" : "Gansu",
-      "recovered" : 81
+      "province_state__normalized" : "gansu",
+      "recovered" : 81,
+      "recovered__normalized" : "81"
     },
     {
       "confirmed" : 76,
+      "confirmed__normalized" : "76",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 2,
+      "deaths__normalized" : "2",
       "last_update" : "2020-02-26T14:23:03",
+      "last_update__normalized" : "2020_02_26t14_23_03",
       "province_state" : "Xinjiang",
-      "recovered" : 34
+      "province_state__normalized" : "xinjiang",
+      "recovered" : 34,
+      "recovered__normalized" : "34"
     },
     {
       "confirmed" : 75,
+      "confirmed__normalized" : "75",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T15:03:05",
+      "last_update__normalized" : "2020_02_26t15_03_05",
       "province_state" : "Inner Mongolia",
-      "recovered" : 38
+      "province_state__normalized" : "inner_mongolia",
+      "recovered" : 38,
+      "recovered__normalized" : "38"
     },
     {
       "confirmed" : 71,
+      "confirmed__normalized" : "71",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T03:53:01",
+      "last_update__normalized" : "2020_02_26t03_53_01",
       "province_state" : "Ningxia",
-      "recovered" : 65
+      "province_state__normalized" : "ningxia",
+      "recovered" : 65,
+      "recovered__normalized" : "65"
     },
     {
       "confirmed" : 42,
+      "confirmed__normalized" : "42",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T20:03:06",
+      "last_update__normalized" : "2020_02_26t20_03_06",
       "province_state" : "Unassigned Location (From Diamond Princess)",
-      "recovered" : 0
+      "province_state__normalized" : "unassigned_location_from_diamond_princess",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 40,
+      "confirmed__normalized" : "40",
       "country_region" : "Thailand",
+      "country_region__normalized" : "thailand",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T07:23:03",
+      "last_update__normalized" : "2020_02_26t07_23_03",
       "province_state" : null,
-      "recovered" : 22
+      "province_state__normalized" : null,
+      "recovered" : 22,
+      "recovered__normalized" : "22"
     },
     {
       "confirmed" : 33,
+      "confirmed__normalized" : "33",
       "country_region" : "Bahrain",
+      "country_region__normalized" : "bahrain",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T21:03:07",
+      "last_update__normalized" : "2020_02_26t21_03_07",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 32,
+      "confirmed__normalized" : "32",
       "country_region" : "Taiwan",
+      "country_region__normalized" : "taiwan",
       "deaths" : 1,
+      "deaths__normalized" : "1",
       "last_update" : "2020-02-26T12:23:04",
+      "last_update__normalized" : "2020_02_26t12_23_04",
       "province_state" : "Taiwan",
-      "recovered" : 5
+      "province_state__normalized" : "taiwan",
+      "recovered" : 5,
+      "recovered__normalized" : "5"
     },
     {
       "confirmed" : 27,
+      "confirmed__normalized" : "27",
       "country_region" : "Germany",
+      "country_region__normalized" : "germany",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T23:43:03",
+      "last_update__normalized" : "2020_02_26t23_43_03",
       "province_state" : null,
-      "recovered" : 15
+      "province_state__normalized" : null,
+      "recovered" : 15,
+      "recovered__normalized" : "15"
     },
     {
       "confirmed" : 26,
+      "confirmed__normalized" : "26",
       "country_region" : "Kuwait",
+      "country_region__normalized" : "kuwait",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T19:23:04",
+      "last_update__normalized" : "2020_02_26t19_23_04",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 22,
+      "confirmed__normalized" : "22",
       "country_region" : "Malaysia",
+      "country_region__normalized" : "malaysia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-24T11:53:02",
+      "last_update__normalized" : "2020_02_24t11_53_02",
       "province_state" : null,
-      "recovered" : 18
+      "province_state__normalized" : null,
+      "recovered" : 18,
+      "recovered__normalized" : "18"
     },
     {
       "confirmed" : 18,
+      "confirmed__normalized" : "18",
       "country_region" : "France",
+      "country_region__normalized" : "france",
       "deaths" : 2,
+      "deaths__normalized" : "2",
       "last_update" : "2020-02-26T20:03:06",
+      "last_update__normalized" : "2020_02_26t20_03_06",
       "province_state" : null,
-      "recovered" : 11
+      "province_state__normalized" : null,
+      "recovered" : 11,
+      "recovered__normalized" : "11"
     },
     {
       "confirmed" : 18,
+      "confirmed__normalized" : "18",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-21T04:43:02",
+      "last_update__normalized" : "2020_02_21t04_43_02",
       "province_state" : "Qinghai",
-      "recovered" : 18
+      "province_state__normalized" : "qinghai",
+      "recovered" : 18,
+      "recovered__normalized" : "18"
     },
     {
       "confirmed" : 16,
+      "confirmed__normalized" : "16",
       "country_region" : "Vietnam",
+      "country_region__normalized" : "vietnam",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-25T08:53:02",
+      "last_update__normalized" : "2020_02_25t08_53_02",
       "province_state" : null,
-      "recovered" : 16
+      "province_state__normalized" : null,
+      "recovered" : 16,
+      "recovered__normalized" : "16"
     },
     {
       "confirmed" : 13,
+      "confirmed__normalized" : "13",
       "country_region" : "Spain",
+      "country_region__normalized" : "spain",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T20:43:02",
+      "last_update__normalized" : "2020_02_26t20_43_02",
       "province_state" : null,
-      "recovered" : 2
+      "province_state__normalized" : null,
+      "recovered" : 2,
+      "recovered__normalized" : "2"
     },
     {
       "confirmed" : 13,
+      "confirmed__normalized" : "13",
       "country_region" : "UK",
+      "country_region__normalized" : "uk",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-24T08:33:02",
+      "last_update__normalized" : "2020_02_24t08_33_02",
       "province_state" : null,
-      "recovered" : 8
+      "province_state__normalized" : null,
+      "recovered" : 8,
+      "recovered__normalized" : "8"
     },
     {
       "confirmed" : 13,
+      "confirmed__normalized" : "13",
       "country_region" : "United Arab Emirates",
+      "country_region__normalized" : "united_arab_emirates",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-22T14:53:02",
+      "last_update__normalized" : "2020_02_22t14_53_02",
       "province_state" : null,
-      "recovered" : 4
+      "province_state__normalized" : null,
+      "recovered" : 4,
+      "recovered__normalized" : "4"
     },
     {
       "confirmed" : 10,
+      "confirmed__normalized" : "10",
       "country_region" : "Macau",
+      "country_region__normalized" : "macau",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-25T15:23:04",
+      "last_update__normalized" : "2020_02_25t15_23_04",
       "province_state" : "Macau",
-      "recovered" : 7
+      "province_state__normalized" : "macau",
+      "recovered" : 7,
+      "recovered__normalized" : "7"
     },
     {
       "confirmed" : 7,
+      "confirmed__normalized" : "7",
       "country_region" : "Australia",
+      "country_region__normalized" : "australia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-22T17:03:05",
+      "last_update__normalized" : "2020_02_22t17_03_05",
       "province_state" : "From Diamond Princess",
-      "recovered" : 0
+      "province_state__normalized" : "from_diamond_princess",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 7,
+      "confirmed__normalized" : "7",
       "country_region" : "Canada",
+      "country_region__normalized" : "canada",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-25T02:23:05",
+      "last_update__normalized" : "2020_02_25t02_23_05",
       "province_state" : "British Columbia",
-      "recovered" : 0
+      "province_state__normalized" : "british_columbia",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 5,
+      "confirmed__normalized" : "5",
       "country_region" : "Australia",
+      "country_region__normalized" : "australia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-21T05:43:02",
+      "last_update__normalized" : "2020_02_21t05_43_02",
       "province_state" : "Queensland",
-      "recovered" : 1
+      "province_state__normalized" : "queensland",
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 5,
+      "confirmed__normalized" : "5",
       "country_region" : "Iraq",
+      "country_region__normalized" : "iraq",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T04:53:02",
+      "last_update__normalized" : "2020_02_26t04_53_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 4,
+      "confirmed__normalized" : "4",
       "country_region" : "Australia",
+      "country_region__normalized" : "australia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-13T17:53:03",
+      "last_update__normalized" : "2020_02_13t17_53_03",
       "province_state" : "New South Wales",
-      "recovered" : 4
+      "province_state__normalized" : "new_south_wales",
+      "recovered" : 4,
+      "recovered__normalized" : "4"
     },
     {
       "confirmed" : 4,
+      "confirmed__normalized" : "4",
       "country_region" : "Australia",
+      "country_region__normalized" : "australia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-13T17:53:03",
+      "last_update__normalized" : "2020_02_13t17_53_03",
       "province_state" : "Victoria",
-      "recovered" : 4
+      "province_state__normalized" : "victoria",
+      "recovered" : 4,
+      "recovered__normalized" : "4"
     },
     {
       "confirmed" : 4,
+      "confirmed__normalized" : "4",
       "country_region" : "Oman",
+      "country_region__normalized" : "oman",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T04:53:02",
+      "last_update__normalized" : "2020_02_26t04_53_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 3,
+      "confirmed__normalized" : "3",
       "country_region" : "Canada",
+      "country_region__normalized" : "canada",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-24T14:43:03",
+      "last_update__normalized" : "2020_02_24t14_43_03",
       "province_state" : "Toronto, ON",
-      "recovered" : 2
+      "province_state__normalized" : "toronto_on",
+      "recovered" : 2,
+      "recovered__normalized" : "2"
     },
     {
       "confirmed" : 3,
+      "confirmed__normalized" : "3",
       "country_region" : "Croatia",
+      "country_region__normalized" : "croatia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T20:03:06",
+      "last_update__normalized" : "2020_02_26t20_03_06",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 3,
+      "confirmed__normalized" : "3",
       "country_region" : "India",
+      "country_region__normalized" : "india",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-16T07:43:02",
+      "last_update__normalized" : "2020_02_16t07_43_02",
       "province_state" : null,
-      "recovered" : 3
+      "province_state__normalized" : null,
+      "recovered" : 3,
+      "recovered__normalized" : "3"
     },
     {
       "confirmed" : 3,
+      "confirmed__normalized" : "3",
       "country_region" : "Philippines",
+      "country_region__normalized" : "philippines",
       "deaths" : 1,
+      "deaths__normalized" : "1",
       "last_update" : "2020-02-12T07:43:02",
+      "last_update__normalized" : "2020_02_12t07_43_02",
       "province_state" : null,
-      "recovered" : 1
+      "province_state__normalized" : null,
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "Australia",
+      "country_region__normalized" : "australia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-17T08:13:09",
+      "last_update__normalized" : "2020_02_17t08_13_09",
       "province_state" : "South Australia",
-      "recovered" : 2
+      "province_state__normalized" : "south_australia",
+      "recovered" : 2,
+      "recovered__normalized" : "2"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "Austria",
+      "country_region__normalized" : "austria",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T00:13:06",
+      "last_update__normalized" : "2020_02_26t00_13_06",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "Finland",
+      "country_region__normalized" : "finland",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T19:03:08",
+      "last_update__normalized" : "2020_02_26t19_03_08",
       "province_state" : null,
-      "recovered" : 1
+      "province_state__normalized" : null,
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "Israel",
+      "country_region__normalized" : "israel",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T20:33:02",
+      "last_update__normalized" : "2020_02_26t20_33_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "Lebanon",
+      "country_region__normalized" : "lebanon",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T19:33:02",
+      "last_update__normalized" : "2020_02_26t19_33_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "Pakistan",
+      "country_region__normalized" : "pakistan",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T23:53:02",
+      "last_update__normalized" : "2020_02_26t23_53_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "Russia",
+      "country_region__normalized" : "russia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-12T14:43:03",
+      "last_update__normalized" : "2020_02_12t14_43_03",
       "province_state" : null,
-      "recovered" : 2
+      "province_state__normalized" : null,
+      "recovered" : 2,
+      "recovered__normalized" : "2"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "Sweden",
+      "country_region__normalized" : "sweden",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T18:53:02",
+      "last_update__normalized" : "2020_02_26t18_53_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-09T19:03:03",
+      "last_update__normalized" : "2020_02_09t19_03_03",
       "province_state" : "Chicago, IL",
-      "recovered" : 2
+      "province_state__normalized" : "chicago_il",
+      "recovered" : 2,
+      "recovered__normalized" : "2"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-03T03:53:02",
+      "last_update__normalized" : "2020_02_03t03_53_02",
       "province_state" : "San Benito, CA",
-      "recovered" : 0
+      "province_state__normalized" : "san_benito_ca",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-21T05:43:02",
+      "last_update__normalized" : "2020_02_21t05_43_02",
       "province_state" : "San Diego County, CA",
-      "recovered" : 1
+      "province_state__normalized" : "san_diego_county_ca",
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 2,
+      "confirmed__normalized" : "2",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-21T05:23:04",
+      "last_update__normalized" : "2020_02_21t05_23_04",
       "province_state" : "Santa Clara, CA",
-      "recovered" : 1
+      "province_state__normalized" : "santa_clara_ca",
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Afghanistan",
+      "country_region__normalized" : "afghanistan",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-24T23:33:02",
+      "last_update__normalized" : "2020_02_24t23_33_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Algeria",
+      "country_region__normalized" : "algeria",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-25T23:43:03",
+      "last_update__normalized" : "2020_02_25t23_43_03",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Belgium",
+      "country_region__normalized" : "belgium",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-17T04:23:06",
+      "last_update__normalized" : "2020_02_17t04_23_06",
       "province_state" : null,
-      "recovered" : 1
+      "province_state__normalized" : null,
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Brazil",
+      "country_region__normalized" : "brazil",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T23:53:02",
+      "last_update__normalized" : "2020_02_26t23_53_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Cambodia",
+      "country_region__normalized" : "cambodia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-12T07:43:02",
+      "last_update__normalized" : "2020_02_12t07_43_02",
       "province_state" : null,
-      "recovered" : 1
+      "province_state__normalized" : null,
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Canada",
+      "country_region__normalized" : "canada",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-12T18:53:03",
+      "last_update__normalized" : "2020_02_12t18_53_03",
       "province_state" : "London, ON",
-      "recovered" : 1
+      "province_state__normalized" : "london_on",
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Egypt",
+      "country_region__normalized" : "egypt",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-21T18:53:02",
+      "last_update__normalized" : "2020_02_21t18_53_02",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Georgia",
+      "country_region__normalized" : "georgia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T19:03:08",
+      "last_update__normalized" : "2020_02_26t19_03_08",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Greece",
+      "country_region__normalized" : "greece",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T15:53:05",
+      "last_update__normalized" : "2020_02_26t15_53_05",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Mainland China",
+      "country_region__normalized" : "mainland_china",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-12T06:43:02",
+      "last_update__normalized" : "2020_02_12t06_43_02",
       "province_state" : "Tibet",
-      "recovered" : 1
+      "province_state__normalized" : "tibet",
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Nepal",
+      "country_region__normalized" : "nepal",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-12T14:43:03",
+      "last_update__normalized" : "2020_02_12t14_43_03",
       "province_state" : null,
-      "recovered" : 1
+      "province_state__normalized" : null,
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "North Macedonia",
+      "country_region__normalized" : "north_macedonia",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T19:03:08",
+      "last_update__normalized" : "2020_02_26t19_03_08",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Norway",
+      "country_region__normalized" : "norway",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T20:23:12",
+      "last_update__normalized" : "2020_02_26t20_23_12",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Romania",
+      "country_region__normalized" : "romania",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-26T23:43:03",
+      "last_update__normalized" : "2020_02_26t23_43_03",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Sri Lanka",
+      "country_region__normalized" : "sri_lanka",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-08T03:43:03",
+      "last_update__normalized" : "2020_02_08t03_43_03",
       "province_state" : null,
-      "recovered" : 1
+      "province_state__normalized" : null,
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "Switzerland",
+      "country_region__normalized" : "switzerland",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-25T19:13:21",
+      "last_update__normalized" : "2020_02_25t19_13_21",
       "province_state" : null,
-      "recovered" : 0
+      "province_state__normalized" : null,
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-01T19:43:03",
+      "last_update__normalized" : "2020_02_01t19_43_03",
       "province_state" : "Boston, MA",
-      "recovered" : 0
+      "province_state__normalized" : "boston_ma",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-21T05:13:09",
+      "last_update__normalized" : "2020_02_21t05_13_09",
       "province_state" : "Humboldt County, CA",
-      "recovered" : 0
+      "province_state__normalized" : "humboldt_county_ca",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-01T19:53:03",
+      "last_update__normalized" : "2020_02_01t19_53_03",
       "province_state" : "Los Angeles, CA",
-      "recovered" : 0
+      "province_state__normalized" : "los_angeles_ca",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-05T21:53:02",
+      "last_update__normalized" : "2020_02_05t21_53_02",
       "province_state" : "Madison, WI",
-      "recovered" : 0
+      "province_state__normalized" : "madison_wi",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-01T19:53:03",
+      "last_update__normalized" : "2020_02_01t19_53_03",
       "province_state" : "Orange, CA",
-      "recovered" : 0
+      "province_state__normalized" : "orange_ca",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-21T23:13:16",
+      "last_update__normalized" : "2020_02_21t23_13_16",
       "province_state" : "Sacramento County, CA",
-      "recovered" : 0
+      "province_state__normalized" : "sacramento_county_ca",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-13T18:53:02",
+      "last_update__normalized" : "2020_02_13t18_53_02",
       "province_state" : "San Antonio, TX",
-      "recovered" : 0
+      "province_state__normalized" : "san_antonio_tx",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-09T07:03:04",
+      "last_update__normalized" : "2020_02_09t07_03_04",
       "province_state" : "Seattle, WA",
-      "recovered" : 1
+      "province_state__normalized" : "seattle_wa",
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 1,
+      "confirmed__normalized" : "1",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-25T21:23:03",
+      "last_update__normalized" : "2020_02_25t21_23_03",
       "province_state" : "Tempe, AZ",
-      "recovered" : 1
+      "province_state__normalized" : "tempe_az",
+      "recovered" : 1,
+      "recovered__normalized" : "1"
     },
     {
       "confirmed" : 0,
+      "confirmed__normalized" : "0",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-24T23:33:02",
+      "last_update__normalized" : "2020_02_24t23_33_02",
       "province_state" : "Lackland, TX (From Diamond Princess)",
-      "recovered" : 0
+      "province_state__normalized" : "lackland_tx_from_diamond_princess",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 0,
+      "confirmed__normalized" : "0",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-24T23:33:02",
+      "last_update__normalized" : "2020_02_24t23_33_02",
       "province_state" : "Omaha, NE (From Diamond Princess)",
-      "recovered" : 0
+      "province_state__normalized" : "omaha_ne_from_diamond_princess",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     },
     {
       "confirmed" : 0,
+      "confirmed__normalized" : "0",
       "country_region" : "US",
+      "country_region__normalized" : "us",
       "deaths" : 0,
+      "deaths__normalized" : "0",
       "last_update" : "2020-02-24T23:33:02",
+      "last_update__normalized" : "2020_02_24t23_33_02",
       "province_state" : "Travis, CA (From Diamond Princess)",
-      "recovered" : 0
+      "province_state__normalized" : "travis_ca_from_diamond_princess",
+      "recovered" : 0,
+      "recovered__normalized" : "0"
     }
   ]
 }

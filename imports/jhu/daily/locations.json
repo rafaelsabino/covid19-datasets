@@ -593,6 +593,32 @@
     ],
     "key": "84709b0d43fd6893bcde4d7be268386c"
   },
+  "dd082ff6e5e2b67e079d8f12740c50c0": {
+    "country": "Australia",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "dd082ff6e5e2b67e079d8f12740c50c0",
+    "country_original": "Australia",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "AU",
+    "country_latlong": [
+      -27,
+      133
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "type": "province",
+    "latlong": [
+      -27,
+      133
+    ],
+    "label": "Australia / (mainland)",
+    "key": "f96f61dc8846b11fac160d391fbc5c3c"
+  },
   "3085b9651219851decb7eb2842d11e41": {
     "country": "Australia",
     "province": "Australian Capital Territory",
@@ -861,32 +887,6 @@
     ],
     "label": "Australia / Western Australia",
     "key": "1fc74c878bb7efafb6c1bd6acdc22d78"
-  },
-  "dd082ff6e5e2b67e079d8f12740c50c0": {
-    "country": "Australia",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "dd082ff6e5e2b67e079d8f12740c50c0",
-    "country_original": "Australia",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "AU",
-    "country_latlong": [
-      -27,
-      133
-    ],
-    "region": "Oceania",
-    "subregion": "Australia and New Zealand",
-    "type": "province",
-    "latlong": [
-      -27,
-      133
-    ],
-    "label": "Australia / mainland",
-    "key": "94159be2a88868a1cec8fce2b5751fc2"
   },
   "4823f631c2a71d863e50b96df41d16ae": {
     "country": "Austria",
@@ -1460,6 +1460,32 @@
     ],
     "key": "7a96e5ba6db82fe047f9df078eff8320"
   },
+  "06f191f2975f3235893c80d4a639adb5": {
+    "country": "Canada",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "06f191f2975f3235893c80d4a639adb5",
+    "country_original": "Canada",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "CA",
+    "country_latlong": [
+      60,
+      -95
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      60,
+      -95
+    ],
+    "label": "Canada / (mainland)",
+    "key": "7d51cfee37dd0b4a466339cddba5361c"
+  },
   "6474ae9f960a54114eedb6f8c9b4f07e": {
     "country": "Canada",
     "province": "Alberta",
@@ -1908,32 +1934,6 @@
     ],
     "label": "Canada / Toronto, ON",
     "key": "9ee11b249b2cc14481c45f6f03a884ef"
-  },
-  "06f191f2975f3235893c80d4a639adb5": {
-    "country": "Canada",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "06f191f2975f3235893c80d4a639adb5",
-    "country_original": "Canada",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "CA",
-    "country_latlong": [
-      60,
-      -95
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      60,
-      -95
-    ],
-    "label": "Canada / mainland",
-    "key": "b8c055ad3421463defbb3365b0a750ba"
   },
   "86b5730fdb47067a51e4fc143c1ac6b9": {
     "country": "Cape Verde",
@@ -4030,6 +4030,61 @@
     ],
     "key": "30188fae22aed32d911dc627f3c52231"
   },
+  "20e6aca4cb4f77b2953151a0f8e138da": {
+    "country": "Denmark",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "20e6aca4cb4f77b2953151a0f8e138da",
+    "country_original": "Denmark",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "DK",
+    "country_latlong": [
+      56,
+      10
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      56,
+      10
+    ],
+    "label": "Denmark / (mainland)",
+    "key": "3314a0845997797e0fd033a5f679dae2"
+  },
+  "28aacddb7ecb070936ace4fb3d2c4b42": {
+    "country": "Denmark",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": [
+      56.2639,
+      9.5018
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "28aacddb7ecb070936ace4fb3d2c4b42",
+    "country_original": "Denmark",
+    "province_original": "Denmark",
+    "administrative_original": null,
+    "country_code": "DK",
+    "country_latlong": [
+      56,
+      10
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      56.2639,
+      9.5018
+    ],
+    "label": "Denmark / (mainland)",
+    "key": "3314a0845997797e0fd033a5f679dae2"
+  },
   "5f7e86996d6346d240664b8de7e6b126": {
     "country": "Denmark",
     "province": "Faroe Islands",
@@ -4087,61 +4142,6 @@
     ],
     "label": "Denmark / Greenland",
     "key": "89998ede1f2d75ba51370d9e46810a29"
-  },
-  "20e6aca4cb4f77b2953151a0f8e138da": {
-    "country": "Denmark",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "20e6aca4cb4f77b2953151a0f8e138da",
-    "country_original": "Denmark",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "DK",
-    "country_latlong": [
-      56,
-      10
-    ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "type": "province",
-    "latlong": [
-      56,
-      10
-    ],
-    "label": "Denmark / mainland",
-    "key": "502d79be35372dff776042a1836b3396"
-  },
-  "28aacddb7ecb070936ace4fb3d2c4b42": {
-    "country": "Denmark",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": [
-      56.2639,
-      9.5018
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "28aacddb7ecb070936ace4fb3d2c4b42",
-    "country_original": "Denmark",
-    "province_original": "Denmark",
-    "administrative_original": null,
-    "country_code": "DK",
-    "country_latlong": [
-      56,
-      10
-    ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "type": "province",
-    "latlong": [
-      56.2639,
-      9.5018
-    ],
-    "label": "Denmark / mainland",
-    "key": "502d79be35372dff776042a1836b3396"
   },
   "3912ce0a7c7094bdb2fb1ea00cab046b": {
     "country": "Djibouti",
@@ -4507,6 +4507,61 @@
     ],
     "key": "f72925910f0956a9ae97c9ef4e11a2b2"
   },
+  "bd5df67c8bd4ef66506d10f0c291a8b6": {
+    "country": "France",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": [
+      46.2276,
+      2.2137
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "bd5df67c8bd4ef66506d10f0c291a8b6",
+    "country_original": "France",
+    "province_original": "France",
+    "administrative_original": null,
+    "country_code": "FR",
+    "country_latlong": [
+      46,
+      2
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "type": "province",
+    "latlong": [
+      46.2276,
+      2.2137
+    ],
+    "label": "France / (mainland)",
+    "key": "08a9ac49fc79affe46d4cae0ad2bf343"
+  },
+  "e04ca2552dc85f7f23240cb378675f22": {
+    "country": "France",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "e04ca2552dc85f7f23240cb378675f22",
+    "country_original": "France",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "FR",
+    "country_latlong": [
+      46,
+      2
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "type": "province",
+    "latlong": [
+      46,
+      2
+    ],
+    "label": "France / (mainland)",
+    "key": "08a9ac49fc79affe46d4cae0ad2bf343"
+  },
   "f46b2eb2fa03a12ee44578e0e6af06b0": {
     "country": "France",
     "province": "Fench Guiana",
@@ -4797,61 +4852,6 @@
     "label": "France / St Martin",
     "key": "c8fb88bdf905fede6a7cfc8b7548e0f9"
   },
-  "bd5df67c8bd4ef66506d10f0c291a8b6": {
-    "country": "France",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": [
-      46.2276,
-      2.2137
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "bd5df67c8bd4ef66506d10f0c291a8b6",
-    "country_original": "France",
-    "province_original": "France",
-    "administrative_original": null,
-    "country_code": "FR",
-    "country_latlong": [
-      46,
-      2
-    ],
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "type": "province",
-    "latlong": [
-      46.2276,
-      2.2137
-    ],
-    "label": "France / mainland",
-    "key": "c45caeec8a4bf934f483876eebd6574f"
-  },
-  "e04ca2552dc85f7f23240cb378675f22": {
-    "country": "France",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "e04ca2552dc85f7f23240cb378675f22",
-    "country_original": "France",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "FR",
-    "country_latlong": [
-      46,
-      2
-    ],
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "type": "province",
-    "latlong": [
-      46,
-      2
-    ],
-    "label": "France / mainland",
-    "key": "c45caeec8a4bf934f483876eebd6574f"
-  },
   "46dcbe3e6d73b4c01c2c2683eeacda51": {
     "country": "French Guiana",
     "province": null,
@@ -5008,6 +5008,32 @@
     ],
     "key": "b0ad63f90cd85acc2768d5f984075a76"
   },
+  "a63c188d8250ee86b6f124704e68cd10": {
+    "country": "Germany",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "a63c188d8250ee86b6f124704e68cd10",
+    "country_original": "Germany",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "DE",
+    "country_latlong": [
+      51,
+      9
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "type": "province",
+    "latlong": [
+      51,
+      9
+    ],
+    "label": "Germany / (mainland)",
+    "key": "43f9b8750c6e80eaaeddab8e293f1f51"
+  },
   "45c433c43e7a8d5823ff30d741a481cf": {
     "country": "Germany",
     "province": "Bavaria",
@@ -5033,32 +5059,6 @@
     ],
     "label": "Germany / Bavaria",
     "key": "1dbb19dddee1bb11981caec4c95299ae"
-  },
-  "a63c188d8250ee86b6f124704e68cd10": {
-    "country": "Germany",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "a63c188d8250ee86b6f124704e68cd10",
-    "country_original": "Germany",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "DE",
-    "country_latlong": [
-      51,
-      9
-    ],
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "type": "province",
-    "latlong": [
-      51,
-      9
-    ],
-    "label": "Germany / mainland",
-    "key": "c1510bfb9550bc1e771221c865c10780"
   },
   "d020b452109bf2951fa42f055516c913": {
     "country": "Ghana",
@@ -6906,6 +6906,61 @@
     ],
     "key": "5afd0a2ca2c068f84ea2aa4d0195c254"
   },
+  "5c6453eb3770ad70987da0a6b13c088c": {
+    "country": "Netherlands",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "5c6453eb3770ad70987da0a6b13c088c",
+    "country_original": "Netherlands",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "NL",
+    "country_latlong": [
+      52.5,
+      5.75
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "type": "province",
+    "latlong": [
+      52.5,
+      5.75
+    ],
+    "label": "Netherlands / (mainland)",
+    "key": "84393c4b6fe1baeb88a5bb2f971f3542"
+  },
+  "b720ce5a59d67022969ade3510f364d8": {
+    "country": "Netherlands",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": [
+      52.1326,
+      5.2913
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "b720ce5a59d67022969ade3510f364d8",
+    "country_original": "Netherlands",
+    "province_original": "Netherlands",
+    "administrative_original": null,
+    "country_code": "NL",
+    "country_latlong": [
+      52.5,
+      5.75
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "type": "province",
+    "latlong": [
+      52.1326,
+      5.2913
+    ],
+    "label": "Netherlands / (mainland)",
+    "key": "84393c4b6fe1baeb88a5bb2f971f3542"
+  },
   "2bcd46539c680e991163e97c9282399e": {
     "country": "Netherlands",
     "province": "Aruba",
@@ -6992,61 +7047,6 @@
     ],
     "label": "Netherlands / Sint Maarten",
     "key": "118b6b8490eaee7fa40f031fa6787681"
-  },
-  "5c6453eb3770ad70987da0a6b13c088c": {
-    "country": "Netherlands",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "5c6453eb3770ad70987da0a6b13c088c",
-    "country_original": "Netherlands",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "NL",
-    "country_latlong": [
-      52.5,
-      5.75
-    ],
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "type": "province",
-    "latlong": [
-      52.5,
-      5.75
-    ],
-    "label": "Netherlands / mainland",
-    "key": "c85bf054c825368aab58f04df6d2393f"
-  },
-  "b720ce5a59d67022969ade3510f364d8": {
-    "country": "Netherlands",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": [
-      52.1326,
-      5.2913
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "b720ce5a59d67022969ade3510f364d8",
-    "country_original": "Netherlands",
-    "province_original": "Netherlands",
-    "administrative_original": null,
-    "country_code": "NL",
-    "country_latlong": [
-      52.5,
-      5.75
-    ],
-    "region": "Europe",
-    "subregion": "Western Europe",
-    "type": "province",
-    "latlong": [
-      52.1326,
-      5.2913
-    ],
-    "label": "Netherlands / mainland",
-    "key": "c85bf054c825368aab58f04df6d2393f"
   },
   "a1c916dd7eb5622b524299cfffd792c0": {
     "country": "New Zealand",
@@ -8764,6 +8764,116 @@
     ],
     "key": "5bd9448b11757156805a6398093e64f2"
   },
+  "0146da535810bd9e5509931e9743e392": {
+    "country": "United Kingdom",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "0146da535810bd9e5509931e9743e392",
+    "country_original": "North Ireland",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      54,
+      -2
+    ],
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
+  },
+  "52ab989341da5897b1af1821783a8763": {
+    "country": "United Kingdom",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": [
+      55.3781,
+      -3.436
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "52ab989341da5897b1af1821783a8763",
+    "country_original": "United Kingdom",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      55.3781,
+      -3.436
+    ],
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
+  },
+  "586b55628d8489a6466eadea674d9533": {
+    "country": "United Kingdom",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": [
+      55.3781,
+      -3.436
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "586b55628d8489a6466eadea674d9533",
+    "country_original": "United Kingdom",
+    "province_original": "United Kingdom",
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      55.3781,
+      -3.436
+    ],
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
+  },
+  "8eba37fbd7f4bae8c62fa9dc4f5698f9": {
+    "country": "United Kingdom",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "8eba37fbd7f4bae8c62fa9dc4f5698f9",
+    "country_original": "UK",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      54,
+      -2
+    ],
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
+  },
   "71523b352a6a8bc5d11f4da193e59afd": {
     "country": "United Kingdom",
     "province": "Bermuda",
@@ -8967,115 +9077,86 @@
     "label": "United Kingdom / UK",
     "key": "4e66816df2fa4f1bdc7da32c72c4f3f7"
   },
-  "0146da535810bd9e5509931e9743e392": {
-    "country": "United Kingdom",
-    "province": "mainland",
+  "36ca8261b1af57d327a979473a4cb741": {
+    "country": "United States",
+    "province": "(mainland)",
+    "administrative": null,
+    "province_latlong": [
+      37.0902,
+      -95.7129
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "36ca8261b1af57d327a979473a4cb741",
+    "country_original": "US",
+    "province_original": "US",
+    "administrative_original": null,
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      37.0902,
+      -95.7129
+    ],
+    "label": "United States / (mainland)",
+    "key": "78c8d77bc41b80fbf01b6c492e2bec14"
+  },
+  "7e410772a284dc88b282ded86f6f5748": {
+    "country": "United States",
+    "province": "(mainland)",
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
     "administrative_fips": null,
-    "key_original": "0146da535810bd9e5509931e9743e392",
-    "country_original": "North Ireland",
+    "key_original": "7e410772a284dc88b282ded86f6f5748",
+    "country_original": "US",
     "province_original": null,
     "administrative_original": null,
-    "country_code": "GB",
+    "country_code": "US",
     "country_latlong": [
-      54,
-      -2
+      38,
+      -97
     ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Americas",
+    "subregion": "North America",
     "type": "province",
     "latlong": [
-      54,
-      -2
+      38,
+      -97
     ],
-    "label": "United Kingdom / mainland",
-    "key": "de7e6ec7bb97d6230d1e6c2f990723b6"
+    "label": "United States / (mainland)",
+    "key": "78c8d77bc41b80fbf01b6c492e2bec14"
   },
-  "52ab989341da5897b1af1821783a8763": {
-    "country": "United Kingdom",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": [
-      55.3781,
-      -3.436
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "52ab989341da5897b1af1821783a8763",
-    "country_original": "United Kingdom",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "GB",
-    "country_latlong": [
-      54,
-      -2
-    ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "type": "province",
-    "latlong": [
-      55.3781,
-      -3.436
-    ],
-    "label": "United Kingdom / mainland",
-    "key": "de7e6ec7bb97d6230d1e6c2f990723b6"
-  },
-  "586b55628d8489a6466eadea674d9533": {
-    "country": "United Kingdom",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": [
-      55.3781,
-      -3.436
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "586b55628d8489a6466eadea674d9533",
-    "country_original": "United Kingdom",
-    "province_original": "United Kingdom",
-    "administrative_original": null,
-    "country_code": "GB",
-    "country_latlong": [
-      54,
-      -2
-    ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "type": "province",
-    "latlong": [
-      55.3781,
-      -3.436
-    ],
-    "label": "United Kingdom / mainland",
-    "key": "de7e6ec7bb97d6230d1e6c2f990723b6"
-  },
-  "8eba37fbd7f4bae8c62fa9dc4f5698f9": {
-    "country": "United Kingdom",
-    "province": "mainland",
+  "b2e8d8bf88d8fee69e0074b6ddd713aa": {
+    "country": "United States",
+    "province": "(mainland)",
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
     "administrative_fips": null,
-    "key_original": "8eba37fbd7f4bae8c62fa9dc4f5698f9",
-    "country_original": "UK",
+    "key_original": "b2e8d8bf88d8fee69e0074b6ddd713aa",
+    "country_original": "US",
     "province_original": null,
     "administrative_original": null,
-    "country_code": "GB",
+    "country_code": "US",
     "country_latlong": [
-      54,
-      -2
+      38,
+      -97
     ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Americas",
+    "subregion": "North America",
     "type": "province",
     "latlong": [
-      54,
-      -2
+      38,
+      -97
     ],
-    "label": "United Kingdom / mainland",
-    "key": "de7e6ec7bb97d6230d1e6c2f990723b6"
+    "label": "United States / (mainland)",
+    "key": "78c8d77bc41b80fbf01b6c492e2bec14"
   },
   "89b1b2dab1be05f365ea44e617042a09": {
     "country": "United States",
@@ -141766,87 +141847,6 @@
     },
     "label": "United States / Wyoming / Weston",
     "key": "d6980b053b7668b570b374f4328f7129"
-  },
-  "36ca8261b1af57d327a979473a4cb741": {
-    "country": "United States",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": [
-      37.0902,
-      -95.7129
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "36ca8261b1af57d327a979473a4cb741",
-    "country_original": "US",
-    "province_original": "US",
-    "administrative_original": null,
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      37.0902,
-      -95.7129
-    ],
-    "label": "United States / mainland",
-    "key": "335e7effbc7058022d70c2d95a84a122"
-  },
-  "7e410772a284dc88b282ded86f6f5748": {
-    "country": "United States",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "7e410772a284dc88b282ded86f6f5748",
-    "country_original": "US",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "label": "United States / mainland",
-    "key": "335e7effbc7058022d70c2d95a84a122"
-  },
-  "b2e8d8bf88d8fee69e0074b6ddd713aa": {
-    "country": "United States",
-    "province": "mainland",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "b2e8d8bf88d8fee69e0074b6ddd713aa",
-    "country_original": "US",
-    "province_original": null,
-    "administrative_original": null,
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "label": "United States / mainland",
-    "key": "335e7effbc7058022d70c2d95a84a122"
   },
   "b0b9a042a3e7919ad2d377558701f132": {
     "country": "Uruguay",

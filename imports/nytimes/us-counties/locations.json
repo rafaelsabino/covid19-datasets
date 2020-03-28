@@ -37097,10 +37097,10 @@
   "ff11903dee9016b6acda0a2511ce8489": {
     "country": "United States",
     "province": "New York",
-    "administrative": "New York City",
+    "administrative": "New York",
     "province_latlong": null,
     "administrative_latlong": null,
-    "administrative_fips": null,
+    "administrative_fips": "36061",
     "key_original": "ff11903dee9016b6acda0a2511ce8489",
     "country_original": "United States",
     "province_original": "New York",
@@ -37123,8 +37123,13 @@
       "population": 19453561,
       "area": 141297
     },
-    "label": "United States / New York / New York City",
-    "key": "b7e02191464818e5afbb78d6472ed34a"
+    "us_county": {
+      "fips": "36061",
+      "name": "New York",
+      "name_original": "New York County"
+    },
+    "label": "United States / New York / New York",
+    "key": "ef338b93cd49eaa78cc3e3e99a6b9c59"
   },
   "1b71f46b3c84eaeaecb9b585455c4dc5": {
     "country": "United States",

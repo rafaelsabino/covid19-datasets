@@ -14,10 +14,10 @@
     "country_latlong": null,
     "region": null,
     "subregion": null,
-    "label": "Cruise Ship / Diamond+Grand Princess",
+    "label": "Cruise Ship",
     "type": "unknown",
     "latlong": null,
-    "key": "b91e9e719fa21aa62db94596e90b58b6"
+    "key": "03470c63c9887c024ec8bb79ee6a505c"
   },
   "d1bedcef497bf68a6559a46456177e3e": {
     "country": null,
@@ -34,10 +34,10 @@
     "country_latlong": null,
     "region": null,
     "subregion": null,
-    "label": "Cruise Ship / Diamond+Grand Princess",
+    "label": "Cruise Ship",
     "type": "unknown",
     "latlong": null,
-    "key": "b91e9e719fa21aa62db94596e90b58b6"
+    "key": "03470c63c9887c024ec8bb79ee6a505c"
   },
   "f786c05ae8b879b9894f552090b8ee08": {
     "country": null,
@@ -54,10 +54,30 @@
     "country_latlong": null,
     "region": null,
     "subregion": null,
-    "label": "Cruise Ship / Diamond+Grand Princess",
+    "label": "Cruise Ship",
     "type": "unknown",
     "latlong": null,
-    "key": "b91e9e719fa21aa62db94596e90b58b6"
+    "key": "03470c63c9887c024ec8bb79ee6a505c"
+  },
+  "f83d7b4685ded9815d6832becc3f009b": {
+    "country": null,
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "f83d7b4685ded9815d6832becc3f009b",
+    "country_original": "MS Zaandam",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": null,
+    "country_latlong": null,
+    "region": null,
+    "subregion": null,
+    "label": "Cruise Ship",
+    "type": "unknown",
+    "latlong": null,
+    "key": "03470c63c9887c024ec8bb79ee6a505c"
   },
   "ee6c5940f644878384b1f9199d6a0004": {
     "country": "Afghanistan",
@@ -1227,7 +1247,7 @@
     "province": "Nova Scotia",
     "administrative": null,
     "province_latlong": [
-      44.682,
+      44.681999999999995,
       -63.7443
     ],
     "administrative_latlong": null,
@@ -1245,7 +1265,7 @@
     "subregion": "North America",
     "type": "province",
     "latlong": [
-      44.682,
+      44.681999999999995,
       -63.7443
     ],
     "label": "Canada / Nova Scotia",
@@ -1795,7 +1815,7 @@
     "province": "Heilongjiang",
     "administrative": null,
     "province_latlong": [
-      47.862,
+      47.861999999999995,
       127.7615
     ],
     "administrative_latlong": null,
@@ -1813,7 +1833,7 @@
     "subregion": "Eastern Asia",
     "type": "province",
     "latlong": [
-      47.862,
+      47.861999999999995,
       127.7615
     ],
     "label": "China / Heilongjiang",
@@ -1825,7 +1845,7 @@
     "administrative": null,
     "province_latlong": [
       33.882,
-      113.614
+      113.61399999999999
     ],
     "administrative_latlong": null,
     "administrative_fips": null,
@@ -1843,7 +1863,7 @@
     "type": "province",
     "latlong": [
       33.882,
-      113.614
+      113.61399999999999
     ],
     "label": "China / Henan",
     "key": "2a6240de79e0497cbb3ad9bc2b0b06e6"
@@ -2172,7 +2192,7 @@
     "province": "Shanghai",
     "administrative": null,
     "province_latlong": [
-      31.202,
+      31.201999999999998,
       121.4491
     ],
     "administrative_latlong": null,
@@ -2190,7 +2210,7 @@
     "subregion": "Eastern Asia",
     "type": "province",
     "latlong": [
-      31.202,
+      31.201999999999998,
       121.4491
     ],
     "label": "China / Shanghai",
@@ -2347,7 +2367,7 @@
     "administrative": null,
     "province_latlong": [
       24.974,
-      101.487
+      101.48700000000001
     ],
     "administrative_latlong": null,
     "administrative_fips": null,
@@ -2365,7 +2385,7 @@
     "type": "province",
     "latlong": [
       24.974,
-      101.487
+      101.48700000000001
     ],
     "label": "China / Yunnan",
     "key": "1248bc9682764b352c2c98c7c7d3ccd0"
@@ -6327,6 +6347,35 @@
     "label": "United Kingdom / (mainland)",
     "key": "8b548c6cf53b9ada430de6b2c4be21f4"
   },
+  "da8e35e652e97be2a15bac313c91eb0c": {
+    "country": "United Kingdom",
+    "province": "Anguilla",
+    "administrative": null,
+    "province_latlong": [
+      18.2206,
+      -63.0686
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "da8e35e652e97be2a15bac313c91eb0c",
+    "country_original": "United Kingdom",
+    "province_original": "Anguilla",
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      18.2206,
+      -63.0686
+    ],
+    "label": "United Kingdom / Anguilla",
+    "key": "727dd8273838e62c2b17220bebbf6bdc"
+  },
   "71523b352a6a8bc5d11f4da193e59afd": {
     "country": "United Kingdom",
     "province": "Bermuda",
@@ -6355,6 +6404,35 @@
     ],
     "label": "United Kingdom / Bermuda",
     "key": "e78e33e75feb9a40ac8544406e42fa20"
+  },
+  "eb823d98af4012683ada259e95c0d139": {
+    "country": "United Kingdom",
+    "province": "British Virgin Islands",
+    "administrative": null,
+    "province_latlong": [
+      18.4207,
+      -64.64
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "eb823d98af4012683ada259e95c0d139",
+    "country_original": "United Kingdom",
+    "province_original": "British Virgin Islands",
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      18.4207,
+      -64.64
+    ],
+    "label": "United Kingdom / British Virgin Islands",
+    "key": "69bbb98c217dad605da18f5eedb04eae"
   },
   "ccfc9089e40b16fb70e181205eb642f1": {
     "country": "United Kingdom",
@@ -6500,6 +6578,35 @@
     ],
     "label": "United Kingdom / Montserrat",
     "key": "682171ba1786ae0f323d15a407bb1df0"
+  },
+  "dac92bbac9cb9036c6886ea91d80d6d1": {
+    "country": "United Kingdom",
+    "province": "Turks and Caicos Islands",
+    "administrative": null,
+    "province_latlong": [
+      21.69400000000001,
+      -71.7979
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "dac92bbac9cb9036c6886ea91d80d6d1",
+    "country_original": "United Kingdom",
+    "province_original": "Turks and Caicos Islands",
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      21.69400000000001,
+      -71.7979
+    ],
+    "label": "United Kingdom / Turks and Caicos Islands",
+    "key": "16a4f7851d804bc8c70d3540df518703"
   },
   "3b9cfc7c19d1c5a85c26b90a54b95d28": {
     "country": "United States",

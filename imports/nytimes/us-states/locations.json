@@ -1,4 +1,85 @@
 {
+  "5f4f8a7cafc05344b7144aa5639a02c8": {
+    "dataset": "nytimes/us-states",
+    "country": "British Virgin Islands",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "5f4f8a7cafc05344b7144aa5639a02c8",
+    "country_original": "United States",
+    "province_original": "Virgin Islands",
+    "administrative_original": null,
+    "country_code": "VG",
+    "country_latlong": [
+      18.431383,
+      -64.62305
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "label": "British Virgin Islands",
+    "type": "country",
+    "latlong": [
+      18.431383,
+      -64.62305
+    ],
+    "key": "12267b90e88f1840d1220fc1d97515a2"
+  },
+  "e93c6d4b6df6f33bc47f6bbf4c198fea": {
+    "dataset": "nytimes/us-states",
+    "country": "Guam",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "e93c6d4b6df6f33bc47f6bbf4c198fea",
+    "country_original": "United States",
+    "province_original": "Guam",
+    "administrative_original": null,
+    "country_code": "GU",
+    "country_latlong": [
+      13.46666666,
+      144.78333333
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "label": "Guam",
+    "type": "country",
+    "latlong": [
+      13.46666666,
+      144.78333333
+    ],
+    "key": "57f600c539c65a38bc0b0cc02c43fc49"
+  },
+  "c93b2423cc2c1276e5421604b9df9f1f": {
+    "dataset": "nytimes/us-states",
+    "country": "Puerto Rico",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "c93b2423cc2c1276e5421604b9df9f1f",
+    "country_original": "United States",
+    "province_original": "Puerto Rico",
+    "administrative_original": null,
+    "country_code": "PR",
+    "country_latlong": [
+      18.25,
+      -66.5
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "label": "Puerto Rico",
+    "type": "country",
+    "latlong": [
+      18.25,
+      -66.5
+    ],
+    "key": "46029f9a9852a0337c66b090886eb98f"
+  },
   "671239626f9add0ba8eefc42cf3915e2": {
     "dataset": "nytimes/us-states",
     "country": "United States",
@@ -361,39 +442,6 @@
     },
     "label": "United States / Georgia",
     "key": "6cd9a76092e9b3ecd0df4b260eef7f46"
-  },
-  "e93c6d4b6df6f33bc47f6bbf4c198fea": {
-    "dataset": "nytimes/us-states",
-    "country": "United States",
-    "province": "Guam",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "e93c6d4b6df6f33bc47f6bbf4c198fea",
-    "country_original": "United States",
-    "province_original": "Guam",
-    "administrative_original": null,
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "us_state": {
-      "code": "GU",
-      "name": "Guam",
-      "population": 161700,
-      "area": 1478
-    },
-    "label": "United States / Guam",
-    "key": "73502c18541672305159fb07e6a08dd3"
   },
   "b6a580cb5521e224a4c0673dcbee8a6b": {
     "dataset": "nytimes/us-states",
@@ -1319,39 +1367,6 @@
     "label": "United States / Pennsylvania",
     "key": "82054a59ffb4037dd43b5e342c1356c2"
   },
-  "c93b2423cc2c1276e5421604b9df9f1f": {
-    "dataset": "nytimes/us-states",
-    "country": "United States",
-    "province": "Puerto Rico",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "c93b2423cc2c1276e5421604b9df9f1f",
-    "country_original": "United States",
-    "province_original": "Puerto Rico",
-    "administrative_original": null,
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "us_state": {
-      "code": "PR",
-      "name": "Puerto Rico",
-      "population": 3193694,
-      "area": 13791
-    },
-    "label": "United States / Puerto Rico",
-    "key": "2a72f7682158c7b070c13e597cb1765e"
-  },
   "3a494a410cc060fbf4b596fd3c19d251": {
     "dataset": "nytimes/us-states",
     "country": "United States",
@@ -1582,39 +1597,6 @@
     },
     "label": "United States / Vermont",
     "key": "a10ec1c2f3661450ddf6c5a6d3e54123"
-  },
-  "5f4f8a7cafc05344b7144aa5639a02c8": {
-    "dataset": "nytimes/us-states",
-    "country": "United States",
-    "province": "Virgin Islands",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "5f4f8a7cafc05344b7144aa5639a02c8",
-    "country_original": "United States",
-    "province_original": "Virgin Islands",
-    "administrative_original": null,
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "us_state": {
-      "code": "VI",
-      "name": "Virgin Islands",
-      "population": 103700,
-      "area": 1898
-    },
-    "label": "United States / Virgin Islands",
-    "key": "b8f513c92db2613572750c052723fc93"
   },
   "a8901a263fc074fb0c1ebd74c43066da": {
     "dataset": "nytimes/us-states",

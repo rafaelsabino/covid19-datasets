@@ -1,4 +1,112 @@
 {
+  "7a88258440210c18d2b37d925ccf715d": {
+    "dataset": "nytimes/us-counties",
+    "country": "British Virgin Islands",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "7a88258440210c18d2b37d925ccf715d",
+    "country_original": "United States",
+    "province_original": "Virgin Islands",
+    "administrative_original": "Unknown",
+    "country_code": "VG",
+    "country_latlong": [
+      18.431383,
+      -64.62305
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "label": "British Virgin Islands",
+    "type": "country",
+    "latlong": [
+      18.431383,
+      -64.62305
+    ],
+    "key": "12267b90e88f1840d1220fc1d97515a2"
+  },
+  "d2d6a0a645f28b3af11be03f9ddf92a7": {
+    "dataset": "nytimes/us-counties",
+    "country": "Guam",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "d2d6a0a645f28b3af11be03f9ddf92a7",
+    "country_original": "United States",
+    "province_original": "Guam",
+    "administrative_original": "Unknown",
+    "country_code": "GU",
+    "country_latlong": [
+      13.46666666,
+      144.78333333
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "label": "Guam",
+    "type": "country",
+    "latlong": [
+      13.46666666,
+      144.78333333
+    ],
+    "key": "57f600c539c65a38bc0b0cc02c43fc49"
+  },
+  "1961753f88cab9086821bffa3501bf17": {
+    "dataset": "nytimes/us-counties",
+    "country": "Northern Mariana Islands",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "1961753f88cab9086821bffa3501bf17",
+    "country_original": "United States",
+    "province_original": "Northern Mariana Islands",
+    "administrative_original": "Unknown",
+    "country_code": "MP",
+    "country_latlong": [
+      15.2,
+      145.75
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "label": "Northern Mariana Islands",
+    "type": "country",
+    "latlong": [
+      15.2,
+      145.75
+    ],
+    "key": "53ea2fe0f993276e8838b400ca2b4c9c"
+  },
+  "6b8a12d2d192953147a01ee11560a397": {
+    "dataset": "nytimes/us-counties",
+    "country": "Puerto Rico",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "6b8a12d2d192953147a01ee11560a397",
+    "country_original": "United States",
+    "province_original": "Puerto Rico",
+    "administrative_original": "Unknown",
+    "country_code": "PR",
+    "country_latlong": [
+      18.25,
+      -66.5
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "label": "Puerto Rico",
+    "type": "country",
+    "latlong": [
+      18.25,
+      -66.5
+    ],
+    "key": "46029f9a9852a0337c66b090886eb98f"
+  },
   "085312673a7066c70d3b607fb1813dc6": {
     "dataset": "nytimes/us-counties",
     "country": "United States",
@@ -14755,39 +14863,6 @@
     },
     "label": "United States / Georgia / Worth",
     "key": "fc394fd17d492aa56b8df633bf524cf9"
-  },
-  "d2d6a0a645f28b3af11be03f9ddf92a7": {
-    "dataset": "nytimes/us-counties",
-    "country": "United States",
-    "province": "Guam",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "d2d6a0a645f28b3af11be03f9ddf92a7",
-    "country_original": "United States",
-    "province_original": "Guam",
-    "administrative_original": "Unknown",
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "us_state": {
-      "code": "GU",
-      "name": "Guam",
-      "population": 161700,
-      "area": 1478
-    },
-    "label": "United States / Guam",
-    "key": "73502c18541672305159fb07e6a08dd3"
   },
   "c862bc2fa26d9dfa22200081a9c94f08": {
     "dataset": "nytimes/us-counties",
@@ -47176,39 +47251,6 @@
     "label": "United States / North Dakota / Ward",
     "key": "668dd88f0cc40c1bd0f79567a510cabf"
   },
-  "1961753f88cab9086821bffa3501bf17": {
-    "dataset": "nytimes/us-counties",
-    "country": "United States",
-    "province": "Northern Mariana Islands",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "1961753f88cab9086821bffa3501bf17",
-    "country_original": "United States",
-    "province_original": "Northern Mariana Islands",
-    "administrative_original": "Unknown",
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "us_state": {
-      "code": "MP",
-      "name": "Northern Mariana Islands",
-      "population": 52300,
-      "area": 5117
-    },
-    "label": "United States / Northern Mariana Islands",
-    "key": "17db3eb1abe19c4d07ca9f9e5e33a940"
-  },
   "d37c603201eaa954bf4494cb8e546afc": {
     "dataset": "nytimes/us-counties",
     "country": "United States",
@@ -54347,39 +54389,6 @@
     },
     "label": "United States / Pennsylvania / York",
     "key": "531b93efa7b98ac70e7334161618d6cb"
-  },
-  "6b8a12d2d192953147a01ee11560a397": {
-    "dataset": "nytimes/us-counties",
-    "country": "United States",
-    "province": "Puerto Rico",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "6b8a12d2d192953147a01ee11560a397",
-    "country_original": "United States",
-    "province_original": "Puerto Rico",
-    "administrative_original": "Unknown",
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "us_state": {
-      "code": "PR",
-      "name": "Puerto Rico",
-      "population": 3193694,
-      "area": 13791
-    },
-    "label": "United States / Puerto Rico",
-    "key": "2a72f7682158c7b070c13e597cb1765e"
   },
   "7d8d519b4acb91c9f5e5a38f4d26efd4": {
     "dataset": "nytimes/us-counties",
@@ -64962,39 +64971,6 @@
     },
     "label": "United States / Vermont / Windsor",
     "key": "8384d1bc96c93a9dee28c9111a49ce4a"
-  },
-  "7a88258440210c18d2b37d925ccf715d": {
-    "dataset": "nytimes/us-counties",
-    "country": "United States",
-    "province": "Virgin Islands",
-    "administrative": null,
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "7a88258440210c18d2b37d925ccf715d",
-    "country_original": "United States",
-    "province_original": "Virgin Islands",
-    "administrative_original": "Unknown",
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      38,
-      -97
-    ],
-    "us_state": {
-      "code": "VI",
-      "name": "Virgin Islands",
-      "population": 103700,
-      "area": 1898
-    },
-    "label": "United States / Virgin Islands",
-    "key": "b8f513c92db2613572750c052723fc93"
   },
   "4bbd2e9cb5db611489c1aa8e9ed14df3": {
     "dataset": "nytimes/us-counties",

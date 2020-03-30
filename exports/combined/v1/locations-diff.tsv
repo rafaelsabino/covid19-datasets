@@ -20,6 +20,7 @@ key	key_original	type	label	country_code	country_different	country_normalized	co
 0800ddcedc46d377c28128030b5e46ca	ee6c5940f644878384b1f9199d6a0004	country	Afghanistan	AF		Afghanistan	Afghanistan							Asia	Southern Asia					ecdc/worldwide, jhu/daily, jhu/series
 2b31e10388b458ba77f3828da087134e	c7e3aa9aba0717dc2b6a861b544bfd6a	country	Albania	AL		Albania	Albania							Europe	Southern Europe					ecdc/worldwide, jhu/daily, jhu/series
 a601f7b1c73a4544de3f4dbc8faaf38b	6ed6d417ac05cbdeacb448b5cab1f270	country	Algeria	DZ		Algeria	Algeria							Africa	Northern Africa					ecdc/worldwide, jhu/daily, jhu/series
+c3b8fc6d29ebd36c2c5d9b29e02bc051	9f4caf67534bb252404900f25243b804	country	American Samoa	AS	true	American Samoa	US	true		American Samoa				Oceania	Polynesia					jhu/daily
 07ed3b57bcbde55068771748eb8dd422	e18ea11735fd957b77b5fcd66d91a26c	country	Andorra	AD		Andorra	Andorra							Europe	Southern Europe					ecdc/worldwide, jhu/daily, jhu/series
 84a05089d26c78a2bbd1bd9389d3937c	9afd7ffab0f50c6ac7e24cd03927589e	country	Angola	AO		Angola	Angola							Africa	Middle Africa					ecdc/worldwide, jhu/daily, jhu/series
 8ea7d9169d77378770aea7bcd01adbb1	1b1275e17f163e3081dabb8dc6ecba11	country	Anguilla	AI		Anguilla	Anguilla							Americas	Caribbean					ecdc/worldwide
@@ -63,6 +64,10 @@ ef9ee4bbd4c5b33ee80eec85e62685e2	a7e7998eb9248d91c28f0d963f511d46	country	Bermud
 07b72b1043effd91323bf17b7cbfcc79	d69b01167e239cd486f0138680bc72c6	country	Bosnia and Herzegovina	BA		Bosnia and Herzegovina	Bosnia and Herzegovina							Europe	Southern Europe					jhu/daily, jhu/series
 014ccb22fd8e8a98c72f65a476c34d7b	4f2c35ae086e1baa9209033a2c673aaa	country	Brazil	BR		Brazil	Brazil							Americas	South America					ecdc/worldwide, jhu/daily, jhu/series
 12267b90e88f1840d1220fc1d97515a2	2eb62a18085d3c08d32756d724761438	country	British Virgin Islands	VG	true	British Virgin Islands	British_Virgin_Islands							Americas	Caribbean					ecdc/worldwide
+12267b90e88f1840d1220fc1d97515a2	5f4f8a7cafc05344b7144aa5639a02c8	country	British Virgin Islands	VG	true	British Virgin Islands	United States	true		Virgin Islands				Americas	Caribbean					nytimes/us-states
+12267b90e88f1840d1220fc1d97515a2	7a88258440210c18d2b37d925ccf715d	country	British Virgin Islands	VG	true	British Virgin Islands	United States	true		Virgin Islands	true		Unknown	Americas	Caribbean					nytimes/us-counties
+12267b90e88f1840d1220fc1d97515a2	83bc786a422cb43f69832ea0eb2c173e	country	British Virgin Islands	VG	true	British Virgin Islands	US	true		Virgin Islands				Americas	Caribbean					jhu/daily
+12267b90e88f1840d1220fc1d97515a2	903c099458cb5bcbe52e24eca6e27c84	country	British Virgin Islands	VG	true	British Virgin Islands	US	true		Virgin Islands				Americas	Caribbean					jhu/daily
 12267b90e88f1840d1220fc1d97515a2	eb823d98af4012683ada259e95c0d139	country	British Virgin Islands	VG	true	British Virgin Islands	United Kingdom	true		British Virgin Islands				Americas	Caribbean					jhu/daily, jhu/series
 ae1f16e76cd2547012da7181bdc81d76	642c12be9d5ef05f82ec086a2d6551c1	country	Brunei	BN	true	Brunei	Brunei_Darussalam							Asia	South-Eastern Asia					ecdc/worldwide
 ae1f16e76cd2547012da7181bdc81d76	90bf2a97dd4230f042c861b16b037059	country	Brunei	BN		Brunei	Brunei							Asia	South-Eastern Asia					jhu/daily, jhu/series
@@ -221,7 +226,11 @@ a963e759df13fe64db3711193a5e965f	7308a16e92cf4b47a68ad62ede4b2493	country	Greenl
 9b27161318ccb6f1d551ad0648dac599	8a78bda43266e186a7d53b3cdf0a6769	country	Grenada	GD		Grenada	Grenada							Americas	Caribbean					ecdc/worldwide, jhu/daily, jhu/series
 3361bf159810e58093ee1a30c846cbf8	a63706896922b6d92ad77449bbf14406	country	Guadeloupe	GP		Guadeloupe	Guadeloupe							Americas	Caribbean					jhu/daily
 3361bf159810e58093ee1a30c846cbf8	b6894a3d9c346676eb8e4514e40ffb7f	country	Guadeloupe	GP	true	Guadeloupe	France	true		Guadeloupe				Americas	Caribbean					jhu/daily, jhu/series
+57f600c539c65a38bc0b0cc02c43fc49	0c0fd3dc08c896ddafcea1a383dfccd5	country	Guam	GU	true	Guam	US	true		Guam				Oceania	Micronesia					jhu/daily
 57f600c539c65a38bc0b0cc02c43fc49	44e6f4977e39a285c2d0c550390d23f7	country	Guam	GU		Guam	Guam							Oceania	Micronesia					ecdc/worldwide, jhu/daily
+57f600c539c65a38bc0b0cc02c43fc49	7a62beab652e964cd311ce5c8f38a929	country	Guam	GU	true	Guam	US	true		Guam				Oceania	Micronesia					jhu/daily
+57f600c539c65a38bc0b0cc02c43fc49	d2d6a0a645f28b3af11be03f9ddf92a7	country	Guam	GU	true	Guam	United States	true		Guam	true		Unknown	Oceania	Micronesia					nytimes/us-counties
+57f600c539c65a38bc0b0cc02c43fc49	e93c6d4b6df6f33bc47f6bbf4c198fea	country	Guam	GU	true	Guam	United States	true		Guam				Oceania	Micronesia					nytimes/us-states
 ea06ab9d513e4e7e26ce6568e77a0f69	2b9a5cf02d005c987bf572385192c1cd	country	Guatemala	GT		Guatemala	Guatemala							Americas	Central America					ecdc/worldwide, jhu/daily, jhu/series
 e40a31859f5791c23195aa326ad07d7a	c2ce3998d8ab7604b2ba7e781df7f743	country	Guernsey	GG		Guernsey	Guernsey							Europe	Northern Europe					ecdc/worldwide, jhu/daily
 e35a6b10407940d4ea15c050e40f0b2f	941b5bb7a8bb4a3bf01fe6c4a2a970cb	country	Guinea	GN		Guinea	Guinea							Africa	Western Africa					ecdc/worldwide, jhu/daily, jhu/series
@@ -308,6 +317,8 @@ cf7f4219db8e3b8571a67587718a4046	5f1321ac1f8c8a93786e9f7bd4c7f79f	country	Niger	
 4dfcaf1d125fa7e864f9984582ad0914	50f202ed3e7b4b5286a83ce7eec05f6d	country	Nigeria	NG		Nigeria	Nigeria							Africa	Western Africa					ecdc/worldwide, jhu/daily, jhu/series
 90e84f4db04ae9b067bbb8a1462efd20	871a617ad340b28eb510f22d7e5286f2	country	North Macedonia	MK	true	North Macedonia	North_Macedonia							Europe	Southern Europe					ecdc/worldwide
 90e84f4db04ae9b067bbb8a1462efd20	94b5b537cfbc1ae320d83917e82b7bdd	country	North Macedonia	MK		North Macedonia	North Macedonia							Europe	Southern Europe					jhu/daily, jhu/series
+53ea2fe0f993276e8838b400ca2b4c9c	1961753f88cab9086821bffa3501bf17	country	Northern Mariana Islands	MP	true	Northern Mariana Islands	United States	true		Northern Mariana Islands	true		Unknown	Oceania	Micronesia					nytimes/us-counties
+53ea2fe0f993276e8838b400ca2b4c9c	9d21eca42a25e988d4d220f35ac3b844	country	Northern Mariana Islands	MP	true	Northern Mariana Islands	US	true		Northern Mariana Islands				Oceania	Micronesia					jhu/daily
 b457dc2e77d95574eaa11cf3076ee42d	fffd2975bf84b6ebf74ce332b2735676	country	Norway	NO		Norway	Norway							Europe	Northern Europe					ecdc/worldwide, jhu/daily, jhu/series
 6584e49012a1752087eb110e341cb207	83b8e6a4109c3a9b77733b900193a826	country	Oman	OM		Oman	Oman							Asia	Western Asia					ecdc/worldwide, jhu/daily, jhu/series
 aa7a6f7962c39eaa9e0c3e8c570b8564	f9e8e8222145cd6f722e98a9c2e55aad	country	Pakistan	PK		Pakistan	Pakistan							Asia	Southern Asia					ecdc/worldwide, jhu/daily, jhu/series
@@ -323,6 +334,8 @@ aa7a6f7962c39eaa9e0c3e8c570b8564	f9e8e8222145cd6f722e98a9c2e55aad	country	Pakist
 85ece642081d0ccec73ba8f7ebdb3eab	5a264a1bb2411117b2df0e15526852f8	country	Poland	PL		Poland	Poland							Europe	Eastern Europe					ecdc/worldwide, jhu/daily, jhu/series
 a4670f3eb74cad35916d2d2ae5df5a20	132e60250a0302e260ea2ebee20ac51b	country	Portugal	PT		Portugal	Portugal							Europe	Southern Europe					ecdc/worldwide, jhu/daily, jhu/series
 46029f9a9852a0337c66b090886eb98f	4a1a799da86739721cdaee0e0a505b6b	country	Puerto Rico	PR	true	Puerto Rico	Puerto_Rico							Americas	Caribbean					ecdc/worldwide
+46029f9a9852a0337c66b090886eb98f	6b8a12d2d192953147a01ee11560a397	country	Puerto Rico	PR	true	Puerto Rico	United States	true		Puerto Rico	true		Unknown	Americas	Caribbean					nytimes/us-counties
+46029f9a9852a0337c66b090886eb98f	c93b2423cc2c1276e5421604b9df9f1f	country	Puerto Rico	PR	true	Puerto Rico	United States	true		Puerto Rico				Americas	Caribbean					nytimes/us-states
 46029f9a9852a0337c66b090886eb98f	c9c402dee6dd00733e56bb61c7311a63	country	Puerto Rico	PR		Puerto Rico	Puerto Rico							Americas	Caribbean					jhu/daily
 46029f9a9852a0337c66b090886eb98f	e042230cb1d89fe5b4fa624c9e26c39f	country	Puerto Rico	PR	true	Puerto Rico	US	true		Puerto Rico				Americas	Caribbean					jhu/daily
 3765a16a4816a6556b8a5644b54e46b4	b40b8dca6b374d1076a8084377858ffe	country	Qatar	QA		Qatar	Qatar							Asia	Western Asia					ecdc/worldwide, jhu/daily, jhu/series
@@ -5758,7 +5771,6 @@ ce9edf7e78f7f04155e459434cf62755	89b1b2dab1be05f365ea44e617042a09	province	Unite
 78344549f6a665c351f3b43358482f5b	5a557b2891b75300adc4b2d5162da473	province	United States / Alaska	US		United States	United States		Alaska	Alaska				Americas	North America	AK	Alaska			nytimes/us-states
 78344549f6a665c351f3b43358482f5b	e0eecf3f12fb34aade60414189273457	province	United States / Alaska	US	true	United States	US		Alaska	Alaska				Americas	North America	AK	Alaska			jhu/daily
 78344549f6a665c351f3b43358482f5b	e5ebba774beb8c70cf02f09b7def913f	province	United States / Alaska	US	true	United States	US		Alaska	Alaska	true		Unassigned	Americas	North America	AK	Alaska			jhu/daily
-e12eb13117d26bf609545069cb4189cd	9f4caf67534bb252404900f25243b804	province	United States / American Samoa	US	true	United States	US		American Samoa	American Samoa				Americas	North America	AS	American Samoa			jhu/daily
 5558757183bdf0ae3478f2f32435db49	19889d89af6c9f85af3d0c1236523d43	province	United States / Arizona	US	true	United States	US	true	Arizona	Tempe, AZ				Americas	North America	AZ	Arizona			jhu/daily
 5558757183bdf0ae3478f2f32435db49	3b261adc06b791ffbb4cb3dd8518c485	province	United States / Arizona	US	true	United States	US		Arizona	Arizona	true		Unassigned	Americas	North America	AZ	Arizona			jhu/daily
 5558757183bdf0ae3478f2f32435db49	62afc4c35f5e9bb9bba79160f230e648	province	United States / Arizona	US	true	United States	US	true	Arizona	Maricopa County, AZ				Americas	North America	AZ	Arizona			jhu/daily
@@ -5835,10 +5847,6 @@ ecd2bf6d95380039cc8b5c2ff8393d5e	e2a025c34a76861065656a7c67bdd150	province	Unite
 6cd9a76092e9b3ecd0df4b260eef7f46	badd951658c592c96403be8881483752	province	United States / Georgia	US		United States	United States		Georgia	Georgia				Americas	North America	GA	Georgia			nytimes/us-states
 6cd9a76092e9b3ecd0df4b260eef7f46	ccfa615b878be03851f76000db61824b	province	United States / Georgia	US	true	United States	US	true	Georgia	Cobb County, GA				Americas	North America	GA	Georgia			jhu/daily
 6cd9a76092e9b3ecd0df4b260eef7f46	fe612f3e0f0cd1d47ccb2a5fd941ee33	province	United States / Georgia	US	true	United States	US	true	Georgia	Cherokee County, GA				Americas	North America	GA	Georgia			jhu/daily
-73502c18541672305159fb07e6a08dd3	0c0fd3dc08c896ddafcea1a383dfccd5	province	United States / Guam	US	true	United States	US		Guam	Guam				Americas	North America	GU	Guam			jhu/daily
-73502c18541672305159fb07e6a08dd3	7a62beab652e964cd311ce5c8f38a929	province	United States / Guam	US	true	United States	US		Guam	Guam				Americas	North America	GU	Guam			jhu/daily
-73502c18541672305159fb07e6a08dd3	d2d6a0a645f28b3af11be03f9ddf92a7	province	United States / Guam	US		United States	United States		Guam	Guam	true		Unknown	Americas	North America	GU	Guam			nytimes/us-counties
-73502c18541672305159fb07e6a08dd3	e93c6d4b6df6f33bc47f6bbf4c198fea	province	United States / Guam	US		United States	United States		Guam	Guam				Americas	North America	GU	Guam			nytimes/us-states
 5a67ef46f23e810267b9872b079c5785	0a2c22c9c4917f05a05d09c9968ae3d7	province	United States / Hawaii	US	true	United States	US		Hawaii	Hawaii				Americas	North America	HI	Hawaii			jhu/daily
 5a67ef46f23e810267b9872b079c5785	7a1f7e57ba0cc5762606291c9861f318	province	United States / Hawaii	US	true	United States	US		Hawaii	Hawaii	true		Unassigned	Americas	North America	HI	Hawaii			jhu/daily
 5a67ef46f23e810267b9872b079c5785	8686eb739c41b93674f87d03c118f0c8	province	United States / Hawaii	US	true	United States	US	true	Hawaii	Honolulu County, HI				Americas	North America	HI	Hawaii			jhu/daily
@@ -5964,8 +5972,6 @@ bb86155566c8601c49dbf925636f007c	c8a555f795e1c653f7340ac6f8775ba2	province	Unite
 80c72d2a107b6976945e9de933d22ba9	c8450ce26ef9b4f8eb91384a24d67479	province	United States / North Carolina	US	true	United States	US		North Carolina	North Carolina	true		Unassigned	Americas	North America	NC	North Carolina			jhu/daily
 d533ee8d02e818c8d143b67a669ffc21	24b3b6952b56094c1ca5677857163f4a	province	United States / North Dakota	US		United States	United States		North Dakota	North Dakota				Americas	North America	ND	North Dakota			nytimes/us-states
 d533ee8d02e818c8d143b67a669ffc21	7673271b8aa3a5d8a0d76583c796ed04	province	United States / North Dakota	US	true	United States	US		North Dakota	North Dakota				Americas	North America	ND	North Dakota			jhu/daily
-17db3eb1abe19c4d07ca9f9e5e33a940	1961753f88cab9086821bffa3501bf17	province	United States / Northern Mariana Islands	US		United States	United States		Northern Mariana Islands	Northern Mariana Islands	true		Unknown	Americas	North America	MP	Northern Mariana Islands			nytimes/us-counties
-17db3eb1abe19c4d07ca9f9e5e33a940	9d21eca42a25e988d4d220f35ac3b844	province	United States / Northern Mariana Islands	US	true	United States	US		Northern Mariana Islands	Northern Mariana Islands				Americas	North America	MP	Northern Mariana Islands			jhu/daily
 9e248e6159c5e987945a0aca2ed7354d	4fac196e3fa9bc232d52ec374bfeca03	province	United States / Ohio	US	true	United States	US		Ohio	Ohio				Americas	North America	OH	Ohio			jhu/daily
 9e248e6159c5e987945a0aca2ed7354d	92867e7f684b3413638fa61bc12c1282	province	United States / Ohio	US		United States	United States		Ohio	Ohio				Americas	North America	OH	Ohio			nytimes/us-states
 9e248e6159c5e987945a0aca2ed7354d	d37c603201eaa954bf4494cb8e546afc	province	United States / Ohio	US		United States	United States		Ohio	Ohio	true		Unknown	Americas	North America	OH	Ohio			nytimes/us-counties
@@ -5986,8 +5992,6 @@ b0c8b471419181755516fa4033cc86f7	d9773ae56bda7e45f2f67e27b774a794	province	Unite
 82054a59ffb4037dd43b5e342c1356c2	51d2df626e2f30f17fac3386b7a879cf	province	United States / Pennsylvania	US	true	United States	US	true	Pennsylvania	Wayne County, PA				Americas	North America	PA	Pennsylvania			jhu/daily
 82054a59ffb4037dd43b5e342c1356c2	53d6e23514c9b34aeb2edc5d1f2b4fad	province	United States / Pennsylvania	US	true	United States	US		Pennsylvania	Pennsylvania				Americas	North America	PA	Pennsylvania			jhu/daily
 82054a59ffb4037dd43b5e342c1356c2	9cf0d89f5137851b5c3db26dd562613c	province	United States / Pennsylvania	US		United States	United States		Pennsylvania	Pennsylvania				Americas	North America	PA	Pennsylvania			nytimes/us-states
-2a72f7682158c7b070c13e597cb1765e	6b8a12d2d192953147a01ee11560a397	province	United States / Puerto Rico	US		United States	United States		Puerto Rico	Puerto Rico	true		Unknown	Americas	North America	PR	Puerto Rico			nytimes/us-counties
-2a72f7682158c7b070c13e597cb1765e	c93b2423cc2c1276e5421604b9df9f1f	province	United States / Puerto Rico	US		United States	United States		Puerto Rico	Puerto Rico				Americas	North America	PR	Puerto Rico			nytimes/us-states
 c586ac9284a432eeca7ecd1dc6933549	043163c651123c4b1922faf5e5c9d618	province	United States / Rhode Island	US	true	United States	US	true	Rhode Island	Providence County, RI				Americas	North America	RI	Rhode Island			jhu/daily
 c586ac9284a432eeca7ecd1dc6933549	3a494a410cc060fbf4b596fd3c19d251	province	United States / Rhode Island	US		United States	United States		Rhode Island	Rhode Island				Americas	North America	RI	Rhode Island			nytimes/us-states
 c586ac9284a432eeca7ecd1dc6933549	7d8d519b4acb91c9f5e5a38f4d26efd4	province	United States / Rhode Island	US		United States	United States		Rhode Island	Rhode Island	true		Unknown	Americas	North America	RI	Rhode Island			nytimes/us-counties
@@ -6030,11 +6034,6 @@ a10ec1c2f3661450ddf6c5a6d3e54123	5e6f673eebebdcf7ccb08e54168f794f	province	Unite
 a10ec1c2f3661450ddf6c5a6d3e54123	79cdcbc785daf8ec78bb8b9c6eaf6087	province	United States / Vermont	US		United States	United States		Vermont	Vermont	true		Unknown	Americas	North America	VT	Vermont			nytimes/us-counties
 a10ec1c2f3661450ddf6c5a6d3e54123	a4dc7f386c3a50be24db3ba1d9668539	province	United States / Vermont	US	true	United States	US		Vermont	Vermont				Americas	North America	VT	Vermont			jhu/daily
 a10ec1c2f3661450ddf6c5a6d3e54123	ebc9364ea25c65b98e5b02acf9041bc3	province	United States / Vermont	US	true	United States	US	true	Vermont	Bennington County, VT				Americas	North America	VT	Vermont			jhu/daily
-b8f513c92db2613572750c052723fc93	552c6a6eaba7052fde4735c40abfdddf	province	United States / Virgin Islands	US	true	United States	US	true	Virgin Islands	Virgin Islands, U.S.				Americas	North America	VI	Virgin Islands			jhu/daily
-b8f513c92db2613572750c052723fc93	5f4f8a7cafc05344b7144aa5639a02c8	province	United States / Virgin Islands	US		United States	United States		Virgin Islands	Virgin Islands				Americas	North America	VI	Virgin Islands			nytimes/us-states
-b8f513c92db2613572750c052723fc93	7a88258440210c18d2b37d925ccf715d	province	United States / Virgin Islands	US		United States	United States		Virgin Islands	Virgin Islands	true		Unknown	Americas	North America	VI	Virgin Islands			nytimes/us-counties
-b8f513c92db2613572750c052723fc93	83bc786a422cb43f69832ea0eb2c173e	province	United States / Virgin Islands	US	true	United States	US		Virgin Islands	Virgin Islands				Americas	North America	VI	Virgin Islands			jhu/daily
-b8f513c92db2613572750c052723fc93	903c099458cb5bcbe52e24eca6e27c84	province	United States / Virgin Islands	US	true	United States	US		Virgin Islands	Virgin Islands				Americas	North America	VI	Virgin Islands			jhu/daily
 90c000c3ac68210078bc3389d24ca794	027c777e5766d0b8712efe5a042ebc1b	province	United States / Virginia	US	true	United States	US	true	Virginia	Fairfax County, VA				Americas	North America	VA	Virginia			jhu/daily
 90c000c3ac68210078bc3389d24ca794	a8901a263fc074fb0c1ebd74c43066da	province	United States / Virginia	US		United States	United States		Virginia	Virginia				Americas	North America	VA	Virginia			nytimes/us-states
 90c000c3ac68210078bc3389d24ca794	c1b0c7dd9fda1e8087959454f6d293e7	province	United States / Virginia	US	true	United States	US		Virginia	Virginia	true		Unassigned	Americas	North America	VA	Virginia			jhu/daily
@@ -6061,6 +6060,7 @@ f95ef595eac2b8b57adc6da54c3b9b94	da83295bff7d00af475cd20d9b7fb060	province	Unite
 e952c1f6de9d8d16e8b53fa95dad5c0b	a9f6604dad7815aec1c989e17e639349	province	United States / Wyoming	US		United States	United States		Wyoming	Wyoming				Americas	North America	WY	Wyoming			nytimes/us-states
 e952c1f6de9d8d16e8b53fa95dad5c0b	b6bf8b3e90036764464ae971463fb81f	province	United States / Wyoming	US	true	United States	US		Wyoming	Wyoming				Americas	North America	WY	Wyoming			jhu/daily
 41b1eb26a87833fa0f9cfabd9d5b1522	415a48f64c351f166ed5163670c71169	country	United States Virgin Islands	VI	true	United States Virgin Islands	US	true		United States Virgin Islands				Americas	Caribbean					jhu/daily
+41b1eb26a87833fa0f9cfabd9d5b1522	552c6a6eaba7052fde4735c40abfdddf	country	United States Virgin Islands	VI	true	United States Virgin Islands	US	true		Virgin Islands, U.S.				Americas	Caribbean					jhu/daily
 41b1eb26a87833fa0f9cfabd9d5b1522	d67ce8f8fb0f1302d75550c756242c0a	country	United States Virgin Islands	VI	true	United States Virgin Islands	United_States_Virgin_Islands							Americas	Caribbean					ecdc/worldwide
 0e3a6c801693584bdf4710f6487ca68e	b0b9a042a3e7919ad2d377558701f132	country	Uruguay	UY		Uruguay	Uruguay							Americas	South America					ecdc/worldwide, jhu/daily, jhu/series
 bc6ed56355457a59f3b3b9942bbfc508	8ed78a291c3351527469068bc2c37578	country	Uzbekistan	UZ		Uzbekistan	Uzbekistan							Asia	Central Asia					ecdc/worldwide, jhu/daily, jhu/series

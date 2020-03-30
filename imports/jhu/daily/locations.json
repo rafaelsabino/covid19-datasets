@@ -7913,6 +7913,33 @@
     ],
     "key": "46029f9a9852a0337c66b090886eb98f"
   },
+  "e042230cb1d89fe5b4fa624c9e26c39f": {
+    "dataset": "jhu/daily",
+    "country": "Puerto Rico",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "e042230cb1d89fe5b4fa624c9e26c39f",
+    "country_original": "US",
+    "province_original": "Puerto Rico",
+    "administrative_original": null,
+    "country_code": "PR",
+    "country_latlong": [
+      18.25,
+      -66.5
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "label": "Puerto Rico",
+    "type": "country",
+    "latlong": [
+      18.25,
+      -66.5
+    ],
+    "key": "46029f9a9852a0337c66b090886eb98f"
+  },
   "b40b8dca6b374d1076a8084377858ffe": {
     "dataset": "jhu/daily",
     "country": "Qatar",
@@ -123767,42 +123794,6 @@
     "label": "United States / Pennsylvania / York",
     "key": "531b93efa7b98ac70e7334161618d6cb"
   },
-  "e042230cb1d89fe5b4fa624c9e26c39f": {
-    "dataset": "jhu/daily",
-    "country": "United States",
-    "province": "Puerto Rico",
-    "administrative": null,
-    "province_latlong": [
-      18.2208,
-      -66.5901
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "e042230cb1d89fe5b4fa624c9e26c39f",
-    "country_original": "US",
-    "province_original": "Puerto Rico",
-    "administrative_original": null,
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      18.2208,
-      -66.5901
-    ],
-    "us_state": {
-      "code": "PR",
-      "name": "Puerto Rico",
-      "population": 3193694,
-      "area": 13791
-    },
-    "label": "United States / Puerto Rico",
-    "key": "2a72f7682158c7b070c13e597cb1765e"
-  },
   "043163c651123c4b1922faf5e5c9d618": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -145761,42 +145752,6 @@
     "label": "United States / Vermont / Windsor",
     "key": "8384d1bc96c93a9dee28c9111a49ce4a"
   },
-  "415a48f64c351f166ed5163670c71169": {
-    "dataset": "jhu/daily",
-    "country": "United States",
-    "province": "Virgin Islands",
-    "administrative": null,
-    "province_latlong": [
-      18.35,
-      -64.933
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "415a48f64c351f166ed5163670c71169",
-    "country_original": "US",
-    "province_original": "United States Virgin Islands",
-    "administrative_original": null,
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "province",
-    "latlong": [
-      18.35,
-      -64.933
-    ],
-    "us_state": {
-      "code": "VI",
-      "name": "Virgin Islands",
-      "population": 103700,
-      "area": 1898
-    },
-    "label": "United States / Virgin Islands",
-    "key": "b8f513c92db2613572750c052723fc93"
-  },
   "552c6a6eaba7052fde4735c40abfdddf": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -159887,6 +159842,33 @@
     },
     "label": "United States / Wyoming / Weston",
     "key": "d6980b053b7668b570b374f4328f7129"
+  },
+  "415a48f64c351f166ed5163670c71169": {
+    "dataset": "jhu/daily",
+    "country": "United States Virgin Islands",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "415a48f64c351f166ed5163670c71169",
+    "country_original": "US",
+    "province_original": "United States Virgin Islands",
+    "administrative_original": null,
+    "country_code": "VI",
+    "country_latlong": [
+      18.35,
+      -64.933333
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "label": "United States Virgin Islands",
+    "type": "country",
+    "latlong": [
+      18.35,
+      -64.933333
+    ],
+    "key": "41b1eb26a87833fa0f9cfabd9d5b1522"
   },
   "b0b9a042a3e7919ad2d377558701f132": {
     "dataset": "jhu/daily",

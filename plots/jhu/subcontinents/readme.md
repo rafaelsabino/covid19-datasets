@@ -6,10 +6,10 @@
 
 ----
 
-![](./svg/peakapct-confirmed.svg)
-![](./svg/peakapct-deaths.svg)
-![](./svg/peakapct-recovered.svg)
-![](./svg/peakapct-infected.svg)
+![](./svg/peakpct-confirmed.svg)
+![](./svg/peakpct-deaths.svg)
+![](./svg/peakpct-recovered.svg)
+![](./svg/peakpct-infected.svg)
 
 ----
 

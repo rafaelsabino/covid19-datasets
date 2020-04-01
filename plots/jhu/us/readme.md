@@ -4,8 +4,8 @@
 
 ----
 
-![](./svg/peakapct-confirmed.svg)
-![](./svg/peakapct-deaths.svg)
+![](./svg/peakpct-confirmed.svg)
+![](./svg/peakpct-deaths.svg)
 
 ----
 

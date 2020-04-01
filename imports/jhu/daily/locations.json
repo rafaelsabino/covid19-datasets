@@ -1682,6 +1682,33 @@
     ],
     "key": "1ef095e6ab8d94e1b6f83dba2e1b88b4"
   },
+  "f44263022a204e9dc4bd9529e4602d34": {
+    "dataset": "jhu/daily",
+    "country": "Burundi",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "f44263022a204e9dc4bd9529e4602d34",
+    "country_original": "Burundi",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "BI",
+    "country_latlong": [
+      -3.5,
+      30
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "label": "Burundi",
+    "type": "country",
+    "latlong": [
+      -3.5,
+      30
+    ],
+    "key": "57b5e8aca9e488269ca110642612d345"
+  },
   "feaf7fcfd3d8f31635a1e39d7c8ddff8": {
     "dataset": "jhu/daily",
     "country": "Cambodia",
@@ -7697,6 +7724,33 @@
     ],
     "key": "90e84f4db04ae9b067bbb8a1462efd20"
   },
+  "77154654ce8a8d9b441d5a9a3999ef43": {
+    "dataset": "jhu/daily",
+    "country": "Northern Mariana Islands",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "77154654ce8a8d9b441d5a9a3999ef43",
+    "country_original": "US",
+    "province_original": "Northern Mariana Islands",
+    "administrative_original": null,
+    "country_code": "MP",
+    "country_latlong": [
+      15.2,
+      145.75
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "label": "Northern Mariana Islands",
+    "type": "country",
+    "latlong": [
+      15.2,
+      145.75
+    ],
+    "key": "53ea2fe0f993276e8838b400ca2b4c9c"
+  },
   "9d21eca42a25e988d4d220f35ac3b844": {
     "dataset": "jhu/daily",
     "country": "Northern Mariana Islands",
@@ -8722,6 +8776,33 @@
       55.66666666
     ],
     "key": "c8442d0889afc4e297c885377f80f7dd"
+  },
+  "138a6ae985f2ab275c4584d8f988cf0c": {
+    "dataset": "jhu/daily",
+    "country": "Sierra Leone",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "138a6ae985f2ab275c4584d8f988cf0c",
+    "country_original": "Sierra Leone",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "SL",
+    "country_latlong": [
+      8.5,
+      -11.5
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "label": "Sierra Leone",
+    "type": "country",
+    "latlong": [
+      8.5,
+      -11.5
+    ],
+    "key": "7a4e7e90c71ad5938a8b5f1ce82069be"
   },
   "449f646c2018b360ed0a9703a008f9dd": {
     "dataset": "jhu/daily",
@@ -9829,6 +9910,39 @@
     ],
     "label": "United States / (mainland)",
     "key": "78c8d77bc41b80fbf01b6c492e2bec14"
+  },
+  "5fd56c9413d99f708f116a15f2730586": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Alabama",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "5fd56c9413d99f708f116a15f2730586",
+    "country_original": "US",
+    "province_original": "Alabama",
+    "administrative_original": "Unassigned",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      38,
+      -97
+    ],
+    "us_state": {
+      "code": "AL",
+      "name": "Alabama",
+      "population": 4903185,
+      "area": 135767
+    },
+    "label": "United States / Alabama",
+    "key": "ce9edf7e78f7f04155e459434cf62755"
   },
   "89b1b2dab1be05f365ea44e617042a09": {
     "dataset": "jhu/daily",
@@ -16372,6 +16486,47 @@
     "label": "United States / Alaska / Kenai Peninsula",
     "key": "890df706bbf552960f2957f5f7d0ef6f"
   },
+  "41955de463f2ec4a92875f64e5937576": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Alaska",
+    "administrative": "Kenai Peninsula",
+    "province_latlong": null,
+    "administrative_latlong": [
+      60.24429722,
+      -151.53888840000005
+    ],
+    "administrative_fips": "02122",
+    "key_original": "41955de463f2ec4a92875f64e5937576",
+    "country_original": "US",
+    "province_original": "Alaska",
+    "administrative_original": "Kenai Peninsula",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      60.24429722,
+      -151.53888840000005
+    ],
+    "us_state": {
+      "code": "AK",
+      "name": "Alaska",
+      "population": 731545,
+      "area": 1723337
+    },
+    "us_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula",
+      "name_original": "Kenai Peninsula Borough"
+    },
+    "label": "United States / Alaska / Kenai Peninsula",
+    "key": "890df706bbf552960f2957f5f7d0ef6f"
+  },
   "8fbeb086bdcf3dfb0cb7226a941a4976": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -16870,6 +17025,47 @@
     ],
     "administrative_fips": "02170",
     "key_original": "32efc5c788e926bbabd4df79b1b808a8",
+    "country_original": "US",
+    "province_original": "Alaska",
+    "administrative_original": "Matanuska-Susitna",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      62.31305045,
+      -149.5741743
+    ],
+    "us_state": {
+      "code": "AK",
+      "name": "Alaska",
+      "population": 731545,
+      "area": 1723337
+    },
+    "us_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna",
+      "name_original": "Matanuska-Susitna Borough"
+    },
+    "label": "United States / Alaska / Matanuska-Susitna",
+    "key": "cd80232892c60df624e69690032f1fe2"
+  },
+  "d73648ab42c313a8f4a924b86aeec82a": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Alaska",
+    "administrative": "Matanuska-Susitna",
+    "province_latlong": null,
+    "administrative_latlong": [
+      62.31305045,
+      -149.5741743
+    ],
+    "administrative_fips": "02170",
+    "key_original": "d73648ab42c313a8f4a924b86aeec82a",
     "country_original": "US",
     "province_original": "Alaska",
     "administrative_original": "Matanuska-Susitna",
@@ -38620,6 +38816,47 @@
     "label": "United States / Florida / DeSoto",
     "key": "ba3a0681f140a618c6e96b70bca0c272"
   },
+  "e036998c641e4d78e591d28158e03a7d": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Florida",
+    "administrative": "DeSoto",
+    "province_latlong": null,
+    "administrative_latlong": [
+      27.18677893,
+      -81.80941373
+    ],
+    "administrative_fips": "12027",
+    "key_original": "e036998c641e4d78e591d28158e03a7d",
+    "country_original": "US",
+    "province_original": "Florida",
+    "administrative_original": "DeSoto",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      27.18677893,
+      -81.80941373
+    ],
+    "us_state": {
+      "code": "FL",
+      "name": "Florida",
+      "population": 21477737,
+      "area": 170312
+    },
+    "us_county": {
+      "fips": "12027",
+      "name": "DeSoto",
+      "name_original": "DeSoto County"
+    },
+    "label": "United States / Florida / DeSoto",
+    "key": "ba3a0681f140a618c6e96b70bca0c272"
+  },
   "2d5ea58914ccb9c44160524e4019f9c2": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -45019,6 +45256,47 @@
     "label": "United States / Georgia / Marion",
     "key": "549284782b18a6a8703c528dfef0c65e"
   },
+  "08d19ac90d6fbb1c53c1b99f4e8ebf39": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Georgia",
+    "administrative": "McDuffie",
+    "province_latlong": null,
+    "administrative_latlong": [
+      33.47851918,
+      -82.48252774
+    ],
+    "administrative_fips": "13189",
+    "key_original": "08d19ac90d6fbb1c53c1b99f4e8ebf39",
+    "country_original": "US",
+    "province_original": "Georgia",
+    "administrative_original": "McDuffie",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      33.47851918,
+      -82.48252774
+    ],
+    "us_state": {
+      "code": "GA",
+      "name": "Georgia",
+      "population": 10617423,
+      "area": 153910
+    },
+    "us_county": {
+      "fips": "13189",
+      "name": "McDuffie",
+      "name_original": "McDuffie County"
+    },
+    "label": "United States / Georgia / McDuffie",
+    "key": "972d33cb6b60b361adb85ba1dd2be2a9"
+  },
   "33a37d49f143e8be9ff32199735ee046": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -45059,6 +45337,44 @@
     },
     "label": "United States / Georgia / McDuffie",
     "key": "972d33cb6b60b361adb85ba1dd2be2a9"
+  },
+  "7189c567e9b0f8f23461295df7710337": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Georgia",
+    "administrative": "McIntosh",
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": "13191",
+    "key_original": "7189c567e9b0f8f23461295df7710337",
+    "country_original": "US",
+    "province_original": "Georgia",
+    "administrative_original": "McIntosh",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      38,
+      -97
+    ],
+    "us_state": {
+      "code": "GA",
+      "name": "Georgia",
+      "population": 10617423,
+      "area": 153910
+    },
+    "us_county": {
+      "fips": "13191",
+      "name": "McIntosh",
+      "name_original": "McIntosh County"
+    },
+    "label": "United States / Georgia / McIntosh",
+    "key": "7754da3b791d1fba4bcf481f7cd8d02b"
   },
   "bd411c6693a75a6ec3d97c2502f1adc8": {
     "dataset": "jhu/daily",
@@ -51887,6 +52203,47 @@
     },
     "label": "United States / Illinois / Knox",
     "key": "19c4541e6ea76d23e7e202d78a8d4c05"
+  },
+  "a0d3247ef856eddce029e19261dba227": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Illinois",
+    "administrative": "LaSalle",
+    "province_latlong": null,
+    "administrative_latlong": [
+      41.34426129999999,
+      -88.88633881
+    ],
+    "administrative_fips": "17099",
+    "key_original": "a0d3247ef856eddce029e19261dba227",
+    "country_original": "US",
+    "province_original": "Illinois",
+    "administrative_original": "LaSalle",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      41.34426129999999,
+      -88.88633881
+    ],
+    "us_state": {
+      "code": "IL",
+      "name": "Illinois",
+      "population": 12671821,
+      "area": 149995
+    },
+    "us_county": {
+      "fips": "17099",
+      "name": "LaSalle",
+      "name_original": "LaSalle County"
+    },
+    "label": "United States / Illinois / LaSalle",
+    "key": "cf05feca5ad2baf0bb3f202a2f5eb319"
   },
   "eaa1b69a43d17e474e93b80ea4d50d29": {
     "dataset": "jhu/daily",
@@ -72865,6 +73222,47 @@
     "label": "United States / Louisiana / Jefferson Davis",
     "key": "b90116d5bbf864762518b05de98bd33a"
   },
+  "612093ccb1529aca92cc5f6662c201c7": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Louisiana",
+    "administrative": "LaSalle",
+    "province_latlong": null,
+    "administrative_latlong": [
+      31.67884782,
+      -92.15907765
+    ],
+    "administrative_fips": "22059",
+    "key_original": "612093ccb1529aca92cc5f6662c201c7",
+    "country_original": "US",
+    "province_original": "Louisiana",
+    "administrative_original": "LaSalle",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      31.67884782,
+      -92.15907765
+    ],
+    "us_state": {
+      "code": "LA",
+      "name": "Louisiana",
+      "population": 4648794,
+      "area": 135659
+    },
+    "us_county": {
+      "fips": "22059",
+      "name": "LaSalle",
+      "name_original": "LaSalle Parish"
+    },
+    "label": "United States / Louisiana / LaSalle",
+    "key": "c53a8e0fb67561c0b45d78ba783f7c7f"
+  },
   "6e16bdfd02cf3cd7d736f2b99aa0cc50": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -81825,6 +82223,47 @@
     "label": "United States / Minnesota / Fillmore",
     "key": "476e654c933d6866a67f4fb3c48fe942"
   },
+  "e7347f9184a711c1bc4e13dbdb59eb28": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Minnesota",
+    "administrative": "Fillmore",
+    "province_latlong": null,
+    "administrative_latlong": [
+      43.67394126,
+      -92.08980382
+    ],
+    "administrative_fips": "27045",
+    "key_original": "e7347f9184a711c1bc4e13dbdb59eb28",
+    "country_original": "US",
+    "province_original": "Minnesota",
+    "administrative_original": "Fillmore",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      43.67394126,
+      -92.08980382
+    ],
+    "us_state": {
+      "code": "MN",
+      "name": "Minnesota",
+      "population": 5639632,
+      "area": 225163
+    },
+    "us_county": {
+      "fips": "27045",
+      "name": "Fillmore",
+      "name_original": "Fillmore County"
+    },
+    "label": "United States / Minnesota / Fillmore",
+    "key": "476e654c933d6866a67f4fb3c48fe942"
+  },
   "1a3899104f6cf7533d39713391cdeeb4": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -82357,6 +82796,47 @@
     },
     "label": "United States / Minnesota / Koochiching",
     "key": "1a866f330467d3544b384f88bcc79dcf"
+  },
+  "45d6181d5bd783a26c95cc50cf804d39": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Minnesota",
+    "administrative": "Lac qui Parle",
+    "province_latlong": null,
+    "administrative_latlong": [
+      44.9973857,
+      -96.17488219
+    ],
+    "administrative_fips": "27073",
+    "key_original": "45d6181d5bd783a26c95cc50cf804d39",
+    "country_original": "US",
+    "province_original": "Minnesota",
+    "administrative_original": "Lac qui Parle",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      44.9973857,
+      -96.17488219
+    ],
+    "us_state": {
+      "code": "MN",
+      "name": "Minnesota",
+      "population": 5639632,
+      "area": 225163
+    },
+    "us_county": {
+      "fips": "27073",
+      "name": "Lac qui Parle",
+      "name_original": "Lac qui Parle County"
+    },
+    "label": "United States / Minnesota / Lac qui Parle",
+    "key": "d9cf221693af89dc1a9f51baf663420b"
   },
   "df4a8eba258aae5f45f318b08f1ebc11": {
     "dataset": "jhu/daily",
@@ -118504,6 +118984,39 @@
     "label": "United States / Oklahoma / Ottawa",
     "key": "86c220ff226b2eeed1852dd7715d9271"
   },
+  "ac8384c5943c0423f09448e5b8038720": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Oklahoma",
+    "administrative": "Out of OK",
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "ac8384c5943c0423f09448e5b8038720",
+    "country_original": "US",
+    "province_original": "Oklahoma",
+    "administrative_original": "Out of OK",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      38,
+      -97
+    ],
+    "us_state": {
+      "code": "OK",
+      "name": "Oklahoma",
+      "population": 3956971,
+      "area": 181037
+    },
+    "label": "United States / Oklahoma / Out of OK",
+    "key": "c0cfad44b2aecf07ebd3072931d5c955"
+  },
   "4d1ca5913607785d6e05f6dc1acd6cc9": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -122881,6 +123394,47 @@
     ],
     "administrative_fips": "42083",
     "key_original": "5085cf7917fd02db3d7bce07e68dae3b",
+    "country_original": "US",
+    "province_original": "Pennsylvania",
+    "administrative_original": "McKean",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      41.80938602,
+      -78.56478358
+    ],
+    "us_state": {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "population": 12801989,
+      "area": 119280
+    },
+    "us_county": {
+      "fips": "42083",
+      "name": "McKean",
+      "name_original": "McKean County"
+    },
+    "label": "United States / Pennsylvania / McKean",
+    "key": "a5880e847d1daac186f78782d177e47f"
+  },
+  "9332e3b849aba7cdc1100884e132545c": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Pennsylvania",
+    "administrative": "McKean",
+    "province_latlong": null,
+    "administrative_latlong": [
+      41.80938602,
+      -78.56478358
+    ],
+    "administrative_fips": "42083",
+    "key_original": "9332e3b849aba7cdc1100884e132545c",
     "country_original": "US",
     "province_original": "Pennsylvania",
     "administrative_original": "McKean",
@@ -130120,6 +130674,47 @@
     ],
     "administrative_fips": "47041",
     "key_original": "127f4ce888d9cde01f128928f5fea24a",
+    "country_original": "US",
+    "province_original": "Tennessee",
+    "administrative_original": "DeKalb",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      35.97616272,
+      -85.83689361
+    ],
+    "us_state": {
+      "code": "TN",
+      "name": "Tennessee",
+      "population": 6829174,
+      "area": 109153
+    },
+    "us_county": {
+      "fips": "47041",
+      "name": "DeKalb",
+      "name_original": "DeKalb County"
+    },
+    "label": "United States / Tennessee / DeKalb",
+    "key": "e40d72bb5d78aeac87b549fed7b4c377"
+  },
+  "3a63a638c502ab955479d19922a9b877": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Tennessee",
+    "administrative": "DeKalb",
+    "province_latlong": null,
+    "administrative_latlong": [
+      35.97616272,
+      -85.83689361
+    ],
+    "administrative_fips": "47041",
+    "key_original": "3a63a638c502ab955479d19922a9b877",
     "country_original": "US",
     "province_original": "Tennessee",
     "administrative_original": "DeKalb",
@@ -137569,6 +138164,44 @@
     },
     "label": "United States / Texas / Hardin",
     "key": "51051036360a135ee65c7c21f0d6c69d"
+  },
+  "31ee33603eba796658062f5dee62efa6": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Texas",
+    "administrative": "Harris",
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": "48201",
+    "key_original": "31ee33603eba796658062f5dee62efa6",
+    "country_original": "US",
+    "province_original": "Texas",
+    "administrative_original": "Harris",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      38,
+      -97
+    ],
+    "us_state": {
+      "code": "TX",
+      "name": "Texas",
+      "population": 28995881,
+      "area": 695662
+    },
+    "us_county": {
+      "fips": "48201",
+      "name": "Harris",
+      "name_original": "Harris County"
+    },
+    "label": "United States / Texas / Harris",
+    "key": "47fba57a6873d2134f137567abcba296"
   },
   "c4285db58d696f100519c7252768bc9e": {
     "dataset": "jhu/daily",
@@ -145137,6 +145770,47 @@
     "label": "United States / Utah / Wayne",
     "key": "24c9e979f6a6bad707509b7048c723d3"
   },
+  "559ab373efae0ce472d349d57acdbaf8": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Utah",
+    "administrative": "Weber",
+    "province_latlong": null,
+    "administrative_latlong": [
+      41.27116049,
+      -111.9145117
+    ],
+    "administrative_fips": "49057",
+    "key_original": "559ab373efae0ce472d349d57acdbaf8",
+    "country_original": "US",
+    "province_original": "Utah",
+    "administrative_original": "Weber",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      41.27116049,
+      -111.9145117
+    ],
+    "us_state": {
+      "code": "UT",
+      "name": "Utah",
+      "population": 3205958,
+      "area": 219882
+    },
+    "us_county": {
+      "fips": "49057",
+      "name": "Weber",
+      "name_original": "Weber County"
+    },
+    "label": "United States / Utah / Weber",
+    "key": "62533781d99656733341495b7f05a460"
+  },
   "a0e9e5a202a27e7e4ac4f7e6a4e5f5ae": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -149085,6 +149759,47 @@
     ],
     "administrative_fips": "51683",
     "key_original": "3ec0b27d91566fe4898798ff144e29ee",
+    "country_original": "US",
+    "province_original": "Virginia",
+    "administrative_original": "Manassas",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      38.7464321,
+      -77.48509905
+    ],
+    "us_state": {
+      "code": "VA",
+      "name": "Virginia",
+      "population": 8535519,
+      "area": 110787
+    },
+    "us_county": {
+      "fips": "51683",
+      "name": "Manassas",
+      "name_original": "Manassas, City of"
+    },
+    "label": "United States / Virginia / Manassas",
+    "key": "328d2650c2e226ff1ba28389a87a9692"
+  },
+  "88c7ae671a8e6dc1a4cea74116203ce8": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Virginia",
+    "administrative": "Manassas",
+    "province_latlong": null,
+    "administrative_latlong": [
+      38.7464321,
+      -77.48509905
+    ],
+    "administrative_fips": "51683",
+    "key_original": "88c7ae671a8e6dc1a4cea74116203ce8",
     "country_original": "US",
     "province_original": "Virginia",
     "administrative_original": "Manassas",

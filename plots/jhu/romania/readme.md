@@ -6,6 +6,13 @@
 
 ----
 
+![](./svg/peakapct-confirmed.svg)
+![](./svg/peakapct-deaths.svg)
+![](./svg/peakapct-recovered.svg)
+![](./svg/peakapct-infected.svg)
+
+----
+
 ![](./svg/relative-deaths.svg)
 ![](./svg/relative-recovered.svg)
 ![](./svg/relative-infected.svg)

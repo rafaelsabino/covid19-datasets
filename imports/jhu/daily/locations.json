@@ -100800,6 +100800,47 @@
     "label": "United States / New Hampshire / Grafton",
     "key": "b564ad1f8183a949927ce3b6ddcacd30"
   },
+  "5ca78585cfcad4115dd9c2efec1e7d25": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "New Hampshire",
+    "administrative": "Hillsborough",
+    "province_latlong": null,
+    "administrative_latlong": [
+      42.9956,
+      -71.4548
+    ],
+    "administrative_fips": "33011",
+    "key_original": "5ca78585cfcad4115dd9c2efec1e7d25",
+    "country_original": "US",
+    "province_original": "New Hampshire",
+    "administrative_original": "Manchester",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      42.9956,
+      -71.4548
+    ],
+    "us_state": {
+      "code": "NH",
+      "name": "New Hampshire",
+      "population": 1359711,
+      "area": 24214
+    },
+    "us_county": {
+      "fips": "33011",
+      "name": "Hillsborough",
+      "name_original": "Hillsborough County"
+    },
+    "label": "United States / New Hampshire / Hillsborough",
+    "key": "cd9995a33e31cde3d344dbf487fbe8af"
+  },
   "70eb265f9f3c25acb269ba62f77558d4": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -116570,6 +116611,72 @@
     "label": "United States / Oklahoma",
     "key": "af5fb8aca7d2df05c75cc5f48c6316ad"
   },
+  "ac8384c5943c0423f09448e5b8038720": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Oklahoma",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "ac8384c5943c0423f09448e5b8038720",
+    "country_original": "US",
+    "province_original": "Oklahoma",
+    "administrative_original": "Out of OK",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      38,
+      -97
+    ],
+    "us_state": {
+      "code": "OK",
+      "name": "Oklahoma",
+      "population": 3956971,
+      "area": 181037
+    },
+    "label": "United States / Oklahoma",
+    "key": "af5fb8aca7d2df05c75cc5f48c6316ad"
+  },
+  "b868ebd9274a8884653314454b3942d6": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Oklahoma",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "b868ebd9274a8884653314454b3942d6",
+    "country_original": "US",
+    "province_original": "Oklahoma",
+    "administrative_original": "Unassigned",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      38,
+      -97
+    ],
+    "us_state": {
+      "code": "OK",
+      "name": "Oklahoma",
+      "population": 3956971,
+      "area": 181037
+    },
+    "label": "United States / Oklahoma",
+    "key": "af5fb8aca7d2df05c75cc5f48c6316ad"
+  },
   "cbb8cdc4845e32acc54af4caa8670e1a": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -118983,39 +119090,6 @@
     },
     "label": "United States / Oklahoma / Ottawa",
     "key": "86c220ff226b2eeed1852dd7715d9271"
-  },
-  "ac8384c5943c0423f09448e5b8038720": {
-    "dataset": "jhu/daily",
-    "country": "United States",
-    "province": "Oklahoma",
-    "administrative": "Out of OK",
-    "province_latlong": null,
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "ac8384c5943c0423f09448e5b8038720",
-    "country_original": "US",
-    "province_original": "Oklahoma",
-    "administrative_original": "Out of OK",
-    "country_code": "US",
-    "country_latlong": [
-      38,
-      -97
-    ],
-    "region": "Americas",
-    "subregion": "North America",
-    "type": "administrative",
-    "latlong": [
-      38,
-      -97
-    ],
-    "us_state": {
-      "code": "OK",
-      "name": "Oklahoma",
-      "population": 3956971,
-      "area": 181037
-    },
-    "label": "United States / Oklahoma / Out of OK",
-    "key": "c0cfad44b2aecf07ebd3072931d5c955"
   },
   "4d1ca5913607785d6e05f6dc1acd6cc9": {
     "dataset": "jhu/daily",

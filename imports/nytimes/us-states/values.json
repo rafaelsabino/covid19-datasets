@@ -2345,6 +2345,39 @@
   {
     "dataset": "nytimes/us-states",
     "location": {
+      "key": "255551621c6bc47a2e8e3510e5fa3ff7",
+      "type": "total-region",
+      "label": "Americas",
+      "country": "Americas",
+      "country_code": null,
+      "country_latlong": null,
+      "province": null,
+      "region": "Americas",
+      "subregion": null,
+      "administrative": null,
+      "latlong": null
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 214308,
+      "deaths": 4837
+    },
+    "factbook": {
+      "population": 1014663734,
+      "area": 42447098
+    },
+    "data_key": "a5fcb7917fb8cf47f9ec1cc5feb4db34"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
       "country": "British Virgin Islands",
       "province": null,
       "administrative": null,
@@ -3767,6 +3800,85 @@
   {
     "dataset": "nytimes/us-states",
     "location": {
+      "country": "British Virgin Islands",
+      "province": null,
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "5f4f8a7cafc05344b7144aa5639a02c8",
+      "country_original": "United States",
+      "province_original": "Virgin Islands",
+      "administrative_original": null,
+      "country_code": "VG",
+      "country_latlong": [
+        18.431383,
+        -64.62305
+      ],
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "label": "British Virgin Islands",
+      "type": "country",
+      "latlong": [
+        18.431383,
+        -64.62305
+      ],
+      "key": "12267b90e88f1840d1220fc1d97515a2"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 30,
+      "deaths": null
+    },
+    "factbook": null,
+    "data_key": "8aa32ad112e30049e991c2eeebc8840d"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "a2580f89a7720903fd9ee9514c70828e",
+      "type": "total-country",
+      "label": "British Virgin Islands",
+      "country": "British Virgin Islands",
+      "country_code": "VG",
+      "country_latlong": [
+        18.431383,
+        -64.62305
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.431383,
+        -64.62305
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 30,
+      "deaths": null
+    },
+    "factbook": null,
+    "data_key": "88a2a7de2a532c39838765bd4e09f6ae"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
       "key": "21a21f180e9a8c893a03371ca546379f",
       "type": "total-subregion",
       "label": "Caribbean",
@@ -4390,6 +4502,39 @@
       "area": 231759
     },
     "data_key": "645e026051a160aafde4c144f3ccabcc"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "21a21f180e9a8c893a03371ca546379f",
+      "type": "total-subregion",
+      "label": "Caribbean",
+      "country": "Caribbean",
+      "country_code": null,
+      "country_latlong": null,
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": null
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 316,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 41568099,
+      "area": 231759
+    },
+    "data_key": "9f4db50420c2fd2499158b2465f71eed"
   },
   {
     "dataset": "nytimes/us-states",
@@ -5907,6 +6052,95 @@
   {
     "dataset": "nytimes/us-states",
     "location": {
+      "key": "25da86b59ddddafe2d474111d6515b8c",
+      "type": "total-country",
+      "label": "Guam",
+      "country": "Guam",
+      "country_code": "GU",
+      "country_latlong": [
+        13.46666666,
+        144.78333333
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "administrative": null,
+      "latlong": [
+        13.46666666,
+        144.78333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 147,
+      "deaths": 3
+    },
+    "factbook": {
+      "population": 168485,
+      "median_age": 29.4,
+      "death_rate": 6,
+      "area": 544
+    },
+    "data_key": "a377fbac69f9e1f363b63bf4f1e3807a"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "Guam",
+      "province": null,
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "e93c6d4b6df6f33bc47f6bbf4c198fea",
+      "country_original": "United States",
+      "province_original": "Guam",
+      "administrative_original": null,
+      "country_code": "GU",
+      "country_latlong": [
+        13.46666666,
+        144.78333333
+      ],
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "label": "Guam",
+      "type": "country",
+      "latlong": [
+        13.46666666,
+        144.78333333
+      ],
+      "key": "57f600c539c65a38bc0b0cc02c43fc49"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 147,
+      "deaths": 3
+    },
+    "factbook": {
+      "population": 168485,
+      "median_age": 29.4,
+      "death_rate": 6,
+      "area": 544
+    },
+    "data_key": "6cdf73986d15a7875be668eccdb9205f"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
       "key": "10b06742b022afa095bbe24502cb37eb",
       "type": "total-subregion",
       "label": "Micronesia",
@@ -6464,6 +6698,39 @@
       "area": 3182
     },
     "data_key": "6fa5ad8c0a57cf7639e1d18a1370b9e0"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "10b06742b022afa095bbe24502cb37eb",
+      "type": "total-subregion",
+      "label": "Micronesia",
+      "country": "Micronesia",
+      "country_code": null,
+      "country_latlong": null,
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "administrative": null,
+      "latlong": null
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 153,
+      "deaths": 4
+    },
+    "factbook": {
+      "population": 544752,
+      "area": 3182
+    },
+    "data_key": "adf37c07f85cccbfa994b08734fc07d0"
   },
   {
     "dataset": "nytimes/us-states",
@@ -8811,6 +9078,39 @@
   {
     "dataset": "nytimes/us-states",
     "location": {
+      "key": "519f5c10070b14904b853f06916c72c4",
+      "type": "total-subregion",
+      "label": "North America",
+      "country": "North America",
+      "country_code": null,
+      "country_latlong": null,
+      "province": null,
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": null
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 213992,
+      "deaths": 4826
+    },
+    "factbook": {
+      "population": 499117465,
+      "area": 23948944
+    },
+    "data_key": "0e8adb1293d69b8993e84678b1260e0a"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
       "key": "0af50d3791b9e5c0f9f4364b439fa1b0",
       "type": "total-country",
       "label": "Northern Mariana Islands",
@@ -9163,6 +9463,95 @@
       "area": 464
     },
     "data_key": "a70682f8c00967b053119ad87b8c37a1"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "0af50d3791b9e5c0f9f4364b439fa1b0",
+      "type": "total-country",
+      "label": "Northern Mariana Islands",
+      "country": "Northern Mariana Islands",
+      "country_code": "MP",
+      "country_latlong": [
+        15.2,
+        145.75
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "administrative": null,
+      "latlong": [
+        15.2,
+        145.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 6,
+      "deaths": 1
+    },
+    "factbook": {
+      "population": 51433,
+      "median_age": 32.8,
+      "death_rate": 5.3,
+      "area": 464
+    },
+    "data_key": "d7f6e3dfe887c4731ca4f834f0f88ae7"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "Northern Mariana Islands",
+      "province": null,
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "6424f73272a053451f8b30c693900aab",
+      "country_original": "United States",
+      "province_original": "Northern Mariana Islands",
+      "administrative_original": null,
+      "country_code": "MP",
+      "country_latlong": [
+        15.2,
+        145.75
+      ],
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "label": "Northern Mariana Islands",
+      "type": "country",
+      "latlong": [
+        15.2,
+        145.75
+      ],
+      "key": "53ea2fe0f993276e8838b400ca2b4c9c"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 6,
+      "deaths": 1
+    },
+    "factbook": {
+      "population": 51433,
+      "median_age": 32.8,
+      "death_rate": 5.3,
+      "area": 464
+    },
+    "data_key": "949f46ce9bcaeb86df1137b7a26b16e2"
   },
   {
     "dataset": "nytimes/us-states",
@@ -9724,6 +10113,39 @@
       "area": 8562891
     },
     "data_key": "754e5e6b65e9bf760da5b6b5478ec266"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "a455b8d16e5fb27b8b06e6047a508a86",
+      "type": "total-region",
+      "label": "Oceania",
+      "country": "Oceania",
+      "country_code": null,
+      "country_latlong": null,
+      "province": null,
+      "region": "Oceania",
+      "subregion": null,
+      "administrative": null,
+      "latlong": null
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 153,
+      "deaths": 4
+    },
+    "factbook": {
+      "population": 41104000,
+      "area": 8562891
+    },
+    "data_key": "167b7f4702747cea2ed8d3a63e74a777"
   },
   {
     "dataset": "nytimes/us-states",
@@ -11415,6 +11837,95 @@
       "area": 9104
     },
     "data_key": "2194b9f23a84abc96bb415b0403cf040"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "1611daa0662e830468ec94b7ffe31968",
+      "type": "total-country",
+      "label": "Puerto Rico",
+      "country": "Puerto Rico",
+      "country_code": "PR",
+      "country_latlong": [
+        18.25,
+        -66.5
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.25,
+        -66.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 286,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 3189068,
+      "median_age": 43.6,
+      "death_rate": 9.5,
+      "area": 9104
+    },
+    "data_key": "ab80a20f85ccd745436bd0063835d5b6"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "Puerto Rico",
+      "province": null,
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "c93b2423cc2c1276e5421604b9df9f1f",
+      "country_original": "United States",
+      "province_original": "Puerto Rico",
+      "administrative_original": null,
+      "country_code": "PR",
+      "country_latlong": [
+        18.25,
+        -66.5
+      ],
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "label": "Puerto Rico",
+      "type": "country",
+      "latlong": [
+        18.25,
+        -66.5
+      ],
+      "key": "46029f9a9852a0337c66b090886eb98f"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 286,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 3189068,
+      "median_age": 43.6,
+      "death_rate": 9.5,
+      "area": 9104
+    },
+    "data_key": "f594d1f4e47c1c1efc09b74c045ded80"
   },
   {
     "dataset": "nytimes/us-states",
@@ -155471,6 +155982,4688 @@
   {
     "dataset": "nytimes/us-states",
     "location": {
+      "key": "58f7fea35d6d4b6964733be6592730d6",
+      "type": "total-country",
+      "label": "United States",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 213992,
+      "deaths": 4826
+    },
+    "factbook": {
+      "population": 332639102,
+      "median_age": 38.5,
+      "death_rate": 8.3,
+      "area": 9833517
+    },
+    "data_key": "1502d879cdfac494c0f00e59d1fef6e3"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "cde4c5a2fd25c6819f752df997f7b39c",
+      "type": "total-province",
+      "label": "United States / Alabama",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Alabama",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1106,
+      "deaths": 28
+    },
+    "factbook": {
+      "population": 4903185,
+      "area": 135767
+    },
+    "data_key": "988f098c0cd960cbbc4b9d89bbf2573c"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Alabama",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "671239626f9add0ba8eefc42cf3915e2",
+      "country_original": "United States",
+      "province_original": "Alabama",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "AL",
+        "name": "Alabama",
+        "population": 4903185,
+        "area": 135767
+      },
+      "label": "United States / Alabama",
+      "key": "ce9edf7e78f7f04155e459434cf62755"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1106,
+      "deaths": 28
+    },
+    "factbook": {
+      "population": 4903185,
+      "area": 135767
+    },
+    "data_key": "af2b9de27a57fc8fe5af3455552e6cd8"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "51d7535d95ac4332a495cd8181654ba7",
+      "type": "total-province",
+      "label": "United States / Alaska",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Alaska",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 143,
+      "deaths": 2
+    },
+    "factbook": {
+      "population": 731545,
+      "area": 1723337
+    },
+    "data_key": "17b474941b8500cc3b4c26eacb49b13c"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Alaska",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "5a557b2891b75300adc4b2d5162da473",
+      "country_original": "United States",
+      "province_original": "Alaska",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "AK",
+        "name": "Alaska",
+        "population": 731545,
+        "area": 1723337
+      },
+      "label": "United States / Alaska",
+      "key": "78344549f6a665c351f3b43358482f5b"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 143,
+      "deaths": 2
+    },
+    "factbook": {
+      "population": 731545,
+      "area": 1723337
+    },
+    "data_key": "5fd0d903fbed8bfd2eb69430d8ec883d"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "0aa2f776415ccf06bab5662badec1ce9",
+      "type": "total-province",
+      "label": "United States / Arizona",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Arizona",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1413,
+      "deaths": 29
+    },
+    "factbook": {
+      "population": 7278717,
+      "area": 295234
+    },
+    "data_key": "14395045404e7538b50e7f49edd1c39f"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Arizona",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "c3c96bdd22ef5c6feec9da1b18b3d46e",
+      "country_original": "United States",
+      "province_original": "Arizona",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "AZ",
+        "name": "Arizona",
+        "population": 7278717,
+        "area": 295234
+      },
+      "label": "United States / Arizona",
+      "key": "5558757183bdf0ae3478f2f32435db49"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1413,
+      "deaths": 29
+    },
+    "factbook": {
+      "population": 7278717,
+      "area": 295234
+    },
+    "data_key": "c52085ee2a151d1979f5c74dc4c089ad"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "acbde48d3ef428c98c948f1f25524083",
+      "type": "total-province",
+      "label": "United States / Arkansas",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Arkansas",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 624,
+      "deaths": 10
+    },
+    "factbook": {
+      "population": 3017804,
+      "area": 137732
+    },
+    "data_key": "544ca06c8f0365b80e48450b20a94ce4"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Arkansas",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "65895e6edcec2687d31429acccd722a5",
+      "country_original": "United States",
+      "province_original": "Arkansas",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "AR",
+        "name": "Arkansas",
+        "population": 3017804,
+        "area": 137732
+      },
+      "label": "United States / Arkansas",
+      "key": "da04f435e89f55b34e3773f858f90519"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 624,
+      "deaths": 10
+    },
+    "factbook": {
+      "population": 3017804,
+      "area": 137732
+    },
+    "data_key": "7b8d3fdbbc0a29a71b1a4a03fc1e296d"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "California",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "2bb54a82576fabcccc9bc2c897af7c75",
+      "country_original": "United States",
+      "province_original": "California",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "CA",
+        "name": "California",
+        "population": 39512223,
+        "area": 423967
+      },
+      "label": "United States / California",
+      "key": "66c6644300f5bdb69284bc5f88c9749e"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 9816,
+      "deaths": 212
+    },
+    "factbook": {
+      "population": 39512223,
+      "area": 423967
+    },
+    "data_key": "837deabb35d8099caff546ce73d480ce"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "e1ebcada05c55ae00125e661985e3f4f",
+      "type": "total-province",
+      "label": "United States / California",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "California",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 9816,
+      "deaths": 212
+    },
+    "factbook": {
+      "population": 39512223,
+      "area": 423967
+    },
+    "data_key": "cc4094a2bb84a36dcf64462e88780e67"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Colorado",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "85453dda510a8691850028490a92431a",
+      "country_original": "United States",
+      "province_original": "Colorado",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "CO",
+        "name": "Colorado",
+        "population": 5758736,
+        "area": 269601
+      },
+      "label": "United States / Colorado",
+      "key": "1be535b1e07ccab08c892b6d667cf1ab"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 3346,
+      "deaths": 80
+    },
+    "factbook": {
+      "population": 5758736,
+      "area": 269601
+    },
+    "data_key": "39a396c1ed2ab2d3fd35b94fa9bf0fa6"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "c3fa1a35585322c0f0e82a83f4523dfc",
+      "type": "total-province",
+      "label": "United States / Colorado",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Colorado",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 3346,
+      "deaths": 80
+    },
+    "factbook": {
+      "population": 5758736,
+      "area": 269601
+    },
+    "data_key": "39331b314f081e0b218c1c9c4440a639"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Connecticut",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "6b68dbf926c476319cef745962793a40",
+      "country_original": "United States",
+      "province_original": "Connecticut",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "CT",
+        "name": "Connecticut",
+        "population": 3565278,
+        "area": 14357
+      },
+      "label": "United States / Connecticut",
+      "key": "493861b3572239a45a592bfcfd64e45c"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 3557,
+      "deaths": 85
+    },
+    "factbook": {
+      "population": 3565278,
+      "area": 14357
+    },
+    "data_key": "dd631f46864610fc258075d7b488a562"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "f7259bf6cd9bc9575c809c25f4f6cd6e",
+      "type": "total-province",
+      "label": "United States / Connecticut",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Connecticut",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 3557,
+      "deaths": 85
+    },
+    "factbook": {
+      "population": 3565278,
+      "area": 14357
+    },
+    "data_key": "a89402b84c962a940e8b5fef557ff7c7"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Delaware",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "7d6fb21ae8ed7fbe7ad99742ede4b5c8",
+      "country_original": "United States",
+      "province_original": "Delaware",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "DE",
+        "name": "Delaware",
+        "population": 973764,
+        "area": 6446
+      },
+      "label": "United States / Delaware",
+      "key": "9d75a013f27040ae5100fe165fc18203"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 368,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 973764,
+      "area": 6446
+    },
+    "data_key": "bee3aabf5e1c857093feea0c551aa248"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "efa0f50109b42af27dc1298a8f3fc119",
+      "type": "total-province",
+      "label": "United States / Delaware",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Delaware",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 368,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 973764,
+      "area": 6446
+    },
+    "data_key": "8387cd8f3c56d003ea3f285a4c0f8ab6"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "506e1f08f2bf9323c20759ae241dfc3f",
+      "type": "total-province",
+      "label": "United States / District of Columbia",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "District of Columbia",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 586,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 705749,
+      "area": 176
+    },
+    "data_key": "ff3309e1aef3cf1ab5893e5e4e8c7027"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "District of Columbia",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "bb3e5b7a29a10dad75ec261439e1d5ea",
+      "country_original": "United States",
+      "province_original": "District of Columbia",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "DC",
+        "name": "District of Columbia",
+        "population": 705749,
+        "area": 176
+      },
+      "label": "United States / District of Columbia",
+      "key": "526af5abc64dac017c8824457ebf1c6f"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 586,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 705749,
+      "area": 176
+    },
+    "data_key": "52414814105fb18381d89695e32ac524"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "4ea37879342c6402dc0d2ae6a5b3a561",
+      "type": "total-province",
+      "label": "United States / Florida",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Florida",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 7765,
+      "deaths": 100
+    },
+    "factbook": {
+      "population": 21477737,
+      "area": 170312
+    },
+    "data_key": "96f2a343f0899413933aa350972b2c24"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Florida",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "1fa8645088939c394c899057a04c3667",
+      "country_original": "United States",
+      "province_original": "Florida",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "FL",
+        "name": "Florida",
+        "population": 21477737,
+        "area": 170312
+      },
+      "label": "United States / Florida",
+      "key": "ecd2bf6d95380039cc8b5c2ff8393d5e"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 7765,
+      "deaths": 100
+    },
+    "factbook": {
+      "population": 21477737,
+      "area": 170312
+    },
+    "data_key": "3ffb7def83a0997116956f8797b7a861"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "4edc9a4c11445f7d65df32423144a78e",
+      "type": "total-province",
+      "label": "United States / Georgia",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Georgia",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 4748,
+      "deaths": 154
+    },
+    "factbook": {
+      "population": 10617423,
+      "area": 153910
+    },
+    "data_key": "ea02843c31bbcb32d79a445cd86a0ac2"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Georgia",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "badd951658c592c96403be8881483752",
+      "country_original": "United States",
+      "province_original": "Georgia",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "GA",
+        "name": "Georgia",
+        "population": 10617423,
+        "area": 153910
+      },
+      "label": "United States / Georgia",
+      "key": "6cd9a76092e9b3ecd0df4b260eef7f46"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 4748,
+      "deaths": 154
+    },
+    "factbook": {
+      "population": 10617423,
+      "area": 153910
+    },
+    "data_key": "9288ce4bb3a959276305a98a51a30923"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Hawaii",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "b6a580cb5521e224a4c0673dcbee8a6b",
+      "country_original": "United States",
+      "province_original": "Hawaii",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "HI",
+        "name": "Hawaii",
+        "population": 1415872,
+        "area": 28313
+      },
+      "label": "United States / Hawaii",
+      "key": "5a67ef46f23e810267b9872b079c5785"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 258,
+      "deaths": 1
+    },
+    "factbook": {
+      "population": 1415872,
+      "area": 28313
+    },
+    "data_key": "b030df50fec093db8fdef08bd6a89ee1"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "e15a082700da154b03d45828af6e0d85",
+      "type": "total-province",
+      "label": "United States / Hawaii",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Hawaii",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 258,
+      "deaths": 1
+    },
+    "factbook": {
+      "population": 1415872,
+      "area": 28313
+    },
+    "data_key": "d2bd3428e0fd51f9af24bf17f63a8e65"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Idaho",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "17f06b4391ca3c7a635d08b7f1e5f0bb",
+      "country_original": "United States",
+      "province_original": "Idaho",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "ID",
+        "name": "Idaho",
+        "population": 1787065,
+        "area": 216443
+      },
+      "label": "United States / Idaho",
+      "key": "ad99ab195d9ffeab18513078b36a1678"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 669,
+      "deaths": 9
+    },
+    "factbook": {
+      "population": 1787065,
+      "area": 216443
+    },
+    "data_key": "55f8548beb92f3196c9d92f587562d94"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "bc84958c43af8c813b5c9d02c9be0718",
+      "type": "total-province",
+      "label": "United States / Idaho",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Idaho",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 669,
+      "deaths": 9
+    },
+    "factbook": {
+      "population": 1787065,
+      "area": 216443
+    },
+    "data_key": "a07c5e69c32fd1301d4d532155875bb1"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Illinois",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "7fc6d638f24fb0a5d74202d8e029e7fa",
+      "country_original": "United States",
+      "province_original": "Illinois",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "IL",
+        "name": "Illinois",
+        "population": 12671821,
+        "area": 149995
+      },
+      "label": "United States / Illinois",
+      "key": "a35eb2276a420665ce59b4a8e937a9bf"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 6980,
+      "deaths": 146
+    },
+    "factbook": {
+      "population": 12671821,
+      "area": 149995
+    },
+    "data_key": "f9aa736f9762021f2c4fd5a1da65560a"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "d4cd4c193943e62ee4070e7f0adb4df6",
+      "type": "total-province",
+      "label": "United States / Illinois",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Illinois",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 6980,
+      "deaths": 146
+    },
+    "factbook": {
+      "population": 12671821,
+      "area": 149995
+    },
+    "data_key": "92ca848797694a957fd4f70f7e252045"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Indiana",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "e70ab889397bcd14f592c4d077a6d27a",
+      "country_original": "United States",
+      "province_original": "Indiana",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "IN",
+        "name": "Indiana",
+        "population": 6732219,
+        "area": 94326
+      },
+      "label": "United States / Indiana",
+      "key": "4e9bc946d0d49b3f8893d71cc6173645"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 2565,
+      "deaths": 65
+    },
+    "factbook": {
+      "population": 6732219,
+      "area": 94326
+    },
+    "data_key": "85f1e89fd54484db7c93c31b94652fd7"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "5b087d61131a708ef7bd3ea76e76837c",
+      "type": "total-province",
+      "label": "United States / Indiana",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Indiana",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 2565,
+      "deaths": 65
+    },
+    "factbook": {
+      "population": 6732219,
+      "area": 94326
+    },
+    "data_key": "c4d8a1896add9ab02baba637eb1bfcb2"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Iowa",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "66a4fa21bc58e4353dfdf7dc0f028b7e",
+      "country_original": "United States",
+      "province_original": "Iowa",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "IA",
+        "name": "Iowa",
+        "population": 3155070,
+        "area": 145746
+      },
+      "label": "United States / Iowa",
+      "key": "218bf346493e4934083263bbc04a770d"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 549,
+      "deaths": 9
+    },
+    "factbook": {
+      "population": 3155070,
+      "area": 145746
+    },
+    "data_key": "dbb5c7ed37358c96bb1dee786b12aadd"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "69106515322630fcea565bee4d980909",
+      "type": "total-province",
+      "label": "United States / Iowa",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Iowa",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 549,
+      "deaths": 9
+    },
+    "factbook": {
+      "population": 3155070,
+      "area": 145746
+    },
+    "data_key": "329e3948548e10363c968bb593b2d2b9"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "69da02db6ca92eb71879f4b715b7ed1c",
+      "type": "total-province",
+      "label": "United States / Kansas",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Kansas",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 488,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 2913314,
+      "area": 213100
+    },
+    "data_key": "fc7e3b7280f7d83ae9691ae3221d3f9a"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Kansas",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "6d779ee6e00548137c6e80adc5c56385",
+      "country_original": "United States",
+      "province_original": "Kansas",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "KS",
+        "name": "Kansas",
+        "population": 2913314,
+        "area": 213100
+      },
+      "label": "United States / Kansas",
+      "key": "e09c04dc3f151f57816406064340f041"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 488,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 2913314,
+      "area": 213100
+    },
+    "data_key": "843a24fa7903797d7d4125a2d9698cbb"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "b3462d9a0a0285b4bb5a7e24f22964b3",
+      "type": "total-province",
+      "label": "United States / Kentucky",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Kentucky",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 682,
+      "deaths": 20
+    },
+    "factbook": {
+      "population": 4467673,
+      "area": 104656
+    },
+    "data_key": "ae0586eb87ee8d469c3475afdac3132a"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Kentucky",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "7fb718f10084c4767477dc24ba15e469",
+      "country_original": "United States",
+      "province_original": "Kentucky",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "KY",
+        "name": "Kentucky",
+        "population": 4467673,
+        "area": 104656
+      },
+      "label": "United States / Kentucky",
+      "key": "e7a6b9a0be5e0fe175e6e759542b0041"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 682,
+      "deaths": 20
+    },
+    "factbook": {
+      "population": 4467673,
+      "area": 104656
+    },
+    "data_key": "62fa387349da43c298554e152d70fdf4"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "6c952e34a9de313a7d2f527cb74defb9",
+      "type": "total-province",
+      "label": "United States / Louisiana",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Louisiana",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 6424,
+      "deaths": 273
+    },
+    "factbook": {
+      "population": 4648794,
+      "area": 135659
+    },
+    "data_key": "c96e65e5c952b935add42e1cb568226b"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Louisiana",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "315c9d09578d213bc4b316a5c5ecaa02",
+      "country_original": "United States",
+      "province_original": "Louisiana",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "LA",
+        "name": "Louisiana",
+        "population": 4648794,
+        "area": 135659
+      },
+      "label": "United States / Louisiana",
+      "key": "b2c99f0d0b877c2d22895f9edfc7c7a7"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 6424,
+      "deaths": 273
+    },
+    "factbook": {
+      "population": 4648794,
+      "area": 135659
+    },
+    "data_key": "fa175d1978068d5ef98d0b2fe3c2f8d3"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "7382d53631b597fbf8f23e3bda83f1b6",
+      "type": "total-province",
+      "label": "United States / Maine",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Maine",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 344,
+      "deaths": 7
+    },
+    "factbook": {
+      "population": 1344212,
+      "area": 91633
+    },
+    "data_key": "72f6e3d2ccc4a7ab963702466e95af6f"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Maine",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "1412d2fb5ee3234eaae34e47dba95e94",
+      "country_original": "United States",
+      "province_original": "Maine",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "ME",
+        "name": "Maine",
+        "population": 1344212,
+        "area": 91633
+      },
+      "label": "United States / Maine",
+      "key": "ed480cd15b99323c536e76931c48b0a5"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 344,
+      "deaths": 7
+    },
+    "factbook": {
+      "population": 1344212,
+      "area": 91633
+    },
+    "data_key": "94aaf999f96c6db28faf84339cab72e2"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "3ba50f04e5bd04f1222ff33e71044f08",
+      "type": "total-province",
+      "label": "United States / Maryland",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Maryland",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1985,
+      "deaths": 33
+    },
+    "factbook": {
+      "population": 6045680,
+      "area": 32131
+    },
+    "data_key": "fbaa27f458507925075025048ca84b77"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Maryland",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "0282a9fd1b1b7a8f5d3950aafa304414",
+      "country_original": "United States",
+      "province_original": "Maryland",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "MD",
+        "name": "Maryland",
+        "population": 6045680,
+        "area": 32131
+      },
+      "label": "United States / Maryland",
+      "key": "4e4c149d7f2d6fa7ea068fc509e56849"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1985,
+      "deaths": 33
+    },
+    "factbook": {
+      "population": 6045680,
+      "area": 32131
+    },
+    "data_key": "0765b1436f247d0188d8ca8ead04c305"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "a2a98bfa5222c70cc5cbf8c333b7ac4c",
+      "type": "total-province",
+      "label": "United States / Massachusetts",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Massachusetts",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 7738,
+      "deaths": 122
+    },
+    "factbook": {
+      "population": 6892503,
+      "area": 27336
+    },
+    "data_key": "dd87a768d78ac787c56b4c01b7127261"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Massachusetts",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "0540c9ad87b3400cb06402efde62bc6f",
+      "country_original": "United States",
+      "province_original": "Massachusetts",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "MA",
+        "name": "Massachusetts",
+        "population": 6892503,
+        "area": 27336
+      },
+      "label": "United States / Massachusetts",
+      "key": "b849c95bd90ef00030064861d75f119c"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 7738,
+      "deaths": 122
+    },
+    "factbook": {
+      "population": 6892503,
+      "area": 27336
+    },
+    "data_key": "7579b412e4b7a96a38b806695b53478c"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "a497f2f235b4a8d50e903c967f779fbb",
+      "type": "total-province",
+      "label": "United States / Michigan",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Michigan",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 9293,
+      "deaths": 336
+    },
+    "factbook": {
+      "population": 9986857,
+      "area": 250487
+    },
+    "data_key": "0f35a30818c6f7973d181c2e4d435849"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Michigan",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "f20e0530a1200526378b5b851ff0a07a",
+      "country_original": "United States",
+      "province_original": "Michigan",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "MI",
+        "name": "Michigan",
+        "population": 9986857,
+        "area": 250487
+      },
+      "label": "United States / Michigan",
+      "key": "ed202a4161c9e778a4cd4f3a1461621b"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 9293,
+      "deaths": 336
+    },
+    "factbook": {
+      "population": 9986857,
+      "area": 250487
+    },
+    "data_key": "1dcea60c5ffba836e46181b31994d35c"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Minnesota",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "f9441711b8063d26620a276867a0d248",
+      "country_original": "United States",
+      "province_original": "Minnesota",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "MN",
+        "name": "Minnesota",
+        "population": 5639632,
+        "area": 225163
+      },
+      "label": "United States / Minnesota",
+      "key": "2ba7d565419954f7fdd46f87916ae9ec"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 689,
+      "deaths": 17
+    },
+    "factbook": {
+      "population": 5639632,
+      "area": 225163
+    },
+    "data_key": "db869a0a27dfb8c4f992cdd8b4429982"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "bcf07a3c9d45f747868f2dd6d79b98e8",
+      "type": "total-province",
+      "label": "United States / Minnesota",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Minnesota",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 689,
+      "deaths": 17
+    },
+    "factbook": {
+      "population": 5639632,
+      "area": 225163
+    },
+    "data_key": "ca2fdf38034bd8bb0e445cc5a6fe4fb6"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Mississippi",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "d773ca96cdb4b3eb73f417ecad12ca8c",
+      "country_original": "United States",
+      "province_original": "Mississippi",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "MS",
+        "name": "Mississippi",
+        "population": 2976149,
+        "area": 125438
+      },
+      "label": "United States / Mississippi",
+      "key": "bbcc8951be5664aa8afe4953491f02eb"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1073,
+      "deaths": 22
+    },
+    "factbook": {
+      "population": 2976149,
+      "area": 125438
+    },
+    "data_key": "d21340ab509bc0a41c48958a26f0b23e"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "dcd66e23a5fde5eb551ef9ec7c100b00",
+      "type": "total-province",
+      "label": "United States / Mississippi",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Mississippi",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1073,
+      "deaths": 22
+    },
+    "factbook": {
+      "population": 2976149,
+      "area": 125438
+    },
+    "data_key": "f7bd70562290c686170e7a582983abdd"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Missouri",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "de8d5e130a36fd64e1477000ac3e208d",
+      "country_original": "United States",
+      "province_original": "Missouri",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "MO",
+        "name": "Missouri",
+        "population": 6137428,
+        "area": 180540
+      },
+      "label": "United States / Missouri",
+      "key": "7f501f0796640451b813741a2766fec9"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1581,
+      "deaths": 18
+    },
+    "factbook": {
+      "population": 6137428,
+      "area": 180540
+    },
+    "data_key": "577363a8026c8e9e8a33420a95f881cc"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "f6773c7e48ec04a6c2e2f6ba8c220a26",
+      "type": "total-province",
+      "label": "United States / Missouri",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Missouri",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1581,
+      "deaths": 18
+    },
+    "factbook": {
+      "population": 6137428,
+      "area": 180540
+    },
+    "data_key": "a1cf6b5264dd95e078ecfaaeae150eca"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "885e5aaf877b3c68b8cc06b222f3ce0e",
+      "type": "total-province",
+      "label": "United States / Montana",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Montana",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 217,
+      "deaths": 5
+    },
+    "factbook": {
+      "population": 1068778,
+      "area": 380831
+    },
+    "data_key": "9cd8a9eda8886a64dbcb89df49e1ff37"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Montana",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "5406a69ca72ed9afcf125b191544f1ce",
+      "country_original": "United States",
+      "province_original": "Montana",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "MT",
+        "name": "Montana",
+        "population": 1068778,
+        "area": 380831
+      },
+      "label": "United States / Montana",
+      "key": "cc81362677eaa2a0a65b34443964ca61"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 217,
+      "deaths": 5
+    },
+    "factbook": {
+      "population": 1068778,
+      "area": 380831
+    },
+    "data_key": "c883814db3bd640ef6d6f268166d9fa2"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Nebraska",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "d44dde49cae73a058587ffe30bec339f",
+      "country_original": "United States",
+      "province_original": "Nebraska",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "NE",
+        "name": "Nebraska",
+        "population": 1934408,
+        "area": 200330
+      },
+      "label": "United States / Nebraska",
+      "key": "ba0f84957f10d0b828c05401bce2bef6"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 249,
+      "deaths": 5
+    },
+    "factbook": {
+      "population": 1934408,
+      "area": 200330
+    },
+    "data_key": "fe5d8589ce10ed61d95beb5810c4938a"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "c4733ca759dbcc550e6e28b4ecf3f97b",
+      "type": "total-province",
+      "label": "United States / Nebraska",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Nebraska",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 249,
+      "deaths": 5
+    },
+    "factbook": {
+      "population": 1934408,
+      "area": 200330
+    },
+    "data_key": "55259e00ce56a5ba2c2955627a421c14"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "0e7cb22691322d847f43badf84bc9aa0",
+      "type": "total-province",
+      "label": "United States / Nevada",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Nevada",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1279,
+      "deaths": 32
+    },
+    "factbook": {
+      "population": 3080156,
+      "area": 286380
+    },
+    "data_key": "65681c9ec9712e0d959a47f1e58d5a07"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Nevada",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "d04880183bb90089e88103fcf73380e8",
+      "country_original": "United States",
+      "province_original": "Nevada",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "NV",
+        "name": "Nevada",
+        "population": 3080156,
+        "area": 286380
+      },
+      "label": "United States / Nevada",
+      "key": "8091a9c1ade55ccfe434d766d498feae"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1279,
+      "deaths": 32
+    },
+    "factbook": {
+      "population": 3080156,
+      "area": 286380
+    },
+    "data_key": "79c443c1a425d58d287ad903dccbcf80"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "4a92537cb547a820bd203bb9d8a1d447",
+      "type": "total-province",
+      "label": "United States / New Hampshire",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "New Hampshire",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 415,
+      "deaths": 4
+    },
+    "factbook": {
+      "population": 1359711,
+      "area": 24214
+    },
+    "data_key": "8ce614d9b5e02474d19ba019e3e648ac"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "New Hampshire",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "6a8b9850db4db0282e26e53749f90515",
+      "country_original": "United States",
+      "province_original": "New Hampshire",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "NH",
+        "name": "New Hampshire",
+        "population": 1359711,
+        "area": 24214
+      },
+      "label": "United States / New Hampshire",
+      "key": "d2a18e00f1093e4098c3b022facfed0e"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 415,
+      "deaths": 4
+    },
+    "factbook": {
+      "population": 1359711,
+      "area": 24214
+    },
+    "data_key": "a1c48bf4565a69c5c00801cdaac2efa1"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "5308ed772b12be0fbd732d93b62a566f",
+      "type": "total-province",
+      "label": "United States / New Jersey",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "New Jersey",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 22255,
+      "deaths": 355
+    },
+    "factbook": {
+      "population": 8882190,
+      "area": 22591
+    },
+    "data_key": "9574fa8f24474399a44e00caddf3e04c"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "New Jersey",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "c8a555f795e1c653f7340ac6f8775ba2",
+      "country_original": "United States",
+      "province_original": "New Jersey",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "NJ",
+        "name": "New Jersey",
+        "population": 8882190,
+        "area": 22591
+      },
+      "label": "United States / New Jersey",
+      "key": "bb86155566c8601c49dbf925636f007c"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 22255,
+      "deaths": 355
+    },
+    "factbook": {
+      "population": 8882190,
+      "area": 22591
+    },
+    "data_key": "40fc9264b66c85fd6dbddbb043e0bb17"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "New Mexico",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "b8a243984f14035209c0eca1d311bb37",
+      "country_original": "United States",
+      "province_original": "New Mexico",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "NM",
+        "name": "New Mexico",
+        "population": 2096829,
+        "area": 314917
+      },
+      "label": "United States / New Mexico",
+      "key": "0703fc3bab05595879f364a250388558"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 363,
+      "deaths": 6
+    },
+    "factbook": {
+      "population": 2096829,
+      "area": 314917
+    },
+    "data_key": "c14ae693c7f6cc08eb92a4e981f2fab8"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "17b0f590778b844f5dbd0e5a473cb148",
+      "type": "total-province",
+      "label": "United States / New Mexico",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "New Mexico",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 363,
+      "deaths": 6
+    },
+    "factbook": {
+      "population": 2096829,
+      "area": 314917
+    },
+    "data_key": "8f11f5540335c4c2e788c75c51e4e5b2"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "67be5837d03218e8cbba3ebdd95d71bf",
+      "type": "total-province",
+      "label": "United States / New York",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "New York",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 83889,
+      "deaths": 1941
+    },
+    "factbook": {
+      "population": 19453561,
+      "area": 141297
+    },
+    "data_key": "3a09ed454f2749045cbbf639f01d702b"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "New York",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "52feb0fa758a954be1e68ab6d2858fe8",
+      "country_original": "United States",
+      "province_original": "New York",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "NY",
+        "name": "New York",
+        "population": 19453561,
+        "area": 141297
+      },
+      "label": "United States / New York",
+      "key": "9072486641c665626d5d9dcda3716e62"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 83889,
+      "deaths": 1941
+    },
+    "factbook": {
+      "population": 19453561,
+      "area": 141297
+    },
+    "data_key": "a29e69ee52e168b16cff1c1681bdda8e"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "North Carolina",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "6c861343ef842c7e907d7f1b2d823266",
+      "country_original": "United States",
+      "province_original": "North Carolina",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "NC",
+        "name": "North Carolina",
+        "population": 10488084,
+        "area": 139391
+      },
+      "label": "United States / North Carolina",
+      "key": "80c72d2a107b6976945e9de933d22ba9"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1582,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 10488084,
+      "area": 139391
+    },
+    "data_key": "7213fd8369d0de1d0ca087951b9d339e"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "a34810c7f7a5f5b374fe3d9d3b6fa6cf",
+      "type": "total-province",
+      "label": "United States / North Carolina",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "North Carolina",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1582,
+      "deaths": 11
+    },
+    "factbook": {
+      "population": 10488084,
+      "area": 139391
+    },
+    "data_key": "cdb0de1cf82f615c835ac1679f0a029b"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "4685dc8227c3e81b1f729d26f3718798",
+      "type": "total-province",
+      "label": "United States / North Dakota",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "North Dakota",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 147,
+      "deaths": 3
+    },
+    "factbook": {
+      "population": 762062,
+      "area": 183108
+    },
+    "data_key": "5732114f9e19611d6b4ad7b04d7da8b1"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "North Dakota",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "24b3b6952b56094c1ca5677857163f4a",
+      "country_original": "United States",
+      "province_original": "North Dakota",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "ND",
+        "name": "North Dakota",
+        "population": 762062,
+        "area": 183108
+      },
+      "label": "United States / North Dakota",
+      "key": "d533ee8d02e818c8d143b67a669ffc21"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 147,
+      "deaths": 3
+    },
+    "factbook": {
+      "population": 762062,
+      "area": 183108
+    },
+    "data_key": "e438e08c65f8dc3ea406c35b644d6c60"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Ohio",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "92867e7f684b3413638fa61bc12c1282",
+      "country_original": "United States",
+      "province_original": "Ohio",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "OH",
+        "name": "Ohio",
+        "population": 11689100,
+        "area": 116098
+      },
+      "label": "United States / Ohio",
+      "key": "9e248e6159c5e987945a0aca2ed7354d"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 2547,
+      "deaths": 65
+    },
+    "factbook": {
+      "population": 11689100,
+      "area": 116098
+    },
+    "data_key": "31174f82258fad205587434c923461ec"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "a294696204192fd5404d120f6ea3cde2",
+      "type": "total-province",
+      "label": "United States / Ohio",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Ohio",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 2547,
+      "deaths": 65
+    },
+    "factbook": {
+      "population": 11689100,
+      "area": 116098
+    },
+    "data_key": "1cd9e553ff2b02c53582f409ad8bd2c5"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "43d06458f8409e89a05046ce0207b010",
+      "type": "total-province",
+      "label": "United States / Oklahoma",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Oklahoma",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 719,
+      "deaths": 30
+    },
+    "factbook": {
+      "population": 3956971,
+      "area": 181037
+    },
+    "data_key": "b9d84719fe5586667d7c7429437dcd20"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Oklahoma",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "85ffe5b30d646614b19b173a215af00c",
+      "country_original": "United States",
+      "province_original": "Oklahoma",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "OK",
+        "name": "Oklahoma",
+        "population": 3956971,
+        "area": 181037
+      },
+      "label": "United States / Oklahoma",
+      "key": "af5fb8aca7d2df05c75cc5f48c6316ad"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 719,
+      "deaths": 30
+    },
+    "factbook": {
+      "population": 3956971,
+      "area": 181037
+    },
+    "data_key": "98f1565e6e659544baf1a3cb88f191aa"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "b0882e5efb7aec2238e4fd7f44d4a5fd",
+      "type": "total-province",
+      "label": "United States / Oregon",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Oregon",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 736,
+      "deaths": 19
+    },
+    "factbook": {
+      "population": 4217737,
+      "area": 254799
+    },
+    "data_key": "ff12c156346a42e61d721597c6c2955a"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Oregon",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "47da6e710e93f58ead55d59eeff5459c",
+      "country_original": "United States",
+      "province_original": "Oregon",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "OR",
+        "name": "Oregon",
+        "population": 4217737,
+        "area": 254799
+      },
+      "label": "United States / Oregon",
+      "key": "b0c8b471419181755516fa4033cc86f7"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 736,
+      "deaths": 19
+    },
+    "factbook": {
+      "population": 4217737,
+      "area": 254799
+    },
+    "data_key": "5b861544667897294b4e91a0a33de854"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "13a970754e391a9662f97bcf89ab9b46",
+      "type": "total-province",
+      "label": "United States / Pennsylvania",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Pennsylvania",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 5805,
+      "deaths": 74
+    },
+    "factbook": {
+      "population": 12801989,
+      "area": 119280
+    },
+    "data_key": "815ac5fa0c42c27ef07b894d62bb94a6"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Pennsylvania",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "9cf0d89f5137851b5c3db26dd562613c",
+      "country_original": "United States",
+      "province_original": "Pennsylvania",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "PA",
+        "name": "Pennsylvania",
+        "population": 12801989,
+        "area": 119280
+      },
+      "label": "United States / Pennsylvania",
+      "key": "82054a59ffb4037dd43b5e342c1356c2"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 5805,
+      "deaths": 74
+    },
+    "factbook": {
+      "population": 12801989,
+      "area": 119280
+    },
+    "data_key": "408e5fbda3b4aa6a345add626ec3bdb3"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "7eb9a69028c9a52a5e91c1a2850ff9a8",
+      "type": "total-province",
+      "label": "United States / Rhode Island",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Rhode Island",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 566,
+      "deaths": 10
+    },
+    "factbook": {
+      "population": 1059361,
+      "area": 4001
+    },
+    "data_key": "0c21124137eca078ab89d259e6bf41a5"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Rhode Island",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "3a494a410cc060fbf4b596fd3c19d251",
+      "country_original": "United States",
+      "province_original": "Rhode Island",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "RI",
+        "name": "Rhode Island",
+        "population": 1059361,
+        "area": 4001
+      },
+      "label": "United States / Rhode Island",
+      "key": "c586ac9284a432eeca7ecd1dc6933549"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 566,
+      "deaths": 10
+    },
+    "factbook": {
+      "population": 1059361,
+      "area": 4001
+    },
+    "data_key": "36398e821dd4c951e24c9d34d54bd737"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "3dfdd41069cdce4501213645847d09ef",
+      "type": "total-province",
+      "label": "United States / South Carolina",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "South Carolina",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1293,
+      "deaths": 26
+    },
+    "factbook": {
+      "population": 5148714,
+      "area": 82933
+    },
+    "data_key": "78a16b8c8dc63431f04a390209787a55"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "South Carolina",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "c6253093f08b669ea75d5131075722da",
+      "country_original": "United States",
+      "province_original": "South Carolina",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "SC",
+        "name": "South Carolina",
+        "population": 5148714,
+        "area": 82933
+      },
+      "label": "United States / South Carolina",
+      "key": "abb6c977b3f60cff70985ee0c8df2330"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1293,
+      "deaths": 26
+    },
+    "factbook": {
+      "population": 5148714,
+      "area": 82933
+    },
+    "data_key": "be1dfcaacac9a5c8889392eb10624648"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "South Dakota",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "0245a238e83293e362d56f614ccba557",
+      "country_original": "United States",
+      "province_original": "South Dakota",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "SD",
+        "name": "South Dakota",
+        "population": 884659,
+        "area": 199729
+      },
+      "label": "United States / South Dakota",
+      "key": "1482f0d477d5b51375367280820c9090"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 129,
+      "deaths": 2
+    },
+    "factbook": {
+      "population": 884659,
+      "area": 199729
+    },
+    "data_key": "d81877e44756b6461f80422b4f24500f"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "71cf7268ee4b2004a5e7caef36ca5170",
+      "type": "total-province",
+      "label": "United States / South Dakota",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "South Dakota",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 129,
+      "deaths": 2
+    },
+    "factbook": {
+      "population": 884659,
+      "area": 199729
+    },
+    "data_key": "1583508f1d312aa55d6e38615a138d42"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "4ae9e5f5aaa08538997872c77f8cd366",
+      "type": "total-province",
+      "label": "United States / Tennessee",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Tennessee",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 2440,
+      "deaths": 23
+    },
+    "factbook": {
+      "population": 6829174,
+      "area": 109153
+    },
+    "data_key": "91053428fe1dce8685b3acc0b70916f8"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Tennessee",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "f3b83ab41bb9b46bca64db69f4ce11b2",
+      "country_original": "United States",
+      "province_original": "Tennessee",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "TN",
+        "name": "Tennessee",
+        "population": 6829174,
+        "area": 109153
+      },
+      "label": "United States / Tennessee",
+      "key": "c292ee62a7f995213abd631582095f36"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 2440,
+      "deaths": 23
+    },
+    "factbook": {
+      "population": 6829174,
+      "area": 109153
+    },
+    "data_key": "ef68c1cbbd4494663db2821cb635af0e"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "55bab0799ebb32de4d10503f47738204",
+      "type": "total-province",
+      "label": "United States / Texas",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Texas",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 4261,
+      "deaths": 63
+    },
+    "factbook": {
+      "population": 28995881,
+      "area": 695662
+    },
+    "data_key": "5e12113db4d142c7099d3981b5d8b1ba"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Texas",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "2967bc1d22e480bffb781902a17dd200",
+      "country_original": "United States",
+      "province_original": "Texas",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "TX",
+        "name": "Texas",
+        "population": 28995881,
+        "area": 695662
+      },
+      "label": "United States / Texas",
+      "key": "a22b6e23137d4cc13d932efec4e2aece"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 4261,
+      "deaths": 63
+    },
+    "factbook": {
+      "population": 28995881,
+      "area": 695662
+    },
+    "data_key": "3cc66503bcbbc3b8a1b61fece08aa169"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "13aa6948d618256bb233e05d6e9d00f2",
+      "type": "total-province",
+      "label": "United States / Utah",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Utah",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1012,
+      "deaths": 7
+    },
+    "factbook": {
+      "population": 3205958,
+      "area": 219882
+    },
+    "data_key": "226c3e6fa57d818253fd04f322af5d1b"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Utah",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "fbec44510eac08eced581784170207f1",
+      "country_original": "United States",
+      "province_original": "Utah",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "UT",
+        "name": "Utah",
+        "population": 3205958,
+        "area": 219882
+      },
+      "label": "United States / Utah",
+      "key": "3cdbb041de433823448df293d205fdbf"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1012,
+      "deaths": 7
+    },
+    "factbook": {
+      "population": 3205958,
+      "area": 219882
+    },
+    "data_key": "aef03be1a86a0a4be496310ffef6abaa"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Vermont",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "5e6f673eebebdcf7ccb08e54168f794f",
+      "country_original": "United States",
+      "province_original": "Vermont",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "VT",
+        "name": "Vermont",
+        "population": 623989,
+        "area": 24906
+      },
+      "label": "United States / Vermont",
+      "key": "a10ec1c2f3661450ddf6c5a6d3e54123"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 321,
+      "deaths": 16
+    },
+    "factbook": {
+      "population": 623989,
+      "area": 24906
+    },
+    "data_key": "4cc52addb6432cca71bf55ef087546f7"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "b4e5bcd25ced06cd4527e290d31ce4c9",
+      "type": "total-province",
+      "label": "United States / Vermont",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Vermont",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 321,
+      "deaths": 16
+    },
+    "factbook": {
+      "population": 623989,
+      "area": 24906
+    },
+    "data_key": "e98883483f27a44060262810ce079f3c"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "79bde8b0ce357bd113b76d84fa981c82",
+      "type": "total-province",
+      "label": "United States / Virginia",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Virginia",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1511,
+      "deaths": 34
+    },
+    "factbook": {
+      "population": 8535519,
+      "area": 110787
+    },
+    "data_key": "5fba66d6357f08c3fb2f176d9a853e04"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Virginia",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "a8901a263fc074fb0c1ebd74c43066da",
+      "country_original": "United States",
+      "province_original": "Virginia",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "VA",
+        "name": "Virginia",
+        "population": 8535519,
+        "area": 110787
+      },
+      "label": "United States / Virginia",
+      "key": "90c000c3ac68210078bc3389d24ca794"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1511,
+      "deaths": 34
+    },
+    "factbook": {
+      "population": 8535519,
+      "area": 110787
+    },
+    "data_key": "70bc30986ec5372aea2c01d3991d50b5"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Washington",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "096269831e012f6ca37ccbab3a0c4614",
+      "country_original": "United States",
+      "province_original": "Washington",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "WA",
+        "name": "Washington",
+        "population": 7614893,
+        "area": 184661
+      },
+      "label": "United States / Washington",
+      "key": "5d6bfca9b5ab167cfbbff7f7306a336f"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 5588,
+      "deaths": 249
+    },
+    "factbook": {
+      "population": 7614893,
+      "area": 184661
+    },
+    "data_key": "bc8e3964a5c2ed05b312f6c660f634c6"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "f2f4026cba4539c4e7953bdbd2037180",
+      "type": "total-province",
+      "label": "United States / Washington",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Washington",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 5588,
+      "deaths": 249
+    },
+    "factbook": {
+      "population": 7614893,
+      "area": 184661
+    },
+    "data_key": "9e4bf515933f7c3e1dce7e38787230da"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "97dfb95dc1d7b450de9406a837a9a16a",
+      "type": "total-province",
+      "label": "United States / West Virginia",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "West Virginia",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 191,
+      "deaths": 2
+    },
+    "factbook": {
+      "population": 1792147,
+      "area": 62756
+    },
+    "data_key": "20b215bbe7c46c445125952f0874e233"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "West Virginia",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "e2892225bc67bfdeba586d3c24bae1e1",
+      "country_original": "United States",
+      "province_original": "West Virginia",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "WV",
+        "name": "West Virginia",
+        "population": 1792147,
+        "area": 62756
+      },
+      "label": "United States / West Virginia",
+      "key": "b8214aa0ffbc51fb893b57be786d5d35"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 191,
+      "deaths": 2
+    },
+    "factbook": {
+      "population": 1792147,
+      "area": 62756
+    },
+    "data_key": "9d69815ba81c6f66983ad9e5513889e2"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "79ba2a19857fc491fa0f8ee3674ce76d",
+      "type": "total-province",
+      "label": "United States / Wisconsin",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Wisconsin",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1550,
+      "deaths": 33
+    },
+    "factbook": {
+      "population": 5822434,
+      "area": 169635
+    },
+    "data_key": "2d8d5ed67f0b372ae3b537ec243031bb"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Wisconsin",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "da83295bff7d00af475cd20d9b7fb060",
+      "country_original": "United States",
+      "province_original": "Wisconsin",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "WI",
+        "name": "Wisconsin",
+        "population": 5822434,
+        "area": 169635
+      },
+      "label": "United States / Wisconsin",
+      "key": "f95ef595eac2b8b57adc6da54c3b9b94"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 1550,
+      "deaths": 33
+    },
+    "factbook": {
+      "population": 5822434,
+      "area": 169635
+    },
+    "data_key": "ac4b2e8dc60c0c2c17fe6383ca0574a9"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "d4784532df6d14bf89e1df2d9d987e11",
+      "type": "total-province",
+      "label": "United States / Wyoming",
+      "country": "United States",
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "province": "Wyoming",
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        38,
+        -97
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 137,
+      "deaths": null
+    },
+    "factbook": {
+      "population": 578759,
+      "area": 97093
+    },
+    "data_key": "fcb897426cbeca4b3be699495b7a5573"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "country": "United States",
+      "province": "Wyoming",
+      "administrative": null,
+      "province_latlong": null,
+      "administrative_latlong": null,
+      "administrative_fips": null,
+      "key_original": "a9f6604dad7815aec1c989e17e639349",
+      "country_original": "United States",
+      "province_original": "Wyoming",
+      "administrative_original": null,
+      "country_code": "US",
+      "country_latlong": [
+        38,
+        -97
+      ],
+      "region": "Americas",
+      "subregion": "North America",
+      "type": "province",
+      "latlong": [
+        38,
+        -97
+      ],
+      "us_state": {
+        "code": "WY",
+        "name": "Wyoming",
+        "population": 578759,
+        "area": 97093
+      },
+      "label": "United States / Wyoming",
+      "key": "e952c1f6de9d8d16e8b53fa95dad5c0b"
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 137,
+      "deaths": null
+    },
+    "factbook": {
+      "population": 578759,
+      "area": 97093
+    },
+    "data_key": "725c7a4e3c66acab5fcd43ee687455ff"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
       "key": "705da1a9b5e6679ad99c21eaf8389ca5",
       "type": "total-world",
       "label": "World",
@@ -157810,5 +163003,38 @@
       "area": 150584194.09
     },
     "data_key": "b5b8dbef74a158be05e99de8ac736d5a"
+  },
+  {
+    "dataset": "nytimes/us-states",
+    "location": {
+      "key": "705da1a9b5e6679ad99c21eaf8389ca5",
+      "type": "total-world",
+      "label": "World",
+      "country": "World",
+      "country_code": null,
+      "country_latlong": null,
+      "province": null,
+      "region": null,
+      "subregion": null,
+      "administrative": null,
+      "latlong": null
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 72
+    },
+    "values": {
+      "confirmed": 214461,
+      "deaths": 4841
+    },
+    "factbook": {
+      "population": 7679445087,
+      "area": 150584194.09
+    },
+    "data_key": "0db5ea0e1baf457b9ffaa5f025286aa7"
   }
 ]

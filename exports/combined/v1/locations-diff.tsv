@@ -65,6 +65,7 @@ ef9ee4bbd4c5b33ee80eec85e62685e2	a7e7998eb9248d91c28f0d963f511d46	country	Bermud
 ae3ec7baf6e2cefff8ad42532c3c630b	81540aa63595385873a62f47f5f1a87f	country	Botswana	BW		Botswana	Botswana							Africa	Southern Africa					ecdc/worldwide, jhu/daily, jhu/series
 014ccb22fd8e8a98c72f65a476c34d7b	4f2c35ae086e1baa9209033a2c673aaa	country	Brazil	BR		Brazil	Brazil							Americas	South America					ecdc/worldwide, jhu/daily, jhu/series
 12267b90e88f1840d1220fc1d97515a2	2eb62a18085d3c08d32756d724761438	country	British Virgin Islands	VG	true	British Virgin Islands	British_Virgin_Islands							Americas	Caribbean					ecdc/worldwide
+12267b90e88f1840d1220fc1d97515a2	34b78c7c6a2c472b29955fd4bc983786	country	British Virgin Islands	VG	true	British Virgin Islands	US	true		Virgin Islands				Americas	Caribbean					jhu/daily
 12267b90e88f1840d1220fc1d97515a2	5f4f8a7cafc05344b7144aa5639a02c8	country	British Virgin Islands	VG	true	British Virgin Islands	United States	true		Virgin Islands				Americas	Caribbean					nytimes/us-states
 12267b90e88f1840d1220fc1d97515a2	7a88258440210c18d2b37d925ccf715d	country	British Virgin Islands	VG	true	British Virgin Islands	United States	true		Virgin Islands	true		Unknown	Americas	Caribbean					nytimes/us-counties
 12267b90e88f1840d1220fc1d97515a2	83bc786a422cb43f69832ea0eb2c173e	country	British Virgin Islands	VG	true	British Virgin Islands	US	true		Virgin Islands				Americas	Caribbean					jhu/daily
@@ -102,6 +103,7 @@ acdedebae211dfc0738c095864199235	86b5730fdb47067a51e4fc143c1ac6b9	country	Cape V
 acdedebae211dfc0738c095864199235	acd2836bdf01c8913ed1b18590224f58	country	Cape Verde	CV		Cape Verde	Cape Verde							Africa	Western Africa					jhu/daily
 acdedebae211dfc0738c095864199235	f61ca3b428e8c6d6ecc5863ac9442a63	country	Cape Verde	CV	true	Cape Verde	Cape_Verde							Africa	Western Africa					ecdc/worldwide
 68754741dec743fed7046ee5ab2ec99b	c18413463404211fafbe6d9831570f04	country	Caribbean Netherlands	BQ	true	Caribbean Netherlands	Bonaire, Saint Eustatius and Saba							Americas	Caribbean					ecdc/worldwide
+68754741dec743fed7046ee5ab2ec99b	defb5c9cc6156b917ab1a1c020c3fbb9	country	Caribbean Netherlands	BQ	true	Caribbean Netherlands	Netherlands	true		Bonaire, Sint Eustatius and Saba				Americas	Caribbean					jhu/daily, jhu/series
 fc059a9000682d958e8ba6db5e994526	496c12c98fe70045d8da858de3b339e5	country	Cayman Islands	KY	true	Cayman Islands	Cayman_Islands							Americas	Caribbean					ecdc/worldwide
 fc059a9000682d958e8ba6db5e994526	aff31cf3bee7d7fa08b2293be6541b03	country	Cayman Islands	KY		Cayman Islands	Cayman Islands							Americas	Caribbean					jhu/daily
 fc059a9000682d958e8ba6db5e994526	ccfc9089e40b16fb70e181205eb642f1	country	Cayman Islands	KY	true	Cayman Islands	United Kingdom	true		Cayman Islands				Americas	Caribbean					jhu/daily, jhu/series
@@ -235,6 +237,7 @@ a963e759df13fe64db3711193a5e965f	7308a16e92cf4b47a68ad62ede4b2493	country	Greenl
 57f600c539c65a38bc0b0cc02c43fc49	7a62beab652e964cd311ce5c8f38a929	country	Guam	GU	true	Guam	US	true		Guam				Oceania	Micronesia					jhu/daily
 57f600c539c65a38bc0b0cc02c43fc49	d2d6a0a645f28b3af11be03f9ddf92a7	country	Guam	GU	true	Guam	United States	true		Guam	true		Unknown	Oceania	Micronesia					nytimes/us-counties
 57f600c539c65a38bc0b0cc02c43fc49	e93c6d4b6df6f33bc47f6bbf4c198fea	country	Guam	GU	true	Guam	United States	true		Guam				Oceania	Micronesia					nytimes/us-states
+57f600c539c65a38bc0b0cc02c43fc49	f4fde5cfc42dab745a9dabcbe8108df1	country	Guam	GU	true	Guam	US	true		Guam				Oceania	Micronesia					jhu/daily
 ea06ab9d513e4e7e26ce6568e77a0f69	2b9a5cf02d005c987bf572385192c1cd	country	Guatemala	GT		Guatemala	Guatemala							Americas	Central America					ecdc/worldwide, jhu/daily, jhu/series
 e40a31859f5791c23195aa326ad07d7a	c2ce3998d8ab7604b2ba7e781df7f743	country	Guernsey	GG		Guernsey	Guernsey							Europe	Northern Europe					ecdc/worldwide, jhu/daily
 e35a6b10407940d4ea15c050e40f0b2f	941b5bb7a8bb4a3bf01fe6c4a2a970cb	country	Guinea	GN		Guinea	Guinea							Africa	Western Africa					ecdc/worldwide, jhu/daily, jhu/series
@@ -286,6 +289,7 @@ fad1f0b00093162db9f2d994f39ce8b1	dec2c65ad83bb888313b3728b320dbd9	country	Luxemb
 6a4ad2d78699a5949be2ed07491a0994	4bf259dafe2fcc6a8bba7dc29c4bcf56	country	Macau	MO	true	Macau	China	true		Macau				Asia	Eastern Asia					jhu/daily, jhu/series
 6a4ad2d78699a5949be2ed07491a0994	9bc767fd2c929a00634fc6f2e87558c1	country	Macau	MO	true	Macau	Macao SAR	true		Macau				Asia	Eastern Asia					jhu/daily
 7a9b0e0795cf3b751b31accc6131412b	30aaff5ff7f9b1c840f3f508e0c9422f	country	Madagascar	MG		Madagascar	Madagascar							Africa	Eastern Africa					ecdc/worldwide, jhu/daily, jhu/series
+3f45f0d1766077c19decfe07387c6580	0d5b020fca9623553fc79419e2f91019	country	Malawi	MW		Malawi	Malawi							Africa	Eastern Africa					jhu/daily, jhu/series
 81cd71bcd368c922f1aa1135c1cec277	640daa678396dad29fe3bd6a4f328128	country	Malaysia	MY		Malaysia	Malaysia							Asia	South-Eastern Asia					ecdc/worldwide, jhu/daily, jhu/series
 25380f3e0ed4c1439006b7a19ab9cb42	3b7d1d433ab5da7ad64cbf7e36e09f2d	country	Maldives	MV		Maldives	Maldives							Asia	Southern Asia					ecdc/worldwide, jhu/daily, jhu/series
 f7e9cf2c755c3a853b34d08056b61480	f96088df5c8a312335b01cc9af1c8129	country	Mali	ML		Mali	Mali							Africa	Western Africa					ecdc/worldwide, jhu/daily, jhu/series
@@ -340,6 +344,7 @@ aa7a6f7962c39eaa9e0c3e8c570b8564	f9e8e8222145cd6f722e98a9c2e55aad	country	Pakist
 7fdd0a3bcd1fc9a1780987f3f3e137fc	b22988129e7cfff9acc50d77beff3c29	country	Philippines	PH		Philippines	Philippines							Asia	South-Eastern Asia					ecdc/worldwide, jhu/daily, jhu/series
 85ece642081d0ccec73ba8f7ebdb3eab	5a264a1bb2411117b2df0e15526852f8	country	Poland	PL		Poland	Poland							Europe	Eastern Europe					ecdc/worldwide, jhu/daily, jhu/series
 a4670f3eb74cad35916d2d2ae5df5a20	132e60250a0302e260ea2ebee20ac51b	country	Portugal	PT		Portugal	Portugal							Europe	Southern Europe					ecdc/worldwide, jhu/daily, jhu/series
+46029f9a9852a0337c66b090886eb98f	46dee4f85d693836068ea0c0582bc9a7	country	Puerto Rico	PR	true	Puerto Rico	US	true		Puerto Rico				Americas	Caribbean					jhu/daily
 46029f9a9852a0337c66b090886eb98f	4a1a799da86739721cdaee0e0a505b6b	country	Puerto Rico	PR	true	Puerto Rico	Puerto_Rico							Americas	Caribbean					ecdc/worldwide
 46029f9a9852a0337c66b090886eb98f	6b8a12d2d192953147a01ee11560a397	country	Puerto Rico	PR	true	Puerto Rico	United States	true		Puerto Rico	true		Unknown	Americas	Caribbean					nytimes/us-counties
 46029f9a9852a0337c66b090886eb98f	c93b2423cc2c1276e5421604b9df9f1f	country	Puerto Rico	PR	true	Puerto Rico	United States	true		Puerto Rico				Americas	Caribbean					nytimes/us-states
@@ -5781,6 +5786,7 @@ f191283b5401027896b0f2ac303e2d99	1195d5d04f4d7d0bff3bcb3a9c1db101	administrative
 f191283b5401027896b0f2ac303e2d99	8bc1e9f520e1bbd9723f9db4d48454ab	administrative	United States / Virginia / Spotsylvania	US	true	United States	US		Virginia	Virginia		Spotsylvania	Spotsylvania	Americas	North America	VA	Virginia	51177	Spotsylvania	jhu/daily
 3dd09c9a14032db96642f0e89399cdd6	86b6917f8ff45b0989e1c303d8adff70	administrative	United States / Virginia / Stafford	US	true	United States	US		Virginia	Virginia		Stafford	Stafford	Americas	North America	VA	Virginia	51179	Stafford	jhu/daily
 3dd09c9a14032db96642f0e89399cdd6	a584e942ccb0ff83b71c6b0a2a75ce92	administrative	United States / Virginia / Stafford	US		United States	United States		Virginia	Virginia		Stafford	Stafford	Americas	North America	VA	Virginia	51179	Stafford	nytimes/us-counties
+0422a2d60a5efabb324c7894ae04a3fc	57fe22f700b3cb0bc9b239dc2ae7f180	administrative	United States / Virginia / Staunton	US	true	United States	US		Virginia	Virginia		Staunton	Staunton	Americas	North America	VA	Virginia	51790	Staunton	jhu/daily
 0422a2d60a5efabb324c7894ae04a3fc	f8d47b50bb03077788dc56c7e703f3c2	administrative	United States / Virginia / Staunton	US	true	United States	US		Virginia	Virginia		Staunton	Staunton	Americas	North America	VA	Virginia	51790	Staunton	jhu/daily
 96a18888761ba1c9eab06ff4b09e41ce	1701daa0551a6dd6e103d43a449479cb	administrative	United States / Virginia / Suffolk	US		United States	United States		Virginia	Virginia	true	Suffolk	Suffolk city	Americas	North America	VA	Virginia	51800	Suffolk	nytimes/us-counties
 96a18888761ba1c9eab06ff4b09e41ce	a7596b6fde47105bdd5b01104876191b	administrative	United States / Virginia / Suffolk	US	true	United States	US		Virginia	Virginia		Suffolk	Suffolk	Americas	North America	VA	Virginia	51800	Suffolk	jhu/daily
@@ -6136,15 +6142,19 @@ d6980b053b7668b570b374f4328f7129	cb1c0de382b1e2cfb25ae1f3c6698625	administrative
 ce9edf7e78f7f04155e459434cf62755	5fd56c9413d99f708f116a15f2730586	province	United States / Alabama	US	true	United States	US		Alabama	Alabama	true		Unassigned	Americas	North America	AL	Alabama			jhu/daily
 ce9edf7e78f7f04155e459434cf62755	671239626f9add0ba8eefc42cf3915e2	province	United States / Alabama	US		United States	United States		Alabama	Alabama				Americas	North America	AL	Alabama			nytimes/us-states
 ce9edf7e78f7f04155e459434cf62755	89b1b2dab1be05f365ea44e617042a09	province	United States / Alabama	US	true	United States	US		Alabama	Alabama				Americas	North America	AL	Alabama			jhu/daily
+ce9edf7e78f7f04155e459434cf62755	a0fd3d5324558fb73bf198b67d4b9cdc	province	United States / Alabama	US	true	United States	US		Alabama	Alabama	true		Unassigned	Americas	North America	AL	Alabama			jhu/daily
 78344549f6a665c351f3b43358482f5b	5a557b2891b75300adc4b2d5162da473	province	United States / Alaska	US		United States	United States		Alaska	Alaska				Americas	North America	AK	Alaska			nytimes/us-states
+78344549f6a665c351f3b43358482f5b	9c5f18d373c4efa08d66f5c2b66ffab5	province	United States / Alaska	US	true	United States	US		Alaska	Alaska	true		Unassigned	Americas	North America	AK	Alaska			jhu/daily
 78344549f6a665c351f3b43358482f5b	e0eecf3f12fb34aade60414189273457	province	United States / Alaska	US	true	United States	US		Alaska	Alaska				Americas	North America	AK	Alaska			jhu/daily
 78344549f6a665c351f3b43358482f5b	e5ebba774beb8c70cf02f09b7def913f	province	United States / Alaska	US	true	United States	US		Alaska	Alaska	true		Unassigned	Americas	North America	AK	Alaska			jhu/daily
 5558757183bdf0ae3478f2f32435db49	19889d89af6c9f85af3d0c1236523d43	province	United States / Arizona	US	true	United States	US	true	Arizona	Tempe, AZ				Americas	North America	AZ	Arizona			jhu/daily
 5558757183bdf0ae3478f2f32435db49	3b261adc06b791ffbb4cb3dd8518c485	province	United States / Arizona	US	true	United States	US		Arizona	Arizona	true		Unassigned	Americas	North America	AZ	Arizona			jhu/daily
 5558757183bdf0ae3478f2f32435db49	62afc4c35f5e9bb9bba79160f230e648	province	United States / Arizona	US	true	United States	US	true	Arizona	Maricopa County, AZ				Americas	North America	AZ	Arizona			jhu/daily
+5558757183bdf0ae3478f2f32435db49	80f1ad58ebbe0a87bdf4d6772421e166	province	United States / Arizona	US	true	United States	US		Arizona	Arizona	true		Unassigned	Americas	North America	AZ	Arizona			jhu/daily
 5558757183bdf0ae3478f2f32435db49	92b5ce0c4c61d7cee0292f5728ab7f72	province	United States / Arizona	US	true	United States	US	true	Arizona	Pinal County, AZ				Americas	North America	AZ	Arizona			jhu/daily
 5558757183bdf0ae3478f2f32435db49	aad31d9f81fb653ce7af589b3a94e378	province	United States / Arizona	US	true	United States	US		Arizona	Arizona				Americas	North America	AZ	Arizona			jhu/daily
 5558757183bdf0ae3478f2f32435db49	c3c96bdd22ef5c6feec9da1b18b3d46e	province	United States / Arizona	US		United States	United States		Arizona	Arizona				Americas	North America	AZ	Arizona			nytimes/us-states
+da04f435e89f55b34e3773f858f90519	09aa1a80bc63155b247cc715de5382fd	province	United States / Arkansas	US	true	United States	US		Arkansas	Arkansas	true		Unassigned	Americas	North America	AR	Arkansas			jhu/daily
 da04f435e89f55b34e3773f858f90519	35b39a445cce2bc9c2a032789c493ce7	province	United States / Arkansas	US	true	United States	US		Arkansas	Arkansas				Americas	North America	AR	Arkansas			jhu/daily
 da04f435e89f55b34e3773f858f90519	40cfeed5e11429c344d97935214c2cf4	province	United States / Arkansas	US	true	United States	US		Arkansas	Arkansas	true		Unassigned	Americas	North America	AR	Arkansas			jhu/daily
 da04f435e89f55b34e3773f858f90519	65895e6edcec2687d31429acccd722a5	province	United States / Arkansas	US		United States	United States		Arkansas	Arkansas				Americas	North America	AR	Arkansas			nytimes/us-states
@@ -6160,6 +6170,7 @@ da04f435e89f55b34e3773f858f90519	e7a7f0a0f653f505d465d43eee4ec82b	province	Unite
 66c6644300f5bdb69284bc5f88c9749e	2bb54a82576fabcccc9bc2c897af7c75	province	United States / California	US		United States	United States		California	California				Americas	North America	CA	California			nytimes/us-states
 66c6644300f5bdb69284bc5f88c9749e	38a696e20da1fecea1973bab5249f85d	province	United States / California	US	true	United States	US	true	California	Riverside County, CA				Americas	North America	CA	California			jhu/daily
 66c6644300f5bdb69284bc5f88c9749e	65abf365a7fef2979da7891f268d9b6e	province	United States / California	US	true	United States	US	true	California	Madera County, CA				Americas	North America	CA	California			jhu/daily
+66c6644300f5bdb69284bc5f88c9749e	6b67884ca66d2052f85a7c49aff76841	province	United States / California	US	true	United States	US		California	California	true		Unassigned	Americas	North America	CA	California			jhu/daily
 66c6644300f5bdb69284bc5f88c9749e	760d0984c0fb091a01b02b896f78e6a4	province	United States / California	US	true	United States	US	true	California	Shasta County, CA				Americas	North America	CA	California			jhu/daily
 66c6644300f5bdb69284bc5f88c9749e	7656eaaa9f3ab24a6d378e553b52c733	province	United States / California	US	true	United States	US	true	California	Santa Cruz County, CA				Americas	North America	CA	California			jhu/daily
 66c6644300f5bdb69284bc5f88c9749e	786b752877940bdb3647df283b751429	province	United States / California	US	true	United States	US	true	California	Sonoma County, CA				Americas	North America	CA	California			jhu/daily
@@ -6176,8 +6187,10 @@ da04f435e89f55b34e3773f858f90519	e7a7f0a0f653f505d465d43eee4ec82b	province	Unite
 66c6644300f5bdb69284bc5f88c9749e	edb7b42fb9d8adb155ccfc7b2f08d05a	province	United States / California	US	true	United States	US	true	California	Contra Costa County, CA				Americas	North America	CA	California			jhu/daily
 66c6644300f5bdb69284bc5f88c9749e	f460d2c100d6955be1535777e7f1b6a8	province	United States / California	US	true	United States	US	true	California	Orange County, CA				Americas	North America	CA	California			jhu/daily
 66c6644300f5bdb69284bc5f88c9749e	fba5a626f845cf890cb0af8e21fa7194	province	United States / California	US	true	United States	US	true	California	Sacramento County, CA				Americas	North America	CA	California			jhu/daily
+1be535b1e07ccab08c892b6d667cf1ab	0b1721ddf1f51625e51f8b04680214b0	province	United States / Colorado	US	true	United States	US		Colorado	Colorado	true		Unassigned	Americas	North America	CO	Colorado			jhu/daily
 1be535b1e07ccab08c892b6d667cf1ab	167b2f79f9e6447ed114ef9a4fec1696	province	United States / Colorado	US	true	United States	US	true	Colorado	El Paso County, CO				Americas	North America	CO	Colorado			jhu/daily
 1be535b1e07ccab08c892b6d667cf1ab	179e27de03653aee8c42d780dd6b0499	province	United States / Colorado	US	true	United States	US		Colorado	Colorado	true		Unassigned	Americas	North America	CO	Colorado			jhu/daily
+1be535b1e07ccab08c892b6d667cf1ab	1d157490d37e41bc99268e37d3b70234	province	United States / Colorado	US	true	United States	US		Colorado	Colorado	true		Out of CO	Americas	North America	CO	Colorado			jhu/daily
 1be535b1e07ccab08c892b6d667cf1ab	23def513568f211635e3fa526766abab	province	United States / Colorado	US		United States	United States		Colorado	Colorado	true		Unknown	Americas	North America	CO	Colorado			nytimes/us-counties
 1be535b1e07ccab08c892b6d667cf1ab	4913d87e656ee4ec30abe90e8656b64e	province	United States / Colorado	US	true	United States	US	true	Colorado	Summit County, CO				Americas	North America	CO	Colorado			jhu/daily
 1be535b1e07ccab08c892b6d667cf1ab	4e6417903f0bab72d82432666d523243	province	United States / Colorado	US	true	United States	US	true	Colorado	Denver County, CO				Americas	North America	CO	Colorado			jhu/daily
@@ -6187,8 +6200,10 @@ da04f435e89f55b34e3773f858f90519	e7a7f0a0f653f505d465d43eee4ec82b	province	Unite
 493861b3572239a45a592bfcfd64e45c	09a57701546b36c5ea86bdfceec06114	province	United States / Connecticut	US	true	United States	US		Connecticut	Connecticut	true		Unassigned	Americas	North America	CT	Connecticut			jhu/daily
 493861b3572239a45a592bfcfd64e45c	6b68dbf926c476319cef745962793a40	province	United States / Connecticut	US		United States	United States		Connecticut	Connecticut				Americas	North America	CT	Connecticut			nytimes/us-states
 493861b3572239a45a592bfcfd64e45c	b2e5f77d3b5ecae79bb41e56c63059fe	province	United States / Connecticut	US	true	United States	US		Connecticut	Connecticut				Americas	North America	CT	Connecticut			jhu/daily
+493861b3572239a45a592bfcfd64e45c	baadbd65263ffa07f7112cb5bfbc2a74	province	United States / Connecticut	US	true	United States	US		Connecticut	Connecticut	true		Unassigned	Americas	North America	CT	Connecticut			jhu/daily
 493861b3572239a45a592bfcfd64e45c	c16ec9ea9cf02feeb90f99fb747d5cf9	province	United States / Connecticut	US	true	United States	US	true	Connecticut	Fairfield County, CT				Americas	North America	CT	Connecticut			jhu/daily
 493861b3572239a45a592bfcfd64e45c	fef54b5403ca8f1df50158dec09e983e	province	United States / Connecticut	US		United States	United States		Connecticut	Connecticut	true		Unknown	Americas	North America	CT	Connecticut			nytimes/us-counties
+9d75a013f27040ae5100fe165fc18203	72df8d21eed3ccddccea69d664e57a0a	province	United States / Delaware	US	true	United States	US		Delaware	Delaware	true		Unassigned	Americas	North America	DE	Delaware			jhu/daily
 9d75a013f27040ae5100fe165fc18203	7d6fb21ae8ed7fbe7ad99742ede4b5c8	province	United States / Delaware	US		United States	United States		Delaware	Delaware				Americas	North America	DE	Delaware			nytimes/us-states
 9d75a013f27040ae5100fe165fc18203	bf558da933e1686ab87badb9023a1459	province	United States / Delaware	US	true	United States	US		Delaware	Delaware	true		Unassigned	Americas	North America	DE	Delaware			jhu/daily
 9d75a013f27040ae5100fe165fc18203	e1eb6d069efe4d70eaa097e00148ddc1	province	United States / Delaware	US	true	United States	US		Delaware	Delaware				Americas	North America	DE	Delaware			jhu/daily
@@ -6198,6 +6213,7 @@ da04f435e89f55b34e3773f858f90519	e7a7f0a0f653f505d465d43eee4ec82b	province	Unite
 ecd2bf6d95380039cc8b5c2ff8393d5e	1bd14f9fa1e2b0bfb8fbb63d27d58198	province	United States / Florida	US	true	United States	US	true	Florida	Manatee County, FL				Americas	North America	FL	Florida			jhu/daily
 ecd2bf6d95380039cc8b5c2ff8393d5e	1fa8645088939c394c899057a04c3667	province	United States / Florida	US		United States	United States		Florida	Florida				Americas	North America	FL	Florida			nytimes/us-states
 ecd2bf6d95380039cc8b5c2ff8393d5e	33cb0cf5d0461597baf359a4126aa030	province	United States / Florida	US	true	United States	US	true	Florida	Lee County, FL				Americas	North America	FL	Florida			jhu/daily
+ecd2bf6d95380039cc8b5c2ff8393d5e	379b41889e72ecb16a138f62410743c5	province	United States / Florida	US	true	United States	US		Florida	Florida	true		Unassigned	Americas	North America	FL	Florida			jhu/daily
 ecd2bf6d95380039cc8b5c2ff8393d5e	3e778cb50344126d4479259aa4b86654	province	United States / Florida	US	true	United States	US	true	Florida	Volusia County, FL				Americas	North America	FL	Florida			jhu/daily
 ecd2bf6d95380039cc8b5c2ff8393d5e	56dda1ef446e4b0a010001a90b6fb9b3	province	United States / Florida	US	true	United States	US		Florida	Florida				Americas	North America	FL	Florida			jhu/daily
 ecd2bf6d95380039cc8b5c2ff8393d5e	66af722edc6434b06e90a3d0614a827a	province	United States / Florida	US	true	United States	US	true	Florida	Okaloosa County, FL				Americas	North America	FL	Florida			jhu/daily
@@ -6211,6 +6227,7 @@ ecd2bf6d95380039cc8b5c2ff8393d5e	e2a025c34a76861065656a7c67bdd150	province	Unite
 6cd9a76092e9b3ecd0df4b260eef7f46	0489bac5757216faf4e2b68b65bacced	province	United States / Georgia	US	true	United States	US	true	Georgia	Fulton County, GA				Americas	North America	GA	Georgia			jhu/daily
 6cd9a76092e9b3ecd0df4b260eef7f46	10319f17ad0f53cfab41b5318712f3b2	province	United States / Georgia	US		United States	United States		Georgia	Georgia	true		Unknown	Americas	North America	GA	Georgia			nytimes/us-counties
 6cd9a76092e9b3ecd0df4b260eef7f46	40cfefaaf8dedcc86970d6ade2c48bf7	province	United States / Georgia	US	true	United States	US	true	Georgia	Polk County, GA				Americas	North America	GA	Georgia			jhu/daily
+6cd9a76092e9b3ecd0df4b260eef7f46	83e6cd91c2c3db0a77f29e255a38217d	province	United States / Georgia	US	true	United States	US		Georgia	Georgia	true		Unassigned	Americas	North America	GA	Georgia			jhu/daily
 6cd9a76092e9b3ecd0df4b260eef7f46	91444ab8865133564e24eb508b13fe51	province	United States / Georgia	US	true	United States	US		Georgia	Georgia				Americas	North America	GA	Georgia			jhu/daily
 6cd9a76092e9b3ecd0df4b260eef7f46	91771e2166e0e74565e49e70c1ad5a89	province	United States / Georgia	US	true	United States	US		Georgia	Georgia	true		Unassigned	Americas	North America	GA	Georgia			jhu/daily
 6cd9a76092e9b3ecd0df4b260eef7f46	b8cb5889432ff70c51665f3c2e7b911c	province	United States / Georgia	US	true	United States	US	true	Georgia	Floyd County, GA				Americas	North America	GA	Georgia			jhu/daily
@@ -6218,15 +6235,18 @@ ecd2bf6d95380039cc8b5c2ff8393d5e	e2a025c34a76861065656a7c67bdd150	province	Unite
 6cd9a76092e9b3ecd0df4b260eef7f46	ccfa615b878be03851f76000db61824b	province	United States / Georgia	US	true	United States	US	true	Georgia	Cobb County, GA				Americas	North America	GA	Georgia			jhu/daily
 6cd9a76092e9b3ecd0df4b260eef7f46	fe612f3e0f0cd1d47ccb2a5fd941ee33	province	United States / Georgia	US	true	United States	US	true	Georgia	Cherokee County, GA				Americas	North America	GA	Georgia			jhu/daily
 5a67ef46f23e810267b9872b079c5785	0a2c22c9c4917f05a05d09c9968ae3d7	province	United States / Hawaii	US	true	United States	US		Hawaii	Hawaii				Americas	North America	HI	Hawaii			jhu/daily
+5a67ef46f23e810267b9872b079c5785	61842330b1aa2d4bf63db2ddd391f275	province	United States / Hawaii	US	true	United States	US		Hawaii	Hawaii	true		Unassigned	Americas	North America	HI	Hawaii			jhu/daily
 5a67ef46f23e810267b9872b079c5785	7a1f7e57ba0cc5762606291c9861f318	province	United States / Hawaii	US	true	United States	US		Hawaii	Hawaii	true		Unassigned	Americas	North America	HI	Hawaii			jhu/daily
 5a67ef46f23e810267b9872b079c5785	8686eb739c41b93674f87d03c118f0c8	province	United States / Hawaii	US	true	United States	US	true	Hawaii	Honolulu County, HI				Americas	North America	HI	Hawaii			jhu/daily
 5a67ef46f23e810267b9872b079c5785	b6a580cb5521e224a4c0673dcbee8a6b	province	United States / Hawaii	US		United States	United States		Hawaii	Hawaii				Americas	North America	HI	Hawaii			nytimes/us-states
 5a67ef46f23e810267b9872b079c5785	c862bc2fa26d9dfa22200081a9c94f08	province	United States / Hawaii	US		United States	United States		Hawaii	Hawaii	true		Unknown	Americas	North America	HI	Hawaii			nytimes/us-counties
+ad99ab195d9ffeab18513078b36a1678	089e8a547c578c0003be5cd99e7a97c5	province	United States / Idaho	US	true	United States	US		Idaho	Idaho	true		Unassigned	Americas	North America	ID	Idaho			jhu/daily
 ad99ab195d9ffeab18513078b36a1678	17f06b4391ca3c7a635d08b7f1e5f0bb	province	United States / Idaho	US		United States	United States		Idaho	Idaho				Americas	North America	ID	Idaho			nytimes/us-states
 ad99ab195d9ffeab18513078b36a1678	3d270bf8c2694e47915a1ad7d520ca5d	province	United States / Idaho	US		United States	United States		Idaho	Idaho	true		Unknown	Americas	North America	ID	Idaho			nytimes/us-counties
 ad99ab195d9ffeab18513078b36a1678	749fade93e7e994a070c8f5e2c3fd0af	province	United States / Idaho	US	true	United States	US		Idaho	Idaho				Americas	North America	ID	Idaho			jhu/daily
 a35eb2276a420665ce59b4a8e937a9bf	21744aad8dcd371ff01c6041fde2d300	province	United States / Illinois	US		United States	United States		Illinois	Illinois	true		Unknown	Americas	North America	IL	Illinois			nytimes/us-counties
 a35eb2276a420665ce59b4a8e937a9bf	2987d62b3b146013f1343eb2fbd0dcb7	province	United States / Illinois	US	true	United States	US		Illinois	Illinois				Americas	North America	IL	Illinois			jhu/daily
+a35eb2276a420665ce59b4a8e937a9bf	44bf60d578442f97ff3f68f06ae020c6	province	United States / Illinois	US	true	United States	US		Illinois	Illinois	true		Unassigned	Americas	North America	IL	Illinois			jhu/daily
 a35eb2276a420665ce59b4a8e937a9bf	44d5e9eaee98e91e8661ad3fdb85eb16	province	United States / Illinois	US	true	United States	US	true	Illinois	Chicago, IL				Americas	North America	IL	Illinois			jhu/daily
 a35eb2276a420665ce59b4a8e937a9bf	6e2796609ace1c32d700b8490a9fe6ea	province	United States / Illinois	US	true	United States	US		Illinois	Illinois	true		Unassigned	Americas	North America	IL	Illinois			jhu/daily
 a35eb2276a420665ce59b4a8e937a9bf	7fc6d638f24fb0a5d74202d8e029e7fa	province	United States / Illinois	US		United States	United States		Illinois	Illinois				Americas	North America	IL	Illinois			nytimes/us-states
@@ -6238,6 +6258,7 @@ a35eb2276a420665ce59b4a8e937a9bf	c153816e3bf5f163089331645d544ff5	province	Unite
 4e9bc946d0d49b3f8893d71cc6173645	e2386ce81e60057e7db09ac8fb1aa74c	province	United States / Indiana	US	true	United States	US	true	Indiana	Hendricks County, IN				Americas	North America	IN	Indiana			jhu/daily
 4e9bc946d0d49b3f8893d71cc6173645	e70ab889397bcd14f592c4d077a6d27a	province	United States / Indiana	US		United States	United States		Indiana	Indiana				Americas	North America	IN	Indiana			nytimes/us-states
 4e9bc946d0d49b3f8893d71cc6173645	ed9f7f8e1081816d0fe2f11bd82d520d	province	United States / Indiana	US	true	United States	US		Indiana	Indiana				Americas	North America	IN	Indiana			jhu/daily
+218bf346493e4934083263bbc04a770d	64987c29805d1816d6386c0ad13ba49f	province	United States / Iowa	US	true	United States	US		Iowa	Iowa	true		Unassigned	Americas	North America	IA	Iowa			jhu/daily
 218bf346493e4934083263bbc04a770d	66a4fa21bc58e4353dfdf7dc0f028b7e	province	United States / Iowa	US		United States	United States		Iowa	Iowa				Americas	North America	IA	Iowa			nytimes/us-states
 218bf346493e4934083263bbc04a770d	7b15534af6011ba69cb74a272776d6db	province	United States / Iowa	US	true	United States	US	true	Iowa	Johnson County, IA				Americas	North America	IA	Iowa			jhu/daily
 218bf346493e4934083263bbc04a770d	b4bd5c59a9d9aed3f1c50b2182ae2a95	province	United States / Iowa	US	true	United States	US		Iowa	Iowa				Americas	North America	IA	Iowa			jhu/daily
@@ -6252,6 +6273,7 @@ e7a6b9a0be5e0fe175e6e759542b0041	4dd6d4c34f7e4c948431744e59f73355	province	Unite
 e7a6b9a0be5e0fe175e6e759542b0041	55ea0ea4cb310e4f68d16cf11cbaf108	province	United States / Kentucky	US	true	United States	US		Kentucky	Kentucky				Americas	North America	KY	Kentucky			jhu/daily
 e7a6b9a0be5e0fe175e6e759542b0041	7fb718f10084c4767477dc24ba15e469	province	United States / Kentucky	US		United States	United States		Kentucky	Kentucky				Americas	North America	KY	Kentucky			nytimes/us-states
 e7a6b9a0be5e0fe175e6e759542b0041	944c57415ed4ee72ab6a1177d24a1d92	province	United States / Kentucky	US	true	United States	US	true	Kentucky	Jefferson County, KY				Americas	North America	KY	Kentucky			jhu/daily
+e7a6b9a0be5e0fe175e6e759542b0041	962015b4e1453336dac7cd83bd4c0c3a	province	United States / Kentucky	US	true	United States	US		Kentucky	Kentucky	true		Unassigned	Americas	North America	KY	Kentucky			jhu/daily
 b2c99f0d0b877c2d22895f9edfc7c7a7	315c9d09578d213bc4b316a5c5ecaa02	province	United States / Louisiana	US		United States	United States		Louisiana	Louisiana				Americas	North America	LA	Louisiana			nytimes/us-states
 b2c99f0d0b877c2d22895f9edfc7c7a7	7daa81a4c2eb92f7f126fbac3a6400b0	province	United States / Louisiana	US	true	United States	US		Louisiana	Louisiana	true		Unassigned	Americas	North America	LA	Louisiana			jhu/daily
 b2c99f0d0b877c2d22895f9edfc7c7a7	cbc66465891bfa40540293cfafa95b19	province	United States / Louisiana	US	true	United States	US	true	Louisiana	Jefferson Parish, LA				Americas	North America	LA	Louisiana			jhu/daily
@@ -6260,9 +6282,11 @@ b2c99f0d0b877c2d22895f9edfc7c7a7	db84171b1feadc2b41d18f22742ba585	province	Unite
 ed480cd15b99323c536e76931c48b0a5	061f3634aa81a5647aa3974b94008225	province	United States / Maine	US	true	United States	US		Maine	Maine				Americas	North America	ME	Maine			jhu/daily
 ed480cd15b99323c536e76931c48b0a5	1412d2fb5ee3234eaae34e47dba95e94	province	United States / Maine	US		United States	United States		Maine	Maine				Americas	North America	ME	Maine			nytimes/us-states
 ed480cd15b99323c536e76931c48b0a5	16e11b5a913fac85cbc0539698ce197c	province	United States / Maine	US		United States	United States		Maine	Maine	true		Unknown	Americas	North America	ME	Maine			nytimes/us-counties
+ed480cd15b99323c536e76931c48b0a5	9ecf52f63c3cfad1b6b540b12d1c8507	province	United States / Maine	US	true	United States	US		Maine	Maine	true		Unassigned	Americas	North America	ME	Maine			jhu/daily
 ed480cd15b99323c536e76931c48b0a5	ac4fa6d1b07568082933c1c7ee4d9208	province	United States / Maine	US	true	United States	US		Maine	Maine	true		Unassigned	Americas	North America	ME	Maine			jhu/daily
 4e4c149d7f2d6fa7ea068fc509e56849	0282a9fd1b1b7a8f5d3950aafa304414	province	United States / Maryland	US		United States	United States		Maryland	Maryland				Americas	North America	MD	Maryland			nytimes/us-states
 4e4c149d7f2d6fa7ea068fc509e56849	0e9da448a4063d29682293d0b77dc023	province	United States / Maryland	US	true	United States	US		Maryland	Maryland	true		Unassigned	Americas	North America	MD	Maryland			jhu/daily
+4e4c149d7f2d6fa7ea068fc509e56849	a44d751d1419f5865309802b0b05e3d2	province	United States / Maryland	US	true	United States	US		Maryland	Maryland	true		Unassigned	Americas	North America	MD	Maryland			jhu/daily
 4e4c149d7f2d6fa7ea068fc509e56849	e504edf2eda96e22c7acd17d7942c43f	province	United States / Maryland	US	true	United States	US	true	Maryland	Montgomery County, MD				Americas	North America	MD	Maryland			jhu/daily
 4e4c149d7f2d6fa7ea068fc509e56849	e991ba73dac8f96378ff3d5f4625c971	province	United States / Maryland	US	true	United States	US		Maryland	Maryland				Americas	North America	MD	Maryland			jhu/daily
 4e4c149d7f2d6fa7ea068fc509e56849	fb2a202b88f92bf66836ed9025a61a3f	province	United States / Maryland	US	true	United States	US	true	Maryland	Harford County, MD				Americas	North America	MD	Maryland			jhu/daily
@@ -6273,6 +6297,7 @@ b849c95bd90ef00030064861d75f119c	298b68047b50047975cb876ed0f98590	province	Unite
 b849c95bd90ef00030064861d75f119c	4783fa08627200c603f7f907be2cb813	province	United States / Massachusetts	US	true	United States	US	true	Massachusetts	Plymouth County, MA				Americas	North America	MA	Massachusetts			jhu/daily
 b849c95bd90ef00030064861d75f119c	5dd30993fd54ca69d2265bc86cc07912	province	United States / Massachusetts	US	true	United States	US	true	Massachusetts	Unknown Location, MA				Americas	North America	MA	Massachusetts			jhu/daily
 b849c95bd90ef00030064861d75f119c	6b8125d47201e9bb9aa6abc8a48b620a	province	United States / Massachusetts	US	true	United States	US		Massachusetts	Massachusetts				Americas	North America	MA	Massachusetts			jhu/daily
+b849c95bd90ef00030064861d75f119c	7dfe8e2b682266e91d1e68d6538214ab	province	United States / Massachusetts	US	true	United States	US		Massachusetts	Massachusetts	true		Unassigned	Americas	North America	MA	Massachusetts			jhu/daily
 b849c95bd90ef00030064861d75f119c	8494ad304f11c045cdd9e32ca04369f6	province	United States / Massachusetts	US	true	United States	US	true	Massachusetts	Boston, MA				Americas	North America	MA	Massachusetts			jhu/daily
 b849c95bd90ef00030064861d75f119c	8b0eea7c049906d1e1fb9a8e840ba306	province	United States / Massachusetts	US	true	United States	US	true	Massachusetts	Berkshire County, MA				Americas	North America	MA	Massachusetts			jhu/daily
 b849c95bd90ef00030064861d75f119c	af3d8a5dfb524dbe64a6f55ba60bbd86	province	United States / Massachusetts	US	true	United States	US	true	Massachusetts	Suffolk County, MA				Americas	North America	MA	Massachusetts			jhu/daily
@@ -6283,6 +6308,7 @@ ed202a4161c9e778a4cd4f3a1461621b	60b62686908764e70ee3065174ccef2e	province	Unite
 ed202a4161c9e778a4cd4f3a1461621b	7dfff3b1fa00d0fcea884f9bb3f52b59	province	United States / Michigan	US		United States	United States		Michigan	Michigan	true		Unknown	Americas	North America	MI	Michigan			nytimes/us-counties
 ed202a4161c9e778a4cd4f3a1461621b	c1084da4031de74b40bcb7bc9bf0c299	province	United States / Michigan	US	true	United States	US		Michigan	Michigan	true		Unassigned	Americas	North America	MI	Michigan			jhu/daily
 ed202a4161c9e778a4cd4f3a1461621b	f20e0530a1200526378b5b851ff0a07a	province	United States / Michigan	US		United States	United States		Michigan	Michigan				Americas	North America	MI	Michigan			nytimes/us-states
+2ba7d565419954f7fdd46f87916ae9ec	00cab1594199cd7c906b952a28753364	province	United States / Minnesota	US	true	United States	US		Minnesota	Minnesota	true		Unassigned	Americas	North America	MN	Minnesota			jhu/daily
 2ba7d565419954f7fdd46f87916ae9ec	08ea79925fc126fb4129ae20b2ca6e68	province	United States / Minnesota	US	true	United States	US		Minnesota	Minnesota	true		Unassigned	Americas	North America	MN	Minnesota			jhu/daily
 2ba7d565419954f7fdd46f87916ae9ec	0f466c802b84093555bf36dfa755ffac	province	United States / Minnesota	US		United States	United States		Minnesota	Minnesota	true		Unknown	Americas	North America	MN	Minnesota			nytimes/us-counties
 2ba7d565419954f7fdd46f87916ae9ec	498a32c727256e7456aee7c7fd098986	province	United States / Minnesota	US	true	United States	US	true	Minnesota	Ramsey County, MN				Americas	North America	MN	Minnesota			jhu/daily
@@ -6298,8 +6324,10 @@ bbcc8951be5664aa8afe4953491f02eb	d773ca96cdb4b3eb73f417ecad12ca8c	province	Unite
 7f501f0796640451b813741a2766fec9	c2dae4974a9eb7c381c613adcdf8c1fd	province	United States / Missouri	US	true	United States	US	true	Missouri	St. Louis County, MO				Americas	North America	MO	Missouri			jhu/daily
 7f501f0796640451b813741a2766fec9	de8d5e130a36fd64e1477000ac3e208d	province	United States / Missouri	US		United States	United States		Missouri	Missouri				Americas	North America	MO	Missouri			nytimes/us-states
 7f501f0796640451b813741a2766fec9	f84abd0b4a858933a02a5f27ba83a5da	province	United States / Missouri	US	true	United States	US		Missouri	Missouri	true		Unassigned	Americas	North America	MO	Missouri			jhu/daily
+7f501f0796640451b813741a2766fec9	feaa132331bb00eea714cd74704e7832	province	United States / Missouri	US	true	United States	US		Missouri	Missouri	true		Unassigned	Americas	North America	MO	Missouri			jhu/daily
 cc81362677eaa2a0a65b34443964ca61	4bedaa64313659394896b872491dd333	province	United States / Montana	US	true	United States	US		Montana	Montana	true		Unassigned	Americas	North America	MT	Montana			jhu/daily
 cc81362677eaa2a0a65b34443964ca61	5406a69ca72ed9afcf125b191544f1ce	province	United States / Montana	US		United States	United States		Montana	Montana				Americas	North America	MT	Montana			nytimes/us-states
+cc81362677eaa2a0a65b34443964ca61	6a9badf66487aeec9c4412ef5b64be3d	province	United States / Montana	US	true	United States	US		Montana	Montana	true		Unassigned	Americas	North America	MT	Montana			jhu/daily
 cc81362677eaa2a0a65b34443964ca61	c6008b9e081314be12dc5600567545d6	province	United States / Montana	US	true	United States	US		Montana	Montana				Americas	North America	MT	Montana			jhu/daily
 ba0f84957f10d0b828c05401bce2bef6	1404c74d1d9950c05bb0d0345c72dd96	province	United States / Nebraska	US	true	United States	US	true	Nebraska	Ashland, NE				Americas	North America	NE	Nebraska			jhu/daily
 ba0f84957f10d0b828c05401bce2bef6	28ac5e2b3c74ce4548e6b2f48c70d4d0	province	United States / Nebraska	US	true	United States	US		Nebraska	Nebraska	true		Unassigned	Americas	North America	NE	Nebraska			jhu/daily
@@ -6307,9 +6335,11 @@ ba0f84957f10d0b828c05401bce2bef6	57e78739bf874c8a1002a9dfc7e24759	province	Unite
 ba0f84957f10d0b828c05401bce2bef6	7bb668e5df97bd0c27b3ffdd75666983	province	United States / Nebraska	US	true	United States	US	true	Nebraska	Douglas County, NE				Americas	North America	NE	Nebraska			jhu/daily
 ba0f84957f10d0b828c05401bce2bef6	ceccad454452be31d488d1e872690d44	province	United States / Nebraska	US	true	United States	US		Nebraska	Nebraska				Americas	North America	NE	Nebraska			jhu/daily
 ba0f84957f10d0b828c05401bce2bef6	d44dde49cae73a058587ffe30bec339f	province	United States / Nebraska	US		United States	United States		Nebraska	Nebraska				Americas	North America	NE	Nebraska			nytimes/us-states
+ba0f84957f10d0b828c05401bce2bef6	e25729b3fe15e551ba464321c711869e	province	United States / Nebraska	US	true	United States	US		Nebraska	Nebraska	true		Unassigned	Americas	North America	NE	Nebraska			jhu/daily
 8091a9c1ade55ccfe434d766d498feae	00ce1a1fffa499af3a6d9b7dd0c22e4e	province	United States / Nevada	US	true	United States	US		Nevada	Nevada				Americas	North America	NV	Nevada			jhu/daily
 8091a9c1ade55ccfe434d766d498feae	07150e8d3e1c7047acb88ed2c6b9e368	province	United States / Nevada	US	true	United States	US	true	Nevada	Washoe County, NV				Americas	North America	NV	Nevada			jhu/daily
 8091a9c1ade55ccfe434d766d498feae	33e382750b56537fc55db1e413b54352	province	United States / Nevada	US	true	United States	US		Nevada	Nevada	true		Unassigned	Americas	North America	NV	Nevada			jhu/daily
+8091a9c1ade55ccfe434d766d498feae	6b00f480528b5562e985f9a00a1c5769	province	United States / Nevada	US	true	United States	US		Nevada	Nevada	true		Unassigned	Americas	North America	NV	Nevada			jhu/daily
 8091a9c1ade55ccfe434d766d498feae	788abb2290c4dc836adc84da973a1927	province	United States / Nevada	US	true	United States	US	true	Nevada	Clark County, NV				Americas	North America	NV	Nevada			jhu/daily
 8091a9c1ade55ccfe434d766d498feae	cd923de117080669b1f72cee629b4312	province	United States / Nevada	US		United States	United States		Nevada	Nevada	true		Unknown	Americas	North America	NV	Nevada			nytimes/us-counties
 8091a9c1ade55ccfe434d766d498feae	d04880183bb90089e88103fcf73380e8	province	United States / Nevada	US		United States	United States		Nevada	Nevada				Americas	North America	NV	Nevada			nytimes/us-states
@@ -6318,12 +6348,15 @@ d2a18e00f1093e4098c3b022facfed0e	5012625d07e3c8e268fdbf374a25fcaa	province	Unite
 d2a18e00f1093e4098c3b022facfed0e	55d67b1658527fe9d31096d2a7fe961d	province	United States / New Hampshire	US	true	United States	US		New Hampshire	New Hampshire	true		Unassigned	Americas	North America	NH	New Hampshire			jhu/daily
 d2a18e00f1093e4098c3b022facfed0e	6a8b9850db4db0282e26e53749f90515	province	United States / New Hampshire	US		United States	United States		New Hampshire	New Hampshire				Americas	North America	NH	New Hampshire			nytimes/us-states
 d2a18e00f1093e4098c3b022facfed0e	d7dcf8fe26a1976c753394919e4801c0	province	United States / New Hampshire	US	true	United States	US	true	New Hampshire	Grafton County, NH				Americas	North America	NH	New Hampshire			jhu/daily
+d2a18e00f1093e4098c3b022facfed0e	e943e6ba4cf22f0c3bdf4e1943b49f9e	province	United States / New Hampshire	US	true	United States	US		New Hampshire	New Hampshire	true		Unassigned	Americas	North America	NH	New Hampshire			jhu/daily
 bb86155566c8601c49dbf925636f007c	32067dfb7b140cc2cefcfb9bbafef8d7	province	United States / New Jersey	US	true	United States	US	true	New Jersey	Hudson County, NJ				Americas	North America	NJ	New Jersey			jhu/daily
+bb86155566c8601c49dbf925636f007c	468b8e56d4ff67c3ae10a3e4390dc1ad	province	United States / New Jersey	US	true	United States	US		New Jersey	New Jersey	true		Unassigned	Americas	North America	NJ	New Jersey			jhu/daily
 bb86155566c8601c49dbf925636f007c	5333162915b62b1db67fe9aba979542e	province	United States / New Jersey	US	true	United States	US		New Jersey	New Jersey				Americas	North America	NJ	New Jersey			jhu/daily
 bb86155566c8601c49dbf925636f007c	9727768f9dac7fca095b073f5b90e20c	province	United States / New Jersey	US		United States	United States		New Jersey	New Jersey	true		Unknown	Americas	North America	NJ	New Jersey			nytimes/us-counties
 bb86155566c8601c49dbf925636f007c	a268c54f7e4410ee751e80a0f3571d94	province	United States / New Jersey	US	true	United States	US	true	New Jersey	Bergen County, NJ				Americas	North America	NJ	New Jersey			jhu/daily
 bb86155566c8601c49dbf925636f007c	b52d859166b8c8c2e4cd7bf90c553e1c	province	United States / New Jersey	US	true	United States	US		New Jersey	New Jersey	true		Unassigned	Americas	North America	NJ	New Jersey			jhu/daily
 bb86155566c8601c49dbf925636f007c	c8a555f795e1c653f7340ac6f8775ba2	province	United States / New Jersey	US		United States	United States		New Jersey	New Jersey				Americas	North America	NJ	New Jersey			nytimes/us-states
+0703fc3bab05595879f364a250388558	7a80d7df3c626cbb7868ec8f0e67988e	province	United States / New Mexico	US	true	United States	US		New Mexico	New Mexico	true		Unassigned	Americas	North America	NM	New Mexico			jhu/daily
 0703fc3bab05595879f364a250388558	7fc1db1fabf276738a5930bb22b472c8	province	United States / New Mexico	US	true	United States	US		New Mexico	New Mexico				Americas	North America	NM	New Mexico			jhu/daily
 0703fc3bab05595879f364a250388558	b8a243984f14035209c0eca1d311bb37	province	United States / New Mexico	US		United States	United States		New Mexico	New Mexico				Americas	North America	NM	New Mexico			nytimes/us-states
 9072486641c665626d5d9dcda3716e62	073051a57b52578d90ff2dd7fe37620d	province	United States / New York	US	true	United States	US	true	New York	Suffolk County, NY				Americas	North America	NY	New York			jhu/daily
@@ -6338,6 +6371,7 @@ bb86155566c8601c49dbf925636f007c	c8a555f795e1c653f7340ac6f8775ba2	province	Unite
 9072486641c665626d5d9dcda3716e62	b68e0dca0d56c95c060b12ad72d22efc	province	United States / New York	US	true	United States	US	true	New York	Queens County, NY				Americas	North America	NY	New York			jhu/daily
 9072486641c665626d5d9dcda3716e62	ba08d9eb09165d74898791db81a539a0	province	United States / New York	US	true	United States	US	true	New York	Ulster County, NY				Americas	North America	NY	New York			jhu/daily
 9072486641c665626d5d9dcda3716e62	be0d5acaa1ed0cb2d25285d20f8f395c	province	United States / New York	US	true	United States	US	true	New York	New York County, NY				Americas	North America	NY	New York			jhu/daily
+9072486641c665626d5d9dcda3716e62	dd83a5cc7a9363b6f4d1a24d59cc3f27	province	United States / New York	US	true	United States	US		New York	New York	true		Unassigned	Americas	North America	NY	New York			jhu/daily
 80c72d2a107b6976945e9de933d22ba9	179d7f320de1a9679850e0d2407cd7bb	province	United States / North Carolina	US	true	United States	US	true	North Carolina	Chatham County, NC				Americas	North America	NC	North Carolina			jhu/daily
 80c72d2a107b6976945e9de933d22ba9	4ba16526b258a4c5b1be00be1e043dcc	province	United States / North Carolina	US	true	United States	US	true	North Carolina	Wake County, NC				Americas	North America	NC	North Carolina			jhu/daily
 80c72d2a107b6976945e9de933d22ba9	51242b499da426179a74a267b5894fb1	province	United States / North Carolina	US	true	United States	US		North Carolina	North Carolina				Americas	North America	NC	North Carolina			jhu/daily
@@ -6346,6 +6380,7 @@ bb86155566c8601c49dbf925636f007c	c8a555f795e1c653f7340ac6f8775ba2	province	Unite
 d533ee8d02e818c8d143b67a669ffc21	24b3b6952b56094c1ca5677857163f4a	province	United States / North Dakota	US		United States	United States		North Dakota	North Dakota				Americas	North America	ND	North Dakota			nytimes/us-states
 d533ee8d02e818c8d143b67a669ffc21	683fec2f40986e3757f8582318054666	province	United States / North Dakota	US	true	United States	US		North Dakota	North Dakota	true		Unassigned	Americas	North America	ND	North Dakota			jhu/daily
 d533ee8d02e818c8d143b67a669ffc21	7673271b8aa3a5d8a0d76583c796ed04	province	United States / North Dakota	US	true	United States	US		North Dakota	North Dakota				Americas	North America	ND	North Dakota			jhu/daily
+d533ee8d02e818c8d143b67a669ffc21	f82a5f0c4e2d786ca9a8d3dde86fb545	province	United States / North Dakota	US	true	United States	US		North Dakota	North Dakota	true		Unassigned	Americas	North America	ND	North Dakota			jhu/daily
 9e248e6159c5e987945a0aca2ed7354d	4fac196e3fa9bc232d52ec374bfeca03	province	United States / Ohio	US	true	United States	US		Ohio	Ohio				Americas	North America	OH	Ohio			jhu/daily
 9e248e6159c5e987945a0aca2ed7354d	92867e7f684b3413638fa61bc12c1282	province	United States / Ohio	US		United States	United States		Ohio	Ohio				Americas	North America	OH	Ohio			nytimes/us-states
 9e248e6159c5e987945a0aca2ed7354d	d37c603201eaa954bf4494cb8e546afc	province	United States / Ohio	US		United States	United States		Ohio	Ohio	true		Unknown	Americas	North America	OH	Ohio			nytimes/us-counties
@@ -6354,6 +6389,7 @@ af5fb8aca7d2df05c75cc5f48c6316ad	97af306e9be6ae807b31626ea2ee30c6	province	Unite
 af5fb8aca7d2df05c75cc5f48c6316ad	ac8384c5943c0423f09448e5b8038720	province	United States / Oklahoma	US	true	United States	US		Oklahoma	Oklahoma	true		Out of OK	Americas	North America	OK	Oklahoma			jhu/daily
 af5fb8aca7d2df05c75cc5f48c6316ad	b868ebd9274a8884653314454b3942d6	province	United States / Oklahoma	US	true	United States	US		Oklahoma	Oklahoma	true		Unassigned	Americas	North America	OK	Oklahoma			jhu/daily
 af5fb8aca7d2df05c75cc5f48c6316ad	cbb8cdc4845e32acc54af4caa8670e1a	province	United States / Oklahoma	US	true	United States	US	true	Oklahoma	Tulsa County, OK				Americas	North America	OK	Oklahoma			jhu/daily
+af5fb8aca7d2df05c75cc5f48c6316ad	eb35887b8306b5ed0ecbc92b0bce5e0b	province	United States / Oklahoma	US	true	United States	US		Oklahoma	Oklahoma	true		Unassigned	Americas	North America	OK	Oklahoma			jhu/daily
 b0c8b471419181755516fa4033cc86f7	0370e9a32231bb6206c006e9013b445f	province	United States / Oregon	US	true	United States	US	true	Oregon	Jackson County, OR				Americas	North America	OR	Oregon			jhu/daily
 b0c8b471419181755516fa4033cc86f7	13ce6892fa3ce4fc2d8e49f6a53aa1aa	province	United States / Oregon	US	true	United States	US	true	Oregon	Portland, OR				Americas	North America	OR	Oregon			jhu/daily
 b0c8b471419181755516fa4033cc86f7	2639426098ed354ce7d21dc71b553bf5	province	United States / Oregon	US	true	United States	US	true	Oregon	Klamath County, OR				Americas	North America	OR	Oregon			jhu/daily
@@ -6369,6 +6405,7 @@ b0c8b471419181755516fa4033cc86f7	d9773ae56bda7e45f2f67e27b774a794	province	Unite
 82054a59ffb4037dd43b5e342c1356c2	53d6e23514c9b34aeb2edc5d1f2b4fad	province	United States / Pennsylvania	US	true	United States	US		Pennsylvania	Pennsylvania				Americas	North America	PA	Pennsylvania			jhu/daily
 82054a59ffb4037dd43b5e342c1356c2	9cf0d89f5137851b5c3db26dd562613c	province	United States / Pennsylvania	US		United States	United States		Pennsylvania	Pennsylvania				Americas	North America	PA	Pennsylvania			nytimes/us-states
 c586ac9284a432eeca7ecd1dc6933549	043163c651123c4b1922faf5e5c9d618	province	United States / Rhode Island	US	true	United States	US	true	Rhode Island	Providence County, RI				Americas	North America	RI	Rhode Island			jhu/daily
+c586ac9284a432eeca7ecd1dc6933549	21d75a65431f4aeac22d1484878fe731	province	United States / Rhode Island	US	true	United States	US		Rhode Island	Rhode Island	true		Unassigned	Americas	North America	RI	Rhode Island			jhu/daily
 c586ac9284a432eeca7ecd1dc6933549	3a494a410cc060fbf4b596fd3c19d251	province	United States / Rhode Island	US		United States	United States		Rhode Island	Rhode Island				Americas	North America	RI	Rhode Island			nytimes/us-states
 c586ac9284a432eeca7ecd1dc6933549	7d8d519b4acb91c9f5e5a38f4d26efd4	province	United States / Rhode Island	US		United States	United States		Rhode Island	Rhode Island	true		Unknown	Americas	North America	RI	Rhode Island			nytimes/us-counties
 c586ac9284a432eeca7ecd1dc6933549	89c3341d2a97820e8d7b69fdc8db0e20	province	United States / Rhode Island	US	true	United States	US		Rhode Island	Rhode Island	true		Unassigned	Americas	North America	RI	Rhode Island			jhu/daily
@@ -6382,6 +6419,7 @@ abb6c977b3f60cff70985ee0c8df2330	c6253093f08b669ea75d5131075722da	province	Unite
 1482f0d477d5b51375367280820c9090	0245a238e83293e362d56f614ccba557	province	United States / South Dakota	US		United States	United States		South Dakota	South Dakota				Americas	North America	SD	South Dakota			nytimes/us-states
 1482f0d477d5b51375367280820c9090	5b5fe843e15fd6e2925e6951fc384363	province	United States / South Dakota	US	true	United States	US		South Dakota	South Dakota				Americas	North America	SD	South Dakota			jhu/daily
 1482f0d477d5b51375367280820c9090	b53c98716f156625cd38a72e9171dfc7	province	United States / South Dakota	US		United States	United States		South Dakota	South Dakota	true		Unknown	Americas	North America	SD	South Dakota			nytimes/us-counties
+1482f0d477d5b51375367280820c9090	c3be0e188f8c9b7cfd6948e8fe61e39c	province	United States / South Dakota	US	true	United States	US		South Dakota	South Dakota	true		Unassigned	Americas	North America	SD	South Dakota			jhu/daily
 c292ee62a7f995213abd631582095f36	2274427957e12e6e9e6e673f8807dfb1	province	United States / Tennessee	US	true	United States	US		Tennessee	Tennessee	true		Out-of-state	Americas	North America	TN	Tennessee			jhu/daily
 c292ee62a7f995213abd631582095f36	519f9a778555471de607e83f139e7ed8	province	United States / Tennessee	US	true	United States	US		Tennessee	Tennessee	true		Unknown	Americas	North America	TN	Tennessee			jhu/daily
 c292ee62a7f995213abd631582095f36	75cbf7a6c4500894019d1a346a97353c	province	United States / Tennessee	US	true	United States	US		Tennessee	Tennessee	true		Out of TN	Americas	North America	TN	Tennessee			jhu/daily
@@ -6389,6 +6427,7 @@ c292ee62a7f995213abd631582095f36	860dea269809cdf6941badab8f15a4a5	province	Unite
 c292ee62a7f995213abd631582095f36	92eb6c15066b7279e4258c8ccfaf8ae0	province	United States / Tennessee	US	true	United States	US	true	Tennessee	Williamson County, TN				Americas	North America	TN	Tennessee			jhu/daily
 c292ee62a7f995213abd631582095f36	a036b211bd4bfca8ac9344a361e0128f	province	United States / Tennessee	US	true	United States	US		Tennessee	Tennessee	true		Unassigned	Americas	North America	TN	Tennessee			jhu/daily
 c292ee62a7f995213abd631582095f36	daa98176ec39414b354293e49db438bb	province	United States / Tennessee	US		United States	United States		Tennessee	Tennessee	true		Unknown	Americas	North America	TN	Tennessee			nytimes/us-counties
+c292ee62a7f995213abd631582095f36	e1772827b74b8d08dd7d76f5a13c7a97	province	United States / Tennessee	US	true	United States	US		Tennessee	Tennessee	true		Unassigned	Americas	North America	TN	Tennessee			jhu/daily
 c292ee62a7f995213abd631582095f36	e730060adc6b46ef520a32255e1f79d8	province	United States / Tennessee	US	true	United States	US	true	Tennessee	Davidson County, TN				Americas	North America	TN	Tennessee			jhu/daily
 c292ee62a7f995213abd631582095f36	e8add98a14269cdc67153e9cc346ba0a	province	United States / Tennessee	US	true	United States	US	true	Tennessee	Shelby County, TN				Americas	North America	TN	Tennessee			jhu/daily
 c292ee62a7f995213abd631582095f36	f3b83ab41bb9b46bca64db69f4ce11b2	province	United States / Tennessee	US		United States	United States		Tennessee	Tennessee				Americas	North America	TN	Tennessee			nytimes/us-states
@@ -6411,7 +6450,9 @@ a10ec1c2f3661450ddf6c5a6d3e54123	5e6f673eebebdcf7ccb08e54168f794f	province	Unite
 a10ec1c2f3661450ddf6c5a6d3e54123	79cdcbc785daf8ec78bb8b9c6eaf6087	province	United States / Vermont	US		United States	United States		Vermont	Vermont	true		Unknown	Americas	North America	VT	Vermont			nytimes/us-counties
 a10ec1c2f3661450ddf6c5a6d3e54123	a4dc7f386c3a50be24db3ba1d9668539	province	United States / Vermont	US	true	United States	US		Vermont	Vermont				Americas	North America	VT	Vermont			jhu/daily
 a10ec1c2f3661450ddf6c5a6d3e54123	ebc9364ea25c65b98e5b02acf9041bc3	province	United States / Vermont	US	true	United States	US	true	Vermont	Bennington County, VT				Americas	North America	VT	Vermont			jhu/daily
+a10ec1c2f3661450ddf6c5a6d3e54123	f44aa5781d237293f21b36fe2713620d	province	United States / Vermont	US	true	United States	US		Vermont	Vermont	true		Unassigned	Americas	North America	VT	Vermont			jhu/daily
 90c000c3ac68210078bc3389d24ca794	027c777e5766d0b8712efe5a042ebc1b	province	United States / Virginia	US	true	United States	US	true	Virginia	Fairfax County, VA				Americas	North America	VA	Virginia			jhu/daily
+90c000c3ac68210078bc3389d24ca794	7c5de61666439f8afe1cdfde6194f003	province	United States / Virginia	US	true	United States	US		Virginia	Virginia	true		Unassigned	Americas	North America	VA	Virginia			jhu/daily
 90c000c3ac68210078bc3389d24ca794	a8901a263fc074fb0c1ebd74c43066da	province	United States / Virginia	US		United States	United States		Virginia	Virginia				Americas	North America	VA	Virginia			nytimes/us-states
 90c000c3ac68210078bc3389d24ca794	c1b0c7dd9fda1e8087959454f6d293e7	province	United States / Virginia	US	true	United States	US		Virginia	Virginia	true		Unassigned	Americas	North America	VA	Virginia			jhu/daily
 90c000c3ac68210078bc3389d24ca794	ff2a24dd4e01fa66975e242aa4003550	province	United States / Virginia	US	true	United States	US		Virginia	Virginia				Americas	North America	VA	Virginia			jhu/daily
@@ -6425,17 +6466,21 @@ a10ec1c2f3661450ddf6c5a6d3e54123	ebc9364ea25c65b98e5b02acf9041bc3	province	Unite
 5d6bfca9b5ab167cfbbff7f7306a336f	45b8cae86da44c7afee3778edf09b6e3	province	United States / Washington	US	true	United States	US		Washington	Washington				Americas	North America	WA	Washington			jhu/daily
 5d6bfca9b5ab167cfbbff7f7306a336f	5713024055cd9ba691a036747d79738b	province	United States / Washington	US	true	United States	US	true	Washington	Seattle, WA				Americas	North America	WA	Washington			jhu/daily
 5d6bfca9b5ab167cfbbff7f7306a336f	624b1bfacdfa5884228e2fe37c3c1366	province	United States / Washington	US	true	United States	US	true	Washington	Unassigned Location, WA				Americas	North America	WA	Washington			jhu/daily
+5d6bfca9b5ab167cfbbff7f7306a336f	6325ad8b3eef39d71e8c7e3e68a3fe64	province	United States / Washington	US	true	United States	US		Washington	Washington	true		Unassigned	Americas	North America	WA	Washington			jhu/daily
 5d6bfca9b5ab167cfbbff7f7306a336f	a8e84043b7e9c81795f8d77eb8d3076a	province	United States / Washington	US	true	United States	US		Washington	Washington	true		Unassigned	Americas	North America	WA	Washington			jhu/daily
 5d6bfca9b5ab167cfbbff7f7306a336f	abf9fc376b77e4ba612b15e71c67a59b	province	United States / Washington	US	true	United States	US	true	Washington	Snohomish County, WA				Americas	North America	WA	Washington			jhu/daily
 5d6bfca9b5ab167cfbbff7f7306a336f	f5acf589c5845a3a65877546c675f3b6	province	United States / Washington	US	true	United States	US	true	Washington	Pierce County, WA				Americas	North America	WA	Washington			jhu/daily
+b8214aa0ffbc51fb893b57be786d5d35	81e282539d9854505998c7aec0c16da2	province	United States / West Virginia	US	true	United States	US		West Virginia	West Virginia	true		Unassigned	Americas	North America	WV	West Virginia			jhu/daily
 b8214aa0ffbc51fb893b57be786d5d35	e2892225bc67bfdeba586d3c24bae1e1	province	United States / West Virginia	US		United States	United States		West Virginia	West Virginia				Americas	North America	WV	West Virginia			nytimes/us-states
 b8214aa0ffbc51fb893b57be786d5d35	eb18105dfb0f2b68fb0fa397fa3516b9	province	United States / West Virginia	US	true	United States	US		West Virginia	West Virginia				Americas	North America	WV	West Virginia			jhu/daily
 f95ef595eac2b8b57adc6da54c3b9b94	5f80027b12c68c05eba532fa682442a2	province	United States / Wisconsin	US	true	United States	US	true	Wisconsin	Madison, WI				Americas	North America	WI	Wisconsin			jhu/daily
 f95ef595eac2b8b57adc6da54c3b9b94	6cfa314698765a66d7351cc06e7d7aef	province	United States / Wisconsin	US	true	United States	US		Wisconsin	Wisconsin				Americas	North America	WI	Wisconsin			jhu/daily
 f95ef595eac2b8b57adc6da54c3b9b94	ae5b98c963d4b65cd8e9bb8da5c95b93	province	United States / Wisconsin	US	true	United States	US		Wisconsin	Wisconsin	true		Unassigned	Americas	North America	WI	Wisconsin			jhu/daily
 f95ef595eac2b8b57adc6da54c3b9b94	da83295bff7d00af475cd20d9b7fb060	province	United States / Wisconsin	US		United States	United States		Wisconsin	Wisconsin				Americas	North America	WI	Wisconsin			nytimes/us-states
+f95ef595eac2b8b57adc6da54c3b9b94	df5c35a76f2ac67bba7129e0ec5caef0	province	United States / Wisconsin	US	true	United States	US		Wisconsin	Wisconsin	true		Unassigned	Americas	North America	WI	Wisconsin			jhu/daily
 e952c1f6de9d8d16e8b53fa95dad5c0b	a9f6604dad7815aec1c989e17e639349	province	United States / Wyoming	US		United States	United States		Wyoming	Wyoming				Americas	North America	WY	Wyoming			nytimes/us-states
 e952c1f6de9d8d16e8b53fa95dad5c0b	b6bf8b3e90036764464ae971463fb81f	province	United States / Wyoming	US	true	United States	US		Wyoming	Wyoming				Americas	North America	WY	Wyoming			jhu/daily
+e952c1f6de9d8d16e8b53fa95dad5c0b	d8c8831da6f6f4173a56483e4a307748	province	United States / Wyoming	US	true	United States	US		Wyoming	Wyoming	true		unassigned	Americas	North America	WY	Wyoming			jhu/daily
 41b1eb26a87833fa0f9cfabd9d5b1522	415a48f64c351f166ed5163670c71169	country	United States Virgin Islands	VI	true	United States Virgin Islands	US	true		United States Virgin Islands				Americas	Caribbean					jhu/daily
 41b1eb26a87833fa0f9cfabd9d5b1522	552c6a6eaba7052fde4735c40abfdddf	country	United States Virgin Islands	VI	true	United States Virgin Islands	US	true		Virgin Islands, U.S.				Americas	Caribbean					jhu/daily
 41b1eb26a87833fa0f9cfabd9d5b1522	d67ce8f8fb0f1302d75550c756242c0a	country	United States Virgin Islands	VI	true	United States Virgin Islands	United_States_Virgin_Islands							Americas	Caribbean					ecdc/worldwide

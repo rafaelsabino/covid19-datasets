@@ -324,6 +324,7 @@ cf7f4219db8e3b8571a67587718a4046	5f1321ac1f8c8a93786e9f7bd4c7f79f	country	Niger	
 4dfcaf1d125fa7e864f9984582ad0914	50f202ed3e7b4b5286a83ce7eec05f6d	country	Nigeria	NG		Nigeria	Nigeria							Africa	Western Africa					ecdc/worldwide, jhu/daily, jhu/series
 90e84f4db04ae9b067bbb8a1462efd20	871a617ad340b28eb510f22d7e5286f2	country	North Macedonia	MK	true	North Macedonia	North_Macedonia							Europe	Southern Europe					ecdc/worldwide
 90e84f4db04ae9b067bbb8a1462efd20	94b5b537cfbc1ae320d83917e82b7bdd	country	North Macedonia	MK		North Macedonia	North Macedonia							Europe	Southern Europe					jhu/daily, jhu/series
+53ea2fe0f993276e8838b400ca2b4c9c	02719a8a54854bd2dd91ddd504eb25ed	country	Northern Mariana Islands	MP	true	Northern Mariana Islands	US	true		Northern Mariana Islands	true		Unassigned	Oceania	Micronesia					jhu/daily
 53ea2fe0f993276e8838b400ca2b4c9c	1961753f88cab9086821bffa3501bf17	country	Northern Mariana Islands	MP	true	Northern Mariana Islands	United States	true		Northern Mariana Islands	true		Unknown	Oceania	Micronesia					nytimes/us-counties
 53ea2fe0f993276e8838b400ca2b4c9c	6424f73272a053451f8b30c693900aab	country	Northern Mariana Islands	MP	true	Northern Mariana Islands	United States	true		Northern Mariana Islands				Oceania	Micronesia					nytimes/us-states
 53ea2fe0f993276e8838b400ca2b4c9c	77154654ce8a8d9b441d5a9a3999ef43	country	Northern Mariana Islands	MP	true	Northern Mariana Islands	US	true		Northern Mariana Islands				Oceania	Micronesia					jhu/daily
@@ -5610,6 +5611,7 @@ e430dbe067406370e495f82a8892d981	e5938cb72a1c45cd0a0e85c4a6c5e51d	administrative
 5f26808c2c7a350fc46d07f8ce4c9243	bcedd1d3f9f7cd71f3373a1e14bc18d5	administrative	United States / Utah / Wasatch	US		United States	United States		Utah	Utah		Wasatch	Wasatch	Americas	North America	UT	Utah	49051	Wasatch	nytimes/us-counties
 86ad95b71018569f0e410a0e123cf87d	08d9a6ee5495a63648f7baf28a37f47f	administrative	United States / Utah / Washington	US		United States	United States		Utah	Utah		Washington	Washington	Americas	North America	UT	Utah	49053	Washington	nytimes/us-counties
 86ad95b71018569f0e410a0e123cf87d	a520945fdab4f4d927b7ab39633e9b14	administrative	United States / Utah / Washington	US	true	United States	US		Utah	Utah		Washington	Washington	Americas	North America	UT	Utah	49053	Washington	jhu/daily
+86ad95b71018569f0e410a0e123cf87d	adb2414bb8efe4a2322fd82871793ca5	administrative	United States / Utah / Washington	US	true	United States	US		Utah	Utah	true	Washington	Washington County	Americas	North America	UT	Utah	49053	Washington	jhu/daily
 24c9e979f6a6bad707509b7048c723d3	c6f39c05d306251f78781f84081ff25d	administrative	United States / Utah / Wayne	US	true	United States	US		Utah	Utah		Wayne	Wayne	Americas	North America	UT	Utah	49055	Wayne	jhu/daily
 62533781d99656733341495b7f05a460	487df82900b2c0eb40e15eb74428061b	administrative	United States / Utah / Weber	US		United States	United States		Utah	Utah		Weber	Weber	Americas	North America	UT	Utah	49057	Weber	nytimes/us-counties
 62533781d99656733341495b7f05a460	559ab373efae0ce472d349d57acdbaf8	administrative	United States / Utah / Weber	US	true	United States	US		Utah	Utah		Weber	Weber	Americas	North America	UT	Utah	49057	Weber	jhu/daily
@@ -6307,6 +6309,7 @@ ecd2bf6d95380039cc8b5c2ff8393d5e	e2a025c34a76861065656a7c67bdd150	province	Unite
 5a67ef46f23e810267b9872b079c5785	7a1f7e57ba0cc5762606291c9861f318	province	United States / Hawaii	US	true	United States	US		Hawaii	Hawaii	true		Unassigned	Americas	North America	HI	Hawaii			jhu/daily
 5a67ef46f23e810267b9872b079c5785	8686eb739c41b93674f87d03c118f0c8	province	United States / Hawaii	US	true	United States	US	true	Hawaii	Honolulu County, HI				Americas	North America	HI	Hawaii			jhu/daily
 5a67ef46f23e810267b9872b079c5785	b6a580cb5521e224a4c0673dcbee8a6b	province	United States / Hawaii	US		United States	United States		Hawaii	Hawaii				Americas	North America	HI	Hawaii			nytimes/us-states
+5a67ef46f23e810267b9872b079c5785	b9b839475615de70e8283f637f04e725	province	United States / Hawaii	US	true	United States	US		Hawaii	Hawaii	true		Out of HI	Americas	North America	HI	Hawaii			jhu/daily
 5a67ef46f23e810267b9872b079c5785	c862bc2fa26d9dfa22200081a9c94f08	province	United States / Hawaii	US		United States	United States		Hawaii	Hawaii	true		Unknown	Americas	North America	HI	Hawaii			nytimes/us-counties
 ad99ab195d9ffeab18513078b36a1678	089e8a547c578c0003be5cd99e7a97c5	province	United States / Idaho	US	true	United States	US		Idaho	Idaho	true		Unassigned	Americas	North America	ID	Idaho			jhu/daily
 ad99ab195d9ffeab18513078b36a1678	17f06b4391ca3c7a635d08b7f1e5f0bb	province	United States / Idaho	US		United States	United States		Idaho	Idaho				Americas	North America	ID	Idaho			nytimes/us-states
@@ -6457,6 +6460,7 @@ af5fb8aca7d2df05c75cc5f48c6316ad	97af306e9be6ae807b31626ea2ee30c6	province	Unite
 af5fb8aca7d2df05c75cc5f48c6316ad	ac8384c5943c0423f09448e5b8038720	province	United States / Oklahoma	US	true	United States	US		Oklahoma	Oklahoma	true		Out of OK	Americas	North America	OK	Oklahoma			jhu/daily
 af5fb8aca7d2df05c75cc5f48c6316ad	b868ebd9274a8884653314454b3942d6	province	United States / Oklahoma	US	true	United States	US		Oklahoma	Oklahoma	true		Unassigned	Americas	North America	OK	Oklahoma			jhu/daily
 af5fb8aca7d2df05c75cc5f48c6316ad	cbb8cdc4845e32acc54af4caa8670e1a	province	United States / Oklahoma	US	true	United States	US	true	Oklahoma	Tulsa County, OK				Americas	North America	OK	Oklahoma			jhu/daily
+af5fb8aca7d2df05c75cc5f48c6316ad	cc2125ad603d6bd8e3103bfb7c3d5539	province	United States / Oklahoma	US	true	United States	US		Oklahoma	Oklahoma	true		Out of OK	Americas	North America	OK	Oklahoma			jhu/daily
 af5fb8aca7d2df05c75cc5f48c6316ad	eb35887b8306b5ed0ecbc92b0bce5e0b	province	United States / Oklahoma	US	true	United States	US		Oklahoma	Oklahoma	true		Unassigned	Americas	North America	OK	Oklahoma			jhu/daily
 b0c8b471419181755516fa4033cc86f7	0370e9a32231bb6206c006e9013b445f	province	United States / Oregon	US	true	United States	US	true	Oregon	Jackson County, OR				Americas	North America	OR	Oregon			jhu/daily
 b0c8b471419181755516fa4033cc86f7	13ce6892fa3ce4fc2d8e49f6a53aa1aa	province	United States / Oregon	US	true	United States	US	true	Oregon	Portland, OR				Americas	North America	OR	Oregon			jhu/daily

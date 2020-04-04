@@ -7832,6 +7832,33 @@
     ],
     "key": "90e84f4db04ae9b067bbb8a1462efd20"
   },
+  "02719a8a54854bd2dd91ddd504eb25ed": {
+    "dataset": "jhu/daily",
+    "country": "Northern Mariana Islands",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "02719a8a54854bd2dd91ddd504eb25ed",
+    "country_original": "US",
+    "province_original": "Northern Mariana Islands",
+    "administrative_original": "Unassigned",
+    "country_code": "MP",
+    "country_latlong": [
+      15.2,
+      145.75
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "label": "Northern Mariana Islands",
+    "type": "country",
+    "latlong": [
+      15.2,
+      145.75
+    ],
+    "key": "53ea2fe0f993276e8838b400ca2b4c9c"
+  },
   "77154654ce8a8d9b441d5a9a3999ef43": {
     "dataset": "jhu/daily",
     "country": "Northern Mariana Islands",
@@ -48544,6 +48571,39 @@
     "latlong": [
       21.307,
       -157.8584
+    ],
+    "us_state": {
+      "code": "HI",
+      "name": "Hawaii",
+      "population": 1415872,
+      "area": 28313
+    },
+    "label": "United States / Hawaii",
+    "key": "5a67ef46f23e810267b9872b079c5785"
+  },
+  "b9b839475615de70e8283f637f04e725": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Hawaii",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "b9b839475615de70e8283f637f04e725",
+    "country_original": "US",
+    "province_original": "Hawaii",
+    "administrative_original": "Out of HI",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      38,
+      -97
     ],
     "us_state": {
       "code": "HI",
@@ -117805,6 +117865,39 @@
     "label": "United States / Oklahoma",
     "key": "af5fb8aca7d2df05c75cc5f48c6316ad"
   },
+  "cc2125ad603d6bd8e3103bfb7c3d5539": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Oklahoma",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "cc2125ad603d6bd8e3103bfb7c3d5539",
+    "country_original": "US",
+    "province_original": "Oklahoma",
+    "administrative_original": "Out of OK",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      38,
+      -97
+    ],
+    "us_state": {
+      "code": "OK",
+      "name": "Oklahoma",
+      "population": 3956971,
+      "area": 181037
+    },
+    "label": "United States / Oklahoma",
+    "key": "af5fb8aca7d2df05c75cc5f48c6316ad"
+  },
   "eb35887b8306b5ed0ecbc92b0bce5e0b": {
     "dataset": "jhu/daily",
     "country": "United States",
@@ -147012,6 +147105,47 @@
     "latlong": [
       37.28003525,
       -113.504698
+    ],
+    "us_state": {
+      "code": "UT",
+      "name": "Utah",
+      "population": 3205958,
+      "area": 219882
+    },
+    "us_county": {
+      "fips": "49053",
+      "name": "Washington",
+      "name_original": "Washington County"
+    },
+    "label": "United States / Utah / Washington",
+    "key": "86ad95b71018569f0e410a0e123cf87d"
+  },
+  "adb2414bb8efe4a2322fd82871793ca5": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Utah",
+    "administrative": "Washington",
+    "province_latlong": null,
+    "administrative_latlong": [
+      37.3225,
+      -113.4776
+    ],
+    "administrative_fips": "49053",
+    "key_original": "adb2414bb8efe4a2322fd82871793ca5",
+    "country_original": "US",
+    "province_original": "Utah",
+    "administrative_original": "Washington County",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "administrative",
+    "latlong": [
+      37.3225,
+      -113.4776
     ],
     "us_state": {
       "code": "UT",

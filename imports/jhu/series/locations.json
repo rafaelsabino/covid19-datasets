@@ -1457,7 +1457,7 @@
     "province": "Nova Scotia",
     "administrative": null,
     "province_latlong": [
-      44.681999999999995,
+      44.682,
       -63.7443
     ],
     "administrative_latlong": null,
@@ -1475,7 +1475,7 @@
     "subregion": "North America",
     "type": "province",
     "latlong": [
-      44.681999999999995,
+      44.682,
       -63.7443
     ],
     "label": "Canada / Nova Scotia",
@@ -2099,7 +2099,7 @@
     "province": "Heilongjiang",
     "administrative": null,
     "province_latlong": [
-      47.861999999999995,
+      47.862,
       127.7615
     ],
     "administrative_latlong": null,
@@ -2117,7 +2117,7 @@
     "subregion": "Eastern Asia",
     "type": "province",
     "latlong": [
-      47.861999999999995,
+      47.862,
       127.7615
     ],
     "label": "China / Heilongjiang",
@@ -2130,7 +2130,7 @@
     "administrative": null,
     "province_latlong": [
       33.882,
-      113.61399999999999
+      113.614
     ],
     "administrative_latlong": null,
     "administrative_fips": null,
@@ -2148,7 +2148,7 @@
     "type": "province",
     "latlong": [
       33.882,
-      113.61399999999999
+      113.614
     ],
     "label": "China / Henan",
     "key": "2a6240de79e0497cbb3ad9bc2b0b06e6"
@@ -2489,7 +2489,7 @@
     "province": "Shanghai",
     "administrative": null,
     "province_latlong": [
-      31.201999999999998,
+      31.202,
       121.4491
     ],
     "administrative_latlong": null,
@@ -2507,7 +2507,7 @@
     "subregion": "Eastern Asia",
     "type": "province",
     "latlong": [
-      31.201999999999998,
+      31.202,
       121.4491
     ],
     "label": "China / Shanghai",
@@ -2670,7 +2670,7 @@
     "administrative": null,
     "province_latlong": [
       24.974,
-      101.48700000000001
+      101.487
     ],
     "administrative_latlong": null,
     "administrative_fips": null,
@@ -2688,7 +2688,7 @@
     "type": "province",
     "latlong": [
       24.974,
-      101.48700000000001
+      101.487
     ],
     "label": "China / Yunnan",
     "key": "1248bc9682764b352c2c98c7c7d3ccd0"
@@ -6857,7 +6857,7 @@
   "4117e65c282e96adb4c4962f0bf05a37": {
     "dataset": "jhu/series",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
@@ -6873,20 +6873,23 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
       54,
       -2
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
   },
   "52ab989341da5897b1af1821783a8763": {
     "dataset": "jhu/series",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
-    "province_latlong": null,
+    "province_latlong": [
+      55.3781,
+      -3.4360000000000004
+    ],
     "administrative_latlong": null,
     "administrative_fips": null,
     "key_original": "52ab989341da5897b1af1821783a8763",
@@ -6900,13 +6903,43 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
+      55.3781,
+      -3.4360000000000004
+    ],
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
+  },
+  "3476348ed1d8b03bfa7748b120ccc2dd": {
+    "dataset": "jhu/series",
+    "country": "United Kingdom",
+    "province": "Falkland Islands (Islas Malvinas)",
+    "administrative": null,
+    "province_latlong": [
+      -51.7963,
+      -59.5236
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "3476348ed1d8b03bfa7748b120ccc2dd",
+    "country_original": "United Kingdom",
+    "province_original": "Falkland Islands (Islas Malvinas)",
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
       54,
       -2
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      -51.7963,
+      -59.5236
+    ],
+    "label": "United Kingdom / Falkland Islands (Islas Malvinas)",
+    "key": "b7e0bbba319f2cac67f6192fff5ebb03"
   },
   "3b9cfc7c19d1c5a85c26b90a54b95d28": {
     "dataset": "jhu/series",

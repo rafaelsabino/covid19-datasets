@@ -9806,7 +9806,7 @@
   "0146da535810bd9e5509931e9743e392": {
     "dataset": "jhu/daily",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
@@ -9822,18 +9822,18 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
       54,
       -2
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
   },
   "2cc8f4dbc2b543d1f7fc38dfa5754f55": {
     "dataset": "jhu/daily",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
@@ -9849,18 +9849,18 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
       54,
       -2
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
   },
   "4117e65c282e96adb4c4962f0bf05a37": {
     "dataset": "jhu/daily",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
@@ -9876,18 +9876,18 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
       54,
       -2
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
   },
   "50819b265a3b9596f10db88cfe926525": {
     "dataset": "jhu/daily",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
@@ -9903,20 +9903,23 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
       54,
       -2
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
   },
   "52ab989341da5897b1af1821783a8763": {
     "dataset": "jhu/daily",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
-    "province_latlong": null,
+    "province_latlong": [
+      55.3781,
+      -3.436
+    ],
     "administrative_latlong": null,
     "administrative_fips": null,
     "key_original": "52ab989341da5897b1af1821783a8763",
@@ -9930,20 +9933,23 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
-      54,
-      -2
+      55.3781,
+      -3.436
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
   },
   "586b55628d8489a6466eadea674d9533": {
     "dataset": "jhu/daily",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
-    "province_latlong": null,
+    "province_latlong": [
+      55.3781,
+      -3.436
+    ],
     "administrative_latlong": null,
     "administrative_fips": null,
     "key_original": "586b55628d8489a6466eadea674d9533",
@@ -9957,18 +9963,18 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
-      54,
-      -2
+      55.3781,
+      -3.436
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
   },
   "8eba37fbd7f4bae8c62fa9dc4f5698f9": {
     "dataset": "jhu/daily",
     "country": "United Kingdom",
-    "province": null,
+    "province": "(mainland)",
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
@@ -9984,13 +9990,43 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "label": "United Kingdom",
-    "type": "country",
+    "type": "province",
     "latlong": [
       54,
       -2
     ],
-    "key": "42d2003b3d94c131d690b9f9e61692de"
+    "label": "United Kingdom / (mainland)",
+    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
+  },
+  "3476348ed1d8b03bfa7748b120ccc2dd": {
+    "dataset": "jhu/daily",
+    "country": "United Kingdom",
+    "province": "Falkland Islands (Islas Malvinas)",
+    "administrative": null,
+    "province_latlong": [
+      -51.7963,
+      -59.5236
+    ],
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "3476348ed1d8b03bfa7748b120ccc2dd",
+    "country_original": "United Kingdom",
+    "province_original": "Falkland Islands (Islas Malvinas)",
+    "administrative_original": null,
+    "country_code": "GB",
+    "country_latlong": [
+      54,
+      -2
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "type": "province",
+    "latlong": [
+      -51.7963,
+      -59.5236
+    ],
+    "label": "United Kingdom / Falkland Islands (Islas Malvinas)",
+    "key": "b7e0bbba319f2cac67f6192fff5ebb03"
   },
   "36ca8261b1af57d327a979473a4cb741": {
     "dataset": "jhu/daily",
@@ -63225,6 +63261,39 @@
     },
     "label": "United States / Iowa / Wright",
     "key": "07e373d35c82476801875856d43e453a"
+  },
+  "334741bca038d8319fdc1df46c0106a7": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Kansas",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "334741bca038d8319fdc1df46c0106a7",
+    "country_original": "US",
+    "province_original": "Kansas",
+    "administrative_original": "Unassigned",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      38,
+      -97
+    ],
+    "us_state": {
+      "code": "KS",
+      "name": "Kansas",
+      "population": 2913314,
+      "area": 213100
+    },
+    "label": "United States / Kansas",
+    "key": "e09c04dc3f151f57816406064340f041"
   },
   "9a74cd2c50411bcaa52f76e28a0519e6": {
     "dataset": "jhu/daily",

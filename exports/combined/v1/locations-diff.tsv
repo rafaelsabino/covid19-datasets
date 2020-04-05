@@ -423,14 +423,15 @@ f5fdaffa44f92e44cd4770dfe2ff75df	dac92bbac9cb9036c6886ea91d80d6d1	country	Turks 
 0ea72e86920a7b09107a3bdb371d2fe6	48400fe25abe4a25b7e5df3d4086785f	country	Ukraine	UA		Ukraine	Ukraine							Europe	Eastern Europe					ecdc/worldwide, jhu/daily, jhu/series
 5bd9448b11757156805a6398093e64f2	bfbf5e1e6c75ff0eabe34ab6fd5109ed	country	United Arab Emirates	AE		United Arab Emirates	United Arab Emirates							Asia	Western Asia					jhu/daily, jhu/series
 5bd9448b11757156805a6398093e64f2	e88f99b0c0c4164d0ea78de321702fa2	country	United Arab Emirates	AE	true	United Arab Emirates	United_Arab_Emirates							Asia	Western Asia					ecdc/worldwide
-42d2003b3d94c131d690b9f9e61692de	0146da535810bd9e5509931e9743e392	country	United Kingdom	GB	true	United Kingdom	North Ireland							Europe	Northern Europe					jhu/daily
-42d2003b3d94c131d690b9f9e61692de	2cc8f4dbc2b543d1f7fc38dfa5754f55	country	United Kingdom	GB	true	United Kingdom	Channel Islands							Europe	Northern Europe					jhu/daily
-42d2003b3d94c131d690b9f9e61692de	4117e65c282e96adb4c4962f0bf05a37	country	United Kingdom	GB		United Kingdom	United Kingdom	true		Channel Islands				Europe	Northern Europe					jhu/daily, jhu/series
 42d2003b3d94c131d690b9f9e61692de	4eccccfd207d58713e3132cf5d7204d2	country	United Kingdom	GB	true	United Kingdom	United_Kingdom							Europe	Northern Europe					ecdc/worldwide
-42d2003b3d94c131d690b9f9e61692de	50819b265a3b9596f10db88cfe926525	country	United Kingdom	GB		United Kingdom	United Kingdom	true		UK				Europe	Northern Europe					jhu/daily
-42d2003b3d94c131d690b9f9e61692de	52ab989341da5897b1af1821783a8763	country	United Kingdom	GB		United Kingdom	United Kingdom							Europe	Northern Europe					jhu/daily, jhu/series
-42d2003b3d94c131d690b9f9e61692de	586b55628d8489a6466eadea674d9533	country	United Kingdom	GB		United Kingdom	United Kingdom	true		United Kingdom				Europe	Northern Europe					jhu/daily
-42d2003b3d94c131d690b9f9e61692de	8eba37fbd7f4bae8c62fa9dc4f5698f9	country	United Kingdom	GB	true	United Kingdom	UK							Europe	Northern Europe					jhu/daily
+8b548c6cf53b9ada430de6b2c4be21f4	0146da535810bd9e5509931e9743e392	province	United Kingdom / (mainland)	GB	true	United Kingdom	North Ireland	true	(mainland)					Europe	Northern Europe					jhu/daily
+8b548c6cf53b9ada430de6b2c4be21f4	2cc8f4dbc2b543d1f7fc38dfa5754f55	province	United Kingdom / (mainland)	GB	true	United Kingdom	Channel Islands	true	(mainland)					Europe	Northern Europe					jhu/daily
+8b548c6cf53b9ada430de6b2c4be21f4	4117e65c282e96adb4c4962f0bf05a37	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)	Channel Islands				Europe	Northern Europe					jhu/daily, jhu/series
+8b548c6cf53b9ada430de6b2c4be21f4	50819b265a3b9596f10db88cfe926525	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)	UK				Europe	Northern Europe					jhu/daily
+8b548c6cf53b9ada430de6b2c4be21f4	52ab989341da5897b1af1821783a8763	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)					Europe	Northern Europe					jhu/daily, jhu/series
+8b548c6cf53b9ada430de6b2c4be21f4	586b55628d8489a6466eadea674d9533	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)	United Kingdom				Europe	Northern Europe					jhu/daily
+8b548c6cf53b9ada430de6b2c4be21f4	8eba37fbd7f4bae8c62fa9dc4f5698f9	province	United Kingdom / (mainland)	GB	true	United Kingdom	UK	true	(mainland)					Europe	Northern Europe					jhu/daily
+b7e0bbba319f2cac67f6192fff5ebb03	3476348ed1d8b03bfa7748b120ccc2dd	province	United Kingdom / Falkland Islands (Islas Malvinas)	GB		United Kingdom	United Kingdom		Falkland Islands (Islas Malvinas)	Falkland Islands (Islas Malvinas)				Europe	Northern Europe					jhu/daily, jhu/series
 51c151610f90450ff1a4bffccaf6825a	085312673a7066c70d3b607fb1813dc6	administrative	United States / Alabama / Autauga	US		United States	United States		Alabama	Alabama		Autauga	Autauga	Americas	North America	AL	Alabama	01001	Autauga	nytimes/us-counties
 51c151610f90450ff1a4bffccaf6825a	2bb7dce68b78b84bec624b93e5371b07	administrative	United States / Alabama / Autauga	US	true	United States	US		Alabama	Alabama		Autauga	Autauga	Americas	North America	AL	Alabama	01001	Autauga	jhu/daily
 51c151610f90450ff1a4bffccaf6825a	3b9e12968d450cb9505ae25c14a06d41	administrative	United States / Alabama / Autauga	US	true	United States	US		Alabama	Alabama		Autauga	Autauga	Americas	North America	AL	Alabama	01001	Autauga	jhu/daily
@@ -6399,6 +6400,7 @@ a35eb2276a420665ce59b4a8e937a9bf	c153816e3bf5f163089331645d544ff5	province	Unite
 218bf346493e4934083263bbc04a770d	7b15534af6011ba69cb74a272776d6db	province	United States / Iowa	US	true	United States	US	true	Iowa	Johnson County, IA				Americas	North America	IA	Iowa			jhu/daily
 218bf346493e4934083263bbc04a770d	b4bd5c59a9d9aed3f1c50b2182ae2a95	province	United States / Iowa	US	true	United States	US		Iowa	Iowa				Americas	North America	IA	Iowa			jhu/daily
 218bf346493e4934083263bbc04a770d	bb8541dae2a69d5877ee4f63ea0d85e0	province	United States / Iowa	US	true	United States	US		Iowa	Iowa	true		Unassigned	Americas	North America	IA	Iowa			jhu/daily
+e09c04dc3f151f57816406064340f041	334741bca038d8319fdc1df46c0106a7	province	United States / Kansas	US	true	United States	US		Kansas	Kansas	true		Unassigned	Americas	North America	KS	Kansas			jhu/daily
 e09c04dc3f151f57816406064340f041	6d779ee6e00548137c6e80adc5c56385	province	United States / Kansas	US		United States	United States		Kansas	Kansas				Americas	North America	KS	Kansas			nytimes/us-states
 e09c04dc3f151f57816406064340f041	9a74cd2c50411bcaa52f76e28a0519e6	province	United States / Kansas	US	true	United States	US		Kansas	Kansas				Americas	North America	KS	Kansas			jhu/daily
 e09c04dc3f151f57816406064340f041	cc92ca0cedf88077ae090f07dce63892	province	United States / Kansas	US	true	United States	US	true	Kansas	Johnson County, KS				Americas	North America	KS	Kansas			jhu/daily

@@ -16,10 +16,8 @@
 ----
 
 ![](./svg/relative--deaths--lines.svg)
-![](./svg/relative--recovered--lines.svg)
 
 ![](./svg/relative--deaths--heatmap.svg)
-![](./svg/relative--recovered--heatmap.svg)
 
 ----
 

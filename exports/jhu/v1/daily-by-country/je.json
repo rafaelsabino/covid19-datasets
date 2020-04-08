@@ -1,0 +1,119 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3c18210f99cdfd13cba935ad1d3ac890",
+      "type": "total-country",
+      "label": "Jersey",
+      "country": "Jersey",
+      "country_code": "JE",
+      "country_latlong": [
+        49.25,
+        -2.16666666
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        49.25,
+        -2.16666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.019787678212776907,
+        "infected": 0.019787678212776907
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.19787678212776907,
+        "infected": 0.19787678212776907
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.9787678212776907,
+        "infected": 1.9787678212776907
+      }
+    },
+    "factbook": {
+      "population": 101073,
+      "median_age": 37.5,
+      "death_rate": 7.9,
+      "area": 116
+    },
+    "data_key": "713038e6703cfe7dbbc73111496944a1",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": null,
+    "day_index_peak_deaths": null,
+    "day_index_peak": null
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3c18210f99cdfd13cba935ad1d3ac890",
+      "type": "total-country",
+      "label": "Jersey",
+      "country": "Jersey",
+      "country_code": "JE",
+      "country_latlong": [
+        49.25,
+        -2.16666666
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        49.25,
+        -2.16666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "delta": {
+        "confirmed": -2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "confirmed": -100,
+        "infected": -100
+      }
+    },
+    "factbook": {
+      "population": 101073,
+      "median_age": 37.5,
+      "death_rate": 7.9,
+      "area": 116
+    },
+    "data_key": "8fc89ac19b90fc884f3c7001ccd7694b",
+    "day_index_1": 4,
+    "day_index_peak_confirmed": null,
+    "day_index_peak_deaths": null,
+    "day_index_peak": null
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "f4407b93807168c596d6afd5f8a9ae1f",
+      "type": "total-country",
+      "label": "Burundi",
+      "country": "Burundi",
+      "country_code": "BI",
+      "country_latlong": [
+        -3.5,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -3.5,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "peak_pct": {
+        "confirmed": 200,
+        "infected": 200
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00016855133749278705,
+        "infected": 0.00016855133749278705
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0016855133749278705,
+        "infected": 0.0016855133749278705
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.016855133749278703,
+        "infected": 0.016855133749278703
+      }
+    },
+    "factbook": {
+      "population": 11865821,
+      "median_age": 17.7,
+      "death_rate": 6.2,
+      "area": 27830
+    },
+    "data_key": "d4f34cf9e63efea5145b7a0dc2652665",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "f4407b93807168c596d6afd5f8a9ae1f",
+      "type": "total-country",
+      "label": "Burundi",
+      "country": "Burundi",
+      "country_code": "BI",
+      "country_latlong": [
+        -3.5,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -3.5,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00025282700623918057,
+        "infected": 0.00025282700623918057
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0025282700623918057,
+        "infected": 0.0025282700623918057
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.025282700623918058,
+        "infected": 0.025282700623918058
+      }
+    },
+    "factbook": {
+      "population": 11865821,
+      "median_age": 17.7,
+      "death_rate": 6.2,
+      "area": 27830
+    },
+    "data_key": "a99eb69a1f59c4372e1c8339e36d1c65",
+    "day_index_1": 3,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 0
+  }
+]

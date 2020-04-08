@@ -1,0 +1,68 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "b18af3dfc43f21c23d1273f0f76fe184",
+      "type": "total-country",
+      "label": "Saint Pierre and Miquelon",
+      "country": "Saint Pierre and Miquelon",
+      "country_code": "PM",
+      "country_latlong": [
+        46.83333333,
+        -56.33333333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        46.83333333,
+        -56.33333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.18702075930428277,
+        "infected": 0.18702075930428277
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.8702075930428277,
+        "infected": 1.8702075930428277
+      },
+      "absolute_pop100k": {
+        "confirmed": 18.70207593042828,
+        "infected": 18.70207593042828
+      }
+    },
+    "factbook": {
+      "population": 5347,
+      "median_age": 48.5,
+      "death_rate": 10.9,
+      "area": 242
+    },
+    "data_key": "0054127746acb8ddc310a860b25b954b",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": null,
+    "day_index_peak_deaths": null,
+    "day_index_peak": null
+  }
+]

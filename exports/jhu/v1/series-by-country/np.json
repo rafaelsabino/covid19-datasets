@@ -1,0 +1,617 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "35528b125f1b1c767cb27557ba857427",
+      "type": "total-country",
+      "label": "Nepal",
+      "country": "Nepal",
+      "country_code": "NP",
+      "country_latlong": [
+        28,
+        84
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        28,
+        84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 25,
+      "date": "2020-01-25",
+      "timestamp": 1579910400,
+      "index": 4
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.2972964114830724e-05,
+        "infected": 3.2972964114830724e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00032972964114830726,
+        "infected": 0.00032972964114830726
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0032972964114830723,
+        "infected": 0.0032972964114830723
+      }
+    },
+    "factbook": {
+      "population": 30327877,
+      "median_age": 25.3,
+      "death_rate": 5.7,
+      "area": 147181
+    },
+    "data_key": "6e8c951651b9c37630bc6ab5c8204f04",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -62,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -62
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "35528b125f1b1c767cb27557ba857427",
+      "type": "total-country",
+      "label": "Nepal",
+      "country": "Nepal",
+      "country_code": "NP",
+      "country_latlong": [
+        28,
+        84
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        28,
+        84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 12,
+      "date": "2020-02-12",
+      "timestamp": 1581465600,
+      "index": 22
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "recovered": 1
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -100
+      },
+      "peak_pct": {
+        "infected": -100
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.2972964114830724e-05,
+        "recovered": 3.2972964114830724e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00032972964114830726,
+        "recovered": 0.00032972964114830726
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0032972964114830723,
+        "recovered": 0.0032972964114830723
+      }
+    },
+    "factbook": {
+      "population": 30327877,
+      "median_age": 25.3,
+      "death_rate": 5.7,
+      "area": 147181
+    },
+    "data_key": "e43190da58ca45e110972fd55ec908da",
+    "day_index_1": 19,
+    "day_index_peak_confirmed": -44,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -44
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "35528b125f1b1c767cb27557ba857427",
+      "type": "total-country",
+      "label": "Nepal",
+      "country": "Nepal",
+      "country_code": "NP",
+      "country_latlong": [
+        28,
+        84
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        28,
+        84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "recovered": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "recovered": 50,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 6.594592822966145e-05,
+        "recovered": 3.2972964114830724e-05,
+        "infected": 3.2972964114830724e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0006594592822966145,
+        "recovered": 0.00032972964114830726,
+        "infected": 0.00032972964114830726
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.006594592822966145,
+        "recovered": 0.0032972964114830723,
+        "infected": 0.0032972964114830723
+      }
+    },
+    "factbook": {
+      "population": 30327877,
+      "median_age": 25.3,
+      "death_rate": 5.7,
+      "area": 147181
+    },
+    "data_key": "23a8f0f0c9f95717754b7b32a21ea719",
+    "day_index_1": 59,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "35528b125f1b1c767cb27557ba857427",
+      "type": "total-country",
+      "label": "Nepal",
+      "country": "Nepal",
+      "country_code": "NP",
+      "country_latlong": [
+        28,
+        84
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        28,
+        84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "recovered": 1,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "recovered": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 9.891889234449217e-05,
+        "recovered": 3.2972964114830724e-05,
+        "infected": 6.594592822966145e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0009891889234449217,
+        "recovered": 0.00032972964114830726,
+        "infected": 0.0006594592822966145
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.009891889234449216,
+        "recovered": 0.0032972964114830723,
+        "infected": 0.006594592822966145
+      }
+    },
+    "factbook": {
+      "population": 30327877,
+      "median_age": 25.3,
+      "death_rate": 5.7,
+      "area": 147181
+    },
+    "data_key": "6bd97ae7db169d41a64327f6aea7746d",
+    "day_index_1": 61,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "35528b125f1b1c767cb27557ba857427",
+      "type": "total-country",
+      "label": "Nepal",
+      "country": "Nepal",
+      "country_code": "NP",
+      "country_latlong": [
+        28,
+        84
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        28,
+        84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "recovered": 1,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "recovered": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0001318918564593229,
+        "recovered": 3.2972964114830724e-05,
+        "infected": 9.891889234449217e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.001318918564593229,
+        "recovered": 0.00032972964114830726,
+        "infected": 0.0009891889234449217
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.01318918564593229,
+        "recovered": 0.0032972964114830723,
+        "infected": 0.009891889234449216
+      }
+    },
+    "factbook": {
+      "population": 30327877,
+      "median_age": 25.3,
+      "death_rate": 5.7,
+      "area": 147181
+    },
+    "data_key": "175f0dfe82c2f487e28f4ca1fae9be9f",
+    "day_index_1": 63,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "35528b125f1b1c767cb27557ba857427",
+      "type": "total-country",
+      "label": "Nepal",
+      "country": "Nepal",
+      "country_code": "NP",
+      "country_latlong": [
+        28,
+        84
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        28,
+        84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "recovered": 1,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "recovered": 20,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0001648648205741536,
+        "recovered": 3.2972964114830724e-05,
+        "infected": 0.0001318918564593229
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.001648648205741536,
+        "recovered": 0.00032972964114830726,
+        "infected": 0.001318918564593229
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.01648648205741536,
+        "recovered": 0.0032972964114830723,
+        "infected": 0.01318918564593229
+      }
+    },
+    "factbook": {
+      "population": 30327877,
+      "median_age": 25.3,
+      "death_rate": 5.7,
+      "area": 147181
+    },
+    "data_key": "ee9ebc094ed03f19b719fd3617fe977d",
+    "day_index_1": 64,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "35528b125f1b1c767cb27557ba857427",
+      "type": "total-country",
+      "label": "Nepal",
+      "country": "Nepal",
+      "country_code": "NP",
+      "country_latlong": [
+        28,
+        84
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        28,
+        84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "recovered": 1,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 20,
+        "infected": 25
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "recovered": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00019783778468898433,
+        "recovered": 3.2972964114830724e-05,
+        "infected": 0.0001648648205741536
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0019783778468898433,
+        "recovered": 0.00032972964114830726,
+        "infected": 0.001648648205741536
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.019783778468898432,
+        "recovered": 0.0032972964114830723,
+        "infected": 0.01648648205741536
+      }
+    },
+    "factbook": {
+      "population": 30327877,
+      "median_age": 25.3,
+      "death_rate": 5.7,
+      "area": 147181
+    },
+    "data_key": "bd20b999411bb55e0c7ec645bfe97623",
+    "day_index_1": 69,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "35528b125f1b1c767cb27557ba857427",
+      "type": "total-country",
+      "label": "Nepal",
+      "country": "Nepal",
+      "country_code": "NP",
+      "country_latlong": [
+        28,
+        84
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        28,
+        84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9,
+        "recovered": 1,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 60
+      },
+      "peak_pct": {
+        "confirmed": 300,
+        "infected": 300
+      },
+      "relative": {
+        "recovered": 11.11111111111111,
+        "infected": 88.88888888888889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0002967566770334765,
+        "recovered": 3.2972964114830724e-05,
+        "infected": 0.0002637837129186458
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.002967566770334765,
+        "recovered": 0.00032972964114830726,
+        "infected": 0.002637837129186458
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.02967566770334765,
+        "recovered": 0.0032972964114830723,
+        "infected": 0.02637837129186458
+      }
+    },
+    "factbook": {
+      "population": 30327877,
+      "median_age": 25.3,
+      "death_rate": 5.7,
+      "area": 147181
+    },
+    "data_key": "f5d6c071ae3d0014d18ee52f238d7a00",
+    "day_index_1": 71,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
+  }
+]

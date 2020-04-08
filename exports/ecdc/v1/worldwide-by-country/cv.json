@@ -1,0 +1,539 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "peak_pct": {
+        "confirmed": 200,
+        "infected": 200
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0034290318985692363,
+        "infected": 0.0034290318985692363
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03429031898569236,
+        "infected": 0.03429031898569236
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.34290318985692364,
+        "infected": 0.34290318985692364
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "0e663da73c54a2449f7974b63bf9dc1b",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 83
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005143547847853855,
+        "infected": 0.005143547847853855
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05143547847853855,
+        "infected": 0.05143547847853855
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5143547847853855,
+        "infected": 0.5143547847853855
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "3160a675d0150e72f32e8d79bb2a8bf4",
+    "day_index_1": 2,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 86
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "deaths": 1,
+        "infected": 2
+      },
+      "delta": {
+        "deaths": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -33.333333333333336
+      },
+      "peak_pct": {
+        "infected": -100
+      },
+      "relative": {
+        "deaths": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005143547847853855,
+        "deaths": 0.0017145159492846181,
+        "infected": 0.0034290318985692363
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05143547847853855,
+        "deaths": 0.01714515949284618,
+        "infected": 0.03429031898569236
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5143547847853855,
+        "deaths": 0.17145159492846182,
+        "infected": 0.34290318985692364
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "eacbdb1fd63312ea29a45c32c2f5a61a",
+    "day_index_1": 5,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 87
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "deaths": 1,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006858063797138473,
+        "deaths": 0.0017145159492846181,
+        "infected": 0.005143547847853855
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06858063797138472,
+        "deaths": 0.01714515949284618,
+        "infected": 0.05143547847853855
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6858063797138473,
+        "deaths": 0.17145159492846182,
+        "infected": 0.5143547847853855
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "77c4d35deebe7ed4ff59faff1d78aaaf",
+    "day_index_1": 6,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 88
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "deaths": 1,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 20,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00857257974642309,
+        "deaths": 0.0017145159492846181,
+        "infected": 0.006858063797138473
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0857257974642309,
+        "deaths": 0.01714515949284618,
+        "infected": 0.06858063797138472
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.857257974642309,
+        "deaths": 0.17145159492846182,
+        "infected": 0.6858063797138473
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "b4b6872fc67af7867916d7c9b244524b",
+    "day_index_1": 7,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 93
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 1,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 20,
+        "infected": 25
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01028709569570771,
+        "deaths": 0.0017145159492846181,
+        "infected": 0.00857257974642309
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1028709569570771,
+        "deaths": 0.01714515949284618,
+        "infected": 0.0857257974642309
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.028709569570771,
+        "deaths": 0.17145159492846182,
+        "infected": 0.857257974642309
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "4e7e5b5a8bc2c54f3ad633b3308052a2",
+    "day_index_1": 12,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 97
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "deaths": 1,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 16.666666666666668,
+        "infected": 20
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 14.285714285714285,
+        "infected": 85.71428571428571
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.012001611644992327,
+        "deaths": 0.0017145159492846181,
+        "infected": 0.01028709569570771
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.12001611644992327,
+        "deaths": 0.01714515949284618,
+        "infected": 0.1028709569570771
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.2001611644992327,
+        "deaths": 0.17145159492846182,
+        "infected": 1.028709569570771
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "2b3bd41bcdba4776ab5554f4ab3079f2",
+    "day_index_1": 16,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "3149b40eaa722cc0b74ed2e8738dddcc",
+      "type": "total-country",
+      "label": "Papua New Guinea",
+      "country": "Papua New Guinea",
+      "country_code": "PG",
+      "country_latlong": [
+        -6,
+        147
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "administrative": null,
+      "latlong": [
+        -6,
+        147
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00013775136869759936,
+        "infected": 0.00013775136869759936
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0013775136869759936,
+        "infected": 0.0013775136869759936
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.013775136869759936,
+        "infected": 0.013775136869759936
+      }
+    },
+    "factbook": {
+      "population": 7259456,
+      "median_age": 24,
+      "death_rate": 6.7,
+      "area": 462840
+    },
+    "data_key": "be21daff9efdfc0f1bc0ffe1611a0502",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "3149b40eaa722cc0b74ed2e8738dddcc",
+      "type": "total-country",
+      "label": "Papua New Guinea",
+      "country": "Papua New Guinea",
+      "country_code": "PG",
+      "country_latlong": [
+        -6,
+        147
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "administrative": null,
+      "latlong": [
+        -6,
+        147
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 100
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00027550273739519873,
+        "infected": 0.00027550273739519873
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.002755027373951987,
+        "infected": 0.002755027373951987
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.027550273739519873,
+        "infected": 0.027550273739519873
+      }
+    },
+    "factbook": {
+      "population": 7259456,
+      "median_age": 24,
+      "death_rate": 6.7,
+      "area": 462840
+    },
+    "data_key": "de8a13dd348b4a814c9ea9451261dee8",
+    "day_index_1": 19,
+    "day_index_peak_confirmed": 18,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 18
+  }
+]

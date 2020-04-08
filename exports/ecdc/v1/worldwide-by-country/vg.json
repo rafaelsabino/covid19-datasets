@@ -1,0 +1,112 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a2580f89a7720903fd9ee9514c70828e",
+      "type": "total-country",
+      "label": "British Virgin Islands",
+      "country": "British Virgin Islands",
+      "country_code": "VG",
+      "country_latlong": [
+        18.431383,
+        -64.62305
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.431383,
+        -64.62305
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 88
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "peak_pct": {
+        "confirmed": 200,
+        "infected": 200
+      },
+      "relative": {
+        "infected": 100
+      }
+    },
+    "factbook": null,
+    "data_key": "ff5afd5c1be441838984fe84cd411bc8",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a2580f89a7720903fd9ee9514c70828e",
+      "type": "total-country",
+      "label": "British Virgin Islands",
+      "country": "British Virgin Islands",
+      "country_code": "VG",
+      "country_latlong": [
+        18.431383,
+        -64.62305
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.431383,
+        -64.62305
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 92
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      }
+    },
+    "factbook": null,
+    "data_key": "7c77f8d7cd174538ac1e0a2da8df3697",
+    "day_index_1": 5,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 0
+  }
+]

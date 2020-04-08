@@ -1,0 +1,4980 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 22,
+      "date": "2020-01-22",
+      "timestamp": 1579651200,
+      "index": 1
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.236740770228457e-05,
+        "infected": 4.236740770228457e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00042367407702284564,
+        "infected": 0.00042367407702284564
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.004236740770228457,
+        "infected": 0.004236740770228457
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "5ff85a913bdcb8feccf1bef06225bdb0",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -60,
+    "day_index_peak_deaths": -41,
+    "day_index_peak": -50
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 24,
+      "date": "2020-01-24",
+      "timestamp": 1579824000,
+      "index": 3
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 200,
+        "infected": 200
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "infected": 9.523809523809524
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0001271022231068537,
+        "infected": 0.0001271022231068537
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0012710222310685368,
+        "infected": 0.0012710222310685368
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.012710222310685368,
+        "infected": 0.012710222310685368
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "7df67b2e9181edacae4c25280ea6c71a",
+    "day_index_1": 3,
+    "day_index_peak_confirmed": -58,
+    "day_index_peak_deaths": -39,
+    "day_index_peak": -48
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 26,
+      "date": "2020-01-26",
+      "timestamp": 1579996800,
+      "index": 5
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00016946963080913827,
+        "infected": 0.00016946963080913827
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0016946963080913826,
+        "infected": 0.0016946963080913826
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.016946963080913827,
+        "infected": 0.016946963080913827
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "6a69ad4ef3a3138816313a134bc7e128",
+    "day_index_1": 5,
+    "day_index_peak_confirmed": -56,
+    "day_index_peak_deaths": -37,
+    "day_index_peak": -46
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 27,
+      "date": "2020-01-27",
+      "timestamp": 1580083200,
+      "index": 6
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 25
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00021183703851142282,
+        "infected": 0.00021183703851142282
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0021183703851142283,
+        "infected": 0.0021183703851142283
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.021183703851142283,
+        "infected": 0.021183703851142283
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "4266994e227bade34a9d87dfaeb9a876",
+    "day_index_1": 6,
+    "day_index_peak_confirmed": -55,
+    "day_index_peak_deaths": -36,
+    "day_index_peak": -45
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 28,
+      "date": "2020-01-28",
+      "timestamp": 1580169600,
+      "index": 7
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 60,
+        "infected": 60
+      },
+      "peak_pct": {
+        "confirmed": 14.018691588785048,
+        "infected": 14.285714285714285
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00033893926161827654,
+        "infected": 0.00033893926161827654
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.003389392616182765,
+        "infected": 0.003389392616182765
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.03389392616182765,
+        "infected": 0.03389392616182765
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "f26b9722682603a6c5b9b09fc8394796",
+    "day_index_1": 7,
+    "day_index_peak_confirmed": -54,
+    "day_index_peak_deaths": -35,
+    "day_index_peak": -44
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 30,
+      "date": "2020-01-30",
+      "timestamp": 1580342400,
+      "index": 9
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 12.5,
+        "infected": 12.5
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0003813066693205611,
+        "infected": 0.0003813066693205611
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.003813066693205611,
+        "infected": 0.003813066693205611
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.038130666932056106,
+        "infected": 0.038130666932056106
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "ce8f18075c1588090e49e80e99685a08",
+    "day_index_1": 9,
+    "day_index_peak_confirmed": -52,
+    "day_index_peak_deaths": -33,
+    "day_index_peak": -42
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 31,
+      "date": "2020-01-31",
+      "timestamp": 1580428800,
+      "index": 10
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 11.11111111111111,
+        "infected": 11.11111111111111
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00042367407702284564,
+        "infected": 0.00042367407702284564
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004236740770228457,
+        "infected": 0.004236740770228457
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04236740770228457,
+        "infected": 0.04236740770228457
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "75e3e24509832e535da4b07dc26d704a",
+    "day_index_1": 10,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -51,
+    "day_index_peak_deaths": -32,
+    "day_index_peak": -41
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 4,
+      "date": "2020-02-04",
+      "timestamp": 1580774400,
+      "index": 14
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11,
+        "infected": 11
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00046604148472513025,
+        "infected": 0.00046604148472513025
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004660414847251303,
+        "infected": 0.004660414847251303
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04660414847251303,
+        "infected": 0.04660414847251303
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "fcd120294d1a20733f0c6c7770cf212b",
+    "day_index_1": 14,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -47,
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -37
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 6,
+      "date": "2020-02-06",
+      "timestamp": 1580947200,
+      "index": 16
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16,
+        "recovered": 1,
+        "infected": 15
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 1,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 45.45454545454545,
+        "infected": 36.36363636363637
+      },
+      "peak_pct": {
+        "confirmed": 23.364485981308412,
+        "recovered": 20,
+        "infected": 19.047619047619047
+      },
+      "relative": {
+        "recovered": 6.25,
+        "infected": 93.75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006778785232365531,
+        "recovered": 4.236740770228457e-05,
+        "infected": 0.0006355111155342685
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00677878523236553,
+        "recovered": 0.00042367407702284564,
+        "infected": 0.006355111155342685
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0677878523236553,
+        "recovered": 0.004236740770228457,
+        "infected": 0.06355111155342685
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "f931f345a41c4fe3501eb8235c6a27e8",
+    "day_index_1": 16,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": -45,
+    "day_index_peak_deaths": -26,
+    "day_index_peak": -35
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 8,
+      "date": "2020-02-08",
+      "timestamp": 1581120000,
+      "index": 18
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 17,
+        "recovered": 1,
+        "infected": 16
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 6.25,
+        "infected": 6.666666666666667
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "recovered": 5.88235294117647,
+        "infected": 94.11764705882352
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0007202459309388376,
+        "recovered": 4.236740770228457e-05,
+        "infected": 0.0006778785232365531
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0072024593093883765,
+        "recovered": 0.00042367407702284564,
+        "infected": 0.00677878523236553
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07202459309388376,
+        "recovered": 0.004236740770228457,
+        "infected": 0.0677878523236553
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "82a357afbf3d47f268da6272a497e025",
+    "day_index_1": 18,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": -43,
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -33
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 9,
+      "date": "2020-02-09",
+      "timestamp": 1581206400,
+      "index": 19
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 18,
+        "recovered": 1,
+        "infected": 17
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 5.882352941176471,
+        "infected": 6.25
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "recovered": 5.555555555555555,
+        "infected": 94.44444444444444
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0007626133386411222,
+        "recovered": 4.236740770228457e-05,
+        "infected": 0.0007202459309388376
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007626133386411222,
+        "recovered": 0.00042367407702284564,
+        "infected": 0.0072024593093883765
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07626133386411221,
+        "recovered": 0.004236740770228457,
+        "infected": 0.07202459309388376
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "4e62212cd0515c9cea81fe991179c173",
+    "day_index_1": 19,
+    "day_index_10": 10,
+    "day_index_peak_confirmed": -42,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -32
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 14,
+      "date": "2020-02-14",
+      "timestamp": 1581638400,
+      "index": 24
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 18,
+        "recovered": 2,
+        "infected": 16
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 100,
+        "infected": -5.882352941176471
+      },
+      "peak_pct": {
+        "recovered": 20,
+        "infected": -4.761904761904762
+      },
+      "relative": {
+        "recovered": 11.11111111111111,
+        "infected": 88.88888888888889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0007626133386411222,
+        "recovered": 8.473481540456913e-05,
+        "infected": 0.0006778785232365531
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007626133386411222,
+        "recovered": 0.0008473481540456913,
+        "infected": 0.00677878523236553
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07626133386411221,
+        "recovered": 0.008473481540456913,
+        "infected": 0.0677878523236553
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "71d0215ce5ba8ceae68c8f1dee00f9ba",
+    "day_index_1": 24,
+    "day_index_10": 15,
+    "day_index_peak_confirmed": -37,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -27
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 16,
+      "date": "2020-02-16",
+      "timestamp": 1581811200,
+      "index": 26
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 20,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 17
+      },
+      "delta": {
+        "confirmed": 2,
+        "deaths": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 11.11111111111111,
+        "infected": 6.25
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "deaths": 100,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 5,
+        "recovered": 10,
+        "infected": 85
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0008473481540456913,
+        "recovered": 8.473481540456913e-05,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0007202459309388376
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.008473481540456913,
+        "recovered": 0.0008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.0072024593093883765
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.08473481540456913,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.07202459309388376
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "bc871425ba8eaddd71415cc815fe41b5",
+    "day_index_1": 26,
+    "day_index_10": 17,
+    "day_index_peak_confirmed": -35,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -25
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 17,
+      "date": "2020-02-17",
+      "timestamp": 1581897600,
+      "index": 27
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 22,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 19
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 10,
+        "infected": 11.764705882352942
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "infected": 9.523809523809524
+      },
+      "relative": {
+        "deaths": 4.545454545454546,
+        "recovered": 9.090909090909092,
+        "infected": 86.36363636363636
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0009320829694502605,
+        "recovered": 8.473481540456913e-05,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0008049807463434067
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.009320829694502606,
+        "recovered": 0.0008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.008049807463434068
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.09320829694502605,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.08049807463434068
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "b0cf9b9184a8c8a756bdeadd453250a7",
+    "day_index_1": 27,
+    "day_index_10": 18,
+    "day_index_peak_confirmed": -34,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 19,
+      "date": "2020-02-19",
+      "timestamp": 1582070400,
+      "index": 29
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 23,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 20
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 4.545454545454546,
+        "infected": 5.2631578947368425
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 4.3478260869565215,
+        "recovered": 8.695652173913043,
+        "infected": 86.95652173913044
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0009744503771525451,
+        "recovered": 8.473481540456913e-05,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0008473481540456913
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.009744503771525451,
+        "recovered": 0.0008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.008473481540456913
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0974450377152545,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.08473481540456913
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "1a7aecf1136ef8fbfbc70e35d78d48af",
+    "day_index_1": 29,
+    "day_index_10": 20,
+    "day_index_peak_confirmed": -32,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -22
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 20,
+      "date": "2020-02-20",
+      "timestamp": 1582156800,
+      "index": 30
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 24,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 21
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 4.3478260869565215,
+        "infected": 5
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 4.166666666666666,
+        "recovered": 8.333333333333332,
+        "infected": 87.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0010168177848548295,
+        "recovered": 8.473481540456913e-05,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.000889715561747976
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.010168177848548295,
+        "recovered": 0.0008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.008897155617479759
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.10168177848548295,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.0889715561747976
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "34d299aae30a9fe6d67d974aafeab4e9",
+    "day_index_1": 30,
+    "day_index_10": 21,
+    "day_index_peak_confirmed": -31,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 21,
+      "date": "2020-02-21",
+      "timestamp": 1582243200,
+      "index": 31
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 26,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 23
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 8.333333333333334,
+        "infected": 9.523809523809524
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "infected": 9.523809523809524
+      },
+      "relative": {
+        "deaths": 3.8461538461538463,
+        "recovered": 7.6923076923076925,
+        "infected": 88.46153846153845
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0011015526002593988,
+        "recovered": 8.473481540456913e-05,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0009744503771525451
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.011015526002593989,
+        "recovered": 0.0008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.009744503771525451
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.11015526002593988,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.0974450377152545
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "207bf68ffaa29b7c79b4b341cf021a2f",
+    "day_index_1": 31,
+    "day_index_10": 22,
+    "day_index_peak_confirmed": -30,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 23,
+      "date": "2020-02-23",
+      "timestamp": 1582416000,
+      "index": 33
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 28,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 25
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 7.6923076923076925,
+        "infected": 8.695652173913043
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "infected": 9.523809523809524
+      },
+      "relative": {
+        "deaths": 3.571428571428571,
+        "recovered": 7.142857142857142,
+        "infected": 89.28571428571429
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001186287415663968,
+        "recovered": 8.473481540456913e-05,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0010591851925571142
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01186287415663968,
+        "recovered": 0.0008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.010591851925571142
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1186287415663968,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.10591851925571141
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "f9ee78a3262d53c53e2043cd2318a04c",
+    "day_index_1": 33,
+    "day_index_10": 24,
+    "day_index_peak_confirmed": -28,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 24,
+      "date": "2020-02-24",
+      "timestamp": 1582502400,
+      "index": 34
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 30,
+        "deaths": 1,
+        "recovered": 5,
+        "infected": 24
+      },
+      "delta": {
+        "confirmed": 2,
+        "recovered": 3,
+        "infected": -1
+      },
+      "delta_pct": {
+        "confirmed": 7.142857142857143,
+        "recovered": 150,
+        "infected": -4
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "recovered": 60,
+        "infected": -4.761904761904762
+      },
+      "relative": {
+        "deaths": 3.3333333333333335,
+        "recovered": 16.666666666666664,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001271022231068537,
+        "recovered": 0.00021183703851142282,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0010168177848548295
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01271022231068537,
+        "recovered": 0.0021183703851142283,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.010168177848548295
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1271022231068537,
+        "recovered": 0.021183703851142283,
+        "deaths": 0.004236740770228457,
+        "infected": 0.10168177848548295
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "c55c88b270d096f9bc80dfc25d1ae021",
+    "day_index_1": 34,
+    "day_index_10": 25,
+    "day_index_peak_confirmed": -27,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 25,
+      "date": "2020-02-25",
+      "timestamp": 1582588800,
+      "index": 35
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 31,
+        "deaths": 1,
+        "recovered": 5,
+        "infected": 25
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 3.3333333333333335,
+        "infected": 4.166666666666667
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 3.225806451612903,
+        "recovered": 16.129032258064516,
+        "infected": 80.64516129032258
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013133896387708215,
+        "recovered": 0.00021183703851142282,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0010591851925571142
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.013133896387708215,
+        "recovered": 0.0021183703851142283,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.010591851925571142
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.13133896387708216,
+        "recovered": 0.021183703851142283,
+        "deaths": 0.004236740770228457,
+        "infected": 0.10591851925571141
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "c9e0bf6137322acd504e2fc73eb441ae",
+    "day_index_1": 35,
+    "day_index_10": 26,
+    "day_index_peak_confirmed": -26,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 26,
+      "date": "2020-02-26",
+      "timestamp": 1582675200,
+      "index": 36
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 32,
+        "deaths": 1,
+        "recovered": 5,
+        "infected": 26
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 3.225806451612903,
+        "infected": 4
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 3.125,
+        "recovered": 15.625,
+        "infected": 81.25
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013557570464731061,
+        "recovered": 0.00021183703851142282,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0011015526002593988
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01355757046473106,
+        "recovered": 0.0021183703851142283,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.011015526002593989
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1355757046473106,
+        "recovered": 0.021183703851142283,
+        "deaths": 0.004236740770228457,
+        "infected": 0.11015526002593988
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "849b08031940a3f56053bd6e79dee44b",
+    "day_index_1": 36,
+    "day_index_10": 27,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 28,
+      "date": "2020-02-28",
+      "timestamp": 1582848000,
+      "index": 38
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 34,
+        "deaths": 1,
+        "recovered": 6,
+        "infected": 27
+      },
+      "delta": {
+        "confirmed": 2,
+        "recovered": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 6.25,
+        "recovered": 20,
+        "infected": 3.8461538461538463
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "recovered": 20,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 2.941176470588235,
+        "recovered": 17.647058823529413,
+        "infected": 79.41176470588235
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0014404918618776753,
+        "recovered": 0.0002542044462137074,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0011439200079616833
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.014404918618776753,
+        "recovered": 0.0025420444621370736,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.011439200079616832
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.14404918618776752,
+        "recovered": 0.025420444621370736,
+        "deaths": 0.004236740770228457,
+        "infected": 0.11439200079616833
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "50795ac614d50eb8d23b933ecd5c12eb",
+    "day_index_1": 38,
+    "day_index_10": 29,
+    "day_index_peak_confirmed": -23,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 29,
+      "date": "2020-02-29",
+      "timestamp": 1582934400,
+      "index": 39
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 39,
+        "deaths": 1,
+        "recovered": 9,
+        "infected": 29
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 3,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 14.705882352941176,
+        "recovered": 50,
+        "infected": 7.407407407407407
+      },
+      "peak_pct": {
+        "confirmed": 23.364485981308412,
+        "recovered": 60,
+        "infected": 9.523809523809524
+      },
+      "relative": {
+        "deaths": 2.564102564102564,
+        "recovered": 23.076923076923077,
+        "infected": 74.35897435897436
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0016523289003890981,
+        "recovered": 0.0003813066693205611,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0012286548233662524
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01652328900389098,
+        "recovered": 0.003813066693205611,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.012286548233662525
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1652328900389098,
+        "recovered": 0.038130666932056106,
+        "deaths": 0.004236740770228457,
+        "infected": 0.12286548233662524
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "b6465c9750e6d0479887193b38044075",
+    "day_index_1": 39,
+    "day_index_10": 30,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "date": "2020-03-01",
+      "timestamp": 1583020800,
+      "index": 40
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 40,
+        "deaths": 1,
+        "recovered": 9,
+        "infected": 30
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.5641025641025643,
+        "infected": 3.4482758620689653
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 2.5,
+        "recovered": 22.5,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0016946963080913826,
+        "recovered": 0.0003813066693205611,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.001271022231068537
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.016946963080913827,
+        "recovered": 0.003813066693205611,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.01271022231068537
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.16946963080913827,
+        "recovered": 0.038130666932056106,
+        "deaths": 0.004236740770228457,
+        "infected": 0.1271022231068537
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "5eeacd5527f437f76d51e966f29c18e7",
+    "day_index_1": 40,
+    "day_index_10": 31,
+    "day_index_peak_confirmed": -21,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "date": "2020-03-02",
+      "timestamp": 1583107200,
+      "index": 41
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 41,
+        "deaths": 1,
+        "recovered": 12,
+        "infected": 28
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 3,
+        "infected": -2
+      },
+      "delta_pct": {
+        "confirmed": 2.5,
+        "recovered": 33.333333333333336,
+        "infected": -6.666666666666667
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "recovered": 60,
+        "infected": -9.523809523809524
+      },
+      "relative": {
+        "deaths": 2.4390243902439024,
+        "recovered": 29.268292682926827,
+        "infected": 68.29268292682927
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0017370637157936672,
+        "recovered": 0.0005084088924274148,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.001186287415663968
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.017370637157936672,
+        "recovered": 0.005084088924274147,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.01186287415663968
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.17370637157936672,
+        "recovered": 0.05084088924274147,
+        "deaths": 0.004236740770228457,
+        "infected": 0.1186287415663968
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "4d6141b599c1cad3639b933b83d168ae",
+    "day_index_1": 41,
+    "day_index_10": 32,
+    "day_index_peak_confirmed": -20,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "date": "2020-03-03",
+      "timestamp": 1583193600,
+      "index": 42
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 42,
+        "deaths": 1,
+        "recovered": 12,
+        "infected": 29
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.4390243902439024,
+        "infected": 3.5714285714285716
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 2.380952380952381,
+        "recovered": 28.57142857142857,
+        "infected": 69.04761904761905
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001779431123495952,
+        "recovered": 0.0005084088924274148,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0012286548233662524
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.017794311234959517,
+        "recovered": 0.005084088924274147,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.012286548233662525
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1779431123495952,
+        "recovered": 0.05084088924274147,
+        "deaths": 0.004236740770228457,
+        "infected": 0.12286548233662524
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "afb551535c645f0d89baa0d9f018ad47",
+    "day_index_1": 42,
+    "day_index_10": 33,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "date": "2020-03-05",
+      "timestamp": 1583366400,
+      "index": 44
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 44,
+        "deaths": 1,
+        "recovered": 12,
+        "infected": 31
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 4.761904761904762,
+        "infected": 6.896551724137931
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "infected": 9.523809523809524
+      },
+      "relative": {
+        "deaths": 2.272727272727273,
+        "recovered": 27.27272727272727,
+        "infected": 70.45454545454545
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001864165938900521,
+        "recovered": 0.0005084088924274148,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0013133896387708215
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01864165938900521,
+        "recovered": 0.005084088924274147,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.013133896387708215
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1864165938900521,
+        "recovered": 0.05084088924274147,
+        "deaths": 0.004236740770228457,
+        "infected": 0.13133896387708216
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "4d518edb1a115939b987fc0507387c06",
+    "day_index_1": 44,
+    "day_index_10": 35,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "date": "2020-03-06",
+      "timestamp": 1583452800,
+      "index": 45
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 45,
+        "deaths": 1,
+        "recovered": 12,
+        "infected": 32
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.272727272727273,
+        "infected": 3.225806451612903
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 2.2222222222222223,
+        "recovered": 26.666666666666668,
+        "infected": 71.11111111111111
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0019065333466028055,
+        "recovered": 0.0005084088924274148,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0013557570464731061
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.019065333466028053,
+        "recovered": 0.005084088924274147,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.01355757046473106
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19065333466028053,
+        "recovered": 0.05084088924274147,
+        "deaths": 0.004236740770228457,
+        "infected": 0.1355757046473106
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "540fc226fbe831bee5dbb5aed217e032",
+    "day_index_1": 45,
+    "day_index_10": 36,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 45,
+        "deaths": 1,
+        "recovered": 13,
+        "infected": 31
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 8.333333333333334,
+        "infected": -3.125
+      },
+      "peak_pct": {
+        "recovered": 20,
+        "infected": -4.761904761904762
+      },
+      "relative": {
+        "deaths": 2.2222222222222223,
+        "recovered": 28.888888888888886,
+        "infected": 68.88888888888889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0019065333466028055,
+        "recovered": 0.0005507763001296994,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0013133896387708215
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.019065333466028053,
+        "recovered": 0.005507763001296994,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.013133896387708215
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19065333466028053,
+        "recovered": 0.05507763001296994,
+        "deaths": 0.004236740770228457,
+        "infected": 0.13133896387708216
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "ea33b9967e326c6320a0b31a0ffcae0f",
+    "day_index_1": 47,
+    "day_index_10": 38,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "date": "2020-03-09",
+      "timestamp": 1583712000,
+      "index": 48
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 45,
+        "deaths": 1,
+        "recovered": 15,
+        "infected": 29
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "recovered": 15.384615384615385,
+        "infected": -6.451612903225806
+      },
+      "peak_pct": {
+        "recovered": 40,
+        "infected": -9.523809523809524
+      },
+      "relative": {
+        "deaths": 2.2222222222222223,
+        "recovered": 33.33333333333333,
+        "infected": 64.44444444444444
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0019065333466028055,
+        "recovered": 0.0006355111155342685,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0012286548233662524
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.019065333466028053,
+        "recovered": 0.006355111155342685,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.012286548233662525
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19065333466028053,
+        "recovered": 0.06355111155342685,
+        "deaths": 0.004236740770228457,
+        "infected": 0.12286548233662524
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "1acb90b520a46005613949441711bd1d",
+    "day_index_1": 48,
+    "day_index_10": 39,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 47,
+        "deaths": 1,
+        "recovered": 17,
+        "infected": 29
+      },
+      "delta": {
+        "confirmed": 2,
+        "recovered": 2
+      },
+      "delta_pct": {
+        "confirmed": 4.444444444444445,
+        "recovered": 13.333333333333334
+      },
+      "peak_pct": {
+        "confirmed": 9.345794392523366,
+        "recovered": 40
+      },
+      "relative": {
+        "deaths": 2.127659574468085,
+        "recovered": 36.17021276595745,
+        "infected": 61.702127659574465
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0019912681620073746,
+        "recovered": 0.0007202459309388376,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0012286548233662524
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.019912681620073744,
+        "recovered": 0.0072024593093883765,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.012286548233662525
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19912681620073747,
+        "recovered": 0.07202459309388376,
+        "deaths": 0.004236740770228457,
+        "infected": 0.12286548233662524
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "4045a143b84a26a4e9b523a73bf687d8",
+    "day_index_1": 49,
+    "day_index_10": 40,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 48,
+        "deaths": 1,
+        "recovered": 17,
+        "infected": 30
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.127659574468085,
+        "infected": 3.4482758620689653
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 2.083333333333333,
+        "recovered": 35.41666666666667,
+        "infected": 62.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002033635569709659,
+        "recovered": 0.0007202459309388376,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.001271022231068537
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.02033635569709659,
+        "recovered": 0.0072024593093883765,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.01271022231068537
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2033635569709659,
+        "recovered": 0.07202459309388376,
+        "deaths": 0.004236740770228457,
+        "infected": 0.1271022231068537
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "8b699cd9a2570df7c6315f0accce4d54",
+    "day_index_1": 50,
+    "day_index_10": 41,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 51
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 49,
+        "deaths": 1,
+        "recovered": 20,
+        "infected": 28
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 3,
+        "infected": -2
+      },
+      "delta_pct": {
+        "confirmed": 2.0833333333333335,
+        "recovered": 17.647058823529413,
+        "infected": -6.666666666666667
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "recovered": 60,
+        "infected": -9.523809523809524
+      },
+      "relative": {
+        "deaths": 2.0408163265306123,
+        "recovered": 40.816326530612244,
+        "infected": 57.14285714285714
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002076002977411944,
+        "recovered": 0.0008473481540456913,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.001186287415663968
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.020760029774119438,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.01186287415663968
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2076002977411944,
+        "recovered": 0.08473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.1186287415663968
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "a0be4a72e37bb06d3e46a31fa042bc53",
+    "day_index_1": 51,
+    "day_index_10": 42,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": -0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 50,
+        "deaths": 1,
+        "recovered": 20,
+        "infected": 29
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.0408163265306123,
+        "infected": 3.5714285714285716
+      },
+      "peak_pct": {
+        "confirmed": 4.672897196261683,
+        "infected": 4.761904761904762
+      },
+      "relative": {
+        "deaths": 2,
+        "recovered": 40,
+        "infected": 57.99999999999999
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0021183703851142283,
+        "recovered": 0.0008473481540456913,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0012286548233662524
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.021183703851142283,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.012286548233662525
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.21183703851142283,
+        "recovered": 0.08473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.12286548233662524
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "3fb21356464eccaf0558499f832a2a50",
+    "day_index_1": 52,
+    "day_index_10": 43,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 53,
+        "deaths": 1,
+        "recovered": 20,
+        "infected": 32
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 6,
+        "infected": 10.344827586206897
+      },
+      "peak_pct": {
+        "confirmed": 14.018691588785048,
+        "infected": 14.285714285714285
+      },
+      "relative": {
+        "deaths": 1.8867924528301887,
+        "recovered": 37.735849056603776,
+        "infected": 60.37735849056604
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002245472608221082,
+        "recovered": 0.0008473481540456913,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0013557570464731061
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.022454726082210823,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.01355757046473106
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2245472608221082,
+        "recovered": 0.08473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.1355757046473106
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "c5606a2b09b045eb36eceadcaa666605",
+    "day_index_1": 53,
+    "day_index_10": 44,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 59,
+        "deaths": 1,
+        "recovered": 20,
+        "infected": 38
+      },
+      "delta": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 11.320754716981131,
+        "infected": 18.75
+      },
+      "peak_pct": {
+        "confirmed": 28.037383177570096,
+        "infected": 28.57142857142857
+      },
+      "relative": {
+        "deaths": 1.694915254237288,
+        "recovered": 33.89830508474576,
+        "infected": 64.40677966101694
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0024996770544347896,
+        "recovered": 0.0008473481540456913,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0016099614926868135
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.024996770544347895,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.016099614926868136
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.24996770544347896,
+        "recovered": 0.08473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.16099614926868136
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "0c7bd1f7e34ecb49e77ce5967854593d",
+    "day_index_1": 54,
+    "day_index_10": 45,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 67,
+        "deaths": 1,
+        "recovered": 20,
+        "infected": 46
+      },
+      "delta": {
+        "confirmed": 8,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 13.559322033898304,
+        "infected": 21.05263157894737
+      },
+      "peak_pct": {
+        "confirmed": 37.383177570093466,
+        "infected": 38.095238095238095
+      },
+      "relative": {
+        "deaths": 1.4925373134328357,
+        "recovered": 29.850746268656714,
+        "infected": 68.65671641791045
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002838616316053066,
+        "recovered": 0.0008473481540456913,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0019489007543050901
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.02838616316053066,
+        "recovered": 0.008473481540456913,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.019489007543050902
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2838616316053066,
+        "recovered": 0.08473481540456913,
+        "deaths": 0.004236740770228457,
+        "infected": 0.194890075430509
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "f02479c50a83d714129aa3656702f1d1",
+    "day_index_1": 55,
+    "day_index_10": 46,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": 13,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 77,
+        "deaths": 1,
+        "recovered": 22,
+        "infected": 54
+      },
+      "delta": {
+        "confirmed": 10,
+        "recovered": 2,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 14.925373134328359,
+        "recovered": 10,
+        "infected": 17.391304347826086
+      },
+      "peak_pct": {
+        "confirmed": 46.728971962616825,
+        "recovered": 40,
+        "infected": 38.095238095238095
+      },
+      "relative": {
+        "deaths": 1.2987012987012987,
+        "recovered": 28.57142857142857,
+        "infected": 70.12987012987013
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.003262290393075912,
+        "recovered": 0.0009320829694502605,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.0022878400159233665
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03262290393075912,
+        "recovered": 0.009320829694502606,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.022878400159233665
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3262290393075912,
+        "recovered": 0.09320829694502605,
+        "deaths": 0.004236740770228457,
+        "infected": 0.22878400159233667
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "552060aa8b064e0dce22da7da76f5efc",
+    "day_index_1": 56,
+    "day_index_10": 47,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": 14,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 100,
+        "deaths": 1,
+        "recovered": 22,
+        "infected": 77
+      },
+      "delta": {
+        "confirmed": 23,
+        "infected": 23
+      },
+      "delta_pct": {
+        "confirmed": 29.87012987012987,
+        "infected": 42.592592592592595
+      },
+      "peak_pct": {
+        "confirmed": 107.4766355140187,
+        "infected": 109.52380952380953
+      },
+      "relative": {
+        "deaths": 1,
+        "recovered": 22,
+        "infected": 77
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004236740770228457,
+        "recovered": 0.0009320829694502605,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.003262290393075912
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.04236740770228457,
+        "recovered": 0.009320829694502606,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.03262290393075912
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.42367407702284565,
+        "recovered": 0.09320829694502605,
+        "deaths": 0.004236740770228457,
+        "infected": 0.3262290393075912
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "72085136622a28c40d61c564ea19c872",
+    "day_index_1": 57,
+    "day_index_10": 48,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": 15,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 108,
+        "deaths": 1,
+        "recovered": 26,
+        "infected": 81
+      },
+      "delta": {
+        "confirmed": 8,
+        "recovered": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 8,
+        "recovered": 18.181818181818183,
+        "infected": 5.194805194805195
+      },
+      "peak_pct": {
+        "confirmed": 37.383177570093466,
+        "recovered": 80,
+        "infected": 19.047619047619047
+      },
+      "relative": {
+        "deaths": 0.9259259259259258,
+        "recovered": 24.074074074074073,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004575680031846733,
+        "recovered": 0.0011015526002593988,
+        "deaths": 4.236740770228457e-05,
+        "infected": 0.00343176002388505
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.04575680031846733,
+        "recovered": 0.011015526002593989,
+        "deaths": 0.00042367407702284564,
+        "infected": 0.0343176002388505
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.45756800318467333,
+        "recovered": 0.11015526002593988,
+        "deaths": 0.004236740770228457,
+        "infected": 0.343176002388505
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "fdc4b304d284dd9c9d4d66fdf879ab57",
+    "day_index_1": 58,
+    "day_index_10": 49,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": 16,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 135,
+        "deaths": 2,
+        "recovered": 26,
+        "infected": 107
+      },
+      "delta": {
+        "confirmed": 27,
+        "deaths": 1,
+        "infected": 26
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 32.098765432098766,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 126.16822429906543,
+        "deaths": 100,
+        "infected": 123.80952380952381
+      },
+      "relative": {
+        "deaths": 1.4814814814814816,
+        "recovered": 19.25925925925926,
+        "infected": 79.25925925925927
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005719600039808416,
+        "recovered": 0.0011015526002593988,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.004533312624144448
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05719600039808416,
+        "recovered": 0.011015526002593989,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.045333126241444484
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5719600039808416,
+        "recovered": 0.11015526002593988,
+        "deaths": 0.008473481540456913,
+        "infected": 0.4533312624144448
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "6af4a0744f075e4a58d6758c162ef7a7",
+    "day_index_1": 59,
+    "day_index_10": 50,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": 17,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 153,
+        "deaths": 2,
+        "recovered": 28,
+        "infected": 123
+      },
+      "delta": {
+        "confirmed": 18,
+        "recovered": 2,
+        "infected": 16
+      },
+      "delta_pct": {
+        "confirmed": 13.333333333333334,
+        "recovered": 7.6923076923076925,
+        "infected": 14.953271028037383
+      },
+      "peak_pct": {
+        "confirmed": 84.11214953271029,
+        "recovered": 40,
+        "infected": 76.19047619047619
+      },
+      "relative": {
+        "deaths": 1.3071895424836601,
+        "recovered": 18.30065359477124,
+        "infected": 80.3921568627451
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006482213378449539,
+        "recovered": 0.001186287415663968,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.005211191147381002
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06482213378449539,
+        "recovered": 0.01186287415663968,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.052111911473810016
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6482213378449538,
+        "recovered": 0.1186287415663968,
+        "deaths": 0.008473481540456913,
+        "infected": 0.5211191147381002
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "048dab8ec08e2d89fc374602e55e4d2f",
+    "day_index_1": 60,
+    "day_index_10": 51,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": 18,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 169,
+        "deaths": 2,
+        "recovered": 28,
+        "infected": 139
+      },
+      "delta": {
+        "confirmed": 16,
+        "infected": 16
+      },
+      "delta_pct": {
+        "confirmed": 10.457516339869281,
+        "infected": 13.008130081300813
+      },
+      "peak_pct": {
+        "confirmed": 74.76635514018693,
+        "infected": 76.19047619047619
+      },
+      "relative": {
+        "deaths": 1.183431952662722,
+        "recovered": 16.56804733727811,
+        "infected": 82.24852071005917
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007160091901686092,
+        "recovered": 0.001186287415663968,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.005889069670617555
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.07160091901686091,
+        "recovered": 0.01186287415663968,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.05889069670617555
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7160091901686092,
+        "recovered": 0.1186287415663968,
+        "deaths": 0.008473481540456913,
+        "infected": 0.5889069670617555
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "14a95e32dce7ff932c9838661cfd1d81",
+    "day_index_1": 61,
+    "day_index_10": 52,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 19,
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 195,
+        "deaths": 2,
+        "recovered": 28,
+        "infected": 165
+      },
+      "delta": {
+        "confirmed": 26,
+        "infected": 26
+      },
+      "delta_pct": {
+        "confirmed": 15.384615384615385,
+        "infected": 18.705035971223023
+      },
+      "peak_pct": {
+        "confirmed": 121.49532710280376,
+        "infected": 123.80952380952381
+      },
+      "relative": {
+        "deaths": 1.0256410256410255,
+        "recovered": 14.358974358974358,
+        "infected": 84.61538461538461
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00826164450194549,
+        "recovered": 0.001186287415663968,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.006990622270876954
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0826164450194549,
+        "recovered": 0.01186287415663968,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.06990622270876953
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8261644501945491,
+        "recovered": 0.1186287415663968,
+        "deaths": 0.008473481540456913,
+        "infected": 0.6990622270876954
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "75d56715aa8698130ebbcb4587c8b085",
+    "day_index_1": 62,
+    "day_index_10": 53,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 20,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 215,
+        "deaths": 2,
+        "recovered": 29,
+        "infected": 184
+      },
+      "delta": {
+        "confirmed": 20,
+        "recovered": 1,
+        "infected": 19
+      },
+      "delta_pct": {
+        "confirmed": 10.256410256410257,
+        "recovered": 3.5714285714285716,
+        "infected": 11.515151515151516
+      },
+      "peak_pct": {
+        "confirmed": 93.45794392523365,
+        "recovered": 20,
+        "infected": 90.47619047619048
+      },
+      "relative": {
+        "deaths": 0.9302325581395349,
+        "recovered": 13.488372093023257,
+        "infected": 85.5813953488372
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009108992655991181,
+        "recovered": 0.0012286548233662524,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.0077956030172203605
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09108992655991181,
+        "recovered": 0.012286548233662525,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.07795603017220361
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9108992655991182,
+        "recovered": 0.12286548233662524,
+        "deaths": 0.008473481540456913,
+        "infected": 0.779560301722036
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "5b8168e7382b8ba5d44d526ceb9d2e80",
+    "day_index_1": 63,
+    "day_index_10": 54,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 21,
+    "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 235,
+        "deaths": 2,
+        "recovered": 29,
+        "infected": 204
+      },
+      "delta": {
+        "confirmed": 20,
+        "infected": 20
+      },
+      "delta_pct": {
+        "confirmed": 9.30232558139535,
+        "infected": 10.869565217391305
+      },
+      "peak_pct": {
+        "confirmed": 93.45794392523365,
+        "infected": 95.23809523809523
+      },
+      "relative": {
+        "deaths": 0.851063829787234,
+        "recovered": 12.340425531914894,
+        "infected": 86.80851063829788
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009956340810036874,
+        "recovered": 0.0012286548233662524,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.008642951171266051
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09956340810036873,
+        "recovered": 0.012286548233662525,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.08642951171266051
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9956340810036873,
+        "recovered": 0.12286548233662524,
+        "deaths": 0.008473481540456913,
+        "infected": 0.8642951171266051
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "8f89e7a7c218e917c61fffb92f9ec9fd",
+    "day_index_1": 64,
+    "day_index_10": 55,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 22,
+    "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 252,
+        "deaths": 2,
+        "recovered": 29,
+        "infected": 221
+      },
+      "delta": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 7.23404255319149,
+        "infected": 8.333333333333334
+      },
+      "peak_pct": {
+        "confirmed": 79.4392523364486,
+        "infected": 80.95238095238095
+      },
+      "relative": {
+        "deaths": 0.7936507936507936,
+        "recovered": 11.507936507936508,
+        "infected": 87.6984126984127
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.010676586740975711,
+        "recovered": 0.0012286548233662524,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.009363197102204889
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.10676586740975712,
+        "recovered": 0.012286548233662525,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.09363197102204888
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.067658674097571,
+        "recovered": 0.12286548233662524,
+        "deaths": 0.008473481540456913,
+        "infected": 0.9363197102204889
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "9095238b6ee6a7544a89f2e5dd36a869",
+    "day_index_1": 65,
+    "day_index_10": 56,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 23,
+    "day_index_peak": 13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 267,
+        "deaths": 2,
+        "recovered": 29,
+        "infected": 236
+      },
+      "delta": {
+        "confirmed": 15,
+        "infected": 15
+      },
+      "delta_pct": {
+        "confirmed": 5.9523809523809526,
+        "infected": 6.787330316742081
+      },
+      "peak_pct": {
+        "confirmed": 70.09345794392524,
+        "infected": 71.42857142857143
+      },
+      "relative": {
+        "deaths": 0.7490636704119851,
+        "recovered": 10.861423220973784,
+        "infected": 88.38951310861424
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01131209785650998,
+        "recovered": 0.0012286548233662524,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.009998708217739159
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1131209785650998,
+        "recovered": 0.012286548233662525,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.09998708217739158
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.131209785650998,
+        "recovered": 0.12286548233662524,
+        "deaths": 0.008473481540456913,
+        "infected": 0.9998708217739158
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "5297a1790ad184083ae7fea9b77ef250",
+    "day_index_1": 66,
+    "day_index_10": 57,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 24,
+    "day_index_peak": 14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 283,
+        "deaths": 2,
+        "recovered": 30,
+        "infected": 251
+      },
+      "delta": {
+        "confirmed": 16,
+        "recovered": 1,
+        "infected": 15
+      },
+      "delta_pct": {
+        "confirmed": 5.992509363295881,
+        "recovered": 3.4482758620689653,
+        "infected": 6.3559322033898304
+      },
+      "peak_pct": {
+        "confirmed": 74.76635514018693,
+        "recovered": 20,
+        "infected": 71.42857142857143
+      },
+      "relative": {
+        "deaths": 0.7067137809187279,
+        "recovered": 10.60070671378092,
+        "infected": 88.69257950530034
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.011989976379746532,
+        "recovered": 0.001271022231068537,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.010634219333273427
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.11989976379746532,
+        "recovered": 0.01271022231068537,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.10634219333273426
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.1989976379746532,
+        "recovered": 0.1271022231068537,
+        "deaths": 0.008473481540456913,
+        "infected": 1.0634219333273427
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "c86b156b16517e0c52e0c3c84f9013c2",
+    "day_index_1": 67,
+    "day_index_10": 58,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 25,
+    "day_index_peak": 15
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 298,
+        "deaths": 2,
+        "recovered": 30,
+        "infected": 266
+      },
+      "delta": {
+        "confirmed": 15,
+        "infected": 15
+      },
+      "delta_pct": {
+        "confirmed": 5.30035335689046,
+        "infected": 5.9760956175298805
+      },
+      "peak_pct": {
+        "confirmed": 70.09345794392524,
+        "infected": 71.42857142857143
+      },
+      "relative": {
+        "deaths": 0.6711409395973155,
+        "recovered": 10.06711409395973,
+        "infected": 89.26174496644296
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0126254874952808,
+        "recovered": 0.001271022231068537,
+        "deaths": 8.473481540456913e-05,
+        "infected": 0.011269730448807695
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.12625487495280802,
+        "recovered": 0.01271022231068537,
+        "deaths": 0.0008473481540456913,
+        "infected": 0.11269730448807694
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.26254874952808,
+        "recovered": 0.1271022231068537,
+        "deaths": 0.008473481540456913,
+        "infected": 1.1269730448807695
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "c7db70f889ffd48dc1c55554a46acb65",
+    "day_index_1": 68,
+    "day_index_10": 59,
+    "day_index_100": 12,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 26,
+    "day_index_peak": 16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 306,
+        "deaths": 5,
+        "recovered": 39,
+        "infected": 262
+      },
+      "delta": {
+        "confirmed": 8,
+        "recovered": 9,
+        "deaths": 3,
+        "infected": -4
+      },
+      "delta_pct": {
+        "confirmed": 2.684563758389262,
+        "recovered": 30,
+        "infected": -1.5037593984962405,
+        "deaths": 150
+      },
+      "peak_pct": {
+        "confirmed": 37.383177570093466,
+        "recovered": 180,
+        "deaths": 300,
+        "infected": -19.047619047619047
+      },
+      "relative": {
+        "deaths": 1.6339869281045754,
+        "recovered": 12.745098039215685,
+        "infected": 85.62091503267973
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.012964426756899078,
+        "recovered": 0.0016523289003890981,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.011100260817998557
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.12964426756899078,
+        "recovered": 0.01652328900389098,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.11100260817998557
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.2964426756899077,
+        "recovered": 0.1652328900389098,
+        "deaths": 0.021183703851142283,
+        "infected": 1.1100260817998557
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "5f463180db9c4bd06713156a82f96bb8",
+    "day_index_1": 69,
+    "day_index_10": 60,
+    "day_index_100": 13,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 27,
+    "day_index_peak": 17
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 322,
+        "deaths": 5,
+        "recovered": 39,
+        "infected": 278
+      },
+      "delta": {
+        "confirmed": 16,
+        "infected": 16
+      },
+      "delta_pct": {
+        "confirmed": 5.228758169934641,
+        "infected": 6.106870229007634
+      },
+      "peak_pct": {
+        "confirmed": 74.76635514018693,
+        "infected": 76.19047619047619
+      },
+      "relative": {
+        "deaths": 1.5527950310559007,
+        "recovered": 12.111801242236025,
+        "infected": 86.33540372670807
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01364230528013563,
+        "recovered": 0.0016523289003890981,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.01177813934123511
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1364230528013563,
+        "recovered": 0.01652328900389098,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.1177813934123511
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.3642305280135631,
+        "recovered": 0.1652328900389098,
+        "deaths": 0.021183703851142283,
+        "infected": 1.177813934123511
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "45fea44f72032fc2070a49f2824dd06f",
+    "day_index_1": 70,
+    "day_index_10": 61,
+    "day_index_100": 14,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 28,
+    "day_index_peak": 18
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 329,
+        "deaths": 5,
+        "recovered": 39,
+        "infected": 285
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 2.1739130434782608,
+        "infected": 2.5179856115107913
+      },
+      "peak_pct": {
+        "confirmed": 32.71028037383178,
+        "infected": 33.33333333333333
+      },
+      "relative": {
+        "deaths": 1.5197568389057752,
+        "recovered": 11.854103343465045,
+        "infected": 86.62613981762918
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.013938877134051623,
+        "recovered": 0.0016523289003890981,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.012074711195151102
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.13938877134051622,
+        "recovered": 0.01652328900389098,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.12074711195151103
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.3938877134051624,
+        "recovered": 0.1652328900389098,
+        "deaths": 0.021183703851142283,
+        "infected": 1.2074711195151102
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "6ed460f2c0af94559c88e141613a0f57",
+    "day_index_1": 71,
+    "day_index_10": 62,
+    "day_index_100": 15,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 29,
+    "day_index_peak": 19
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 339,
+        "deaths": 5,
+        "recovered": 45,
+        "infected": 289
+      },
+      "delta": {
+        "confirmed": 10,
+        "recovered": 6,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 3.0395136778115504,
+        "recovered": 15.384615384615385,
+        "infected": 1.4035087719298245
+      },
+      "peak_pct": {
+        "confirmed": 46.728971962616825,
+        "recovered": 120,
+        "infected": 19.047619047619047
+      },
+      "relative": {
+        "deaths": 1.4749262536873156,
+        "recovered": 13.274336283185843,
+        "infected": 85.25073746312685
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014362551211074468,
+        "recovered": 0.0019065333466028055,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.01224418082596024
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.14362551211074467,
+        "recovered": 0.019065333466028053,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.1224418082596024
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.4362551211074468,
+        "recovered": 0.19065333466028053,
+        "deaths": 0.021183703851142283,
+        "infected": 1.224418082596024
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "8609a7189ed30dbc5d7d0464177eeadb",
+    "day_index_1": 72,
+    "day_index_10": 63,
+    "day_index_100": 16,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 30,
+    "day_index_peak": 20
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 348,
+        "deaths": 5,
+        "recovered": 50,
+        "infected": 293
+      },
+      "delta": {
+        "confirmed": 9,
+        "recovered": 5,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 2.6548672566371683,
+        "recovered": 11.11111111111111,
+        "infected": 1.3840830449826989
+      },
+      "peak_pct": {
+        "confirmed": 42.056074766355145,
+        "recovered": 100,
+        "infected": 19.047619047619047
+      },
+      "relative": {
+        "deaths": 1.4367816091954022,
+        "recovered": 14.367816091954023,
+        "infected": 84.19540229885058
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014743857880395029,
+        "recovered": 0.0021183703851142283,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.012413650456769378
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.14743857880395028,
+        "recovered": 0.021183703851142283,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.12413650456769378
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.4743857880395028,
+        "recovered": 0.21183703851142283,
+        "deaths": 0.021183703851142283,
+        "infected": 1.2413650456769378
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "77757bfec3b84e1aa31358e7094ba83b",
+    "day_index_1": 73,
+    "day_index_10": 64,
+    "day_index_100": 17,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 31,
+    "day_index_peak": 21
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 355,
+        "deaths": 5,
+        "recovered": 50,
+        "infected": 300
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 2.0114942528735633,
+        "infected": 2.3890784982935154
+      },
+      "peak_pct": {
+        "confirmed": 32.71028037383178,
+        "infected": 33.33333333333333
+      },
+      "relative": {
+        "deaths": 1.4084507042253522,
+        "recovered": 14.084507042253522,
+        "infected": 84.50704225352112
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.015040429734311021,
+        "recovered": 0.0021183703851142283,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.01271022231068537
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1504042973431102,
+        "recovered": 0.021183703851142283,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.1271022231068537
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.504042973431102,
+        "recovered": 0.21183703851142283,
+        "deaths": 0.021183703851142283,
+        "infected": 1.271022231068537
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "1bd48af64be3fc6b35cbf6c8d43df157",
+    "day_index_1": 74,
+    "day_index_10": 65,
+    "day_index_100": 18,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 32,
+    "day_index_peak": 22
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 363,
+        "deaths": 5,
+        "recovered": 50,
+        "infected": 308
+      },
+      "delta": {
+        "confirmed": 8,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 2.2535211267605635,
+        "infected": 2.6666666666666665
+      },
+      "peak_pct": {
+        "confirmed": 37.383177570093466,
+        "infected": 38.095238095238095
+      },
+      "relative": {
+        "deaths": 1.3774104683195594,
+        "recovered": 13.774104683195592,
+        "infected": 84.84848484848484
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.015379368995929298,
+        "recovered": 0.0021183703851142283,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.013049161572303647
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.153793689959293,
+        "recovered": 0.021183703851142283,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.13049161572303647
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.53793689959293,
+        "recovered": 0.21183703851142283,
+        "deaths": 0.021183703851142283,
+        "infected": 1.3049161572303647
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "1bd961697a885ce346a4bdd311644d7d",
+    "day_index_1": 75,
+    "day_index_10": 66,
+    "day_index_100": 19,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": 33,
+    "day_index_peak": 23
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 373,
+        "deaths": 5,
+        "recovered": 57,
+        "infected": 311
+      },
+      "delta": {
+        "confirmed": 10,
+        "recovered": 7,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 2.7548209366391183,
+        "recovered": 14,
+        "infected": 0.974025974025974
+      },
+      "peak_pct": {
+        "confirmed": 46.728971962616825,
+        "recovered": 140,
+        "infected": 14.285714285714285
+      },
+      "relative": {
+        "deaths": 1.3404825737265416,
+        "recovered": 15.281501340482572,
+        "infected": 83.37801608579089
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.015803043072952144,
+        "recovered": 0.0024149422390302203,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.0131762637954105
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.15803043072952144,
+        "recovered": 0.024149422390302204,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.131762637954105
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.5803043072952143,
+        "recovered": 0.24149422390302203,
+        "deaths": 0.021183703851142283,
+        "infected": 1.31762637954105
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "51077772c2508a07694a10bfe540488b",
+    "day_index_1": 76,
+    "day_index_10": 67,
+    "day_index_100": 20,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": 34,
+    "day_index_peak": 24
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 376,
+        "deaths": 5,
+        "recovered": 57,
+        "infected": 314
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 0.8042895442359249,
+        "infected": 0.9646302250803859
+      },
+      "peak_pct": {
+        "confirmed": 14.018691588785048,
+        "infected": 14.285714285714285
+      },
+      "relative": {
+        "deaths": 1.3297872340425532,
+        "recovered": 15.159574468085108,
+        "infected": 83.51063829787235
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.015930145296058996,
+        "recovered": 0.0024149422390302203,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.013303366018517353
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.15930145296058995,
+        "recovered": 0.024149422390302204,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.13303366018517354
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.5930145296058997,
+        "recovered": 0.24149422390302203,
+        "deaths": 0.021183703851142283,
+        "infected": 1.3303366018517353
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "dd69eb281ccac77dc18c652ae8e1d706",
+    "day_index_1": 77,
+    "day_index_10": 68,
+    "day_index_100": 21,
+    "day_index_peak_confirmed": 16,
+    "day_index_peak_deaths": 35,
+    "day_index_peak": 25
+  }
+]

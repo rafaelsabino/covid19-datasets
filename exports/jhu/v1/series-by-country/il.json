@@ -1,0 +1,3502 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 21,
+      "date": "2020-02-21",
+      "timestamp": 1582243200,
+      "index": 31
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 0.14819205690574988,
+        "infected": 0.16020506247997435
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00011526746374117843,
+        "infected": 0.00011526746374117843
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0011526746374117842,
+        "infected": 0.0011526746374117842
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.011526746374117842,
+        "infected": 0.011526746374117842
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "5a041f084b382d6b165c198a1bf2eaa6",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -38,
+    "day_index_peak_deaths": -43,
+    "day_index_peak": -40
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 26,
+      "date": "2020-02-26",
+      "timestamp": 1582675200,
+      "index": 36
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.14819205690574988,
+        "infected": 0.16020506247997435
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00023053492748235685,
+        "infected": 0.00023053492748235685
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0023053492748235684,
+        "infected": 0.0023053492748235684
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.023053492748235684,
+        "infected": 0.023053492748235684
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "b85f9e3f156e56409184b8d926696a9a",
+    "day_index_1": 6,
+    "day_index_peak_confirmed": -33,
+    "day_index_peak_deaths": -38,
+    "day_index_peak": -35
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 27,
+      "date": "2020-02-27",
+      "timestamp": 1582761600,
+      "index": 37
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "recovered": 1,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 1
+      },
+      "delta_pct": {
+        "confirmed": 50
+      },
+      "peak_pct": {
+        "confirmed": 0.14819205690574988,
+        "recovered": 1.3054830287206267
+      },
+      "relative": {
+        "recovered": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0003458023912235353,
+        "recovered": 0.00011526746374117843,
+        "infected": 0.00023053492748235685
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0034580239122353534,
+        "recovered": 0.0011526746374117842,
+        "infected": 0.0023053492748235684
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.03458023912235353,
+        "recovered": 0.011526746374117842,
+        "infected": 0.023053492748235684
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "edbffd4f4431dc05b9ad2d1445112efc",
+    "day_index_1": 7,
+    "day_index_peak_confirmed": -32,
+    "day_index_peak_deaths": -37,
+    "day_index_peak": -34
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 28,
+      "date": "2020-02-28",
+      "timestamp": 1582848000,
+      "index": 38
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "recovered": 1,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 0.14819205690574988,
+        "infected": 0.16020506247997435
+      },
+      "relative": {
+        "recovered": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0004610698549647137,
+        "recovered": 0.00011526746374117843,
+        "infected": 0.0003458023912235353
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004610698549647137,
+        "recovered": 0.0011526746374117842,
+        "infected": 0.0034580239122353534
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04610698549647137,
+        "recovered": 0.011526746374117842,
+        "infected": 0.03458023912235353
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "95f477ade13e4808faab6cde8a29bf61",
+    "day_index_1": 8,
+    "day_index_peak_confirmed": -31,
+    "day_index_peak_deaths": -36,
+    "day_index_peak": -33
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 29,
+      "date": "2020-02-29",
+      "timestamp": 1582934400,
+      "index": 39
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "recovered": 1,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 75,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.44457617071724964,
+        "infected": 0.4806151874399231
+      },
+      "relative": {
+        "recovered": 14.285714285714285,
+        "infected": 85.71428571428571
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0008068722461882491,
+        "recovered": 0.00011526746374117843,
+        "infected": 0.0006916047824470706
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.008068722461882491,
+        "recovered": 0.0011526746374117842,
+        "infected": 0.006916047824470707
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.08068722461882491,
+        "recovered": 0.011526746374117842,
+        "infected": 0.06916047824470706
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "e1d2ba38718e3d42ef790ec29d6e5f68",
+    "day_index_1": 9,
+    "day_index_peak_confirmed": -30,
+    "day_index_peak_deaths": -35,
+    "day_index_peak": -32
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "date": "2020-03-01",
+      "timestamp": 1583020800,
+      "index": 40
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "recovered": 1,
+        "infected": 9
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 42.857142857142854,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 0.44457617071724964,
+        "infected": 0.4806151874399231
+      },
+      "relative": {
+        "recovered": 10,
+        "infected": 90
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0011526746374117844,
+        "recovered": 0.00011526746374117843,
+        "infected": 0.0010374071736706058
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.011526746374117844,
+        "recovered": 0.0011526746374117842,
+        "infected": 0.01037407173670606
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.11526746374117844,
+        "recovered": 0.011526746374117842,
+        "infected": 0.10374071736706059
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "1ce04f1dc330d0d5e63e7e19a291345b",
+    "day_index_1": 10,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -29,
+    "day_index_peak_deaths": -34,
+    "day_index_peak": -31
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "date": "2020-03-03",
+      "timestamp": 1583193600,
+      "index": 42
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 12,
+        "recovered": 1,
+        "infected": 11
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 20,
+        "infected": 22.22222222222222
+      },
+      "peak_pct": {
+        "confirmed": 0.29638411381149976,
+        "infected": 0.3204101249599487
+      },
+      "relative": {
+        "recovered": 8.333333333333332,
+        "infected": 91.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013832095648941413,
+        "recovered": 0.00011526746374117843,
+        "infected": 0.0012679421011529627
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.013832095648941414,
+        "recovered": 0.0011526746374117842,
+        "infected": 0.012679421011529628
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.13832095648941412,
+        "recovered": 0.011526746374117842,
+        "infected": 0.12679421011529626
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "c16bd4e2ae4483c4e7743854a4cba617",
+    "day_index_1": 12,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -27,
+    "day_index_peak_deaths": -32,
+    "day_index_peak": -29
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "date": "2020-03-04",
+      "timestamp": 1583280000,
+      "index": 43
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15,
+        "recovered": 1,
+        "infected": 14
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 27.272727272727273
+      },
+      "peak_pct": {
+        "confirmed": 0.44457617071724964,
+        "infected": 0.4806151874399231
+      },
+      "relative": {
+        "recovered": 6.666666666666667,
+        "infected": 93.33333333333333
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0017290119561176765,
+        "recovered": 0.00011526746374117843,
+        "infected": 0.0016137444923764982
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.017290119561176764,
+        "recovered": 0.0011526746374117842,
+        "infected": 0.016137444923764982
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.17290119561176764,
+        "recovered": 0.011526746374117842,
+        "infected": 0.16137444923764982
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "0f0a3ae8200249126c0edbb007950db1",
+    "day_index_1": 13,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -26,
+    "day_index_peak_deaths": -31,
+    "day_index_peak": -28
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "date": "2020-03-05",
+      "timestamp": 1583366400,
+      "index": 44
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 20,
+        "recovered": 1,
+        "infected": 19
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 35.714285714285715
+      },
+      "peak_pct": {
+        "confirmed": 0.7409602845287493,
+        "infected": 0.8010253123998717
+      },
+      "relative": {
+        "recovered": 5,
+        "infected": 95
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002305349274823569,
+        "recovered": 0.00011526746374117843,
+        "infected": 0.00219008181108239
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.023053492748235687,
+        "recovered": 0.0011526746374117842,
+        "infected": 0.0219008181108239
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.23053492748235688,
+        "recovered": 0.011526746374117842,
+        "infected": 0.219008181108239
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "69b4f4772f37d663bb9f35ad695da29c",
+    "day_index_1": 14,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -30,
+    "day_index_peak": -27
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "date": "2020-03-06",
+      "timestamp": 1583452800,
+      "index": 45
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 37,
+        "recovered": 2,
+        "infected": 35
+      },
+      "delta": {
+        "confirmed": 17,
+        "recovered": 1,
+        "infected": 16
+      },
+      "delta_pct": {
+        "confirmed": 85,
+        "recovered": 100,
+        "infected": 84.21052631578948
+      },
+      "peak_pct": {
+        "confirmed": 2.5192649673977474,
+        "recovered": 1.3054830287206267,
+        "infected": 2.5632809996795896
+      },
+      "relative": {
+        "recovered": 5.405405405405405,
+        "infected": 94.5945945945946
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004264896158423602,
+        "recovered": 0.00023053492748235685,
+        "infected": 0.0040343612309412455
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.04264896158423602,
+        "recovered": 0.0023053492748235684,
+        "infected": 0.040343612309412455
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.4264896158423602,
+        "recovered": 0.023053492748235684,
+        "infected": 0.4034361230941246
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "7a1405081172ef0d32ee960602f9aefb",
+    "day_index_1": 15,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": -24,
+    "day_index_peak_deaths": -29,
+    "day_index_peak": -26
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 7,
+      "date": "2020-03-07",
+      "timestamp": 1583539200,
+      "index": 46
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 43,
+        "recovered": 2,
+        "infected": 41
+      },
+      "delta": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 16.216216216216218,
+        "infected": 17.142857142857142
+      },
+      "peak_pct": {
+        "confirmed": 0.8891523414344993,
+        "infected": 0.9612303748798462
+      },
+      "relative": {
+        "recovered": 4.651162790697675,
+        "infected": 95.34883720930233
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004956500940870673,
+        "recovered": 0.00023053492748235685,
+        "infected": 0.0047259660133883155
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.04956500940870673,
+        "recovered": 0.0023053492748235684,
+        "infected": 0.047259660133883157
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.4956500940870673,
+        "recovered": 0.023053492748235684,
+        "infected": 0.4725966013388315
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "9ea1b32216a47b66c4c0b6d9b61cb3ab",
+    "day_index_1": 16,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": -23,
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -25
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 61,
+        "recovered": 2,
+        "infected": 59
+      },
+      "delta": {
+        "confirmed": 18,
+        "infected": 18
+      },
+      "delta_pct": {
+        "confirmed": 41.86046511627907,
+        "infected": 43.90243902439025
+      },
+      "peak_pct": {
+        "confirmed": 2.6674570243034976,
+        "infected": 2.8836911246395385
+      },
+      "relative": {
+        "recovered": 3.278688524590164,
+        "infected": 96.72131147540983
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007031315288211885,
+        "recovered": 0.00023053492748235685,
+        "infected": 0.006800780360729527
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.07031315288211884,
+        "recovered": 0.0023053492748235684,
+        "infected": 0.06800780360729528
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7031315288211885,
+        "recovered": 0.023053492748235684,
+        "infected": 0.6800780360729527
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "553c621f7f731a7d4dd35de1a6ed41f9",
+    "day_index_1": 17,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -27,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 75,
+        "recovered": 4,
+        "infected": 71
+      },
+      "delta": {
+        "confirmed": 14,
+        "recovered": 2,
+        "infected": 12
+      },
+      "delta_pct": {
+        "confirmed": 22.950819672131146,
+        "recovered": 100,
+        "infected": 20.338983050847457
+      },
+      "peak_pct": {
+        "confirmed": 2.074688796680498,
+        "recovered": 2.6109660574412534,
+        "infected": 1.9224607497596924
+      },
+      "relative": {
+        "recovered": 5.333333333333334,
+        "infected": 94.66666666666667
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.008645059780588382,
+        "recovered": 0.0004610698549647137,
+        "infected": 0.008183989925623669
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.08645059780588382,
+        "recovered": 0.004610698549647137,
+        "infected": 0.08183989925623669
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8645059780588382,
+        "recovered": 0.04610698549647137,
+        "infected": 0.8183989925623669
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "e5feabd6fd1e241dd8a6cd6885130f25",
+    "day_index_1": 19,
+    "day_index_10": 10,
+    "day_index_peak_confirmed": -20,
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -22
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 79,
+        "recovered": 4,
+        "infected": 75
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 5.333333333333333,
+        "infected": 5.633802816901408
+      },
+      "peak_pct": {
+        "confirmed": 0.5927682276229995,
+        "infected": 0.6408202499198974
+      },
+      "relative": {
+        "recovered": 5.063291139240507,
+        "infected": 94.9367088607595
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009106129635553096,
+        "recovered": 0.0004610698549647137,
+        "infected": 0.008645059780588382
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09106129635553095,
+        "recovered": 0.004610698549647137,
+        "infected": 0.08645059780588382
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9106129635553095,
+        "recovered": 0.04610698549647137,
+        "infected": 0.8645059780588382
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "3bf2b4db2fa8e1826c308631c88a6525",
+    "day_index_1": 20,
+    "day_index_10": 11,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 51
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 100,
+        "recovered": 4,
+        "infected": 96
+      },
+      "delta": {
+        "confirmed": 21,
+        "infected": 21
+      },
+      "delta_pct": {
+        "confirmed": 26.582278481012658,
+        "infected": 28
+      },
+      "peak_pct": {
+        "confirmed": 3.112033195020747,
+        "infected": 3.364306312079461
+      },
+      "relative": {
+        "recovered": 4,
+        "infected": 96
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.011526746374117844,
+        "recovered": 0.0004610698549647137,
+        "infected": 0.01106567651915313
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.11526746374117844,
+        "recovered": 0.004610698549647137,
+        "infected": 0.11065676519153131
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.1526746374117844,
+        "recovered": 0.04610698549647137,
+        "infected": 1.106567651915313
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "ac898a34c5219b8ff8ee31dd587cc9db",
+    "day_index_1": 21,
+    "day_index_10": 12,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 126,
+        "recovered": 4,
+        "infected": 122
+      },
+      "delta": {
+        "confirmed": 26,
+        "infected": 26
+      },
+      "delta_pct": {
+        "confirmed": 26,
+        "infected": 27.083333333333332
+      },
+      "peak_pct": {
+        "confirmed": 3.8529934795494962,
+        "infected": 4.165331624479333
+      },
+      "relative": {
+        "recovered": 3.1746031746031744,
+        "infected": 96.82539682539682
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014523700431388483,
+        "recovered": 0.0004610698549647137,
+        "infected": 0.01406263057642377
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.14523700431388484,
+        "recovered": 0.004610698549647137,
+        "infected": 0.14062630576423768
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.4523700431388482,
+        "recovered": 0.04610698549647137,
+        "infected": 1.406263057642377
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "67fd214ffead069d8cfc5f04ac366785",
+    "day_index_1": 22,
+    "day_index_10": 13,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -22,
+    "day_index_peak": -19
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 155,
+        "recovered": 4,
+        "infected": 151
+      },
+      "delta": {
+        "confirmed": 29,
+        "infected": 29
+      },
+      "delta_pct": {
+        "confirmed": 23.015873015873016,
+        "infected": 23.770491803278688
+      },
+      "peak_pct": {
+        "confirmed": 4.2975696502667455,
+        "infected": 4.645946811919257
+      },
+      "relative": {
+        "recovered": 2.5806451612903225,
+        "infected": 97.41935483870968
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.017866456879882656,
+        "recovered": 0.0004610698549647137,
+        "infected": 0.017405387024917944
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.17866456879882656,
+        "recovered": 0.004610698549647137,
+        "infected": 0.17405387024917945
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.7866456879882655,
+        "recovered": 0.04610698549647137,
+        "infected": 1.7405387024917944
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "a85a0e986d47d3f5ef491a1f5e6dd238",
+    "day_index_1": 23,
+    "day_index_10": 14,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 213,
+        "recovered": 4,
+        "infected": 209
+      },
+      "delta": {
+        "confirmed": 58,
+        "infected": 58
+      },
+      "delta_pct": {
+        "confirmed": 37.41935483870968,
+        "infected": 38.41059602649007
+      },
+      "peak_pct": {
+        "confirmed": 8.595139300533491,
+        "infected": 9.291893623838513
+      },
+      "relative": {
+        "recovered": 1.8779342723004695,
+        "infected": 98.12206572769952
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.024551969776871005,
+        "recovered": 0.0004610698549647137,
+        "infected": 0.024090899921906293
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.24551969776871005,
+        "recovered": 0.004610698549647137,
+        "infected": 0.24090899921906295
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.4551969776871005,
+        "recovered": 0.04610698549647137,
+        "infected": 2.4090899921906295
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "0e3e242a71c5ce3e1122f3bf81c0e233",
+    "day_index_1": 24,
+    "day_index_10": 15,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 218,
+        "recovered": 4,
+        "infected": 214
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 2.347417840375587,
+        "infected": 2.3923444976076556
+      },
+      "peak_pct": {
+        "confirmed": 0.7409602845287493,
+        "infected": 0.8010253123998717
+      },
+      "relative": {
+        "recovered": 1.834862385321101,
+        "infected": 98.1651376146789
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0251283070955769,
+        "recovered": 0.0004610698549647137,
+        "infected": 0.024667237240612185
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.251283070955769,
+        "recovered": 0.004610698549647137,
+        "infected": 0.24667237240612183
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.51283070955769,
+        "recovered": 0.04610698549647137,
+        "infected": 2.4667237240612185
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "441f9142070f823c54a8cf20ccb0f9a4",
+    "day_index_1": 25,
+    "day_index_10": 16,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -19,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 250,
+        "recovered": 11,
+        "infected": 239
+      },
+      "delta": {
+        "confirmed": 32,
+        "recovered": 7,
+        "infected": 25
+      },
+      "delta_pct": {
+        "confirmed": 14.678899082568808,
+        "recovered": 175,
+        "infected": 11.682242990654206
+      },
+      "peak_pct": {
+        "confirmed": 4.742145820983996,
+        "recovered": 9.138381201044387,
+        "infected": 4.005126561999359
+      },
+      "relative": {
+        "recovered": 4.3999999999999995,
+        "infected": 95.6
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02881686593529461,
+        "recovered": 0.0012679421011529627,
+        "infected": 0.027548923834141644
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2881686593529461,
+        "recovered": 0.012679421011529628,
+        "infected": 0.2754892383414164
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.881686593529461,
+        "recovered": 0.12679421011529626,
+        "infected": 2.7548923834141643
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "90ab5d81d370e0b5baccb0e71df412aa",
+    "day_index_1": 26,
+    "day_index_10": 17,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 304,
+        "recovered": 11,
+        "infected": 293
+      },
+      "delta": {
+        "confirmed": 54,
+        "infected": 54
+      },
+      "delta_pct": {
+        "confirmed": 21.6,
+        "infected": 22.594142259414227
+      },
+      "peak_pct": {
+        "confirmed": 8.002371072910492,
+        "infected": 8.651073373918615
+      },
+      "relative": {
+        "recovered": 3.618421052631579,
+        "infected": 96.38157894736842
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03504130897731824,
+        "recovered": 0.0012679421011529627,
+        "infected": 0.03377336687616528
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3504130897731824,
+        "recovered": 0.012679421011529628,
+        "infected": 0.3377336687616528
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.504130897731824,
+        "recovered": 0.12679421011529626,
+        "infected": 3.377336687616528
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "6b7b67b51359deee37a25f1e066f4af3",
+    "day_index_1": 27,
+    "day_index_10": 18,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 427,
+        "recovered": 11,
+        "infected": 416
+      },
+      "delta": {
+        "confirmed": 123,
+        "infected": 123
+      },
+      "delta_pct": {
+        "confirmed": 40.46052631578947,
+        "infected": 41.97952218430034
+      },
+      "peak_pct": {
+        "confirmed": 18.227622999407235,
+        "infected": 19.705222685036848
+      },
+      "relative": {
+        "recovered": 2.576112412177986,
+        "infected": 97.42388758782201
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04921920701748319,
+        "recovered": 0.0012679421011529627,
+        "infected": 0.04795126491633023
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4921920701748319,
+        "recovered": 0.012679421011529628,
+        "infected": 0.4795126491633023
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.921920701748319,
+        "recovered": 0.12679421011529626,
+        "infected": 4.795126491633023
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "3c33a358c8256b329b62692148df29d4",
+    "day_index_1": 28,
+    "day_index_10": 19,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 529,
+        "recovered": 14,
+        "infected": 515
+      },
+      "delta": {
+        "confirmed": 102,
+        "recovered": 3,
+        "infected": 99
+      },
+      "delta_pct": {
+        "confirmed": 23.88758782201405,
+        "recovered": 27.272727272727273,
+        "infected": 23.798076923076923
+      },
+      "peak_pct": {
+        "confirmed": 15.115589804386486,
+        "recovered": 3.91644908616188,
+        "infected": 15.86030118551746
+      },
+      "relative": {
+        "recovered": 2.6465028355387523,
+        "infected": 97.35349716446125
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.060976488319083394,
+        "recovered": 0.0016137444923764982,
+        "infected": 0.05936274382670689
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.609764883190834,
+        "recovered": 0.016137444923764982,
+        "infected": 0.593627438267069
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.097648831908339,
+        "recovered": 0.16137444923764982,
+        "infected": 5.936274382670689
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "9afb46cadbb0c53524a3e4ec1da521ba",
+    "day_index_1": 29,
+    "day_index_10": 20,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 712,
+        "deaths": 1,
+        "recovered": 36,
+        "infected": 675
+      },
+      "delta": {
+        "confirmed": 183,
+        "recovered": 22,
+        "deaths": 1,
+        "infected": 160
+      },
+      "delta_pct": {
+        "confirmed": 34.593572778827976,
+        "recovered": 157.14285714285714,
+        "infected": 31.067961165048544
+      },
+      "peak_pct": {
+        "confirmed": 27.119146413752226,
+        "recovered": 28.72062663185379,
+        "deaths": 16.129032258064516,
+        "infected": 25.632809996795896
+      },
+      "relative": {
+        "deaths": 0.1404494382022472,
+        "recovered": 5.056179775280898,
+        "infected": 94.80337078651685
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.08207043418371904,
+        "recovered": 0.004149628694682423,
+        "deaths": 0.00011526746374117843,
+        "infected": 0.07780553802529544
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.8207043418371904,
+        "recovered": 0.04149628694682424,
+        "deaths": 0.0011526746374117842,
+        "infected": 0.7780553802529544
+      },
+      "absolute_pop100k": {
+        "confirmed": 8.207043418371903,
+        "recovered": 0.41496286946824235,
+        "deaths": 0.011526746374117842,
+        "infected": 7.780553802529544
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "38725a1ccfa355e56063bc4d71f70096",
+    "day_index_1": 30,
+    "day_index_10": 21,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 883,
+        "deaths": 1,
+        "recovered": 37,
+        "infected": 845
+      },
+      "delta": {
+        "confirmed": 171,
+        "recovered": 1,
+        "infected": 170
+      },
+      "delta_pct": {
+        "confirmed": 24.01685393258427,
+        "recovered": 2.7777777777777777,
+        "infected": 25.185185185185187
+      },
+      "peak_pct": {
+        "confirmed": 25.34084173088323,
+        "recovered": 1.3054830287206267,
+        "infected": 27.23486062159564
+      },
+      "relative": {
+        "deaths": 0.11325028312570783,
+        "recovered": 4.190260475651189,
+        "infected": 95.6964892412231
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.10178117048346055,
+        "recovered": 0.004264896158423602,
+        "deaths": 0.00011526746374117843,
+        "infected": 0.09740100686129577
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.0178117048346056,
+        "recovered": 0.04264896158423602,
+        "deaths": 0.0011526746374117842,
+        "infected": 0.9740100686129577
+      },
+      "absolute_pop100k": {
+        "confirmed": 10.178117048346055,
+        "recovered": 0.4264896158423602,
+        "deaths": 0.011526746374117842,
+        "infected": 9.740100686129576
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "ad1dd6390f570f9e64f2b7c344236182",
+    "day_index_1": 31,
+    "day_index_10": 22,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1071,
+        "deaths": 1,
+        "recovered": 37,
+        "infected": 1033
+      },
+      "delta": {
+        "confirmed": 188,
+        "infected": 188
+      },
+      "delta_pct": {
+        "confirmed": 21.291053227633068,
+        "infected": 22.24852071005917
+      },
+      "peak_pct": {
+        "confirmed": 27.860106698280973,
+        "infected": 30.118551746235177
+      },
+      "relative": {
+        "deaths": 0.09337068160597572,
+        "recovered": 3.454715219421102,
+        "infected": 96.45191409897292
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.1234514536668021,
+        "recovered": 0.004264896158423602,
+        "deaths": 0.00011526746374117843,
+        "infected": 0.11907129004463732
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.234514536668021,
+        "recovered": 0.04264896158423602,
+        "deaths": 0.0011526746374117842,
+        "infected": 1.1907129004463732
+      },
+      "absolute_pop100k": {
+        "confirmed": 12.34514536668021,
+        "recovered": 0.4264896158423602,
+        "deaths": 0.011526746374117842,
+        "infected": 11.907129004463732
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "56c629d4292bf886fdda6961c5f7be99",
+    "day_index_1": 32,
+    "day_index_10": 23,
+    "day_index_100": 12,
+    "day_index_1k": 1,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1238,
+        "deaths": 3,
+        "recovered": 53,
+        "infected": 1182
+      },
+      "delta": {
+        "confirmed": 167,
+        "recovered": 16,
+        "deaths": 2,
+        "infected": 149
+      },
+      "delta_pct": {
+        "confirmed": 15.592903828197946,
+        "recovered": 43.24324324324324,
+        "infected": 14.424007744433688,
+        "deaths": 200
+      },
+      "peak_pct": {
+        "confirmed": 24.748073503260226,
+        "recovered": 20.887728459530027,
+        "deaths": 32.25806451612903,
+        "infected": 23.87055430951618
+      },
+      "relative": {
+        "deaths": 0.24232633279483037,
+        "recovered": 4.281098546042003,
+        "infected": 95.47657512116317
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.1427011201115789,
+        "recovered": 0.006109175578282457,
+        "deaths": 0.0003458023912235353,
+        "infected": 0.1362461421420729
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.427011201115789,
+        "recovered": 0.061091755782824574,
+        "deaths": 0.0034580239122353534,
+        "infected": 1.362461421420729
+      },
+      "absolute_pop100k": {
+        "confirmed": 14.27011201115789,
+        "recovered": 0.6109175578282457,
+        "deaths": 0.03458023912235353,
+        "infected": 13.62461421420729
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "969ea1d83f8f92f2190d114580c552ba",
+    "day_index_1": 33,
+    "day_index_10": 24,
+    "day_index_100": 13,
+    "day_index_1k": 2,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2369,
+        "deaths": 5,
+        "recovered": 58,
+        "infected": 2306
+      },
+      "delta": {
+        "confirmed": 1131,
+        "recovered": 5,
+        "deaths": 2,
+        "infected": 1124
+      },
+      "delta_pct": {
+        "confirmed": 91.35702746365105,
+        "recovered": 9.433962264150944,
+        "infected": 95.09306260575296,
+        "deaths": 66.66666666666667
+      },
+      "peak_pct": {
+        "confirmed": 167.6052163604031,
+        "recovered": 6.527415143603134,
+        "deaths": 32.25806451612903,
+        "infected": 180.07049022749118
+      },
+      "relative": {
+        "deaths": 0.21105951878429718,
+        "recovered": 2.448290417897847,
+        "infected": 97.34065006331785
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2730686216028517,
+        "recovered": 0.006685512896988349,
+        "deaths": 0.0005763373187058922,
+        "infected": 0.26580677138715747
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.7306862160285172,
+        "recovered": 0.06685512896988349,
+        "deaths": 0.005763373187058922,
+        "infected": 2.6580677138715747
+      },
+      "absolute_pop100k": {
+        "confirmed": 27.30686216028517,
+        "recovered": 0.6685512896988349,
+        "deaths": 0.05763373187058922,
+        "infected": 26.580677138715746
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "6d16584dc5e18c9eeff57d9aa001419d",
+    "day_index_1": 34,
+    "day_index_10": 25,
+    "day_index_100": 14,
+    "day_index_1k": 3,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2693,
+        "deaths": 8,
+        "recovered": 68,
+        "infected": 2617
+      },
+      "delta": {
+        "confirmed": 324,
+        "recovered": 10,
+        "deaths": 3,
+        "infected": 311
+      },
+      "delta_pct": {
+        "confirmed": 13.676656817222456,
+        "recovered": 17.24137931034483,
+        "infected": 13.486556808326105,
+        "deaths": 60
+      },
+      "peak_pct": {
+        "confirmed": 48.01422643746295,
+        "recovered": 13.054830287206268,
+        "deaths": 48.387096774193544,
+        "infected": 49.82377443127202
+      },
+      "relative": {
+        "deaths": 0.29706646862235425,
+        "recovered": 2.525064983290011,
+        "infected": 97.17786854808763
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.3104152798549935,
+        "recovered": 0.007838187534400133,
+        "deaths": 0.0009221397099294274,
+        "infected": 0.30165495261066394
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.104152798549935,
+        "recovered": 0.07838187534400133,
+        "deaths": 0.009221397099294273,
+        "infected": 3.0165495261066395
+      },
+      "absolute_pop100k": {
+        "confirmed": 31.04152798549935,
+        "recovered": 0.7838187534400134,
+        "deaths": 0.09221397099294273,
+        "infected": 30.165495261066393
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "6c302623a53a3e28d0c41b0cee983bc5",
+    "day_index_1": 35,
+    "day_index_10": 26,
+    "day_index_100": 15,
+    "day_index_1k": 4,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3035,
+        "deaths": 12,
+        "recovered": 79,
+        "infected": 2944
+      },
+      "delta": {
+        "confirmed": 342,
+        "recovered": 11,
+        "deaths": 4,
+        "infected": 327
+      },
+      "delta_pct": {
+        "confirmed": 12.699591533605645,
+        "recovered": 16.176470588235293,
+        "infected": 12.495223538402751,
+        "deaths": 50
+      },
+      "peak_pct": {
+        "confirmed": 50.68168346176646,
+        "recovered": 14.360313315926895,
+        "deaths": 64.51612903225806,
+        "infected": 52.38705543095161
+      },
+      "relative": {
+        "deaths": 0.3953871499176277,
+        "recovered": 2.602965403624382,
+        "infected": 97.001647446458
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.34983675245447654,
+        "recovered": 0.009106129635553096,
+        "deaths": 0.0013832095648941413,
+        "infected": 0.3393474132540293
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.4983675245447654,
+        "recovered": 0.09106129635553095,
+        "deaths": 0.013832095648941414,
+        "infected": 3.393474132540293
+      },
+      "absolute_pop100k": {
+        "confirmed": 34.98367524544766,
+        "recovered": 0.9106129635553095,
+        "deaths": 0.13832095648941412,
+        "infected": 33.934741325402925
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "b099d1145ea1860ec6109e8a96ed14e8",
+    "day_index_1": 36,
+    "day_index_10": 27,
+    "day_index_100": 16,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3619,
+        "deaths": 12,
+        "recovered": 89,
+        "infected": 3518
+      },
+      "delta": {
+        "confirmed": 584,
+        "recovered": 10,
+        "infected": 574
+      },
+      "delta_pct": {
+        "confirmed": 19.24217462932455,
+        "recovered": 12.658227848101266,
+        "infected": 19.497282608695652
+      },
+      "peak_pct": {
+        "confirmed": 86.54416123295792,
+        "recovered": 13.054830287206268,
+        "infected": 91.95770586350528
+      },
+      "relative": {
+        "deaths": 0.33158331030671456,
+        "recovered": 2.4592428847748,
+        "infected": 97.20917380491848
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.4171529512793247,
+        "recovered": 0.01025880427296488,
+        "deaths": 0.0013832095648941413,
+        "infected": 0.4055109374414657
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.1715295127932475,
+        "recovered": 0.1025880427296488,
+        "deaths": 0.013832095648941414,
+        "infected": 4.055109374414657
+      },
+      "absolute_pop100k": {
+        "confirmed": 41.71529512793247,
+        "recovered": 1.0258804272964879,
+        "deaths": 0.13832095648941412,
+        "infected": 40.55109374414657
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "e2d38e503e655126e4a6164bc1b9adcb",
+    "day_index_1": 37,
+    "day_index_10": 28,
+    "day_index_100": 17,
+    "day_index_1k": 6,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4247,
+        "deaths": 15,
+        "recovered": 132,
+        "infected": 4100
+      },
+      "delta": {
+        "confirmed": 628,
+        "recovered": 43,
+        "deaths": 3,
+        "infected": 582
+      },
+      "delta_pct": {
+        "confirmed": 17.352859906051396,
+        "recovered": 48.31460674157304,
+        "infected": 16.543490619670266,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 93.0646117368109,
+        "recovered": 56.13577023498695,
+        "deaths": 48.387096774193544,
+        "infected": 93.23934636334508
+      },
+      "relative": {
+        "deaths": 0.3531904874028726,
+        "recovered": 3.1080762891452793,
+        "infected": 96.53873322345184
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.4895409185087848,
+        "recovered": 0.015215305213835554,
+        "deaths": 0.0017290119561176765,
+        "infected": 0.4725966013388316
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.895409185087848,
+        "recovered": 0.15215305213835553,
+        "deaths": 0.017290119561176764,
+        "infected": 4.725966013388316
+      },
+      "absolute_pop100k": {
+        "confirmed": 48.95409185087848,
+        "recovered": 1.5215305213835553,
+        "deaths": 0.17290119561176764,
+        "infected": 47.25966013388316
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "1d842a0188dd9b0c20ae2d28e66d965b",
+    "day_index_1": 38,
+    "day_index_10": 29,
+    "day_index_100": 18,
+    "day_index_1k": 7,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4695,
+        "deaths": 16,
+        "recovered": 161,
+        "infected": 4518
+      },
+      "delta": {
+        "confirmed": 448,
+        "recovered": 29,
+        "deaths": 1,
+        "infected": 418
+      },
+      "delta_pct": {
+        "confirmed": 10.54862255709913,
+        "recovered": 21.96969696969697,
+        "infected": 10.195121951219512,
+        "deaths": 6.666666666666667
+      },
+      "peak_pct": {
+        "confirmed": 66.39004149377594,
+        "recovered": 37.85900783289817,
+        "deaths": 16.129032258064516,
+        "infected": 66.96571611662928
+      },
+      "relative": {
+        "deaths": 0.3407880724174654,
+        "recovered": 3.4291799787007458,
+        "infected": 96.23003194888179
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5411807422648327,
+        "recovered": 0.018558061662329726,
+        "deaths": 0.0018442794198588548,
+        "infected": 0.5207784011826442
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.411807422648327,
+        "recovered": 0.18558061662329728,
+        "deaths": 0.018442794198588547,
+        "infected": 5.207784011826442
+      },
+      "absolute_pop100k": {
+        "confirmed": 54.11807422648327,
+        "recovered": 1.8558061662329726,
+        "deaths": 0.18442794198588547,
+        "infected": 52.07784011826442
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "53b720389240134cd55f35a6184dbad5",
+    "day_index_1": 39,
+    "day_index_10": 30,
+    "day_index_100": 19,
+    "day_index_1k": 8,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5358,
+        "deaths": 20,
+        "recovered": 224,
+        "infected": 5114
+      },
+      "delta": {
+        "confirmed": 663,
+        "recovered": 63,
+        "deaths": 4,
+        "infected": 596
+      },
+      "delta_pct": {
+        "confirmed": 14.121405750798722,
+        "recovered": 39.130434782608695,
+        "infected": 13.191677733510403,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 98.25133372851215,
+        "recovered": 82.2454308093995,
+        "deaths": 64.51612903225806,
+        "infected": 95.48221723806472
+      },
+      "relative": {
+        "deaths": 0.3732736095558044,
+        "recovered": 4.180664427025009,
+        "infected": 95.44606196341918
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.617603070725234,
+        "recovered": 0.02581991187802397,
+        "deaths": 0.002305349274823569,
+        "infected": 0.5894778095723865
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.17603070725234,
+        "recovered": 0.2581991187802397,
+        "deaths": 0.023053492748235687,
+        "infected": 5.894778095723865
+      },
+      "absolute_pop100k": {
+        "confirmed": 61.7603070725234,
+        "recovered": 2.581991187802397,
+        "deaths": 0.23053492748235688,
+        "infected": 58.94778095723865
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "a099a7694bda8d9f0c3bb2dccc53d502",
+    "day_index_1": 40,
+    "day_index_10": 31,
+    "day_index_100": 20,
+    "day_index_1k": 9,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6092,
+        "deaths": 26,
+        "recovered": 241,
+        "infected": 5825
+      },
+      "delta": {
+        "confirmed": 734,
+        "recovered": 17,
+        "deaths": 6,
+        "infected": 711
+      },
+      "delta_pct": {
+        "confirmed": 13.699141470698022,
+        "recovered": 7.589285714285714,
+        "infected": 13.903011341415722,
+        "deaths": 30
+      },
+      "peak_pct": {
+        "confirmed": 108.7729697688204,
+        "recovered": 22.193211488250654,
+        "deaths": 96.77419354838709,
+        "infected": 113.90579942326178
+      },
+      "relative": {
+        "deaths": 0.4267892317793828,
+        "recovered": 3.9560078791858175,
+        "infected": 95.6172028890348
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.702209389111259,
+        "recovered": 0.027779458761624003,
+        "deaths": 0.002996954057270639,
+        "infected": 0.6714329762923643
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.02209389111259,
+        "recovered": 0.27779458761624004,
+        "deaths": 0.029969540572706392,
+        "infected": 6.714329762923644
+      },
+      "absolute_pop100k": {
+        "confirmed": 70.2209389111259,
+        "recovered": 2.7779458761624003,
+        "deaths": 0.29969540572706393,
+        "infected": 67.14329762923643
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "2914f52f73366b5641e364744d507473",
+    "day_index_1": 41,
+    "day_index_10": 32,
+    "day_index_100": 21,
+    "day_index_1k": 10,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -0
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6857,
+        "deaths": 36,
+        "recovered": 338,
+        "infected": 6483
+      },
+      "delta": {
+        "confirmed": 765,
+        "recovered": 97,
+        "deaths": 10,
+        "infected": 658
+      },
+      "delta_pct": {
+        "confirmed": 12.557452396585687,
+        "recovered": 40.24896265560166,
+        "infected": 11.296137339055795,
+        "deaths": 38.46153846153846
+      },
+      "peak_pct": {
+        "confirmed": 113.36692353289864,
+        "recovered": 126.63185378590079,
+        "deaths": 161.29032258064515,
+        "infected": 105.41493111182312
+      },
+      "relative": {
+        "deaths": 0.5250109377278693,
+        "recovered": 4.929269359778329,
+        "infected": 94.5457197024938
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.7903889988732605,
+        "recovered": 0.03896040274451831,
+        "deaths": 0.004149628694682423,
+        "infected": 0.7472789674340597
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.9038899887326055,
+        "recovered": 0.38960402744518313,
+        "deaths": 0.04149628694682424,
+        "infected": 7.472789674340597
+      },
+      "absolute_pop100k": {
+        "confirmed": 79.03889988732605,
+        "recovered": 3.896040274451831,
+        "deaths": 0.41496286946824235,
+        "infected": 74.72789674340598
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "cf53311a869ce2eb3e1c0ee4d8593078",
+    "day_index_1": 42,
+    "day_index_10": 33,
+    "day_index_100": 22,
+    "day_index_1k": 11,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7428,
+        "deaths": 40,
+        "recovered": 403,
+        "infected": 6985
+      },
+      "delta": {
+        "confirmed": 571,
+        "recovered": 65,
+        "deaths": 4,
+        "infected": 502
+      },
+      "delta_pct": {
+        "confirmed": 8.327256817850373,
+        "recovered": 19.23076923076923,
+        "infected": 7.743328705846059,
+        "deaths": 11.11111111111111
+      },
+      "peak_pct": {
+        "confirmed": 84.61766449318317,
+        "recovered": 84.85639686684074,
+        "deaths": 64.51612903225806,
+        "infected": 80.42294136494714
+      },
+      "relative": {
+        "deaths": 0.5385029617662896,
+        "recovered": 5.425417339795368,
+        "infected": 94.03607969843834
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.8562067206694733,
+        "recovered": 0.046452787887694906,
+        "deaths": 0.004610698549647138,
+        "infected": 0.8051432342321313
+      },
+      "absolute_pop10k": {
+        "confirmed": 8.562067206694733,
+        "recovered": 0.4645278788769491,
+        "deaths": 0.046106985496471374,
+        "infected": 8.051432342321313
+      },
+      "absolute_pop100k": {
+        "confirmed": 85.62067206694734,
+        "recovered": 4.645278788769491,
+        "deaths": 0.46106985496471375,
+        "infected": 80.51432342321313
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "94a405b347437fd2646f168223803721",
+    "day_index_1": 43,
+    "day_index_10": 34,
+    "day_index_100": 23,
+    "day_index_1k": 12,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7851,
+        "deaths": 44,
+        "recovered": 427,
+        "infected": 7380
+      },
+      "delta": {
+        "confirmed": 423,
+        "recovered": 24,
+        "deaths": 4,
+        "infected": 395
+      },
+      "delta_pct": {
+        "confirmed": 5.694668820678514,
+        "recovered": 5.955334987593052,
+        "infected": 5.654974946313529,
+        "deaths": 10
+      },
+      "peak_pct": {
+        "confirmed": 62.685240071132185,
+        "recovered": 31.33159268929504,
+        "deaths": 64.51612903225806,
+        "infected": 63.28099967958987
+      },
+      "relative": {
+        "deaths": 0.5604381607438542,
+        "recovered": 5.438797605400586,
+        "infected": 94.00076423385556
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.9049648578319919,
+        "recovered": 0.04921920701748319,
+        "deaths": 0.005071768404611851,
+        "infected": 0.8506738824098968
+      },
+      "absolute_pop10k": {
+        "confirmed": 9.04964857831992,
+        "recovered": 0.4921920701748319,
+        "deaths": 0.05071768404611851,
+        "infected": 8.506738824098969
+      },
+      "absolute_pop100k": {
+        "confirmed": 90.49648578319919,
+        "recovered": 4.921920701748319,
+        "deaths": 0.507176840461185,
+        "infected": 85.06738824098969
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "b9e6c95b7cfcfc6df2d06bda60cca451",
+    "day_index_1": 44,
+    "day_index_10": 35,
+    "day_index_100": 24,
+    "day_index_1k": 13,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8430,
+        "deaths": 49,
+        "recovered": 477,
+        "infected": 7904
+      },
+      "delta": {
+        "confirmed": 579,
+        "recovered": 50,
+        "deaths": 5,
+        "infected": 524
+      },
+      "delta_pct": {
+        "confirmed": 7.374856706152083,
+        "recovered": 11.7096018735363,
+        "infected": 7.100271002710027,
+        "deaths": 11.363636363636363
+      },
+      "peak_pct": {
+        "confirmed": 85.80320094842916,
+        "recovered": 65.27415143603133,
+        "deaths": 80.64516129032258,
+        "infected": 83.94745273950657
+      },
+      "relative": {
+        "deaths": 0.5812574139976275,
+        "recovered": 5.658362989323843,
+        "infected": 93.76037959667853
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.9717047193381342,
+        "recovered": 0.054982580204542116,
+        "deaths": 0.005648105723317743,
+        "infected": 0.9110740334102744
+      },
+      "absolute_pop10k": {
+        "confirmed": 9.717047193381342,
+        "recovered": 0.5498258020454212,
+        "deaths": 0.05648105723317743,
+        "infected": 9.110740334102744
+      },
+      "absolute_pop100k": {
+        "confirmed": 97.17047193381342,
+        "recovered": 5.4982580204542115,
+        "deaths": 0.5648105723317743,
+        "infected": 91.10740334102744
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "0a507cdf86925fe3d99a7465d4d8400d",
+    "day_index_1": 45,
+    "day_index_10": 36,
+    "day_index_100": 25,
+    "day_index_1k": 14,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8904,
+        "deaths": 57,
+        "recovered": 585,
+        "infected": 8262
+      },
+      "delta": {
+        "confirmed": 474,
+        "recovered": 108,
+        "deaths": 8,
+        "infected": 358
+      },
+      "delta_pct": {
+        "confirmed": 5.622775800711744,
+        "recovered": 22.641509433962263,
+        "infected": 4.529352226720648,
+        "deaths": 16.3265306122449
+      },
+      "peak_pct": {
+        "confirmed": 70.24303497332544,
+        "recovered": 140.9921671018277,
+        "deaths": 129.03225806451613,
+        "infected": 57.35341236783081
+      },
+      "relative": {
+        "deaths": 0.6401617250673854,
+        "recovered": 6.570080862533692,
+        "infected": 92.78975741239893
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.0263414971514528,
+        "recovered": 0.06743146628858938,
+        "deaths": 0.0065702454332471705,
+        "infected": 0.9523397854296162
+      },
+      "absolute_pop10k": {
+        "confirmed": 10.263414971514528,
+        "recovered": 0.6743146628858938,
+        "deaths": 0.06570245433247171,
+        "infected": 9.523397854296162
+      },
+      "absolute_pop100k": {
+        "confirmed": 102.63414971514528,
+        "recovered": 6.743146628858939,
+        "deaths": 0.657024543324717,
+        "infected": 95.23397854296162
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "96c83ee999857ea35447558a23a075df",
+    "day_index_1": 46,
+    "day_index_10": 37,
+    "day_index_100": 26,
+    "day_index_1k": 15,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "4e678db483fb196fa1ab2c922fd47bc2",
+      "type": "total-country",
+      "label": "Israel",
+      "country": "Israel",
+      "country_code": "IL",
+      "country_latlong": [
+        31.47,
+        35.13
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.47,
+        35.13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9248,
+        "deaths": 65,
+        "recovered": 770,
+        "infected": 8413
+      },
+      "delta": {
+        "confirmed": 344,
+        "recovered": 185,
+        "deaths": 8,
+        "infected": 151
+      },
+      "delta_pct": {
+        "confirmed": 3.8634321653189576,
+        "recovered": 31.623931623931625,
+        "infected": 1.8276446381021545,
+        "deaths": 14.035087719298245
+      },
+      "peak_pct": {
+        "confirmed": 50.97806757557796,
+        "recovered": 241.51436031331593,
+        "deaths": 129.03225806451613,
+        "infected": 24.19096443447613
+      },
+      "relative": {
+        "deaths": 0.7028546712802768,
+        "recovered": 8.326124567474048,
+        "infected": 90.97102076124568
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.0659935046784181,
+        "recovered": 0.08875594708070739,
+        "deaths": 0.007492385143176598,
+        "infected": 0.9697451724545342
+      },
+      "absolute_pop10k": {
+        "confirmed": 10.659935046784181,
+        "recovered": 0.8875594708070739,
+        "deaths": 0.07492385143176598,
+        "infected": 9.697451724545342
+      },
+      "absolute_pop100k": {
+        "confirmed": 106.59935046784182,
+        "recovered": 8.87559470807074,
+        "deaths": 0.7492385143176598,
+        "infected": 96.97451724545341
+      }
+    },
+    "factbook": {
+      "population": 8675475,
+      "median_age": 30.4,
+      "death_rate": 5.3,
+      "area": 21937
+    },
+    "data_key": "03f23ca3ab98da0e97fe56195ae76c4e",
+    "day_index_1": 47,
+    "day_index_10": 38,
+    "day_index_100": 27,
+    "day_index_1k": 16,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 5
+  }
+]

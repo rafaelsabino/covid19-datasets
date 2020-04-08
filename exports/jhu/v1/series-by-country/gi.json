@@ -1,0 +1,1606 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "date": "2020-03-04",
+      "timestamp": 1583280000,
+      "index": 43
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 10.416666666666668,
+        "infected": 11.11111111111111
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03380548324938305,
+        "infected": 0.03380548324938305
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3380548324938305,
+        "infected": 0.3380548324938305
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.3805483249383053,
+        "infected": 3.3805483249383053
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "354d6d421e57d38aaf3e64efd59b2bce",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -25
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "recovered": 1
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -100
+      },
+      "peak_pct": {
+        "recovered": 13.513513513513512,
+        "infected": -11.11111111111111
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03380548324938305,
+        "recovered": 0.03380548324938305
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3380548324938305,
+        "recovered": 0.3380548324938305
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.3805483249383053,
+        "recovered": 3.3805483249383053
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "66eec241967c6b149109f6593e11cf6d",
+    "day_index_1": 7,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -19
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "recovered": 1,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 200
+      },
+      "peak_pct": {
+        "confirmed": 20.833333333333336,
+        "infected": 22.22222222222222
+      },
+      "relative": {
+        "recovered": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.10141644974814915,
+        "recovered": 0.03380548324938305,
+        "infected": 0.0676109664987661
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.0141644974814914,
+        "recovered": 0.3380548324938305,
+        "infected": 0.676109664987661
+      },
+      "absolute_pop100k": {
+        "confirmed": 10.141644974814914,
+        "recovered": 3.3805483249383053,
+        "infected": 6.7610966498766105
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "1bdfad3ae63a3716a0e0ee08d5e8439c",
+    "day_index_1": 14,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "recovered": 2,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 1,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 166.66666666666666,
+        "recovered": 100,
+        "infected": 200
+      },
+      "peak_pct": {
+        "confirmed": 52.083333333333336,
+        "recovered": 13.513513513513512,
+        "infected": 44.44444444444444
+      },
+      "relative": {
+        "recovered": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2704438659950644,
+        "recovered": 0.0676109664987661,
+        "infected": 0.2028328994962983
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.704438659950644,
+        "recovered": 0.676109664987661,
+        "infected": 2.028328994962983
+      },
+      "absolute_pop100k": {
+        "confirmed": 27.044386599506442,
+        "recovered": 6.7610966498766105,
+        "infected": 20.28328994962983
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "67261c96e9976e63a570533f6bb0aaf3",
+    "day_index_1": 15,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "recovered": 2,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 20.833333333333336,
+        "infected": 22.22222222222222
+      },
+      "relative": {
+        "recovered": 20,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.3380548324938305,
+        "recovered": 0.0676109664987661,
+        "infected": 0.2704438659950644
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.380548324938305,
+        "recovered": 0.676109664987661,
+        "infected": 2.704438659950644
+      },
+      "absolute_pop100k": {
+        "confirmed": 33.80548324938305,
+        "recovered": 6.7610966498766105,
+        "infected": 27.044386599506442
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "419159aacfb23b6b13558cb2518dc088",
+    "day_index_1": 16,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15,
+        "recovered": 2,
+        "infected": 13
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 62.5
+      },
+      "peak_pct": {
+        "confirmed": 52.083333333333336,
+        "infected": 55.55555555555556
+      },
+      "relative": {
+        "recovered": 13.333333333333334,
+        "infected": 86.66666666666667
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5070822487407458,
+        "recovered": 0.0676109664987661,
+        "infected": 0.4394712822419797
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.070822487407458,
+        "recovered": 0.676109664987661,
+        "infected": 4.394712822419796
+      },
+      "absolute_pop100k": {
+        "confirmed": 50.70822487407458,
+        "recovered": 6.7610966498766105,
+        "infected": 43.94712822419797
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "a6f29303cadb90ac65478d622a3adada",
+    "day_index_1": 19,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15,
+        "recovered": 5,
+        "infected": 10
+      },
+      "delta": {
+        "recovered": 3,
+        "infected": -3
+      },
+      "delta_pct": {
+        "recovered": 150,
+        "infected": -23.076923076923077
+      },
+      "peak_pct": {
+        "recovered": 40.54054054054054,
+        "infected": -33.33333333333333
+      },
+      "relative": {
+        "recovered": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5070822487407458,
+        "recovered": 0.16902741624691525,
+        "infected": 0.3380548324938305
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.070822487407458,
+        "recovered": 1.6902741624691524,
+        "infected": 3.380548324938305
+      },
+      "absolute_pop100k": {
+        "confirmed": 50.70822487407458,
+        "recovered": 16.902741624691526,
+        "infected": 33.80548324938305
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "4480570c713b73ce83e2fb5d4e68b70a",
+    "day_index_1": 21,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 26,
+        "recovered": 5,
+        "infected": 21
+      },
+      "delta": {
+        "confirmed": 11,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 73.33333333333333,
+        "infected": 110
+      },
+      "peak_pct": {
+        "confirmed": 114.58333333333334,
+        "infected": 122.22222222222223
+      },
+      "relative": {
+        "recovered": 19.230769230769234,
+        "infected": 80.76923076923077
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.8789425644839594,
+        "recovered": 0.16902741624691525,
+        "infected": 0.709915148237044
+      },
+      "absolute_pop10k": {
+        "confirmed": 8.789425644839593,
+        "recovered": 1.6902741624691524,
+        "infected": 7.0991514823704405
+      },
+      "absolute_pop100k": {
+        "confirmed": 87.89425644839594,
+        "recovered": 16.902741624691526,
+        "infected": 70.9915148237044
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "809d0ca3b0a7fedb8643414cf74a42bf",
+    "day_index_1": 22,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 35,
+        "recovered": 13,
+        "infected": 22
+      },
+      "delta": {
+        "confirmed": 9,
+        "recovered": 8,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 34.61538461538461,
+        "recovered": 160,
+        "infected": 4.761904761904762
+      },
+      "peak_pct": {
+        "confirmed": 93.75,
+        "recovered": 108.1081081081081,
+        "infected": 11.11111111111111
+      },
+      "relative": {
+        "recovered": 37.142857142857146,
+        "infected": 62.857142857142854
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.1831919137284068,
+        "recovered": 0.4394712822419797,
+        "infected": 0.7437206314864271
+      },
+      "absolute_pop10k": {
+        "confirmed": 11.831919137284068,
+        "recovered": 4.394712822419796,
+        "infected": 7.437206314864271
+      },
+      "absolute_pop100k": {
+        "confirmed": 118.31919137284068,
+        "recovered": 43.94712822419797,
+        "infected": 74.37206314864271
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "357a63e0d16ede22986f0be9d458b10b",
+    "day_index_1": 23,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 55,
+        "recovered": 14,
+        "infected": 41
+      },
+      "delta": {
+        "confirmed": 20,
+        "recovered": 1,
+        "infected": 19
+      },
+      "delta_pct": {
+        "confirmed": 57.142857142857146,
+        "recovered": 7.6923076923076925,
+        "infected": 86.36363636363636
+      },
+      "peak_pct": {
+        "confirmed": 208.33333333333334,
+        "recovered": 13.513513513513512,
+        "infected": 211.11111111111111
+      },
+      "relative": {
+        "recovered": 25.454545454545453,
+        "infected": 74.54545454545455
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.8593015787160678,
+        "recovered": 0.4732767654913627,
+        "infected": 1.386024813224705
+      },
+      "absolute_pop10k": {
+        "confirmed": 18.593015787160677,
+        "recovered": 4.732767654913627,
+        "infected": 13.860248132247051
+      },
+      "absolute_pop100k": {
+        "confirmed": 185.93015787160678,
+        "recovered": 47.32767654913627,
+        "infected": 138.6024813224705
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "f1ae00bcdd3f39e7b6b3494b6a48a285",
+    "day_index_1": 24,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 56,
+        "recovered": 14,
+        "infected": 42
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 1.8181818181818181,
+        "infected": 2.4390243902439024
+      },
+      "peak_pct": {
+        "confirmed": 10.416666666666668,
+        "infected": 11.11111111111111
+      },
+      "relative": {
+        "recovered": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.8931070619654509,
+        "recovered": 0.4732767654913627,
+        "infected": 1.419830296474088
+      },
+      "absolute_pop10k": {
+        "confirmed": 18.93107061965451,
+        "recovered": 4.732767654913627,
+        "infected": 14.198302964740881
+      },
+      "absolute_pop100k": {
+        "confirmed": 189.31070619654508,
+        "recovered": 47.32767654913627,
+        "infected": 141.9830296474088
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "7902f50c339e025730acc24fcd5f74b6",
+    "day_index_1": 25,
+    "day_index_10": 10,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 65,
+        "recovered": 14,
+        "infected": 51
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 16.071428571428573,
+        "infected": 21.428571428571427
+      },
+      "peak_pct": {
+        "confirmed": 93.75,
+        "infected": 100
+      },
+      "relative": {
+        "recovered": 21.53846153846154,
+        "infected": 78.46153846153847
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.197356411209898,
+        "recovered": 0.4732767654913627,
+        "infected": 1.7240796457185357
+      },
+      "absolute_pop10k": {
+        "confirmed": 21.973564112098984,
+        "recovered": 4.732767654913627,
+        "infected": 17.240796457185358
+      },
+      "absolute_pop100k": {
+        "confirmed": 219.7356411209898,
+        "recovered": 47.32767654913627,
+        "infected": 172.40796457185357
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "55f35a9e0eaf0e25f731225ff95d9813",
+    "day_index_1": 26,
+    "day_index_10": 11,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 69,
+        "recovered": 34,
+        "infected": 35
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 20,
+        "infected": -16
+      },
+      "delta_pct": {
+        "confirmed": 6.153846153846154,
+        "recovered": 142.85714285714286,
+        "infected": -31.372549019607842
+      },
+      "peak_pct": {
+        "confirmed": 41.66666666666667,
+        "recovered": 270.27027027027026,
+        "infected": -177.77777777777777
+      },
+      "relative": {
+        "recovered": 49.275362318840585,
+        "infected": 50.72463768115942
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.3325783442074304,
+        "recovered": 1.1493864304790238,
+        "infected": 1.1831919137284068
+      },
+      "absolute_pop10k": {
+        "confirmed": 23.325783442074304,
+        "recovered": 11.493864304790238,
+        "infected": 11.831919137284068
+      },
+      "absolute_pop100k": {
+        "confirmed": 233.25783442074305,
+        "recovered": 114.93864304790237,
+        "infected": 118.31919137284068
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "e10a9de22f2c142a0463e0abf18c3274",
+    "day_index_1": 27,
+    "day_index_10": 12,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 81,
+        "recovered": 34,
+        "infected": 47
+      },
+      "delta": {
+        "confirmed": 12,
+        "infected": 12
+      },
+      "delta_pct": {
+        "confirmed": 17.391304347826086,
+        "infected": 34.285714285714285
+      },
+      "peak_pct": {
+        "confirmed": 125,
+        "infected": 133.33333333333331
+      },
+      "relative": {
+        "recovered": 41.9753086419753,
+        "infected": 58.0246913580247
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.7382441432000273,
+        "recovered": 1.1493864304790238,
+        "infected": 1.5888577127210033
+      },
+      "absolute_pop10k": {
+        "confirmed": 27.382441432000274,
+        "recovered": 11.493864304790238,
+        "infected": 15.888577127210032
+      },
+      "absolute_pop100k": {
+        "confirmed": 273.82441432000275,
+        "recovered": 114.93864304790237,
+        "infected": 158.88577127210033
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "b6723344f47c4efee4e46e33ec1ac1e1",
+    "day_index_1": 29,
+    "day_index_10": 14,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 88,
+        "recovered": 46,
+        "infected": 42
+      },
+      "delta": {
+        "confirmed": 7,
+        "recovered": 12,
+        "infected": -5
+      },
+      "delta_pct": {
+        "confirmed": 8.641975308641975,
+        "recovered": 35.294117647058826,
+        "infected": -10.638297872340425
+      },
+      "peak_pct": {
+        "confirmed": 72.91666666666667,
+        "recovered": 162.16216216216216,
+        "infected": -55.55555555555556
+      },
+      "relative": {
+        "recovered": 52.27272727272727,
+        "infected": 47.72727272727273
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.9748825259457083,
+        "recovered": 1.5550522294716203,
+        "infected": 1.419830296474088
+      },
+      "absolute_pop10k": {
+        "confirmed": 29.748825259457085,
+        "recovered": 15.550522294716203,
+        "infected": 14.198302964740881
+      },
+      "absolute_pop100k": {
+        "confirmed": 297.48825259457084,
+        "recovered": 155.50522294716203,
+        "infected": 141.9830296474088
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "5584e008260c8cfdfa6d301b76333b50",
+    "day_index_1": 30,
+    "day_index_10": 15,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 95,
+        "recovered": 46,
+        "infected": 49
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 7.954545454545454,
+        "infected": 16.666666666666668
+      },
+      "peak_pct": {
+        "confirmed": 72.91666666666667,
+        "infected": 77.77777777777779
+      },
+      "relative": {
+        "recovered": 48.421052631578945,
+        "infected": 51.578947368421055
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.21152090869139,
+        "recovered": 1.5550522294716203,
+        "infected": 1.6564686792197694
+      },
+      "absolute_pop10k": {
+        "confirmed": 32.1152090869139,
+        "recovered": 15.550522294716203,
+        "infected": 16.564686792197694
+      },
+      "absolute_pop100k": {
+        "confirmed": 321.152090869139,
+        "recovered": 155.50522294716203,
+        "infected": 165.64686792197693
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "f74a9f546ed9ee4f7901f6caccd49a1f",
+    "day_index_1": 31,
+    "day_index_10": 16,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 98,
+        "recovered": 52,
+        "infected": 46
+      },
+      "delta": {
+        "confirmed": 3,
+        "recovered": 6,
+        "infected": -3
+      },
+      "delta_pct": {
+        "confirmed": 3.1578947368421053,
+        "recovered": 13.043478260869565,
+        "infected": -6.122448979591836
+      },
+      "peak_pct": {
+        "confirmed": 31.25,
+        "recovered": 81.08108108108108,
+        "infected": -33.33333333333333
+      },
+      "relative": {
+        "recovered": 53.06122448979592,
+        "infected": 46.93877551020408
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.3129373584395387,
+        "recovered": 1.7578851289679187,
+        "infected": 1.5550522294716203
+      },
+      "absolute_pop10k": {
+        "confirmed": 33.12937358439539,
+        "recovered": 17.578851289679186,
+        "infected": 15.550522294716203
+      },
+      "absolute_pop100k": {
+        "confirmed": 331.29373584395387,
+        "recovered": 175.78851289679187,
+        "infected": 155.50522294716203
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "79fdd9ad3472354a94eecec9ea476db5",
+    "day_index_1": 32,
+    "day_index_10": 17,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 103,
+        "recovered": 52,
+        "infected": 51
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 5.1020408163265305,
+        "infected": 10.869565217391305
+      },
+      "peak_pct": {
+        "confirmed": 52.083333333333336,
+        "infected": 55.55555555555556
+      },
+      "relative": {
+        "recovered": 50.48543689320388,
+        "infected": 49.51456310679612
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.481964774686454,
+        "recovered": 1.7578851289679187,
+        "infected": 1.7240796457185357
+      },
+      "absolute_pop10k": {
+        "confirmed": 34.81964774686454,
+        "recovered": 17.578851289679186,
+        "infected": 17.240796457185358
+      },
+      "absolute_pop100k": {
+        "confirmed": 348.1964774686454,
+        "recovered": 175.78851289679187,
+        "infected": 172.40796457185357
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "0bb1414574d1691748eaee032215534d",
+    "day_index_1": 33,
+    "day_index_10": 18,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 109,
+        "recovered": 52,
+        "infected": 57
+      },
+      "delta": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 5.825242718446602,
+        "infected": 11.764705882352942
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "infected": 66.66666666666666
+      },
+      "relative": {
+        "recovered": 47.706422018348626,
+        "infected": 52.293577981651374
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.6847976741827524,
+        "recovered": 1.7578851289679187,
+        "infected": 1.926912545214834
+      },
+      "absolute_pop10k": {
+        "confirmed": 36.84797674182752,
+        "recovered": 17.578851289679186,
+        "infected": 19.269125452148337
+      },
+      "absolute_pop100k": {
+        "confirmed": 368.47976741827523,
+        "recovered": 175.78851289679187,
+        "infected": 192.6912545214834
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "0627889b04e679f98352e09ed6027e11",
+    "day_index_1": 34,
+    "day_index_10": 19,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 113,
+        "recovered": 60,
+        "infected": 53
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 8,
+        "infected": -4
+      },
+      "delta_pct": {
+        "confirmed": 3.669724770642202,
+        "recovered": 15.384615384615385,
+        "infected": -7.017543859649122
+      },
+      "peak_pct": {
+        "confirmed": 41.66666666666667,
+        "recovered": 108.1081081081081,
+        "infected": -44.44444444444444
+      },
+      "relative": {
+        "recovered": 53.09734513274337,
+        "infected": 46.902654867256636
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.8200196071802845,
+        "recovered": 2.0283289949629832,
+        "infected": 1.7916906122173017
+      },
+      "absolute_pop10k": {
+        "confirmed": 38.20019607180284,
+        "recovered": 20.283289949629832,
+        "infected": 17.916906122173017
+      },
+      "absolute_pop100k": {
+        "confirmed": 382.00196071802844,
+        "recovered": 202.83289949629832,
+        "infected": 179.16906122173017
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "e73e7a53644a95b32938a551a929f173",
+    "day_index_1": 35,
+    "day_index_10": 20,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 9
+  }
+]

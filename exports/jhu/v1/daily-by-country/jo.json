@@ -1,0 +1,2101 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "date": "2020-03-03",
+      "timestamp": 1583193600,
+      "index": 42
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 4.166666666666666,
+        "infected": 4.672897196261683
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 9.24159412323333e-05,
+        "infected": 9.24159412323333e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.000924159412323333,
+        "infected": 0.000924159412323333
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.00924159412323333,
+        "infected": 0.00924159412323333
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "8cebb980a9561321617d0c68bf2d8736",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -26
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "recovered": 1
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -100
+      },
+      "peak_pct": {
+        "recovered": 6.756756756756756,
+        "infected": -4.672897196261683
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 9.24159412323333e-05,
+        "recovered": 9.24159412323333e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.000924159412323333,
+        "recovered": 0.000924159412323333
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.00924159412323333,
+        "recovered": 0.00924159412323333
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "e0c255a58d38a2d0abc7f7e2bd037298",
+    "day_index_1": 11,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "recovered": 1,
+        "infected": 7
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 700
+      },
+      "peak_pct": {
+        "confirmed": 29.166666666666668,
+        "infected": 32.71028037383178
+      },
+      "relative": {
+        "recovered": 12.5,
+        "infected": 87.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0007393275298586664,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.0006469115886263331
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007393275298586664,
+        "recovered": 0.000924159412323333,
+        "infected": 0.006469115886263331
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07393275298586664,
+        "recovered": 0.00924159412323333,
+        "infected": 0.06469115886263331
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "bca1665bd521cfa1ce2ba1836fafa1c5",
+    "day_index_1": 13,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 17,
+        "recovered": 1,
+        "infected": 16
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 112.5,
+        "infected": 128.57142857142858
+      },
+      "peak_pct": {
+        "confirmed": 37.5,
+        "infected": 42.056074766355145
+      },
+      "relative": {
+        "recovered": 5.88235294117647,
+        "infected": 94.11764705882352
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0015710710009496662,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.0014786550597173328
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.015710710009496663,
+        "recovered": 0.000924159412323333,
+        "infected": 0.014786550597173327
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.15710710009496662,
+        "recovered": 0.00924159412323333,
+        "infected": 0.14786550597173329
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "0711e3bae451d9993b1b5fdbeef0f8ee",
+    "day_index_1": 14,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 34,
+        "recovered": 1,
+        "infected": 33
+      },
+      "delta": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 100,
+        "infected": 106.25
+      },
+      "peak_pct": {
+        "confirmed": 70.83333333333334,
+        "infected": 79.4392523364486
+      },
+      "relative": {
+        "recovered": 2.941176470588235,
+        "infected": 97.05882352941177
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0031421420018993324,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.003049726060666999
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.031421420018993326,
+        "recovered": 0.000924159412323333,
+        "infected": 0.03049726060666999
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.31421420018993323,
+        "recovered": 0.00924159412323333,
+        "infected": 0.3049726060666999
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "6a9436b3d043dfc5de880e78bf179181",
+    "day_index_1": 15,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 52,
+        "recovered": 1,
+        "infected": 51
+      },
+      "delta": {
+        "confirmed": 18,
+        "infected": 18
+      },
+      "delta_pct": {
+        "confirmed": 52.94117647058823,
+        "infected": 54.54545454545455
+      },
+      "peak_pct": {
+        "confirmed": 75,
+        "infected": 84.11214953271029
+      },
+      "relative": {
+        "recovered": 1.9230769230769231,
+        "infected": 98.07692307692307
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0048056289440813315,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.004713213002848999
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.04805628944081332,
+        "recovered": 0.000924159412323333,
+        "infected": 0.04713213002848999
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.48056289440813316,
+        "recovered": 0.00924159412323333,
+        "infected": 0.4713213002848999
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "71d187d8e5a24ea39d0153f7ae1dc80b",
+    "day_index_1": 16,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 69,
+        "recovered": 1,
+        "infected": 68
+      },
+      "delta": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 32.69230769230769,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 70.83333333333334,
+        "infected": 79.4392523364486
+      },
+      "relative": {
+        "recovered": 1.4492753623188406,
+        "infected": 98.55072463768117
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006376699945030998,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.006284284003798665
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06376699945030999,
+        "recovered": 0.000924159412323333,
+        "infected": 0.06284284003798665
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6376699945030998,
+        "recovered": 0.00924159412323333,
+        "infected": 0.6284284003798665
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "6be85094f036ecacae98e2386929425d",
+    "day_index_1": 17,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 85,
+        "recovered": 1,
+        "infected": 84
+      },
+      "delta": {
+        "confirmed": 16,
+        "infected": 16
+      },
+      "delta_pct": {
+        "confirmed": 23.18840579710145,
+        "infected": 23.529411764705884
+      },
+      "peak_pct": {
+        "confirmed": 66.66666666666666,
+        "infected": 74.76635514018693
+      },
+      "relative": {
+        "recovered": 1.1764705882352942,
+        "infected": 98.82352941176471
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007855355004748332,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.007762939063515998
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.07855355004748332,
+        "recovered": 0.000924159412323333,
+        "infected": 0.07762939063515997
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7855355004748331,
+        "recovered": 0.00924159412323333,
+        "infected": 0.7762939063515998
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "58f49f5f993fa826ea323d1cb0bb14cc",
+    "day_index_1": 18,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 112,
+        "recovered": 1,
+        "infected": 111
+      },
+      "delta": {
+        "confirmed": 27,
+        "infected": 27
+      },
+      "delta_pct": {
+        "confirmed": 31.764705882352942,
+        "infected": 32.142857142857146
+      },
+      "peak_pct": {
+        "confirmed": 112.5,
+        "infected": 126.16822429906543
+      },
+      "relative": {
+        "recovered": 0.8928571428571428,
+        "infected": 99.10714285714286
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01035058541802133,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.010258169476788996
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1035058541802133,
+        "recovered": 0.000924159412323333,
+        "infected": 0.10258169476788996
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.035058541802133,
+        "recovered": 0.00924159412323333,
+        "infected": 1.0258169476788996
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "608dfad6c1664f929772df612cca66a7",
+    "day_index_1": 20,
+    "day_index_10": 7,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 127,
+        "recovered": 1,
+        "infected": 126
+      },
+      "delta": {
+        "confirmed": 15,
+        "infected": 15
+      },
+      "delta_pct": {
+        "confirmed": 13.392857142857142,
+        "infected": 13.513513513513514
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "infected": 70.09345794392524
+      },
+      "relative": {
+        "recovered": 0.7874015748031495,
+        "infected": 99.21259842519686
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01173682453650633,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.011644408595273997
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.11736824536506331,
+        "recovered": 0.000924159412323333,
+        "infected": 0.11644408595273997
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.173682453650633,
+        "recovered": 0.00924159412323333,
+        "infected": 1.1644408595273996
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "a97a3ff650f220489565006fad82d663",
+    "day_index_1": 21,
+    "day_index_10": 8,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 154,
+        "recovered": 1,
+        "infected": 153
+      },
+      "delta": {
+        "confirmed": 27,
+        "infected": 27
+      },
+      "delta_pct": {
+        "confirmed": 21.25984251968504,
+        "infected": 21.428571428571427
+      },
+      "peak_pct": {
+        "confirmed": 112.5,
+        "infected": 126.16822429906543
+      },
+      "relative": {
+        "recovered": 0.6493506493506493,
+        "infected": 99.35064935064936
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014232054949779329,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.014139639008546995
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1423205494977933,
+        "recovered": 0.000924159412323333,
+        "infected": 0.14139639008546995
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.423205494977933,
+        "recovered": 0.00924159412323333,
+        "infected": 1.4139639008546996
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "505f1975157860e6e0bff79e4aeda045",
+    "day_index_1": 22,
+    "day_index_10": 9,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 172,
+        "recovered": 1,
+        "infected": 171
+      },
+      "delta": {
+        "confirmed": 18,
+        "infected": 18
+      },
+      "delta_pct": {
+        "confirmed": 11.688311688311689,
+        "infected": 11.764705882352942
+      },
+      "peak_pct": {
+        "confirmed": 75,
+        "infected": 84.11214953271029
+      },
+      "relative": {
+        "recovered": 0.5813953488372093,
+        "infected": 99.4186046511628
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.015895541891961327,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.015803125950728997
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.15895541891961326,
+        "recovered": 0.000924159412323333,
+        "infected": 0.15803125950728997
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.5895541891961327,
+        "recovered": 0.00924159412323333,
+        "infected": 1.5803125950728996
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "d6c6efbc7e66941364950f0d6a082aec",
+    "day_index_1": 23,
+    "day_index_10": 10,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 212,
+        "recovered": 1,
+        "infected": 211
+      },
+      "delta": {
+        "confirmed": 40,
+        "infected": 40
+      },
+      "delta_pct": {
+        "confirmed": 23.25581395348837,
+        "infected": 23.391812865497077
+      },
+      "peak_pct": {
+        "confirmed": 166.66666666666669,
+        "infected": 186.9158878504673
+      },
+      "relative": {
+        "recovered": 0.4716981132075472,
+        "infected": 99.52830188679245
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01959217954125466,
+        "recovered": 9.24159412323333e-05,
+        "infected": 0.019499763600022327
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.19592179541254662,
+        "recovered": 0.000924159412323333,
+        "infected": 0.19499763600022327
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.959217954125466,
+        "recovered": 0.00924159412323333,
+        "infected": 1.9499763600022326
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "a3d9e62d56a15110f6768d007f111759",
+    "day_index_1": 24,
+    "day_index_10": 11,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 235,
+        "deaths": 1,
+        "recovered": 18,
+        "infected": 216
+      },
+      "delta": {
+        "confirmed": 23,
+        "recovered": 17,
+        "deaths": 1,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 10.849056603773585,
+        "recovered": 1700,
+        "infected": 2.3696682464454977
+      },
+      "peak_pct": {
+        "confirmed": 95.83333333333334,
+        "recovered": 114.86486486486487,
+        "deaths": 75,
+        "infected": 23.364485981308412
+      },
+      "relative": {
+        "deaths": 0.425531914893617,
+        "recovered": 7.659574468085106,
+        "infected": 91.91489361702128
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.021717746189598326,
+        "recovered": 0.0016634869421819996,
+        "deaths": 9.24159412323333e-05,
+        "infected": 0.019961843306183995
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.21717746189598325,
+        "recovered": 0.016634869421819996,
+        "deaths": 0.000924159412323333,
+        "infected": 0.19961843306183996
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.171774618959833,
+        "recovered": 0.16634869421819995,
+        "deaths": 0.00924159412323333,
+        "infected": 1.9961843306183995
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "4288e688557c49fa0e4a839053934e3c",
+    "day_index_1": 25,
+    "day_index_10": 12,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 246,
+        "deaths": 1,
+        "recovered": 18,
+        "infected": 227
+      },
+      "delta": {
+        "confirmed": 11,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 4.680851063829787,
+        "infected": 5.092592592592593
+      },
+      "peak_pct": {
+        "confirmed": 45.83333333333333,
+        "infected": 51.40186915887851
+      },
+      "relative": {
+        "deaths": 0.40650406504065045,
+        "recovered": 7.317073170731707,
+        "infected": 92.27642276422763
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.022734321543153992,
+        "recovered": 0.0016634869421819996,
+        "deaths": 9.24159412323333e-05,
+        "infected": 0.02097841865973966
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.22734321543153993,
+        "recovered": 0.016634869421819996,
+        "deaths": 0.000924159412323333,
+        "infected": 0.20978418659739662
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.2734321543153992,
+        "recovered": 0.16634869421819995,
+        "deaths": 0.00924159412323333,
+        "infected": 2.097841865973966
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "aa0b0dbba10c789ded33a47106882ac3",
+    "day_index_1": 26,
+    "day_index_10": 13,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 259,
+        "deaths": 3,
+        "recovered": 18,
+        "infected": 238
+      },
+      "delta": {
+        "confirmed": 13,
+        "deaths": 2,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 5.284552845528455,
+        "infected": 4.845814977973569,
+        "deaths": 200
+      },
+      "peak_pct": {
+        "confirmed": 54.166666666666664,
+        "deaths": 150,
+        "infected": 51.40186915887851
+      },
+      "relative": {
+        "deaths": 1.1583011583011582,
+        "recovered": 6.94980694980695,
+        "infected": 91.8918918918919
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.023935728779174326,
+        "recovered": 0.0016634869421819996,
+        "deaths": 0.00027724782369699993,
+        "infected": 0.021994994013295327
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.23935728779174326,
+        "recovered": 0.016634869421819996,
+        "deaths": 0.0027724782369699993,
+        "infected": 0.21994994013295327
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.393572877917433,
+        "recovered": 0.16634869421819995,
+        "deaths": 0.027724782369699993,
+        "infected": 2.1994994013295326
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "381abc8195be6866e6dbb96d1b9a1265",
+    "day_index_1": 27,
+    "day_index_10": 14,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 268,
+        "deaths": 5,
+        "recovered": 26,
+        "infected": 237
+      },
+      "delta": {
+        "confirmed": 9,
+        "recovered": 8,
+        "deaths": 2,
+        "infected": -1
+      },
+      "delta_pct": {
+        "confirmed": 3.474903474903475,
+        "recovered": 44.44444444444444,
+        "infected": -0.42016806722689076,
+        "deaths": 66.66666666666667
+      },
+      "peak_pct": {
+        "confirmed": 37.5,
+        "recovered": 54.05405405405405,
+        "deaths": 150,
+        "infected": -4.672897196261683
+      },
+      "relative": {
+        "deaths": 1.8656716417910446,
+        "recovered": 9.701492537313433,
+        "infected": 88.43283582089553
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.024767472250265325,
+        "recovered": 0.0024028144720406657,
+        "deaths": 0.00046207970616166653,
+        "infected": 0.021902578072062993
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.24767472250265324,
+        "recovered": 0.02402814472040666,
+        "deaths": 0.004620797061616665,
+        "infected": 0.21902578072062995
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.4767472250265326,
+        "recovered": 0.24028144720406658,
+        "deaths": 0.04620797061616665,
+        "infected": 2.1902578072062995
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "792a957bced267879e077a2dd304977e",
+    "day_index_1": 28,
+    "day_index_10": 15,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 274,
+        "deaths": 5,
+        "recovered": 30,
+        "infected": 239
+      },
+      "delta": {
+        "confirmed": 6,
+        "recovered": 4,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 2.2388059701492535,
+        "recovered": 15.384615384615385,
+        "infected": 0.8438818565400844
+      },
+      "peak_pct": {
+        "confirmed": 25,
+        "recovered": 27.027027027027025,
+        "infected": 9.345794392523366
+      },
+      "relative": {
+        "deaths": 1.824817518248175,
+        "recovered": 10.948905109489052,
+        "infected": 87.22627737226277
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.025321967897659326,
+        "recovered": 0.0027724782369699993,
+        "deaths": 0.00046207970616166653,
+        "infected": 0.02208740995452766
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.25321967897659325,
+        "recovered": 0.027724782369699993,
+        "deaths": 0.004620797061616665,
+        "infected": 0.2208740995452766
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.5321967897659325,
+        "recovered": 0.2772478236969999,
+        "deaths": 0.04620797061616665,
+        "infected": 2.208740995452766
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "b97eb35fa430662131025026b24120d5",
+    "day_index_1": 29,
+    "day_index_10": 16,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 278,
+        "deaths": 5,
+        "recovered": 36,
+        "infected": 237
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 6,
+        "infected": -2
+      },
+      "delta_pct": {
+        "confirmed": 1.4598540145985401,
+        "recovered": 20,
+        "infected": -0.8368200836820083
+      },
+      "peak_pct": {
+        "confirmed": 16.666666666666664,
+        "recovered": 40.54054054054054,
+        "infected": -9.345794392523366
+      },
+      "relative": {
+        "deaths": 1.7985611510791366,
+        "recovered": 12.949640287769784,
+        "infected": 85.25179856115108
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.025691631662588657,
+        "recovered": 0.003326973884363999,
+        "deaths": 0.00046207970616166653,
+        "infected": 0.021902578072062993
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.25691631662588654,
+        "recovered": 0.03326973884363999,
+        "deaths": 0.004620797061616665,
+        "infected": 0.21902578072062995
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.569163166258866,
+        "recovered": 0.3326973884363999,
+        "deaths": 0.04620797061616665,
+        "infected": 2.1902578072062995
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "8ba54ca6d07960e4c49b0f277368da87",
+    "day_index_1": 30,
+    "day_index_10": 17,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 299,
+        "deaths": 5,
+        "recovered": 45,
+        "infected": 249
+      },
+      "delta": {
+        "confirmed": 21,
+        "recovered": 9,
+        "infected": 12
+      },
+      "delta_pct": {
+        "confirmed": 7.553956834532374,
+        "recovered": 25,
+        "infected": 5.063291139240507
+      },
+      "peak_pct": {
+        "confirmed": 87.5,
+        "recovered": 60.810810810810814,
+        "infected": 56.07476635514019
+      },
+      "relative": {
+        "deaths": 1.6722408026755853,
+        "recovered": 15.050167224080269,
+        "infected": 83.27759197324414
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02763236642846766,
+        "recovered": 0.004158717355454999,
+        "deaths": 0.00046207970616166653,
+        "infected": 0.023011569366850993
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2763236642846766,
+        "recovered": 0.04158717355454999,
+        "deaths": 0.004620797061616665,
+        "infected": 0.23011569366850992
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.763236642846766,
+        "recovered": 0.4158717355454999,
+        "deaths": 0.04620797061616665,
+        "infected": 2.3011569366850995
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "e16ac838a5849f0d76bfe02b2ecfbf75",
+    "day_index_1": 31,
+    "day_index_10": 18,
+    "day_index_100": 12,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 310,
+        "deaths": 5,
+        "recovered": 58,
+        "infected": 247
+      },
+      "delta": {
+        "confirmed": 11,
+        "recovered": 13,
+        "infected": -2
+      },
+      "delta_pct": {
+        "confirmed": 3.678929765886288,
+        "recovered": 28.88888888888889,
+        "infected": -0.8032128514056225
+      },
+      "peak_pct": {
+        "confirmed": 45.83333333333333,
+        "recovered": 87.83783783783782,
+        "infected": -9.345794392523366
+      },
+      "relative": {
+        "deaths": 1.6129032258064515,
+        "recovered": 18.70967741935484,
+        "infected": 79.6774193548387
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.028648941782023325,
+        "recovered": 0.005360124591475331,
+        "deaths": 0.00046207970616166653,
+        "infected": 0.022826737484386326
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.28648941782023324,
+        "recovered": 0.053601245914753314,
+        "deaths": 0.004620797061616665,
+        "infected": 0.22826737484386325
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.8648941782023325,
+        "recovered": 0.5360124591475331,
+        "deaths": 0.04620797061616665,
+        "infected": 2.282673748438633
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "5633311fadad109dc4163fb30a2472f7",
+    "day_index_1": 32,
+    "day_index_10": 19,
+    "day_index_100": 13,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 323,
+        "deaths": 5,
+        "recovered": 74,
+        "infected": 244
+      },
+      "delta": {
+        "confirmed": 13,
+        "recovered": 16,
+        "infected": -3
+      },
+      "delta_pct": {
+        "confirmed": 4.193548387096774,
+        "recovered": 27.586206896551722,
+        "infected": -1.214574898785425
+      },
+      "peak_pct": {
+        "confirmed": 54.166666666666664,
+        "recovered": 108.1081081081081,
+        "infected": -14.018691588785048
+      },
+      "relative": {
+        "deaths": 1.5479876160990713,
+        "recovered": 22.910216718266255,
+        "infected": 75.54179566563467
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02985034901804366,
+        "recovered": 0.006838779651192665,
+        "deaths": 0.00046207970616166653,
+        "infected": 0.022549489660689325
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2985034901804366,
+        "recovered": 0.06838779651192664,
+        "deaths": 0.004620797061616665,
+        "infected": 0.22549489660689326
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.985034901804366,
+        "recovered": 0.6838779651192665,
+        "deaths": 0.04620797061616665,
+        "infected": 2.2549489660689326
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "cc3be417e97fcb679dbe74db69e43ec9",
+    "day_index_1": 33,
+    "day_index_10": 20,
+    "day_index_100": 14,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 345,
+        "deaths": 5,
+        "recovered": 110,
+        "infected": 230
+      },
+      "delta": {
+        "confirmed": 22,
+        "recovered": 36,
+        "infected": -14
+      },
+      "delta_pct": {
+        "confirmed": 6.811145510835913,
+        "recovered": 48.648648648648646,
+        "infected": -5.737704918032787
+      },
+      "peak_pct": {
+        "confirmed": 91.66666666666666,
+        "recovered": 243.24324324324326,
+        "infected": -65.42056074766356
+      },
+      "relative": {
+        "deaths": 1.4492753623188406,
+        "recovered": 31.88405797101449,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03188349972515499,
+        "recovered": 0.010165753535556663,
+        "deaths": 0.00046207970616166653,
+        "infected": 0.02125566648343666
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.31883499725154985,
+        "recovered": 0.10165753535556663,
+        "deaths": 0.004620797061616665,
+        "infected": 0.2125566648343666
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.188349972515499,
+        "recovered": 1.0165753535556663,
+        "deaths": 0.04620797061616665,
+        "infected": 2.1255666483436664
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "ac7d721a16db45a704f24c1dd5833520",
+    "day_index_1": 34,
+    "day_index_10": 21,
+    "day_index_100": 15,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 349,
+        "deaths": 6,
+        "recovered": 126,
+        "infected": 217
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 16,
+        "deaths": 1,
+        "infected": -13
+      },
+      "delta_pct": {
+        "confirmed": 1.1594202898550725,
+        "recovered": 14.545454545454545,
+        "infected": -5.6521739130434785,
+        "deaths": 20
+      },
+      "peak_pct": {
+        "confirmed": 16.666666666666664,
+        "recovered": 108.1081081081081,
+        "deaths": 75,
+        "infected": -60.74766355140188
+      },
+      "relative": {
+        "deaths": 1.7191977077363898,
+        "recovered": 36.10315186246418,
+        "infected": 62.17765042979943
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03225316349008432,
+        "recovered": 0.011644408595273997,
+        "deaths": 0.0005544956473939999,
+        "infected": 0.02005425924741633
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.32253163490084324,
+        "recovered": 0.11644408595273997,
+        "deaths": 0.0055449564739399985,
+        "infected": 0.20054259247416328
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.2253163490084322,
+        "recovered": 1.1644408595273996,
+        "deaths": 0.055449564739399985,
+        "infected": 2.005425924741633
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "cc4bb7e70f5a5f4652a5822a01492add",
+    "day_index_1": 35,
+    "day_index_10": 22,
+    "day_index_100": 16,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 353,
+        "deaths": 6,
+        "recovered": 138,
+        "infected": 209
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 12,
+        "infected": -8
+      },
+      "delta_pct": {
+        "confirmed": 1.146131805157593,
+        "recovered": 9.523809523809524,
+        "infected": -3.686635944700461
+      },
+      "peak_pct": {
+        "confirmed": 16.666666666666664,
+        "recovered": 81.08108108108108,
+        "infected": -37.383177570093466
+      },
+      "relative": {
+        "deaths": 1.69971671388102,
+        "recovered": 39.09348441926346,
+        "infected": 59.20679886685553
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.032622827255013656,
+        "recovered": 0.012753399890061997,
+        "deaths": 0.0005544956473939999,
+        "infected": 0.01931493171755766
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.32622827255013653,
+        "recovered": 0.12753399890061998,
+        "deaths": 0.0055449564739399985,
+        "infected": 0.1931493171755766
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.2622827255013656,
+        "recovered": 1.2753399890061996,
+        "deaths": 0.055449564739399985,
+        "infected": 1.931493171755766
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "21982754afcb5da742661367d8f4a34b",
+    "day_index_1": 36,
+    "day_index_10": 23,
+    "day_index_100": 17,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 8
+  }
+]

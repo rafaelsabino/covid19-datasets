@@ -1,0 +1,877 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "deaths": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "deaths": 1
+      },
+      "peak_pct": {
+        "confirmed": 26.31578947368421,
+        "deaths": 100
+      },
+      "relative": {
+        "deaths": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013329707652851759,
+        "deaths": 0.0013329707652851759
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.013329707652851758,
+        "deaths": 0.013329707652851758
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.13329707652851758,
+        "deaths": 0.13329707652851758
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "1143dc1db0b4ed7c2ecebe78ce5f9042",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "deaths": 1,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 300
+      },
+      "peak_pct": {
+        "confirmed": 78.94736842105263,
+        "infected": 83.33333333333333
+      },
+      "relative": {
+        "deaths": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0053318830611407035,
+        "deaths": 0.0013329707652851759,
+        "infected": 0.003998912295855528
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.053318830611407034,
+        "deaths": 0.013329707652851758,
+        "infected": 0.03998912295855528
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5331883061140703,
+        "deaths": 0.13329707652851758,
+        "infected": 0.3998912295855528
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "490498b2f580354ffb337d725a0bc9b6",
+    "day_index_1": 4,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "deaths": 1,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 26.31578947368421,
+        "infected": 27.77777777777778
+      },
+      "relative": {
+        "deaths": 20,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006664853826425879,
+        "deaths": 0.0013329707652851759,
+        "infected": 0.0053318830611407035
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06664853826425879,
+        "deaths": 0.013329707652851758,
+        "infected": 0.053318830611407034
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6664853826425879,
+        "deaths": 0.13329707652851758,
+        "infected": 0.5331883061140703
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "5f16146d02d606412c0d7839898cfdb7",
+    "day_index_1": 7,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 90
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "deaths": 1,
+        "infected": 7
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 60,
+        "infected": 75
+      },
+      "peak_pct": {
+        "confirmed": 78.94736842105263,
+        "infected": 83.33333333333333
+      },
+      "relative": {
+        "deaths": 12.5,
+        "infected": 87.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.010663766122281407,
+        "deaths": 0.0013329707652851759,
+        "infected": 0.00933079535699623
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.10663766122281407,
+        "deaths": 0.013329707652851758,
+        "infected": 0.0933079535699623
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.0663766122281406,
+        "deaths": 0.13329707652851758,
+        "infected": 0.9330795356996231
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "75da2ca171007c3ccf5a0cf896c99be6",
+    "day_index_1": 17,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 93
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 12,
+        "deaths": 2,
+        "infected": 10
+      },
+      "delta": {
+        "confirmed": 4,
+        "deaths": 1,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 42.857142857142854,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 105.26315789473684,
+        "deaths": 100,
+        "infected": 83.33333333333333
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01599564918342211,
+        "deaths": 0.0026659415305703518,
+        "infected": 0.013329707652851758
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.15995649183422112,
+        "deaths": 0.026659415305703517,
+        "infected": 0.13329707652851758
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.5995649183422112,
+        "deaths": 0.26659415305703515,
+        "infected": 1.3329707652851759
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "1c1bdd4cd13fee80f2946cd7ad2133e3",
+    "day_index_1": 20,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 94
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 19,
+        "deaths": 4,
+        "infected": 15
+      },
+      "delta": {
+        "confirmed": 7,
+        "deaths": 2,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 58.333333333333336,
+        "infected": 50,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 184.21052631578948,
+        "deaths": 200,
+        "infected": 138.88888888888889
+      },
+      "relative": {
+        "deaths": 21.052631578947366,
+        "infected": 78.94736842105263
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.025326444540418342,
+        "deaths": 0.0053318830611407035,
+        "infected": 0.01999456147927764
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2532644454041834,
+        "deaths": 0.053318830611407034,
+        "infected": 0.1999456147927764
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.5326444540418342,
+        "deaths": 0.5331883061140703,
+        "infected": 1.999456147927764
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "672b7e90a0a6be9303c5b919a431e968",
+    "day_index_1": 21,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 96
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 23,
+        "deaths": 4,
+        "infected": 19
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 21.05263157894737,
+        "infected": 26.666666666666668
+      },
+      "peak_pct": {
+        "confirmed": 105.26315789473684,
+        "infected": 111.11111111111111
+      },
+      "relative": {
+        "deaths": 17.391304347826086,
+        "infected": 82.6086956521739
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.030658327601559045,
+        "deaths": 0.0053318830611407035,
+        "infected": 0.025326444540418342
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.30658327601559043,
+        "deaths": 0.053318830611407034,
+        "infected": 0.2532644454041834
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.0658327601559043,
+        "deaths": 0.5331883061140703,
+        "infected": 2.5326444540418342
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "1aa77f41923186666b7239eac86db78d",
+    "day_index_1": 23,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 97
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 24,
+        "deaths": 4,
+        "infected": 20
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 4.3478260869565215,
+        "infected": 5.2631578947368425
+      },
+      "peak_pct": {
+        "confirmed": 26.31578947368421,
+        "infected": 27.77777777777778
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03199129836684422,
+        "deaths": 0.0053318830611407035,
+        "infected": 0.026659415305703517
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.31991298366844223,
+        "deaths": 0.053318830611407034,
+        "infected": 0.26659415305703515
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.1991298366844223,
+        "deaths": 0.5331883061140703,
+        "infected": 2.6659415305703518
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "3be38ee4a79298b8caf21f97cc62a696",
+    "day_index_1": 24,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 98
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 29,
+        "deaths": 4,
+        "infected": 25
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 20.833333333333332,
+        "infected": 25
+      },
+      "peak_pct": {
+        "confirmed": 131.57894736842107,
+        "infected": 138.88888888888889
+      },
+      "relative": {
+        "deaths": 13.793103448275861,
+        "infected": 86.20689655172413
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0386561521932701,
+        "deaths": 0.0053318830611407035,
+        "infected": 0.033324269132129394
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.386561521932701,
+        "deaths": 0.053318830611407034,
+        "infected": 0.3332426913212939
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.86561521932701,
+        "deaths": 0.5331883061140703,
+        "infected": 3.3324269132129394
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "b0152319ca0c509a8ffa9115793b8d11",
+    "day_index_1": 25,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 99
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 31,
+        "deaths": 5,
+        "infected": 26
+      },
+      "delta": {
+        "confirmed": 2,
+        "deaths": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 6.896551724137931,
+        "infected": 4,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 52.63157894736842,
+        "deaths": 100,
+        "infected": 27.77777777777778
+      },
+      "relative": {
+        "deaths": 16.129032258064516,
+        "infected": 83.87096774193549
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04132209372384045,
+        "deaths": 0.006664853826425879,
+        "infected": 0.03465723989741457
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4132209372384045,
+        "deaths": 0.06664853826425879,
+        "infected": 0.3465723989741457
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.132209372384045,
+        "deaths": 0.6664853826425879,
+        "infected": 3.4657239897414573
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "c03bdb939b024b9a89680830f0743c53",
+    "day_index_1": 26,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1c32ab160c1537aa6aa9e6d6a0a17b93",
+      "type": "total-country",
+      "label": "Guyana",
+      "country": "Guyana",
+      "country_code": "GY",
+      "country_latlong": [
+        5,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        5,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 100
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 33,
+        "deaths": 5,
+        "infected": 28
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 6.451612903225806,
+        "infected": 7.6923076923076925
+      },
+      "peak_pct": {
+        "confirmed": 52.63157894736842,
+        "infected": 55.55555555555556
+      },
+      "relative": {
+        "deaths": 15.151515151515152,
+        "infected": 84.84848484848484
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0439880352544108,
+        "deaths": 0.006664853826425879,
+        "infected": 0.03732318142798492
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.439880352544108,
+        "deaths": 0.06664853826425879,
+        "infected": 0.3732318142798492
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.39880352544108,
+        "deaths": 0.6664853826425879,
+        "infected": 3.7323181427984924
+      }
+    },
+    "factbook": {
+      "population": 750204,
+      "median_age": 27.5,
+      "death_rate": 7.5,
+      "area": 214969
+    },
+    "data_key": "1d9552caae4ea78eb2803e647db32372",
+    "day_index_1": 27,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 11
+  }
+]

@@ -1,0 +1,701 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 26.31578947368421,
+        "infected": 26.31578947368421
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0004482479779533715,
+        "infected": 0.0004482479779533715
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004482479779533715,
+        "infected": 0.004482479779533715
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04482479779533715,
+        "infected": 0.04482479779533715
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "5e738b38e40459fdae69eba46fed6d0d",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 200,
+        "infected": 200
+      },
+      "peak_pct": {
+        "confirmed": 52.63157894736842,
+        "infected": 52.63157894736842
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013447439338601145,
+        "infected": 0.0013447439338601145
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.013447439338601146,
+        "infected": 0.013447439338601146
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.13447439338601144,
+        "infected": 0.13447439338601144
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "1bdec290a58ea193ce7117d44a95ac1d",
+    "day_index_1": 7,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "deaths": 1,
+        "infected": 2
+      },
+      "delta": {
+        "deaths": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -33.333333333333336
+      },
+      "peak_pct": {
+        "infected": -26.31578947368421
+      },
+      "relative": {
+        "deaths": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013447439338601145,
+        "deaths": 0.0004482479779533715,
+        "infected": 0.000896495955906743
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.013447439338601146,
+        "deaths": 0.004482479779533715,
+        "infected": 0.00896495955906743
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.13447439338601144,
+        "deaths": 0.04482479779533715,
+        "infected": 0.0896495955906743
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "34a18f84cc58aed9cbd50e034200650b",
+    "day_index_1": 9,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 84
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 1,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 100,
+        "infected": 150
+      },
+      "peak_pct": {
+        "confirmed": 78.94736842105263,
+        "infected": 78.94736842105263
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002689487867720229,
+        "deaths": 0.0004482479779533715,
+        "infected": 0.0022412398897668573
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.02689487867720229,
+        "deaths": 0.004482479779533715,
+        "infected": 0.02241239889766857
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2689487867720229,
+        "deaths": 0.04482479779533715,
+        "infected": 0.22412398897668573
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "8c6caf6bbb7f412d12906086d77620c7",
+    "day_index_1": 11,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 88
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "deaths": 1,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 16.666666666666668,
+        "infected": 20
+      },
+      "peak_pct": {
+        "confirmed": 26.31578947368421,
+        "infected": 26.31578947368421
+      },
+      "relative": {
+        "deaths": 14.285714285714285,
+        "infected": 85.71428571428571
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0031377358456736,
+        "deaths": 0.0004482479779533715,
+        "infected": 0.002689487867720229
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.031377358456736004,
+        "deaths": 0.004482479779533715,
+        "infected": 0.02689487867720229
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.31377358456736004,
+        "deaths": 0.04482479779533715,
+        "infected": 0.2689487867720229
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "50cf21cd7a247a3e48f1808ca972d784",
+    "day_index_1": 15,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 93
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16,
+        "deaths": 1,
+        "infected": 15
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 128.57142857142858,
+        "infected": 150
+      },
+      "peak_pct": {
+        "confirmed": 236.84210526315792,
+        "infected": 236.84210526315792
+      },
+      "relative": {
+        "deaths": 6.25,
+        "infected": 93.75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007171967647253944,
+        "deaths": 0.0004482479779533715,
+        "infected": 0.006723719669300572
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.07171967647253943,
+        "deaths": 0.004482479779533715,
+        "infected": 0.06723719669300572
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7171967647253944,
+        "deaths": 0.04482479779533715,
+        "infected": 0.6723719669300572
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "81f8f2a74ce517ca71eec9d6019d7fea",
+    "day_index_1": 20,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 94
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 18,
+        "deaths": 1,
+        "infected": 17
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 12.5,
+        "infected": 13.333333333333334
+      },
+      "peak_pct": {
+        "confirmed": 52.63157894736842,
+        "infected": 52.63157894736842
+      },
+      "relative": {
+        "deaths": 5.555555555555555,
+        "infected": 94.44444444444444
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.008068463603160686,
+        "deaths": 0.0004482479779533715,
+        "infected": 0.007620215625207315
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.08068463603160686,
+        "deaths": 0.004482479779533715,
+        "infected": 0.07620215625207315
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8068463603160686,
+        "deaths": 0.04482479779533715,
+        "infected": 0.7620215625207315
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "d85fdc9ef5ba35a2e01bc3878307cd2e",
+    "day_index_1": 21,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 96
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 21,
+        "deaths": 1,
+        "infected": 20
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 16.666666666666668,
+        "infected": 17.647058823529413
+      },
+      "peak_pct": {
+        "confirmed": 78.94736842105263,
+        "infected": 78.94736842105263
+      },
+      "relative": {
+        "deaths": 4.761904761904762,
+        "infected": 95.23809523809523
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009413207537020801,
+        "deaths": 0.0004482479779533715,
+        "infected": 0.00896495955906743
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09413207537020801,
+        "deaths": 0.004482479779533715,
+        "infected": 0.08964959559067429
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9413207537020801,
+        "deaths": 0.04482479779533715,
+        "infected": 0.8964959559067429
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "18563cb2209b238282d287ea96c0eb37",
+    "day_index_1": 23,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a86ca43a4bdfdee3269dbc368933ea8a",
+      "type": "total-country",
+      "label": "Gabon",
+      "country": "Gabon",
+      "country_code": "GA",
+      "country_latlong": [
+        -1,
+        11.75
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        -1,
+        11.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 100
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 30,
+        "deaths": 1,
+        "infected": 29
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 42.857142857142854,
+        "infected": 45
+      },
+      "peak_pct": {
+        "confirmed": 236.84210526315792,
+        "infected": 236.84210526315792
+      },
+      "relative": {
+        "deaths": 3.3333333333333335,
+        "infected": 96.66666666666667
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.013447439338601144,
+        "deaths": 0.0004482479779533715,
+        "infected": 0.012999191360647772
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.13447439338601144,
+        "deaths": 0.004482479779533715,
+        "infected": 0.12999191360647772
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.3447439338601144,
+        "deaths": 0.04482479779533715,
+        "infected": 1.2999191360647773
+      }
+    },
+    "factbook": {
+      "population": 2230908,
+      "median_age": 21,
+      "death_rate": 5.9,
+      "area": 267667
+    },
+    "data_key": "2707ec094fd529d1cb8bd6566401c139",
+    "day_index_1": 27,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
+  }
+]

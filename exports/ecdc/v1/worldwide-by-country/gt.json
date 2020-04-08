@@ -1,0 +1,1827 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 14.285714285714285,
+        "infected": 14.705882352941178
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 5.829786102815973e-05,
+        "infected": 5.829786102815973e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0005829786102815972,
+        "infected": 0.0005829786102815972
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.005829786102815973,
+        "infected": 0.005829786102815973
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "cf25adff127e539e69c161b7aca14cc7",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "deaths": 1
+      },
+      "delta": {
+        "deaths": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -100
+      },
+      "peak_pct": {
+        "deaths": 100,
+        "infected": -14.705882352941178
+      },
+      "relative": {
+        "deaths": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 5.829786102815973e-05,
+        "deaths": 5.829786102815973e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0005829786102815972,
+        "deaths": 0.0005829786102815972
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.005829786102815973,
+        "deaths": 0.005829786102815973
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "eea512fe135151b05d605670e1f83850",
+    "day_index_1": 2,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 1,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 500
+      },
+      "peak_pct": {
+        "confirmed": 71.42857142857143,
+        "infected": 73.52941176470588
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00034978716616895837,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.00029148930514079867
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.003497871661689584,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.002914893051407987
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.03497871661689584,
+        "deaths": 0.005829786102815973,
+        "infected": 0.029148930514079865
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "9aff1746aa1516aa48bc798468e0dea3",
+    "day_index_1": 3,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "deaths": 1,
+        "infected": 7
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 40
+      },
+      "peak_pct": {
+        "confirmed": 28.57142857142857,
+        "infected": 29.411764705882355
+      },
+      "relative": {
+        "deaths": 12.5,
+        "infected": 87.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00046638288822527783,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0004080850271971181
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004663828882252778,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.004080850271971181
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04663828882252778,
+        "deaths": 0.005829786102815973,
+        "infected": 0.040808502719711814
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "1e48c4f77d3aa7158987a36215af3c6a",
+    "day_index_1": 5,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9,
+        "deaths": 1,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 12.5,
+        "infected": 14.285714285714286
+      },
+      "peak_pct": {
+        "confirmed": 14.285714285714285,
+        "infected": 14.705882352941178
+      },
+      "relative": {
+        "deaths": 11.11111111111111,
+        "infected": 88.88888888888889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0005246807492534375,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.00046638288822527783
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.005246807492534375,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.004663828882252778
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.05246807492534375,
+        "deaths": 0.005829786102815973,
+        "infected": 0.04663828882252778
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "9d5bf7fb167ee7a8cbb86bf947e7ecac",
+    "day_index_1": 6,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13,
+        "deaths": 1,
+        "infected": 12
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 44.44444444444444,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 57.14285714285714,
+        "infected": 58.82352941176471
+      },
+      "relative": {
+        "deaths": 7.6923076923076925,
+        "infected": 92.3076923076923
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0007578721933660766,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0006995743323379167
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007578721933660765,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.006995743323379168
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07578721933660766,
+        "deaths": 0.005829786102815973,
+        "infected": 0.06995743323379168
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "7b4058c273061827243fecd2e11b4c15",
+    "day_index_1": 7,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 83
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 17,
+        "deaths": 1,
+        "infected": 16
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 30.76923076923077,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 57.14285714285714,
+        "infected": 58.82352941176471
+      },
+      "relative": {
+        "deaths": 5.88235294117647,
+        "infected": 94.11764705882352
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0009910636374787154,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0009327657764505557
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.009910636374787153,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.009327657764505556
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.09910636374787153,
+        "deaths": 0.005829786102815973,
+        "infected": 0.09327657764505556
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "dd1749e7b588743fae46c74fda7a87e3",
+    "day_index_1": 8,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 84
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 19,
+        "deaths": 1,
+        "infected": 18
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 11.764705882352942,
+        "infected": 12.5
+      },
+      "peak_pct": {
+        "confirmed": 28.57142857142857,
+        "infected": 29.411764705882355
+      },
+      "relative": {
+        "deaths": 5.263157894736842,
+        "infected": 94.73684210526315
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001107659359535035,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.001049361498506875
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01107659359535035,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.01049361498506875
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1107659359535035,
+        "deaths": 0.005829786102815973,
+        "infected": 0.1049361498506875
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "e6cda8b36e985d60a6e1e605080c2a43",
+    "day_index_1": 9,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 85
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 20,
+        "deaths": 1,
+        "infected": 19
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 5.2631578947368425,
+        "infected": 5.555555555555555
+      },
+      "peak_pct": {
+        "confirmed": 14.285714285714285,
+        "infected": 14.705882352941178
+      },
+      "relative": {
+        "deaths": 5,
+        "infected": 95
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0011659572205631947,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.001107659359535035
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.011659572205631947,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.01107659359535035
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.11659572205631946,
+        "deaths": 0.005829786102815973,
+        "infected": 0.1107659359535035
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "18a66490b25fd3958f35da1c4d3217f5",
+    "day_index_1": 10,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 86
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 21,
+        "deaths": 1,
+        "infected": 20
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 5,
+        "infected": 5.2631578947368425
+      },
+      "peak_pct": {
+        "confirmed": 14.285714285714285,
+        "infected": 14.705882352941178
+      },
+      "relative": {
+        "deaths": 4.761904761904762,
+        "infected": 95.23809523809523
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0012242550815913544,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0011659572205631947
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.012242550815913543,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.011659572205631947
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.12242550815913544,
+        "deaths": 0.005829786102815973,
+        "infected": 0.11659572205631946
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "659cf8172a8309602752e6d6d2ae8d55",
+    "day_index_1": 11,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 87
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 24,
+        "deaths": 1,
+        "infected": 23
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 14.285714285714286,
+        "infected": 15
+      },
+      "peak_pct": {
+        "confirmed": 42.857142857142854,
+        "infected": 44.11764705882353
+      },
+      "relative": {
+        "deaths": 4.166666666666666,
+        "infected": 95.83333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013991486646758335,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0013408508036476738
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.013991486646758335,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.013408508036476738
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.13991486646758336,
+        "deaths": 0.005829786102815973,
+        "infected": 0.13408508036476738
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "070db06b8fcde3a3023d687ab1191452",
+    "day_index_1": 12,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 88
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 25,
+        "deaths": 1,
+        "infected": 24
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 4.166666666666667,
+        "infected": 4.3478260869565215
+      },
+      "peak_pct": {
+        "confirmed": 14.285714285714285,
+        "infected": 14.705882352941178
+      },
+      "relative": {
+        "deaths": 4,
+        "infected": 96
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0014574465257039932,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0013991486646758335
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.014574465257039933,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.013991486646758335
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1457446525703993,
+        "deaths": 0.005829786102815973,
+        "infected": 0.13991486646758336
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "7353cbc1c000eb258fd78605a6a17e21",
+    "day_index_1": 13,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 89
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 32,
+        "deaths": 1,
+        "infected": 31
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 28,
+        "infected": 29.166666666666668
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 102.94117647058825
+      },
+      "relative": {
+        "deaths": 3.125,
+        "infected": 96.875
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0018655315529011113,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0018072336918729516
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01865531552901111,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.018072336918729517
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.18655315529011113,
+        "deaths": 0.005829786102815973,
+        "infected": 0.18072336918729517
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "30f745da478f8903d61587b0b8e6e4ef",
+    "day_index_1": 14,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 90
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 34,
+        "deaths": 1,
+        "infected": 33
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 6.25,
+        "infected": 6.451612903225806
+      },
+      "peak_pct": {
+        "confirmed": 28.57142857142857,
+        "infected": 29.411764705882355
+      },
+      "relative": {
+        "deaths": 2.941176470588235,
+        "infected": 97.05882352941177
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0019821272749574307,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.001923829413929271
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.019821272749574306,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.01923829413929271
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19821272749574306,
+        "deaths": 0.005829786102815973,
+        "infected": 0.1923829413929271
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "e40d02a04d40bb9353cb183f813b2a16",
+    "day_index_1": 15,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 91
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 36,
+        "deaths": 1,
+        "infected": 35
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 5.882352941176471,
+        "infected": 6.0606060606060606
+      },
+      "peak_pct": {
+        "confirmed": 28.57142857142857,
+        "infected": 29.411764705882355
+      },
+      "relative": {
+        "deaths": 2.7777777777777777,
+        "infected": 97.22222222222221
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00209872299701375,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0020404251359855906
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0209872299701375,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.020404251359855907
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.209872299701375,
+        "deaths": 0.005829786102815973,
+        "infected": 0.20404251359855907
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "6aac950bf4952b24110bd5b0da04d860",
+    "day_index_1": 16,
+    "day_index_10": 10,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 93
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 38,
+        "deaths": 1,
+        "infected": 37
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 5.555555555555555,
+        "infected": 5.714285714285714
+      },
+      "peak_pct": {
+        "confirmed": 28.57142857142857,
+        "infected": 29.411764705882355
+      },
+      "relative": {
+        "deaths": 2.631578947368421,
+        "infected": 97.36842105263158
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00221531871907007,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.00215702085804191
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0221531871907007,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.021570208580419102
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.221531871907007,
+        "deaths": 0.005829786102815973,
+        "infected": 0.215702085804191
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "afba4dcbb8e9d90618024c4981a309aa",
+    "day_index_1": 18,
+    "day_index_10": 12,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 94
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 46,
+        "deaths": 1,
+        "infected": 45
+      },
+      "delta": {
+        "confirmed": 8,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 21.05263157894737,
+        "infected": 21.62162162162162
+      },
+      "peak_pct": {
+        "confirmed": 114.28571428571428,
+        "infected": 117.64705882352942
+      },
+      "relative": {
+        "deaths": 2.1739130434782608,
+        "infected": 97.82608695652173
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0026817016072953476,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.002623403746267188
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.026817016072953476,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.02623403746267188
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.26817016072953476,
+        "deaths": 0.005829786102815973,
+        "infected": 0.26234037462671883
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "164b0845eab7203e76a2909f6affa984",
+    "day_index_1": 19,
+    "day_index_10": 13,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 95
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 47,
+        "deaths": 1,
+        "infected": 46
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.1739130434782608,
+        "infected": 2.2222222222222223
+      },
+      "peak_pct": {
+        "confirmed": 14.285714285714285,
+        "infected": 14.705882352941178
+      },
+      "relative": {
+        "deaths": 2.127659574468085,
+        "infected": 97.87234042553192
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0027399994683235075,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.0026817016072953476
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.027399994683235077,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.026817016072953476
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.27399994683235074,
+        "deaths": 0.005829786102815973,
+        "infected": 0.26817016072953476
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "0827333515b7256ecef3d324618672e8",
+    "day_index_1": 20,
+    "day_index_10": 14,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 96
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 50,
+        "deaths": 1,
+        "infected": 49
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 6.382978723404255,
+        "infected": 6.521739130434782
+      },
+      "peak_pct": {
+        "confirmed": 42.857142857142854,
+        "infected": 44.11764705882353
+      },
+      "relative": {
+        "deaths": 2,
+        "infected": 98
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0029148930514079864,
+        "deaths": 5.829786102815973e-05,
+        "infected": 0.002856595190379827
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.029148930514079865,
+        "deaths": 0.0005829786102815972,
+        "infected": 0.028565951903798268
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2914893051407986,
+        "deaths": 0.005829786102815973,
+        "infected": 0.2856595190379827
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "c256b8140566242d10f378f3d7dd0adf",
+    "day_index_1": 21,
+    "day_index_10": 15,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 97
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 61,
+        "deaths": 2,
+        "infected": 59
+      },
+      "delta": {
+        "confirmed": 11,
+        "deaths": 1,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 22,
+        "infected": 20.408163265306122,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 157.14285714285714,
+        "deaths": 100,
+        "infected": 147.05882352941177
+      },
+      "relative": {
+        "deaths": 3.278688524590164,
+        "infected": 96.72131147540983
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0035561695227177437,
+        "deaths": 0.00011659572205631946,
+        "infected": 0.003439573800661424
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.035561695227177434,
+        "deaths": 0.0011659572205631945,
+        "infected": 0.03439573800661424
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.35561695227177437,
+        "deaths": 0.011659572205631945,
+        "infected": 0.3439573800661424
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "50f57c62ebdc70512a7169aceb40c4ce",
+    "day_index_1": 22,
+    "day_index_10": 16,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 98
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 70,
+        "deaths": 3,
+        "infected": 67
+      },
+      "delta": {
+        "confirmed": 9,
+        "deaths": 1,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 14.754098360655737,
+        "infected": 13.559322033898304,
+        "deaths": 50
+      },
+      "peak_pct": {
+        "confirmed": 128.57142857142858,
+        "deaths": 100,
+        "infected": 117.64705882352942
+      },
+      "relative": {
+        "deaths": 4.285714285714286,
+        "infected": 95.71428571428572
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004080850271971181,
+        "deaths": 0.00017489358308447919,
+        "infected": 0.003905956688886702
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.040808502719711814,
+        "deaths": 0.001748935830844792,
+        "infected": 0.03905956688886702
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.40808502719711814,
+        "deaths": 0.01748935830844792,
+        "infected": 0.3905956688886702
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "8a3811666ca961b1171fffe350aff799",
+    "day_index_1": 23,
+    "day_index_10": 17,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 99
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 74,
+        "deaths": 3,
+        "infected": 71
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 5.714285714285714,
+        "infected": 5.970149253731344
+      },
+      "peak_pct": {
+        "confirmed": 57.14285714285714,
+        "infected": 58.82352941176471
+      },
+      "relative": {
+        "deaths": 4.054054054054054,
+        "infected": 95.94594594594594
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00431404171608382,
+        "deaths": 0.00017489358308447919,
+        "infected": 0.004139148132999341
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.043140417160838204,
+        "deaths": 0.001748935830844792,
+        "infected": 0.041391481329993415
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.431404171608382,
+        "deaths": 0.01748935830844792,
+        "infected": 0.4139148132999341
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "399d221f2e22b7a0388f467e9f4176b7",
+    "day_index_1": 24,
+    "day_index_10": 18,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "61b90d07e9574a120028464174122c91",
+      "type": "total-country",
+      "label": "Guatemala",
+      "country": "Guatemala",
+      "country_code": "GT",
+      "country_latlong": [
+        15.5,
+        -90.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15.5,
+        -90.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 100
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 80,
+        "deaths": 3,
+        "infected": 77
+      },
+      "delta": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 8.108108108108109,
+        "infected": 8.450704225352112
+      },
+      "peak_pct": {
+        "confirmed": 85.71428571428571,
+        "infected": 88.23529411764706
+      },
+      "relative": {
+        "deaths": 3.75,
+        "infected": 96.25
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004663828882252779,
+        "deaths": 0.00017489358308447919,
+        "infected": 0.004488935299168299
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.04663828882252779,
+        "deaths": 0.001748935830844792,
+        "infected": 0.04488935299168299
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.46638288822527785,
+        "deaths": 0.01748935830844792,
+        "infected": 0.4488935299168299
+      }
+    },
+    "factbook": {
+      "population": 17153288,
+      "median_age": 23.2,
+      "death_rate": 4.9,
+      "area": 108889
+    },
+    "data_key": "158ee9b6cdcfaf31c7314da98afe687f",
+    "day_index_1": 25,
+    "day_index_10": 19,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 13,
+    "day_index_peak": 11
+  }
+]

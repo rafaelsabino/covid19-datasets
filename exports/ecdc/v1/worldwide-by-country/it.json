@@ -1,0 +1,4074 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 31,
+      "date": "2020-01-31",
+      "timestamp": 1580428800,
+      "index": 32
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "peak_pct": {
+        "confirmed": 0.05062095032397409,
+        "infected": 0.05804953560371517
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.8074874501741984e-05,
+        "infected": 4.8074874501741984e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00048074874501741985,
+        "infected": 0.00048074874501741985
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.004807487450174198,
+        "infected": 0.004807487450174198
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "cf4fac9a97f9ad12c68d8d938b2a8691",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -54,
+    "day_index_peak_deaths": -58,
+    "day_index_peak": -56
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 22,
+      "date": "2020-02-22",
+      "timestamp": 1582329600,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta": {
+        "confirmed": 14,
+        "infected": 14
+      },
+      "delta_pct": {
+        "confirmed": 466.6666666666667,
+        "infected": 466.6666666666667
+      },
+      "peak_pct": {
+        "confirmed": 0.23623110151187904,
+        "infected": 0.2708978328173375
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00027242428884320457,
+        "infected": 0.00027242428884320457
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.002724242888432046,
+        "infected": 0.002724242888432046
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.027242428884320456,
+        "infected": 0.027242428884320456
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "b43c9749a9a76a1337047db4c336360c",
+    "day_index_1": 23,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -32,
+    "day_index_peak_deaths": -36,
+    "day_index_peak": -34
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 23,
+      "date": "2020-02-23",
+      "timestamp": 1582416000,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 79,
+        "deaths": 2,
+        "infected": 77
+      },
+      "delta": {
+        "confirmed": 62,
+        "deaths": 2,
+        "infected": 60
+      },
+      "delta_pct": {
+        "confirmed": 364.70588235294116,
+        "infected": 352.94117647058823
+      },
+      "peak_pct": {
+        "confirmed": 1.0461663066954645,
+        "deaths": 0.2442002442002442,
+        "infected": 1.1609907120743035
+      },
+      "relative": {
+        "deaths": 2.5316455696202533,
+        "infected": 97.46835443037975
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0012659716952125389,
+        "deaths": 3.2049916334494656e-05,
+        "infected": 0.0012339217788780443
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.012659716952125389,
+        "deaths": 0.00032049916334494653,
+        "infected": 0.012339217788780443
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.12659716952125388,
+        "deaths": 0.0032049916334494655,
+        "infected": 0.12339217788780443
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "9d42009d3a8cc6d8d1edd6b5081d18a6",
+    "day_index_1": 24,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -31,
+    "day_index_peak_deaths": -35,
+    "day_index_peak": -33
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 24,
+      "date": "2020-02-24",
+      "timestamp": 1582502400,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 132,
+        "deaths": 2,
+        "infected": 130
+      },
+      "delta": {
+        "confirmed": 53,
+        "infected": 53
+      },
+      "delta_pct": {
+        "confirmed": 67.0886075949367,
+        "infected": 68.83116883116882
+      },
+      "peak_pct": {
+        "confirmed": 0.8943034557235422,
+        "infected": 1.0255417956656347
+      },
+      "relative": {
+        "deaths": 1.5151515151515151,
+        "infected": 98.48484848484848
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0021152944780766475,
+        "deaths": 3.2049916334494656e-05,
+        "infected": 0.0020832445617421525
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.021152944780766476,
+        "deaths": 0.00032049916334494653,
+        "infected": 0.020832445617421525
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.21152944780766475,
+        "deaths": 0.0032049916334494655,
+        "infected": 0.20832445617421524
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "23104c59d70ec449fc223b084c110e83",
+    "day_index_1": 25,
+    "day_index_10": 3,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -30,
+    "day_index_peak_deaths": -34,
+    "day_index_peak": -32
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 25,
+      "date": "2020-02-25",
+      "timestamp": 1582588800,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 229,
+        "deaths": 6,
+        "infected": 223
+      },
+      "delta": {
+        "confirmed": 97,
+        "deaths": 4,
+        "infected": 93
+      },
+      "delta_pct": {
+        "confirmed": 73.48484848484848,
+        "infected": 71.53846153846153,
+        "deaths": 200
+      },
+      "peak_pct": {
+        "confirmed": 1.636744060475162,
+        "deaths": 0.4884004884004884,
+        "infected": 1.7995356037151702
+      },
+      "relative": {
+        "deaths": 2.6200873362445414,
+        "infected": 97.37991266375546
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.003669715420299638,
+        "deaths": 9.614974900348397e-05,
+        "infected": 0.0035735656712961544
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03669715420299638,
+        "deaths": 0.0009614974900348397,
+        "infected": 0.03573565671296154
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3669715420299638,
+        "deaths": 0.009614974900348397,
+        "infected": 0.35735656712961544
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "0e4b258d159ec7af18cb29bca009ddf6",
+    "day_index_1": 26,
+    "day_index_10": 4,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -29,
+    "day_index_peak_deaths": -33,
+    "day_index_peak": -31
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 26,
+      "date": "2020-02-26",
+      "timestamp": 1582675200,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 322,
+        "deaths": 11,
+        "infected": 311
+      },
+      "delta": {
+        "confirmed": 93,
+        "deaths": 5,
+        "infected": 88
+      },
+      "delta_pct": {
+        "confirmed": 40.61135371179039,
+        "infected": 39.46188340807175,
+        "deaths": 83.33333333333333
+      },
+      "peak_pct": {
+        "confirmed": 1.5692494600431965,
+        "deaths": 0.6105006105006106,
+        "infected": 1.7027863777089782
+      },
+      "relative": {
+        "deaths": 3.4161490683229814,
+        "infected": 96.58385093167702
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00516003652985364,
+        "deaths": 0.00017627453983972061,
+        "infected": 0.0049837619900139195
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0516003652985364,
+        "deaths": 0.001762745398397206,
+        "infected": 0.0498376199001392
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.516003652985364,
+        "deaths": 0.01762745398397206,
+        "infected": 0.49837619900139196
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "51d6be1d1c91c69c1e2c93eb132d6fd0",
+    "day_index_1": 27,
+    "day_index_10": 5,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -28,
+    "day_index_peak_deaths": -32,
+    "day_index_peak": -30
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 27,
+      "date": "2020-02-27",
+      "timestamp": 1582761600,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 400,
+        "deaths": 12,
+        "infected": 388
+      },
+      "delta": {
+        "confirmed": 78,
+        "deaths": 1,
+        "infected": 77
+      },
+      "delta_pct": {
+        "confirmed": 24.22360248447205,
+        "infected": 24.758842443729904,
+        "deaths": 9.090909090909092
+      },
+      "peak_pct": {
+        "confirmed": 1.3161447084233262,
+        "deaths": 0.1221001221001221,
+        "infected": 1.4899380804953561
+      },
+      "relative": {
+        "deaths": 3,
+        "infected": 97
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006409983266898931,
+        "deaths": 0.00019229949800696794,
+        "infected": 0.006217683768891963
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0640998326689893,
+        "deaths": 0.0019229949800696794,
+        "infected": 0.06217683768891963
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6409983266898931,
+        "deaths": 0.019229949800696793,
+        "infected": 0.6217683768891963
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "7cb578aea0d0ada871e53246dac4b5d0",
+    "day_index_1": 28,
+    "day_index_10": 6,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -27,
+    "day_index_peak_deaths": -31,
+    "day_index_peak": -29
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 28,
+      "date": "2020-02-28",
+      "timestamp": 1582848000,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 650,
+        "deaths": 17,
+        "infected": 633
+      },
+      "delta": {
+        "confirmed": 250,
+        "deaths": 5,
+        "infected": 245
+      },
+      "delta_pct": {
+        "confirmed": 62.5,
+        "infected": 63.144329896907216,
+        "deaths": 41.666666666666664
+      },
+      "peak_pct": {
+        "confirmed": 4.218412526997841,
+        "deaths": 0.6105006105006106,
+        "infected": 4.7407120743034055
+      },
+      "relative": {
+        "deaths": 2.6153846153846154,
+        "infected": 97.38461538461539
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.010416222808710764,
+        "deaths": 0.00027242428884320457,
+        "infected": 0.01014379851986756
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.10416222808710765,
+        "deaths": 0.002724242888432046,
+        "infected": 0.1014379851986756
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.0416222808710764,
+        "deaths": 0.027242428884320456,
+        "infected": 1.014379851986756
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "134e62f3a8a574a1c0ccdc5ec300c6dd",
+    "day_index_1": 29,
+    "day_index_10": 7,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -26,
+    "day_index_peak_deaths": -30,
+    "day_index_peak": -28
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 29,
+      "date": "2020-02-29",
+      "timestamp": 1582934400,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 888,
+        "deaths": 21,
+        "infected": 867
+      },
+      "delta": {
+        "confirmed": 238,
+        "deaths": 4,
+        "infected": 234
+      },
+      "delta_pct": {
+        "confirmed": 36.61538461538461,
+        "infected": 36.96682464454976,
+        "deaths": 23.529411764705884
+      },
+      "peak_pct": {
+        "confirmed": 4.0159287257019445,
+        "deaths": 0.4884004884004884,
+        "infected": 4.527863777089784
+      },
+      "relative": {
+        "deaths": 2.364864864864865,
+        "infected": 97.63513513513513
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014230162852515627,
+        "deaths": 0.0003365241215121939,
+        "infected": 0.013893638731003433
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.14230162852515627,
+        "deaths": 0.003365241215121939,
+        "infected": 0.13893638731003433
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.4230162852515627,
+        "deaths": 0.03365241215121939,
+        "infected": 1.3893638731003433
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "3681bb105a09ea8ef40d7565fa3d5e1a",
+    "day_index_1": 30,
+    "day_index_10": 8,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -29,
+    "day_index_peak": -27
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "date": "2020-03-01",
+      "timestamp": 1583020800,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1128,
+        "deaths": 29,
+        "infected": 1099
+      },
+      "delta": {
+        "confirmed": 240,
+        "deaths": 8,
+        "infected": 232
+      },
+      "delta_pct": {
+        "confirmed": 27.027027027027028,
+        "infected": 26.758938869665513,
+        "deaths": 38.095238095238095
+      },
+      "peak_pct": {
+        "confirmed": 4.049676025917927,
+        "deaths": 0.9768009768009768,
+        "infected": 4.489164086687306
+      },
+      "relative": {
+        "deaths": 2.5709219858156027,
+        "infected": 97.4290780141844
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.018076152812654987,
+        "deaths": 0.00046472378685017253,
+        "infected": 0.017611429025804815
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.18076152812654986,
+        "deaths": 0.004647237868501726,
+        "infected": 0.17611429025804815
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.8076152812654986,
+        "deaths": 0.04647237868501725,
+        "infected": 1.7611429025804815
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "f46a6ba9c0a9d18bd27ac6460a01ff27",
+    "day_index_1": 31,
+    "day_index_10": 9,
+    "day_index_100": 7,
+    "day_index_1k": 1,
+    "day_index_peak_confirmed": -24,
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -26
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "date": "2020-03-02",
+      "timestamp": 1583107200,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1689,
+        "deaths": 35,
+        "infected": 1654
+      },
+      "delta": {
+        "confirmed": 561,
+        "deaths": 6,
+        "infected": 555
+      },
+      "delta_pct": {
+        "confirmed": 49.734042553191486,
+        "infected": 50.500454959053684,
+        "deaths": 20.689655172413794
+      },
+      "peak_pct": {
+        "confirmed": 9.466117710583154,
+        "deaths": 0.7326007326007326,
+        "infected": 10.739164086687307
+      },
+      "relative": {
+        "deaths": 2.0722320899940794,
+        "infected": 97.92776791000593
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.027066154344480738,
+        "deaths": 0.0005608735358536565,
+        "infected": 0.02650528080862708
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.27066154344480736,
+        "deaths": 0.005608735358536565,
+        "infected": 0.2650528080862708
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.7066154344480737,
+        "deaths": 0.05608735358536565,
+        "infected": 2.650528080862708
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "445b4414a0c3c285513cbd78b8b60fec",
+    "day_index_1": 32,
+    "day_index_10": 10,
+    "day_index_100": 8,
+    "day_index_1k": 2,
+    "day_index_peak_confirmed": -23,
+    "day_index_peak_deaths": -27,
+    "day_index_peak": -25
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "date": "2020-03-03",
+      "timestamp": 1583193600,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2036,
+        "deaths": 52,
+        "infected": 1984
+      },
+      "delta": {
+        "confirmed": 347,
+        "deaths": 17,
+        "infected": 330
+      },
+      "delta_pct": {
+        "confirmed": 20.544701006512728,
+        "infected": 19.951632406287786,
+        "deaths": 48.57142857142857
+      },
+      "peak_pct": {
+        "confirmed": 5.855156587473003,
+        "deaths": 2.0757020757020754,
+        "infected": 6.385448916408669
+      },
+      "relative": {
+        "deaths": 2.5540275049115913,
+        "infected": 97.44597249508841
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03262681482851556,
+        "deaths": 0.000833297824696861,
+        "infected": 0.0317935170038187
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3262681482851556,
+        "deaths": 0.00833297824696861,
+        "infected": 0.31793517003818705
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.262681482851556,
+        "deaths": 0.0833297824696861,
+        "infected": 3.1793517003818703
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "77364c748048febf413ae7c2e3e6cf90",
+    "day_index_1": 33,
+    "day_index_10": 11,
+    "day_index_100": 9,
+    "day_index_1k": 3,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -26,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "date": "2020-03-04",
+      "timestamp": 1583280000,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2502,
+        "deaths": 80,
+        "infected": 2422
+      },
+      "delta": {
+        "confirmed": 466,
+        "deaths": 28,
+        "infected": 438
+      },
+      "delta_pct": {
+        "confirmed": 22.888015717092337,
+        "infected": 22.076612903225808,
+        "deaths": 53.84615384615385
+      },
+      "peak_pct": {
+        "confirmed": 7.8631209503239745,
+        "deaths": 3.418803418803419,
+        "infected": 8.475232198142415
+      },
+      "relative": {
+        "deaths": 3.1974420463629096,
+        "infected": 96.80255795363709
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04009444533445282,
+        "deaths": 0.0012819966533797863,
+        "infected": 0.03881244868107303
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4009444533445282,
+        "deaths": 0.012819966533797864,
+        "infected": 0.3881244868107303
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.009444533445282,
+        "deaths": 0.12819966533797864,
+        "infected": 3.881244868107303
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "3268da51d1fb5d25a3af991c9df81886",
+    "day_index_1": 34,
+    "day_index_10": 12,
+    "day_index_100": 10,
+    "day_index_1k": 4,
+    "day_index_peak_confirmed": -21,
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -23
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "date": "2020-03-05",
+      "timestamp": 1583366400,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3089,
+        "deaths": 107,
+        "infected": 2982
+      },
+      "delta": {
+        "confirmed": 587,
+        "deaths": 27,
+        "infected": 560
+      },
+      "delta_pct": {
+        "confirmed": 23.46123101518785,
+        "infected": 23.121387283236995,
+        "deaths": 33.75
+      },
+      "peak_pct": {
+        "confirmed": 9.90483261339093,
+        "deaths": 3.296703296703297,
+        "infected": 10.8359133126935
+      },
+      "relative": {
+        "deaths": 3.463904176108773,
+        "infected": 96.53609582389122
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.049501095778627,
+        "deaths": 0.001714670523895464,
+        "infected": 0.047786425254731535
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.49501095778626997,
+        "deaths": 0.01714670523895464,
+        "infected": 0.47786425254731535
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.9501095778627,
+        "deaths": 0.1714670523895464,
+        "infected": 4.7786425254731535
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "3ab486d0567ed64c43bbc9004c2d110a",
+    "day_index_1": 35,
+    "day_index_10": 13,
+    "day_index_100": 11,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": -20,
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -22
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "date": "2020-03-06",
+      "timestamp": 1583452800,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3858,
+        "deaths": 148,
+        "infected": 3710
+      },
+      "delta": {
+        "confirmed": 769,
+        "deaths": 41,
+        "infected": 728
+      },
+      "delta_pct": {
+        "confirmed": 24.894787957267724,
+        "infected": 24.413145539906104,
+        "deaths": 38.3177570093458
+      },
+      "peak_pct": {
+        "confirmed": 12.975836933045356,
+        "deaths": 5.006105006105006,
+        "infected": 14.086687306501547
+      },
+      "relative": {
+        "deaths": 3.8361845515811304,
+        "infected": 96.16381544841886
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06182428860924019,
+        "deaths": 0.0023716938087526046,
+        "infected": 0.05945259480048759
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.6182428860924019,
+        "deaths": 0.023716938087526045,
+        "infected": 0.5945259480048759
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.182428860924019,
+        "deaths": 0.23716938087526046,
+        "infected": 5.945259480048759
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "38554e832e862b81e181142128532ec9",
+    "day_index_1": 36,
+    "day_index_10": 14,
+    "day_index_100": 12,
+    "day_index_1k": 6,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 7,
+      "date": "2020-03-07",
+      "timestamp": 1583539200,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4636,
+        "deaths": 197,
+        "infected": 4439
+      },
+      "delta": {
+        "confirmed": 778,
+        "deaths": 49,
+        "infected": 729
+      },
+      "delta_pct": {
+        "confirmed": 20.165889061689995,
+        "infected": 19.649595687331537,
+        "deaths": 33.108108108108105
+      },
+      "peak_pct": {
+        "confirmed": 13.12769978401728,
+        "deaths": 5.982905982905983,
+        "infected": 14.106037151702786
+      },
+      "relative": {
+        "deaths": 4.249352890422778,
+        "infected": 95.75064710957723
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07429170606335861,
+        "deaths": 0.0031569167589477237,
+        "infected": 0.07113478930441089
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7429170606335861,
+        "deaths": 0.03156916758947724,
+        "infected": 0.7113478930441088
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.429170606335861,
+        "deaths": 0.31569167589477237,
+        "infected": 7.113478930441089
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "6ac9d34e6259f12e31eb3b6423e8ddab",
+    "day_index_1": 37,
+    "day_index_10": 15,
+    "day_index_100": 13,
+    "day_index_1k": 7,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": -22,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5883,
+        "deaths": 233,
+        "infected": 5650
+      },
+      "delta": {
+        "confirmed": 1247,
+        "deaths": 36,
+        "infected": 1211
+      },
+      "delta_pct": {
+        "confirmed": 26.89818809318378,
+        "infected": 27.280919125929262,
+        "deaths": 18.274111675126903
+      },
+      "peak_pct": {
+        "confirmed": 21.041441684665227,
+        "deaths": 4.395604395604396,
+        "infected": 23.43266253869969
+      },
+      "relative": {
+        "deaths": 3.960564337922828,
+        "infected": 96.03943566207717
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.09427482889791604,
+        "deaths": 0.0037338152529686275,
+        "infected": 0.0905410136449474
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.9427482889791604,
+        "deaths": 0.03733815252968627,
+        "infected": 0.905410136449474
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.427482889791603,
+        "deaths": 0.37338152529686275,
+        "infected": 9.054101364494741
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "f357147832550ac6aecc018cedd80843",
+    "day_index_1": 38,
+    "day_index_10": 16,
+    "day_index_100": 14,
+    "day_index_1k": 8,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -19
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "date": "2020-03-09",
+      "timestamp": 1583712000,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7375,
+        "deaths": 366,
+        "infected": 7009
+      },
+      "delta": {
+        "confirmed": 1492,
+        "deaths": 133,
+        "infected": 1359
+      },
+      "delta_pct": {
+        "confirmed": 25.361210266870643,
+        "infected": 24.053097345132745,
+        "deaths": 57.081545064377686
+      },
+      "peak_pct": {
+        "confirmed": 25.175485961123112,
+        "deaths": 16.23931623931624,
+        "infected": 26.296439628482972
+      },
+      "relative": {
+        "deaths": 4.96271186440678,
+        "infected": 95.03728813559323
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.11818406648344905,
+        "deaths": 0.005865134689212522,
+        "infected": 0.11231893179423652
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.1818406648344906,
+        "deaths": 0.05865134689212522,
+        "infected": 1.1231893179423653
+      },
+      "absolute_pop100k": {
+        "confirmed": 11.818406648344904,
+        "deaths": 0.5865134689212522,
+        "infected": 11.231893179423652
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "94fd672c6270aab3b211b073d07e146b",
+    "day_index_1": 39,
+    "day_index_10": 17,
+    "day_index_100": 15,
+    "day_index_1k": 9,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9172,
+        "deaths": 464,
+        "infected": 8708
+      },
+      "delta": {
+        "confirmed": 1797,
+        "deaths": 98,
+        "infected": 1699
+      },
+      "delta_pct": {
+        "confirmed": 24.366101694915255,
+        "infected": 24.240262519617634,
+        "deaths": 26.775956284153004
+      },
+      "peak_pct": {
+        "confirmed": 30.321949244060477,
+        "deaths": 11.965811965811966,
+        "infected": 32.87538699690403
+      },
+      "relative": {
+        "deaths": 5.058874836458788,
+        "infected": 94.94112516354122
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.1469809163099925,
+        "deaths": 0.0074355805896027605,
+        "infected": 0.13954533572038974
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.4698091630999248,
+        "deaths": 0.07435580589602761,
+        "infected": 1.3954533572038974
+      },
+      "absolute_pop100k": {
+        "confirmed": 14.698091630999249,
+        "deaths": 0.743558058960276,
+        "infected": 13.954533572038974
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "1a99cec9f69559745159a39cf090bb05",
+    "day_index_1": 40,
+    "day_index_10": 18,
+    "day_index_100": 16,
+    "day_index_1k": 10,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -19,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10149,
+        "deaths": 631,
+        "infected": 9518
+      },
+      "delta": {
+        "confirmed": 977,
+        "deaths": 167,
+        "infected": 810
+      },
+      "delta_pct": {
+        "confirmed": 10.651984300043612,
+        "infected": 9.301791456132293,
+        "deaths": 35.991379310344826
+      },
+      "peak_pct": {
+        "confirmed": 16.48555615550756,
+        "deaths": 20.39072039072039,
+        "infected": 15.673374613003096
+      },
+      "relative": {
+        "deaths": 6.21736131638585,
+        "infected": 93.78263868361415
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.16263730043939315,
+        "deaths": 0.010111748603533064,
+        "infected": 0.15252555183586008
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.6263730043939315,
+        "deaths": 0.10111748603533063,
+        "infected": 1.525255518358601
+      },
+      "absolute_pop100k": {
+        "confirmed": 16.263730043939315,
+        "deaths": 1.0111748603533064,
+        "infected": 15.252555183586008
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "aa5be3ea564fa43b0fffa70ee0e3deda",
+    "day_index_1": 41,
+    "day_index_10": 19,
+    "day_index_100": 17,
+    "day_index_1k": 11,
+    "day_index_10k": 1,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 12462,
+        "deaths": 827,
+        "infected": 11635
+      },
+      "delta": {
+        "confirmed": 2313,
+        "deaths": 196,
+        "infected": 2117
+      },
+      "delta_pct": {
+        "confirmed": 22.790422701744014,
+        "infected": 22.242067661273378,
+        "deaths": 31.061806656101425
+      },
+      "peak_pct": {
+        "confirmed": 39.02875269978402,
+        "deaths": 23.931623931623932,
+        "infected": 40.96362229102167
+      },
+      "relative": {
+        "deaths": 6.636173968865351,
+        "infected": 93.36382603113465
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.1997030286802362,
+        "deaths": 0.01325264040431354,
+        "infected": 0.18645038827592267
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.997030286802362,
+        "deaths": 0.1325264040431354,
+        "infected": 1.8645038827592266
+      },
+      "absolute_pop100k": {
+        "confirmed": 19.97030286802362,
+        "deaths": 1.325264040431354,
+        "infected": 18.645038827592266
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "2d2c219adda02f7968574b1f79f777b5",
+    "day_index_1": 42,
+    "day_index_10": 20,
+    "day_index_100": 18,
+    "day_index_1k": 12,
+    "day_index_10k": 2,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15113,
+        "deaths": 1016,
+        "infected": 14097
+      },
+      "delta": {
+        "confirmed": 2651,
+        "deaths": 189,
+        "infected": 2462
+      },
+      "delta_pct": {
+        "confirmed": 21.272668913497032,
+        "infected": 21.160292221744736,
+        "deaths": 22.853688029020557
+      },
+      "peak_pct": {
+        "confirmed": 44.7320464362851,
+        "deaths": 23.076923076923077,
+        "infected": 47.639318885448915
+      },
+      "relative": {
+        "deaths": 6.722689075630252,
+        "infected": 93.27731092436974
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.24218519278160888,
+        "deaths": 0.016281357497923286,
+        "infected": 0.2259038352836856
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.421851927816089,
+        "deaths": 0.16281357497923285,
+        "infected": 2.259038352836856
+      },
+      "absolute_pop100k": {
+        "confirmed": 24.218519278160887,
+        "deaths": 1.6281357497923286,
+        "infected": 22.59038352836856
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "b5687fc304cd866a83ee5f4e391b6ef8",
+    "day_index_1": 43,
+    "day_index_10": 21,
+    "day_index_100": 19,
+    "day_index_1k": 13,
+    "day_index_10k": 3,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 17660,
+        "deaths": 1268,
+        "infected": 16392
+      },
+      "delta": {
+        "confirmed": 2547,
+        "deaths": 252,
+        "infected": 2295
+      },
+      "delta_pct": {
+        "confirmed": 16.853040428769933,
+        "infected": 16.2800595871462,
+        "deaths": 24.80314960629921
+      },
+      "peak_pct": {
+        "confirmed": 42.977186825054,
+        "deaths": 30.76923076923077,
+        "infected": 44.40789473684211
+      },
+      "relative": {
+        "deaths": 7.180067950169875,
+        "infected": 92.81993204983013
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2830007612335878,
+        "deaths": 0.020319646956069613,
+        "infected": 0.2626811142775182
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.830007612335878,
+        "deaths": 0.20319646956069612,
+        "infected": 2.6268111427751824
+      },
+      "absolute_pop100k": {
+        "confirmed": 28.30007612335878,
+        "deaths": 2.0319646956069612,
+        "infected": 26.268111427751823
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "8c97c760a0a7684540572dde20c4a988",
+    "day_index_1": 44,
+    "day_index_10": 22,
+    "day_index_100": 20,
+    "day_index_1k": 14,
+    "day_index_10k": 4,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 21157,
+        "deaths": 1441,
+        "infected": 19716
+      },
+      "delta": {
+        "confirmed": 3497,
+        "deaths": 173,
+        "infected": 3324
+      },
+      "delta_pct": {
+        "confirmed": 19.80181200453001,
+        "infected": 20.27818448023426,
+        "deaths": 13.64353312302839
+      },
+      "peak_pct": {
+        "confirmed": 59.007154427645794,
+        "deaths": 21.123321123321123,
+        "infected": 64.3188854489164
+      },
+      "relative": {
+        "deaths": 6.810984544122513,
+        "infected": 93.1890154558775
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.33904003994445175,
+        "deaths": 0.0230919647190034,
+        "infected": 0.3159480752254483
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.3904003994445175,
+        "deaths": 0.23091964719003402,
+        "infected": 3.159480752254483
+      },
+      "absolute_pop100k": {
+        "confirmed": 33.904003994445176,
+        "deaths": 2.30919647190034,
+        "infected": 31.594807522544833
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "ab7875669e9f1db9b2e2c1dd318e0acb",
+    "day_index_1": 45,
+    "day_index_10": 23,
+    "day_index_100": 21,
+    "day_index_1k": 15,
+    "day_index_10k": 5,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 23980,
+        "deaths": 1811,
+        "infected": 22169
+      },
+      "delta": {
+        "confirmed": 2823,
+        "deaths": 370,
+        "infected": 2453
+      },
+      "delta_pct": {
+        "confirmed": 13.343101573947157,
+        "infected": 12.44167173868939,
+        "deaths": 25.676613462873004
+      },
+      "peak_pct": {
+        "confirmed": 47.63431425485962,
+        "deaths": 45.17704517704518,
+        "infected": 47.46517027863777
+      },
+      "relative": {
+        "deaths": 7.552126772310258,
+        "infected": 92.44787322768974
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.38427849685059096,
+        "deaths": 0.02902119924088491,
+        "infected": 0.35525729760970604
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.8427849685059097,
+        "deaths": 0.2902119924088491,
+        "infected": 3.5525729760970606
+      },
+      "absolute_pop100k": {
+        "confirmed": 38.427849685059094,
+        "deaths": 2.902119924088491,
+        "infected": 35.525729760970606
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "bd6ed3b0e1c6e710c847e9d97ce1077c",
+    "day_index_1": 46,
+    "day_index_10": 24,
+    "day_index_100": 22,
+    "day_index_1k": 16,
+    "day_index_10k": 6,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 27980,
+        "deaths": 2158,
+        "infected": 25822
+      },
+      "delta": {
+        "confirmed": 4000,
+        "deaths": 347,
+        "infected": 3653
+      },
+      "delta_pct": {
+        "confirmed": 16.680567139282736,
+        "infected": 16.477964725517616,
+        "deaths": 19.160684704583105
+      },
+      "peak_pct": {
+        "confirmed": 67.49460043196545,
+        "deaths": 42.36874236874237,
+        "infected": 70.68498452012383
+      },
+      "relative": {
+        "deaths": 7.71265189421015,
+        "infected": 92.28734810578985
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.44837832951958023,
+        "deaths": 0.034581859724919735,
+        "infected": 0.4137964697946605
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.483783295195803,
+        "deaths": 0.34581859724919733,
+        "infected": 4.137964697946605
+      },
+      "absolute_pop100k": {
+        "confirmed": 44.83783295195802,
+        "deaths": 3.4581859724919735,
+        "infected": 41.37964697946605
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "a6c76f93c7bc65b2c9ae3653e3ff5c79",
+    "day_index_1": 47,
+    "day_index_10": 25,
+    "day_index_100": 23,
+    "day_index_1k": 17,
+    "day_index_10k": 7,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 31506,
+        "deaths": 2505,
+        "infected": 29001
+      },
+      "delta": {
+        "confirmed": 3526,
+        "deaths": 347,
+        "infected": 3179
+      },
+      "delta_pct": {
+        "confirmed": 12.601858470335955,
+        "infected": 12.311207497482767,
+        "deaths": 16.07970342910102
+      },
+      "peak_pct": {
+        "confirmed": 59.496490280777536,
+        "deaths": 42.36874236874237,
+        "infected": 61.51315789473685
+      },
+      "relative": {
+        "deaths": 7.950866501618739,
+        "infected": 92.04913349838127
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5048823320172944,
+        "deaths": 0.040142520208954556,
+        "infected": 0.4647398118083398
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.048823320172944,
+        "deaths": 0.4014252020895456,
+        "infected": 4.647398118083398
+      },
+      "absolute_pop100k": {
+        "confirmed": 50.488233201729436,
+        "deaths": 4.014252020895456,
+        "infected": 46.47398118083398
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "6b1d7ae6cd41a93226d054752e5c39f7",
+    "day_index_1": 48,
+    "day_index_10": 26,
+    "day_index_100": 24,
+    "day_index_1k": 18,
+    "day_index_10k": 8,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 35713,
+        "deaths": 2978,
+        "infected": 32735
+      },
+      "delta": {
+        "confirmed": 4207,
+        "deaths": 473,
+        "infected": 3734
+      },
+      "delta_pct": {
+        "confirmed": 13.353012124674665,
+        "infected": 12.875418089031413,
+        "deaths": 18.882235528942115
+      },
+      "peak_pct": {
+        "confirmed": 70.98744600431965,
+        "deaths": 57.75335775335775,
+        "infected": 72.25232198142415
+      },
+      "relative": {
+        "deaths": 8.338700193206956,
+        "infected": 91.66129980679304
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5722993310269039,
+        "deaths": 0.04772232542206255,
+        "infected": 0.5245770056048413
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.722993310269039,
+        "deaths": 0.4772232542206255,
+        "infected": 5.245770056048413
+      },
+      "absolute_pop100k": {
+        "confirmed": 57.22993310269039,
+        "deaths": 4.772232542206255,
+        "infected": 52.457700560484135
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "5887304656675c0008224f8816c13bc8",
+    "day_index_1": 49,
+    "day_index_10": 27,
+    "day_index_100": 25,
+    "day_index_1k": 19,
+    "day_index_10k": 9,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 41035,
+        "deaths": 3407,
+        "infected": 37628
+      },
+      "delta": {
+        "confirmed": 5322,
+        "deaths": 429,
+        "infected": 4893
+      },
+      "delta_pct": {
+        "confirmed": 14.902136476913169,
+        "infected": 14.9473041087521,
+        "deaths": 14.405641370047011
+      },
+      "peak_pct": {
+        "confirmed": 89.80156587473003,
+        "deaths": 52.38095238095239,
+        "infected": 94.67879256965944
+      },
+      "relative": {
+        "deaths": 8.302668453758987,
+        "infected": 91.69733154624102
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6575841583929941,
+        "deaths": 0.05459703247581165,
+        "infected": 0.6029871259171825
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.575841583929941,
+        "deaths": 0.5459703247581165,
+        "infected": 6.029871259171825
+      },
+      "absolute_pop100k": {
+        "confirmed": 65.75841583929942,
+        "deaths": 5.459703247581165,
+        "infected": 60.29871259171825
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "17e08cdd10bc29fee0593ab10b66e62f",
+    "day_index_1": 50,
+    "day_index_10": 28,
+    "day_index_100": 26,
+    "day_index_1k": 20,
+    "day_index_10k": 10,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 47021,
+        "deaths": 4032,
+        "infected": 42989
+      },
+      "delta": {
+        "confirmed": 5986,
+        "deaths": 625,
+        "infected": 5361
+      },
+      "delta_pct": {
+        "confirmed": 14.587547215791398,
+        "infected": 14.247368980546401,
+        "deaths": 18.344584678602878
+      },
+      "peak_pct": {
+        "confirmed": 101.00566954643628,
+        "deaths": 76.31257631257631,
+        "infected": 103.73452012383902
+      },
+      "relative": {
+        "deaths": 8.574892069500862,
+        "infected": 91.42510793049914
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.7535095579821366,
+        "deaths": 0.06461263133034123,
+        "infected": 0.6888969266517954
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.535095579821366,
+        "deaths": 0.6461263133034123,
+        "infected": 6.888969266517954
+      },
+      "absolute_pop100k": {
+        "confirmed": 75.35095579821366,
+        "deaths": 6.461263133034123,
+        "infected": 68.88969266517954
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "1586f875235ec1d7c7ef462bc55c73ad",
+    "day_index_1": 51,
+    "day_index_10": 29,
+    "day_index_100": 27,
+    "day_index_1k": 21,
+    "day_index_10k": 11,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 83
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 53578,
+        "deaths": 4827,
+        "infected": 48751
+      },
+      "delta": {
+        "confirmed": 6557,
+        "deaths": 795,
+        "infected": 5762
+      },
+      "delta_pct": {
+        "confirmed": 13.94483315965207,
+        "infected": 13.403428784107563,
+        "deaths": 19.717261904761905
+      },
+      "peak_pct": {
+        "confirmed": 110.64052375809936,
+        "deaths": 97.06959706959707,
+        "infected": 111.49380804953562
+      },
+      "relative": {
+        "deaths": 9.009294859830527,
+        "infected": 90.99070514016947
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.8585852086847774,
+        "deaths": 0.07735247307330285,
+        "infected": 0.7812327356114745
+      },
+      "absolute_pop10k": {
+        "confirmed": 8.585852086847774,
+        "deaths": 0.7735247307330285,
+        "infected": 7.8123273561147455
+      },
+      "absolute_pop100k": {
+        "confirmed": 85.85852086847774,
+        "deaths": 7.735247307330286,
+        "infected": 78.12327356114746
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "be0fb873e31f08a32d435db9e48f535d",
+    "day_index_1": 52,
+    "day_index_10": 30,
+    "day_index_100": 28,
+    "day_index_1k": 22,
+    "day_index_10k": 12,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 84
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 59138,
+        "deaths": 5476,
+        "infected": 53662
+      },
+      "delta": {
+        "confirmed": 5560,
+        "deaths": 649,
+        "infected": 4911
+      },
+      "delta_pct": {
+        "confirmed": 10.377393706372018,
+        "infected": 10.07363951508687,
+        "deaths": 13.44520406049306
+      },
+      "peak_pct": {
+        "confirmed": 93.81749460043197,
+        "deaths": 79.24297924297925,
+        "infected": 95.02708978328174
+      },
+      "relative": {
+        "deaths": 9.259697656329264,
+        "infected": 90.74030234367073
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.9476839760946725,
+        "deaths": 0.08775267092384637,
+        "infected": 0.8599313051708262
+      },
+      "absolute_pop10k": {
+        "confirmed": 9.476839760946724,
+        "deaths": 0.8775267092384637,
+        "infected": 8.599313051708261
+      },
+      "absolute_pop100k": {
+        "confirmed": 94.76839760946724,
+        "deaths": 8.775267092384636,
+        "infected": 85.99313051708262
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "4d97b87d74d447e64418b4fe6896b021",
+    "day_index_1": 53,
+    "day_index_10": 31,
+    "day_index_100": 29,
+    "day_index_1k": 23,
+    "day_index_10k": 13,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 85
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 63927,
+        "deaths": 6077,
+        "infected": 57850
+      },
+      "delta": {
+        "confirmed": 4789,
+        "deaths": 601,
+        "infected": 4188
+      },
+      "delta_pct": {
+        "confirmed": 8.098008048970206,
+        "infected": 7.804405352018188,
+        "deaths": 10.975164353542732
+      },
+      "peak_pct": {
+        "confirmed": 80.80791036717063,
+        "deaths": 73.38217338217338,
+        "infected": 81.03715170278637
+      },
+      "relative": {
+        "deaths": 9.506155458569932,
+        "infected": 90.49384454143006
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.02442750075762,
+        "deaths": 0.09738367078236201,
+        "infected": 0.9270438299752579
+      },
+      "absolute_pop10k": {
+        "confirmed": 10.2442750075762,
+        "deaths": 0.9738367078236201,
+        "infected": 9.270438299752579
+      },
+      "absolute_pop100k": {
+        "confirmed": 102.442750075762,
+        "deaths": 9.738367078236202,
+        "infected": 92.7043829975258
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "a9718a881d69d771415f41ff6625d7f3",
+    "day_index_1": 54,
+    "day_index_10": 32,
+    "day_index_100": 30,
+    "day_index_1k": 24,
+    "day_index_10k": 14,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 86
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 69176,
+        "deaths": 6820,
+        "infected": 62356
+      },
+      "delta": {
+        "confirmed": 5249,
+        "deaths": 743,
+        "infected": 4506
+      },
+      "delta_pct": {
+        "confirmed": 8.210928089852487,
+        "infected": 7.789109766637856,
+        "deaths": 12.226427513575777
+      },
+      "peak_pct": {
+        "confirmed": 88.56978941684666,
+        "deaths": 90.72039072039072,
+        "infected": 87.19040247678018
+      },
+      "relative": {
+        "deaths": 9.858910604834046,
+        "infected": 90.14108939516595
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.1085425061775012,
+        "deaths": 0.10929021470062678,
+        "infected": 0.9992522914768744
+      },
+      "absolute_pop10k": {
+        "confirmed": 11.085425061775013,
+        "deaths": 1.0929021470062676,
+        "infected": 9.992522914768745
+      },
+      "absolute_pop100k": {
+        "confirmed": 110.85425061775011,
+        "deaths": 10.929021470062677,
+        "infected": 99.92522914768745
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "c4d9b7782ac4f37cd397d872328ef069",
+    "day_index_1": 55,
+    "day_index_10": 33,
+    "day_index_100": 31,
+    "day_index_1k": 25,
+    "day_index_10k": 15,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 87
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 74386,
+        "deaths": 7505,
+        "infected": 66881
+      },
+      "delta": {
+        "confirmed": 5210,
+        "deaths": 685,
+        "infected": 4525
+      },
+      "delta_pct": {
+        "confirmed": 7.531513819821903,
+        "infected": 7.2567194816858045,
+        "deaths": 10.043988269794722
+      },
+      "peak_pct": {
+        "confirmed": 87.91171706263499,
+        "deaths": 83.63858363858364,
+        "infected": 87.55804953560371
+      },
+      "relative": {
+        "deaths": 10.089264108837684,
+        "infected": 89.91073589116232
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.1920325382288597,
+        "deaths": 0.1202673110451912,
+        "infected": 1.0717652271836686
+      },
+      "absolute_pop10k": {
+        "confirmed": 11.920325382288597,
+        "deaths": 1.202673110451912,
+        "infected": 10.717652271836686
+      },
+      "absolute_pop100k": {
+        "confirmed": 119.20325382288597,
+        "deaths": 12.02673110451912,
+        "infected": 107.17652271836687
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "1c98f785e732f5247c0bfa5698a13bf6",
+    "day_index_1": 56,
+    "day_index_10": 34,
+    "day_index_100": 32,
+    "day_index_1k": 26,
+    "day_index_10k": 16,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 88
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 80539,
+        "deaths": 8165,
+        "infected": 72374
+      },
+      "delta": {
+        "confirmed": 6153,
+        "deaths": 660,
+        "infected": 5493
+      },
+      "delta_pct": {
+        "confirmed": 8.27171779635953,
+        "infected": 8.213094899896833,
+        "deaths": 8.794137241838774
+      },
+      "peak_pct": {
+        "confirmed": 103.82356911447086,
+        "deaths": 80.58608058608058,
+        "infected": 106.28869969040247
+      },
+      "relative": {
+        "deaths": 10.13794559157675,
+        "infected": 89.86205440842325
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.2906341058319326,
+        "deaths": 0.13084378343557443,
+        "infected": 1.1597903223963582
+      },
+      "absolute_pop10k": {
+        "confirmed": 12.906341058319326,
+        "deaths": 1.3084378343557443,
+        "infected": 11.59790322396358
+      },
+      "absolute_pop100k": {
+        "confirmed": 129.06341058319327,
+        "deaths": 13.084378343557443,
+        "infected": 115.97903223963581
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "395dfd03e4c6708e742b608b10598f8c",
+    "day_index_1": 57,
+    "day_index_10": 35,
+    "day_index_100": 33,
+    "day_index_1k": 27,
+    "day_index_10k": 17,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 89
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 86498,
+        "deaths": 9136,
+        "infected": 77362
+      },
+      "delta": {
+        "confirmed": 5959,
+        "deaths": 971,
+        "infected": 4988
+      },
+      "delta_pct": {
+        "confirmed": 7.398899911843952,
+        "infected": 6.891977782076436,
+        "deaths": 11.89222290263319
+      },
+      "peak_pct": {
+        "confirmed": 100.55008099352052,
+        "deaths": 118.55921855921856,
+        "infected": 96.51702786377709
+      },
+      "relative": {
+        "deaths": 10.562093921246735,
+        "infected": 89.43790607875327
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.3861268315505595,
+        "deaths": 0.1464040178159716,
+        "infected": 1.239722813734588
+      },
+      "absolute_pop10k": {
+        "confirmed": 13.861268315505594,
+        "deaths": 1.4640401781597159,
+        "infected": 12.397228137345879
+      },
+      "absolute_pop100k": {
+        "confirmed": 138.61268315505595,
+        "deaths": 14.64040178159716,
+        "infected": 123.9722813734588
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "1d020b4cf6cbbc7b67c1ca23249cd3a0",
+    "day_index_1": 58,
+    "day_index_10": 36,
+    "day_index_100": 34,
+    "day_index_1k": 28,
+    "day_index_10k": 18,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 90
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 92472,
+        "deaths": 10023,
+        "infected": 82449
+      },
+      "delta": {
+        "confirmed": 5974,
+        "deaths": 887,
+        "infected": 5087
+      },
+      "delta_pct": {
+        "confirmed": 6.90651806978196,
+        "infected": 6.575579741992192,
+        "deaths": 9.708844133099825
+      },
+      "peak_pct": {
+        "confirmed": 100.8031857451404,
+        "deaths": 108.3028083028083,
+        "infected": 98.43266253869969
+      },
+      "relative": {
+        "deaths": 10.838956657150273,
+        "infected": 89.16104334284974
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.481859931641695,
+        "deaths": 0.16061815571031998,
+        "infected": 1.321241775931375
+      },
+      "absolute_pop10k": {
+        "confirmed": 14.81859931641695,
+        "deaths": 1.6061815571031999,
+        "infected": 13.21241775931375
+      },
+      "absolute_pop100k": {
+        "confirmed": 148.1859931641695,
+        "deaths": 16.061815571032,
+        "infected": 132.12417759313752
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "bba614c28cfc5f431dc8fb4d136e9104",
+    "day_index_1": 59,
+    "day_index_10": 37,
+    "day_index_100": 35,
+    "day_index_1k": 29,
+    "day_index_10k": 19,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 91
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 97689,
+        "deaths": 10781,
+        "infected": 86908
+      },
+      "delta": {
+        "confirmed": 5217,
+        "deaths": 758,
+        "infected": 4459
+      },
+      "delta_pct": {
+        "confirmed": 5.6417077601868675,
+        "infected": 5.408191730645611,
+        "deaths": 7.5626060061857725
+      },
+      "peak_pct": {
+        "confirmed": 88.02983261339094,
+        "deaths": 92.55189255189255,
+        "infected": 86.28095975232199
+      },
+      "relative": {
+        "deaths": 11.036042952635404,
+        "infected": 88.9639570473646
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.5654621384002243,
+        "deaths": 0.17276507400109345,
+        "infected": 1.3926970643991308
+      },
+      "absolute_pop10k": {
+        "confirmed": 15.654621384002244,
+        "deaths": 1.7276507400109344,
+        "infected": 13.926970643991307
+      },
+      "absolute_pop100k": {
+        "confirmed": 156.54621384002243,
+        "deaths": 17.276507400109345,
+        "infected": 139.26970643991308
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "0152efde5ddcf7d7bc45f5c8e0a6c53f",
+    "day_index_1": 60,
+    "day_index_10": 38,
+    "day_index_100": 36,
+    "day_index_1k": 30,
+    "day_index_10k": 20,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 92
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 101739,
+        "deaths": 11591,
+        "infected": 90148
+      },
+      "delta": {
+        "confirmed": 4050,
+        "deaths": 810,
+        "infected": 3240
+      },
+      "delta_pct": {
+        "confirmed": 4.145809661271996,
+        "infected": 3.7280802687899848,
+        "deaths": 7.5132176978016885
+      },
+      "peak_pct": {
+        "confirmed": 68.33828293736501,
+        "deaths": 98.9010989010989,
+        "infected": 62.693498452012385
+      },
+      "relative": {
+        "deaths": 11.392877854116907,
+        "infected": 88.60712214588308
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.6303632189775759,
+        "deaths": 0.1857452901165638,
+        "infected": 1.4446179288610121
+      },
+      "absolute_pop10k": {
+        "confirmed": 16.303632189775758,
+        "deaths": 1.857452901165638,
+        "infected": 14.446179288610121
+      },
+      "absolute_pop100k": {
+        "confirmed": 163.03632189775757,
+        "deaths": 18.57452901165638,
+        "infected": 144.46179288610122
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "7f24ca42ed0a90b825c76ef29c6f6c24",
+    "day_index_1": 61,
+    "day_index_10": 39,
+    "day_index_100": 37,
+    "day_index_1k": 31,
+    "day_index_10k": 21,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 93
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 105792,
+        "deaths": 12430,
+        "infected": 93362
+      },
+      "delta": {
+        "confirmed": 4053,
+        "deaths": 839,
+        "infected": 3214
+      },
+      "delta_pct": {
+        "confirmed": 3.9837230560552,
+        "infected": 3.565248258419488,
+        "deaths": 7.238374600983522
+      },
+      "peak_pct": {
+        "confirmed": 68.388903887689,
+        "deaths": 102.44200244200243,
+        "infected": 62.19040247678018
+      },
+      "relative": {
+        "deaths": 11.749470659407137,
+        "infected": 88.25052934059286
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.6953123744294294,
+        "deaths": 0.19919023001888428,
+        "infected": 1.496122144410545
+      },
+      "absolute_pop10k": {
+        "confirmed": 16.953123744294295,
+        "deaths": 1.9919023001888427,
+        "infected": 14.961221444105451
+      },
+      "absolute_pop100k": {
+        "confirmed": 169.53123744294294,
+        "deaths": 19.919023001888426,
+        "infected": 149.6122144410545
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "048463232840dfc4427375005feadcd3",
+    "day_index_1": 62,
+    "day_index_10": 40,
+    "day_index_100": 38,
+    "day_index_1k": 32,
+    "day_index_10k": 22,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 94
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 110574,
+        "deaths": 13157,
+        "infected": 97417
+      },
+      "delta": {
+        "confirmed": 4782,
+        "deaths": 727,
+        "infected": 4055
+      },
+      "delta_pct": {
+        "confirmed": 4.52019056261343,
+        "infected": 4.3433088408560225,
+        "deaths": 5.84875301689461
+      },
+      "peak_pct": {
+        "confirmed": 80.68979481641469,
+        "deaths": 88.76678876678876,
+        "infected": 78.46362229102168
+      },
+      "relative": {
+        "deaths": 11.898818890516758,
+        "infected": 88.10118110948324
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.771943724385206,
+        "deaths": 0.2108403746064731,
+        "infected": 1.561103349778733
+      },
+      "absolute_pop10k": {
+        "confirmed": 17.71943724385206,
+        "deaths": 2.108403746064731,
+        "infected": 15.61103349778733
+      },
+      "absolute_pop100k": {
+        "confirmed": 177.19437243852062,
+        "deaths": 21.08403746064731,
+        "infected": 156.1103349778733
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "56c996bfdf695fd91b3eca1344a06511",
+    "day_index_1": 63,
+    "day_index_10": 41,
+    "day_index_100": 39,
+    "day_index_1k": 33,
+    "day_index_10k": 23,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 95
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 115242,
+        "deaths": 13917,
+        "infected": 101325
+      },
+      "delta": {
+        "confirmed": 4668,
+        "deaths": 760,
+        "infected": 3908
+      },
+      "delta_pct": {
+        "confirmed": 4.221607249443811,
+        "infected": 4.0116201484340515,
+        "deaths": 5.77639279471004
+      },
+      "peak_pct": {
+        "confirmed": 78.76619870410367,
+        "deaths": 92.7960927960928,
+        "infected": 75.61919504643963
+      },
+      "relative": {
+        "deaths": 12.076326339355443,
+        "infected": 87.92367366064455
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.8467482291099167,
+        "deaths": 0.22301934281358107,
+        "infected": 1.6237288862963355
+      },
+      "absolute_pop10k": {
+        "confirmed": 18.467482291099167,
+        "deaths": 2.2301934281358107,
+        "infected": 16.237288862963354
+      },
+      "absolute_pop100k": {
+        "confirmed": 184.67482291099168,
+        "deaths": 22.301934281358108,
+        "infected": 162.37288862963354
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "30118c847bb882f788e9d32c146e0b30",
+    "day_index_1": 64,
+    "day_index_10": 42,
+    "day_index_100": 40,
+    "day_index_1k": 34,
+    "day_index_10k": 24,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 96
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 119827,
+        "deaths": 14681,
+        "infected": 105146
+      },
+      "delta": {
+        "confirmed": 4585,
+        "deaths": 764,
+        "infected": 3821
+      },
+      "delta_pct": {
+        "confirmed": 3.97858419673383,
+        "infected": 3.771033802121885,
+        "deaths": 5.489688869727671
+      },
+      "peak_pct": {
+        "confirmed": 77.36568574514038,
+        "deaths": 93.28449328449328,
+        "infected": 73.93575851393189
+      },
+      "relative": {
+        "deaths": 12.25182972118137,
+        "infected": 87.74817027881863
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.9202226623067455,
+        "deaths": 0.23526241085335803,
+        "infected": 1.6849602514533877
+      },
+      "absolute_pop10k": {
+        "confirmed": 19.202226623067457,
+        "deaths": 2.3526241085335804,
+        "infected": 16.849602514533878
+      },
+      "absolute_pop100k": {
+        "confirmed": 192.02226623067455,
+        "deaths": 23.5262410853358,
+        "infected": 168.49602514533876
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "b6873be3d745456dbb092f63711d9061",
+    "day_index_1": 65,
+    "day_index_10": 43,
+    "day_index_100": 41,
+    "day_index_1k": 35,
+    "day_index_10k": 25,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 97
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 124632,
+        "deaths": 15362,
+        "infected": 109270
+      },
+      "delta": {
+        "confirmed": 4805,
+        "deaths": 681,
+        "infected": 4124
+      },
+      "delta_pct": {
+        "confirmed": 4.009947674564163,
+        "infected": 3.9221653700568733,
+        "deaths": 4.638648593420067
+      },
+      "peak_pct": {
+        "confirmed": 81.0778887688985,
+        "deaths": 83.15018315018315,
+        "infected": 79.79876160990712
+      },
+      "relative": {
+        "deaths": 12.325887412542526,
+        "infected": 87.67411258745747
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.997222586300369,
+        "deaths": 0.24617540736525345,
+        "infected": 1.7510471789351156
+      },
+      "absolute_pop10k": {
+        "confirmed": 19.97222586300369,
+        "deaths": 2.4617540736525347,
+        "infected": 17.510471789351158
+      },
+      "absolute_pop100k": {
+        "confirmed": 199.7222586300369,
+        "deaths": 24.617540736525346,
+        "infected": 175.10471789351158
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "a0d69e21188bc2c9a9a76e2801a20fde",
+    "day_index_1": 66,
+    "day_index_10": 44,
+    "day_index_100": 42,
+    "day_index_1k": 36,
+    "day_index_10k": 26,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 98
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 128948,
+        "deaths": 15889,
+        "infected": 113059
+      },
+      "delta": {
+        "confirmed": 4316,
+        "deaths": 527,
+        "infected": 3789
+      },
+      "delta_pct": {
+        "confirmed": 3.46299505744913,
+        "infected": 3.4675574265580673,
+        "deaths": 3.4305428980601484
+      },
+      "peak_pct": {
+        "confirmed": 72.82667386609072,
+        "deaths": 64.34676434676435,
+        "infected": 73.31656346749226
+      },
+      "relative": {
+        "deaths": 12.322021279895772,
+        "infected": 87.67797872010424
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.0663863057502083,
+        "deaths": 0.2546205603193928,
+        "infected": 1.8117657454308158
+      },
+      "absolute_pop10k": {
+        "confirmed": 20.663863057502084,
+        "deaths": 2.5462056031939277,
+        "infected": 18.11765745430816
+      },
+      "absolute_pop100k": {
+        "confirmed": 206.63863057502084,
+        "deaths": 25.46205603193928,
+        "infected": 181.17657454308159
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "acd4ed8154961e69c0bfac57a826a61b",
+    "day_index_1": 67,
+    "day_index_10": 45,
+    "day_index_100": 43,
+    "day_index_1k": 37,
+    "day_index_10k": 27,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 99
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 132547,
+        "deaths": 16525,
+        "infected": 116022
+      },
+      "delta": {
+        "confirmed": 3599,
+        "deaths": 636,
+        "infected": 2963
+      },
+      "delta_pct": {
+        "confirmed": 2.7910475540527964,
+        "infected": 2.6207555347208094,
+        "deaths": 4.002769211404116
+      },
+      "peak_pct": {
+        "confirmed": 60.728266738660906,
+        "deaths": 77.65567765567766,
+        "infected": 57.33359133126935
+      },
+      "relative": {
+        "deaths": 12.46727575878745,
+        "infected": 87.53272424121256
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.1240601301941315,
+        "deaths": 0.2648124337137621,
+        "infected": 1.8592476964803695
+      },
+      "absolute_pop10k": {
+        "confirmed": 21.240601301941314,
+        "deaths": 2.648124337137621,
+        "infected": 18.592476964803694
+      },
+      "absolute_pop100k": {
+        "confirmed": 212.40601301941317,
+        "deaths": 26.481243371376213,
+        "infected": 185.92476964803694
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "df1b9c2c82667cf2999294be036f5a2a",
+    "day_index_1": 68,
+    "day_index_10": 46,
+    "day_index_100": 44,
+    "day_index_1k": 38,
+    "day_index_10k": 28,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 11
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 100
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 135586,
+        "deaths": 17129,
+        "infected": 118457
+      },
+      "delta": {
+        "confirmed": 3039,
+        "deaths": 604,
+        "infected": 2435
+      },
+      "delta_pct": {
+        "confirmed": 2.2927716206326814,
+        "infected": 2.0987398941580047,
+        "deaths": 3.655068078668684
+      },
+      "peak_pct": {
+        "confirmed": 51.27902267818575,
+        "deaths": 73.74847374847376,
+        "infected": 47.11687306501548
+      },
+      "relative": {
+        "deaths": 12.633310223769415,
+        "infected": 87.36668977623059
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.1727599780643962,
+        "deaths": 0.2744915084467795,
+        "infected": 1.8982684696176169
+      },
+      "absolute_pop10k": {
+        "confirmed": 21.727599780643963,
+        "deaths": 2.744915084467795,
+        "infected": 18.982684696176168
+      },
+      "absolute_pop100k": {
+        "confirmed": 217.27599780643962,
+        "deaths": 27.44915084467795,
+        "infected": 189.82684696176167
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "ba8717b8e3c88858a689eeebfa8d4d91",
+    "day_index_1": 69,
+    "day_index_10": 47,
+    "day_index_100": 45,
+    "day_index_1k": 39,
+    "day_index_10k": 29,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 12
+  }
+]

@@ -1,0 +1,3322 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 23,
+      "date": "2020-01-23",
+      "timestamp": 1579737600,
+      "index": 2
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "peak_pct": {
+        "confirmed": 14.705882352941178,
+        "infected": 18.867924528301888
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.025905763473983e-05,
+        "infected": 2.025905763473983e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0002025905763473983,
+        "infected": 0.0002025905763473983
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.002025905763473983,
+        "infected": 0.002025905763473983
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "c6d33e19e76fec2c3c312c285c47e3b5",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -62,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -62
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 1,
+      "date": "2020-02-01",
+      "timestamp": 1580515200,
+      "index": 11
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "recovered": 1,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 1,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 200,
+        "infected": 150
+      },
+      "peak_pct": {
+        "confirmed": 29.411764705882355,
+        "recovered": 8.064516129032258,
+        "infected": 28.30188679245283
+      },
+      "relative": {
+        "recovered": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 6.0777172904219484e-05,
+        "recovered": 1.0129528817369915e-05,
+        "infected": 5.064764408684957e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0006077717290421949,
+        "recovered": 0.00010129528817369915,
+        "infected": 0.0005064764408684956
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0060777172904219485,
+        "recovered": 0.0010129528817369915,
+        "infected": 0.005064764408684957
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "cb1f07fe4f8688f5e355ff2892361e08",
+    "day_index_1": 10,
+    "day_index_peak_confirmed": -53,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -53
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 3,
+      "date": "2020-02-03",
+      "timestamp": 1580688000,
+      "index": 13
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "recovered": 1,
+        "infected": 7
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 40
+      },
+      "peak_pct": {
+        "confirmed": 14.705882352941178,
+        "infected": 18.867924528301888
+      },
+      "relative": {
+        "recovered": 12.5,
+        "infected": 87.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 8.103623053895932e-05,
+        "recovered": 1.0129528817369915e-05,
+        "infected": 7.090670172158939e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0008103623053895932,
+        "recovered": 0.00010129528817369915,
+        "infected": 0.0007090670172158939
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.008103623053895932,
+        "recovered": 0.0010129528817369915,
+        "infected": 0.007090670172158939
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "ff6ed34b1a00496e7d2565317016e182",
+    "day_index_1": 12,
+    "day_index_peak_confirmed": -51,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -51
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 6,
+      "date": "2020-02-06",
+      "timestamp": 1580947200,
+      "index": 16
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "recovered": 1,
+        "infected": 9
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 28.571428571428573
+      },
+      "peak_pct": {
+        "confirmed": 14.705882352941178,
+        "infected": 18.867924528301888
+      },
+      "relative": {
+        "recovered": 10,
+        "infected": 90
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00010129528817369914,
+        "recovered": 1.0129528817369915e-05,
+        "infected": 9.116575935632923e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0010129528817369913,
+        "recovered": 0.00010129528817369915,
+        "infected": 0.0009116575935632922
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.010129528817369914,
+        "recovered": 0.0010129528817369915,
+        "infected": 0.009116575935632922
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "e733ea514353eca0f3da7e1a2aa1aac4",
+    "day_index_1": 15,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -48,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -48
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 8,
+      "date": "2020-02-08",
+      "timestamp": 1581120000,
+      "index": 18
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13,
+        "recovered": 1,
+        "infected": 12
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 30,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 22.058823529411764,
+        "infected": 28.30188679245283
+      },
+      "relative": {
+        "recovered": 7.6923076923076925,
+        "infected": 92.3076923076923
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00013168387462580888,
+        "recovered": 1.0129528817369915e-05,
+        "infected": 0.00012155434580843897
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0013168387462580888,
+        "recovered": 0.00010129528817369915,
+        "infected": 0.0012155434580843898
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.013168387462580887,
+        "recovered": 0.0010129528817369915,
+        "infected": 0.012155434580843897
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "95a91ff865fee8d86374efe875a395a8",
+    "day_index_1": 17,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -46,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -46
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 10,
+      "date": "2020-02-10",
+      "timestamp": 1581292800,
+      "index": 20
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 14,
+        "recovered": 1,
+        "infected": 13
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 7.6923076923076925,
+        "infected": 8.333333333333334
+      },
+      "peak_pct": {
+        "confirmed": 7.352941176470589,
+        "infected": 9.433962264150944
+      },
+      "relative": {
+        "recovered": 7.142857142857142,
+        "infected": 92.85714285714286
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00014181340344317879,
+        "recovered": 1.0129528817369915e-05,
+        "infected": 0.00013168387462580888
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0014181340344317879,
+        "recovered": 0.00010129528817369915,
+        "infected": 0.0013168387462580888
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.014181340344317879,
+        "recovered": 0.0010129528817369915,
+        "infected": 0.013168387462580887
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "c97e4c8a29816d32d89cde77cd0cc062",
+    "day_index_1": 19,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -44,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -44
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 11,
+      "date": "2020-02-11",
+      "timestamp": 1581379200,
+      "index": 21
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15,
+        "recovered": 6,
+        "infected": 9
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 5,
+        "infected": -4
+      },
+      "delta_pct": {
+        "confirmed": 7.142857142857143,
+        "recovered": 500,
+        "infected": -30.76923076923077
+      },
+      "peak_pct": {
+        "confirmed": 7.352941176470589,
+        "recovered": 40.32258064516129,
+        "infected": -37.735849056603776
+      },
+      "relative": {
+        "recovered": 40,
+        "infected": 60
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00015194293226054872,
+        "recovered": 6.0777172904219484e-05,
+        "infected": 9.116575935632923e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0015194293226054871,
+        "recovered": 0.0006077717290421949,
+        "infected": 0.0009116575935632922
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.015194293226054872,
+        "recovered": 0.0060777172904219485,
+        "infected": 0.009116575935632922
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "ed39b5e03f165a64b7e70a8c6509a2ec",
+    "day_index_1": 20,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": -43,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -43
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 13,
+      "date": "2020-02-13",
+      "timestamp": 1581552000,
+      "index": 23
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16,
+        "recovered": 7,
+        "infected": 9
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 1
+      },
+      "delta_pct": {
+        "confirmed": 6.666666666666667,
+        "recovered": 16.666666666666668
+      },
+      "peak_pct": {
+        "confirmed": 7.352941176470589,
+        "recovered": 8.064516129032258
+      },
+      "relative": {
+        "recovered": 43.75,
+        "infected": 56.25
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00016207246107791863,
+        "recovered": 7.090670172158939e-05,
+        "infected": 9.116575935632923e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0016207246107791864,
+        "recovered": 0.0007090670172158939,
+        "infected": 0.0009116575935632922
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.016207246107791864,
+        "recovered": 0.007090670172158939,
+        "infected": 0.009116575935632922
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "a3146b184bf51e854b5cca5844072477",
+    "day_index_1": 22,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": -41,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -41
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 21,
+      "date": "2020-02-21",
+      "timestamp": 1582243200,
+      "index": 31
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16,
+        "recovered": 14,
+        "infected": 2
+      },
+      "delta": {
+        "recovered": 7,
+        "infected": -7
+      },
+      "delta_pct": {
+        "recovered": 100,
+        "infected": -77.77777777777777
+      },
+      "peak_pct": {
+        "recovered": 56.4516129032258,
+        "infected": -66.03773584905662
+      },
+      "relative": {
+        "recovered": 87.5,
+        "infected": 12.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00016207246107791863,
+        "recovered": 0.00014181340344317879,
+        "infected": 2.025905763473983e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0016207246107791864,
+        "recovered": 0.0014181340344317879,
+        "infected": 0.0002025905763473983
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.016207246107791864,
+        "recovered": 0.014181340344317879,
+        "infected": 0.002025905763473983
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "b9e81443d8bc83aaa6bc8ef72cf201b4",
+    "day_index_1": 30,
+    "day_index_10": 16,
+    "day_index_peak_confirmed": -33,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -33
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 25,
+      "date": "2020-02-25",
+      "timestamp": 1582588800,
+      "index": 35
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16,
+        "recovered": 16
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "recovered": 14.285714285714286,
+        "infected": -100
+      },
+      "peak_pct": {
+        "recovered": 16.129032258064516,
+        "infected": -18.867924528301888
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00016207246107791863,
+        "recovered": 0.00016207246107791863
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0016207246107791864,
+        "recovered": 0.0016207246107791864
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.016207246107791864,
+        "recovered": 0.016207246107791864
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "c05d72fc4ddff38efa699468949fe4b6",
+    "day_index_1": 34,
+    "day_index_10": 20,
+    "day_index_peak_confirmed": -29,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -29
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 7,
+      "date": "2020-03-07",
+      "timestamp": 1583539200,
+      "index": 46
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 18,
+        "recovered": 16,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 12.5
+      },
+      "peak_pct": {
+        "confirmed": 14.705882352941178,
+        "infected": 18.867924528301888
+      },
+      "relative": {
+        "recovered": 88.88888888888889,
+        "infected": 11.11111111111111
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00018233151871265845,
+        "recovered": 0.00016207246107791863,
+        "infected": 2.025905763473983e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0018233151871265845,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.0002025905763473983
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.018233151871265844,
+        "recovered": 0.016207246107791864,
+        "infected": 0.002025905763473983
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "14116233895d37b2a6fcf961c00d8be2",
+    "day_index_1": 45,
+    "day_index_10": 31,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 30,
+        "recovered": 16,
+        "infected": 14
+      },
+      "delta": {
+        "confirmed": 12,
+        "infected": 12
+      },
+      "delta_pct": {
+        "confirmed": 66.66666666666667,
+        "infected": 600
+      },
+      "peak_pct": {
+        "confirmed": 88.23529411764706,
+        "infected": 113.20754716981132
+      },
+      "relative": {
+        "recovered": 53.333333333333336,
+        "infected": 46.666666666666664
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00030388586452109745,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.00014181340344317879
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0030388586452109742,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.0014181340344317879
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.030388586452109744,
+        "recovered": 0.016207246107791864,
+        "infected": 0.014181340344317879
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "0ca366298fc3287dbc40cb7245308ee8",
+    "day_index_1": 46,
+    "day_index_10": 32,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 31,
+        "recovered": 16,
+        "infected": 15
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 3.3333333333333335,
+        "infected": 7.142857142857143
+      },
+      "peak_pct": {
+        "confirmed": 7.352941176470589,
+        "infected": 9.433962264150944
+      },
+      "relative": {
+        "recovered": 51.61290322580645,
+        "infected": 48.38709677419355
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00031401539333846733,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.00015194293226054872
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.003140153933384673,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.0015194293226054871
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.031401539333846734,
+        "recovered": 0.016207246107791864,
+        "infected": 0.015194293226054872
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "9030ab16b618aa9f78a5d75f9c705ca1",
+    "day_index_1": 48,
+    "day_index_10": 34,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 38,
+        "recovered": 16,
+        "infected": 22
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 22.580645161290324,
+        "infected": 46.666666666666664
+      },
+      "peak_pct": {
+        "confirmed": 51.47058823529412,
+        "infected": 66.03773584905662
+      },
+      "relative": {
+        "recovered": 42.10526315789473,
+        "infected": 57.89473684210527
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0003849220950600567,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.00022284963398213812
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0038492209506005674,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.002228496339821381
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.038492209506005674,
+        "recovered": 0.016207246107791864,
+        "infected": 0.02228496339821381
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "43a206fdc7b5d39700c99bae11cca731",
+    "day_index_1": 49,
+    "day_index_10": 35,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 51
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 39,
+        "recovered": 16,
+        "infected": 23
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.6315789473684212,
+        "infected": 4.545454545454546
+      },
+      "peak_pct": {
+        "confirmed": 7.352941176470589,
+        "infected": 9.433962264150944
+      },
+      "relative": {
+        "recovered": 41.02564102564102,
+        "infected": 58.97435897435898
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00039505162387742666,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.00023297916279950803
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.003950516238774266,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.0023297916279950803
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.03950516238774267,
+        "recovered": 0.016207246107791864,
+        "infected": 0.023297916279950804
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "40bcc4b26ffcc0a6859195091e8ba7e8",
+    "day_index_1": 50,
+    "day_index_10": 36,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 47,
+        "recovered": 16,
+        "infected": 31
+      },
+      "delta": {
+        "confirmed": 8,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 20.512820512820515,
+        "infected": 34.78260869565217
+      },
+      "peak_pct": {
+        "confirmed": 58.82352941176471,
+        "infected": 75.47169811320755
+      },
+      "relative": {
+        "recovered": 34.04255319148936,
+        "infected": 65.95744680851064
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00047608785441638593,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.00031401539333846733
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0047608785441638594,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.003140153933384673
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.047608785441638594,
+        "recovered": 0.016207246107791864,
+        "infected": 0.031401539333846734
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "ef2573a7fa2825304d00b9a3761c1454",
+    "day_index_1": 51,
+    "day_index_10": 37,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 53,
+        "recovered": 16,
+        "infected": 37
+      },
+      "delta": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 12.76595744680851,
+        "infected": 19.35483870967742
+      },
+      "peak_pct": {
+        "confirmed": 44.11764705882353,
+        "infected": 56.60377358490566
+      },
+      "relative": {
+        "recovered": 30.18867924528302,
+        "infected": 69.81132075471697
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0005368650273206054,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.00037479256624268684
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.005368650273206054,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.0037479256624268686
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.05368650273206054,
+        "recovered": 0.016207246107791864,
+        "infected": 0.03747925662426868
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "2c2695a30d8d7741e52ed2acebd85e06",
+    "day_index_1": 52,
+    "day_index_10": 38,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 56,
+        "recovered": 16,
+        "infected": 40
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 5.660377358490566,
+        "infected": 8.108108108108109
+      },
+      "peak_pct": {
+        "confirmed": 22.058823529411764,
+        "infected": 28.30188679245283
+      },
+      "relative": {
+        "recovered": 28.57142857142857,
+        "infected": 71.42857142857143
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0005672536137727151,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.00040518115269479654
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0056725361377271515,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.004051811526947965
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.056725361377271515,
+        "recovered": 0.016207246107791864,
+        "infected": 0.040518115269479654
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "058aba69c780189c2270b6b9d025f662",
+    "day_index_1": 53,
+    "day_index_10": 39,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 61,
+        "recovered": 16,
+        "infected": 45
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 8.928571428571429,
+        "infected": 12.5
+      },
+      "peak_pct": {
+        "confirmed": 36.76470588235294,
+        "infected": 47.16981132075472
+      },
+      "relative": {
+        "recovered": 26.229508196721312,
+        "infected": 73.77049180327869
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006179012578595648,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.0004558287967816461
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.006179012578595648,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.004558287967816461
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.061790125785956475,
+        "recovered": 0.016207246107791864,
+        "infected": 0.045582879678164615
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "be3a8fcbb6184ba35ed3e87ff7d351c6",
+    "day_index_1": 54,
+    "day_index_10": 40,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 66,
+        "recovered": 16,
+        "infected": 50
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 8.19672131147541,
+        "infected": 11.11111111111111
+      },
+      "peak_pct": {
+        "confirmed": 36.76470588235294,
+        "infected": 47.16981132075472
+      },
+      "relative": {
+        "recovered": 24.242424242424242,
+        "infected": 75.75757575757575
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006685489019464143,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.0005064764408684957
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.006685489019464143,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.005064764408684958
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.06685489019464143,
+        "recovered": 0.016207246107791864,
+        "infected": 0.050647644086849575
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "47929844f8ba59a855d9027e3e9b9380",
+    "day_index_1": 55,
+    "day_index_10": 41,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 75,
+        "recovered": 16,
+        "infected": 59
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 13.636363636363637,
+        "infected": 18
+      },
+      "peak_pct": {
+        "confirmed": 66.17647058823529,
+        "infected": 84.90566037735849
+      },
+      "relative": {
+        "recovered": 21.333333333333336,
+        "infected": 78.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0007597146613027436,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.0005976422002248249
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007597146613027435,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.005976422002248249
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07597146613027436,
+        "recovered": 0.016207246107791864,
+        "infected": 0.05976422002248249
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "430235d783e0b3e0f5d6cfed36fecb23",
+    "day_index_1": 56,
+    "day_index_10": 42,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 85,
+        "recovered": 16,
+        "infected": 69
+      },
+      "delta": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 13.333333333333334,
+        "infected": 16.949152542372882
+      },
+      "peak_pct": {
+        "confirmed": 73.52941176470588,
+        "infected": 94.33962264150944
+      },
+      "relative": {
+        "recovered": 18.823529411764707,
+        "infected": 81.17647058823529
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0008610099494764427,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.000698937488398524
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.008610099494764427,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.0069893748839852405
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.08610099494764427,
+        "recovered": 0.016207246107791864,
+        "infected": 0.0698937488398524
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "c44ef78396d4104b05dc3cdabac6d370",
+    "day_index_1": 57,
+    "day_index_10": 43,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 91,
+        "recovered": 16,
+        "infected": 75
+      },
+      "delta": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 7.0588235294117645,
+        "infected": 8.695652173913043
+      },
+      "peak_pct": {
+        "confirmed": 44.11764705882353,
+        "infected": 56.60377358490566
+      },
+      "relative": {
+        "recovered": 17.582417582417584,
+        "infected": 82.41758241758241
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0009217871223806622,
+        "recovered": 0.00016207246107791863,
+        "infected": 0.0007597146613027436
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.009217871223806622,
+        "recovered": 0.0016207246107791864,
+        "infected": 0.007597146613027435
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.09217871223806622,
+        "recovered": 0.016207246107791864,
+        "infected": 0.07597146613027436
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "0c701d04f1d73a8ddf54fd4b559e685d",
+    "day_index_1": 58,
+    "day_index_10": 44,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 94,
+        "recovered": 17,
+        "infected": 77
+      },
+      "delta": {
+        "confirmed": 3,
+        "recovered": 1,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 3.2967032967032965,
+        "recovered": 6.25,
+        "infected": 2.6666666666666665
+      },
+      "peak_pct": {
+        "confirmed": 22.058823529411764,
+        "recovered": 8.064516129032258,
+        "infected": 18.867924528301888
+      },
+      "relative": {
+        "recovered": 18.085106382978726,
+        "infected": 81.91489361702128
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0009521757088327719,
+        "recovered": 0.00017220198989528854,
+        "infected": 0.0007799737189374834
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.009521757088327719,
+        "recovered": 0.0017220198989528854,
+        "infected": 0.0077997371893748346
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.09521757088327719,
+        "recovered": 0.017220198989528854,
+        "infected": 0.07799737189374835
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "d622aa1a11da2264e39b63b960fafa35",
+    "day_index_1": 59,
+    "day_index_10": 45,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 113,
+        "recovered": 17,
+        "infected": 96
+      },
+      "delta": {
+        "confirmed": 19,
+        "infected": 19
+      },
+      "delta_pct": {
+        "confirmed": 20.21276595744681,
+        "infected": 24.675324675324674
+      },
+      "peak_pct": {
+        "confirmed": 139.7058823529412,
+        "infected": 179.24528301886792
+      },
+      "relative": {
+        "recovered": 15.04424778761062,
+        "infected": 84.95575221238938
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0011446367563628004,
+        "recovered": 0.00017220198989528854,
+        "infected": 0.0009724347664675117
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.011446367563628004,
+        "recovered": 0.0017220198989528854,
+        "infected": 0.009724347664675118
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.11446367563628004,
+        "recovered": 0.017220198989528854,
+        "infected": 0.09724347664675118
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "054cabfcdfccc597decc363816881f01",
+    "day_index_1": 60,
+    "day_index_10": 46,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 123,
+        "recovered": 17,
+        "infected": 106
+      },
+      "delta": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 8.849557522123893,
+        "infected": 10.416666666666666
+      },
+      "peak_pct": {
+        "confirmed": 73.52941176470588,
+        "infected": 94.33962264150944
+      },
+      "relative": {
+        "recovered": 13.821138211382115,
+        "infected": 86.1788617886179
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0012459320445364994,
+        "recovered": 0.00017220198989528854,
+        "infected": 0.0010737300546412108
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.012459320445364994,
+        "recovered": 0.0017220198989528854,
+        "infected": 0.010737300546412108
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.12459320445364994,
+        "recovered": 0.017220198989528854,
+        "infected": 0.10737300546412108
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "497494d0b4be968069cd6b52d8897dc2",
+    "day_index_1": 61,
+    "day_index_10": 47,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 134,
+        "recovered": 17,
+        "infected": 117
+      },
+      "delta": {
+        "confirmed": 11,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 8.94308943089431,
+        "infected": 10.377358490566039
+      },
+      "peak_pct": {
+        "confirmed": 80.88235294117648,
+        "infected": 103.77358490566037
+      },
+      "relative": {
+        "recovered": 12.686567164179104,
+        "infected": 87.31343283582089
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013573568615275686,
+        "recovered": 0.00017220198989528854,
+        "infected": 0.00118515487163228
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.013573568615275686,
+        "recovered": 0.0017220198989528854,
+        "infected": 0.0118515487163228
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.13573568615275686,
+        "recovered": 0.017220198989528854,
+        "infected": 0.11851548716322799
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "9e568d1c0b0bd3fdf82f0351a1cab636",
+    "day_index_1": 62,
+    "day_index_10": 48,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 141,
+        "recovered": 17,
+        "infected": 124
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 5.223880597014926,
+        "infected": 5.982905982905983
+      },
+      "peak_pct": {
+        "confirmed": 51.47058823529412,
+        "infected": 66.03773584905662
+      },
+      "relative": {
+        "recovered": 12.056737588652481,
+        "infected": 87.94326241134752
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001428263563249158,
+        "recovered": 0.00017220198989528854,
+        "infected": 0.0012560615733538693
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01428263563249158,
+        "recovered": 0.0017220198989528854,
+        "infected": 0.012560615733538692
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1428263563249158,
+        "recovered": 0.017220198989528854,
+        "infected": 0.12560615733538694
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "ac41fa1125f0ae24bcc802bf8dca5384",
+    "day_index_1": 63,
+    "day_index_10": 49,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 153,
+        "recovered": 20,
+        "infected": 133
+      },
+      "delta": {
+        "confirmed": 12,
+        "recovered": 3,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 8.51063829787234,
+        "recovered": 17.647058823529413,
+        "infected": 7.258064516129032
+      },
+      "peak_pct": {
+        "confirmed": 88.23529411764706,
+        "recovered": 24.193548387096772,
+        "infected": 84.90566037735849
+      },
+      "relative": {
+        "recovered": 13.071895424836603,
+        "infected": 86.9281045751634
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0015498179090575968,
+        "recovered": 0.00020259057634739827,
+        "infected": 0.0013472273327101985
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.015498179090575968,
+        "recovered": 0.0020259057634739825,
+        "infected": 0.013472273327101984
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.15498179090575967,
+        "recovered": 0.020259057634739827,
+        "infected": 0.13472273327101986
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "09f4476640074ccc9650a863d729dc31",
+    "day_index_1": 64,
+    "day_index_10": 50,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 163,
+        "recovered": 20,
+        "infected": 143
+      },
+      "delta": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 6.5359477124183005,
+        "infected": 7.518796992481203
+      },
+      "peak_pct": {
+        "confirmed": 73.52941176470588,
+        "infected": 94.33962264150944
+      },
+      "relative": {
+        "recovered": 12.269938650306749,
+        "infected": 87.73006134969326
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001651113197231296,
+        "recovered": 0.00020259057634739827,
+        "infected": 0.0014485226208838977
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01651113197231296,
+        "recovered": 0.0020259057634739825,
+        "infected": 0.014485226208838978
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1651113197231296,
+        "recovered": 0.020259057634739827,
+        "infected": 0.14485226208838978
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "b65c1008ca7a1430533af5f4455f0897",
+    "day_index_1": 65,
+    "day_index_10": 51,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 174,
+        "recovered": 21,
+        "infected": 153
+      },
+      "delta": {
+        "confirmed": 11,
+        "recovered": 1,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 6.748466257668712,
+        "recovered": 5,
+        "infected": 6.993006993006993
+      },
+      "peak_pct": {
+        "confirmed": 80.88235294117648,
+        "recovered": 8.064516129032258,
+        "infected": 94.33962264150944
+      },
+      "relative": {
+        "recovered": 12.068965517241379,
+        "infected": 87.93103448275862
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001762538014222365,
+        "recovered": 0.0002127201051647682,
+        "infected": 0.0015498179090575968
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01762538014222365,
+        "recovered": 0.0021272010516476822,
+        "infected": 0.015498179090575968
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.17625380142223648,
+        "recovered": 0.02127201051647682,
+        "infected": 0.15498179090575967
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "11793530274b07a4ea23e4e016b6ebaa",
+    "day_index_1": 66,
+    "day_index_10": 52,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 188,
+        "recovered": 25,
+        "infected": 163
+      },
+      "delta": {
+        "confirmed": 14,
+        "recovered": 4,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 8.045977011494253,
+        "recovered": 19.047619047619047,
+        "infected": 6.5359477124183005
+      },
+      "peak_pct": {
+        "confirmed": 102.94117647058825,
+        "recovered": 32.25806451612903,
+        "infected": 94.33962264150944
+      },
+      "relative": {
+        "recovered": 13.297872340425531,
+        "infected": 86.70212765957447
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0019043514176655437,
+        "recovered": 0.00025323822043424787,
+        "infected": 0.001651113197231296
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.019043514176655438,
+        "recovered": 0.002532382204342479,
+        "infected": 0.01651113197231296
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19043514176655438,
+        "recovered": 0.025323822043424787,
+        "infected": 0.1651113197231296
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "bef67bb841fca7ccdc9e36faf869ba2e",
+    "day_index_1": 67,
+    "day_index_10": 53,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 203,
+        "recovered": 55,
+        "infected": 148
+      },
+      "delta": {
+        "confirmed": 15,
+        "recovered": 30,
+        "infected": -15
+      },
+      "delta_pct": {
+        "confirmed": 7.9787234042553195,
+        "recovered": 120,
+        "infected": -9.202453987730062
+      },
+      "peak_pct": {
+        "confirmed": 110.29411764705883,
+        "recovered": 241.93548387096774,
+        "infected": -141.50943396226415
+      },
+      "relative": {
+        "recovered": 27.093596059113302,
+        "infected": 72.9064039408867
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0020562943499260926,
+        "recovered": 0.0005571240849553453,
+        "infected": 0.0014991702649707474
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.020562943499260924,
+        "recovered": 0.005571240849553453,
+        "infected": 0.014991702649707474
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.20562943499260927,
+        "recovered": 0.05571240849553453,
+        "infected": 0.14991702649707472
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "83739ef2a670d13e29c933b69332eaa1",
+    "day_index_1": 68,
+    "day_index_10": 54,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 212,
+        "recovered": 58,
+        "infected": 154
+      },
+      "delta": {
+        "confirmed": 9,
+        "recovered": 3,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 4.433497536945813,
+        "recovered": 5.454545454545454,
+        "infected": 4.054054054054054
+      },
+      "peak_pct": {
+        "confirmed": 66.17647058823529,
+        "recovered": 24.193548387096772,
+        "infected": 56.60377358490566
+      },
+      "relative": {
+        "recovered": 27.358490566037734,
+        "infected": 72.64150943396226
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0021474601092824216,
+        "recovered": 0.000587512671407455,
+        "infected": 0.0015599474378749669
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.021474601092824216,
+        "recovered": 0.00587512671407455,
+        "infected": 0.015599474378749669
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.21474601092824216,
+        "recovered": 0.0587512671407455,
+        "infected": 0.1559947437874967
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "7671b7e179f95d86798d81f53f152bda",
+    "day_index_1": 69,
+    "day_index_10": 55,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 218,
+        "recovered": 63,
+        "infected": 155
+      },
+      "delta": {
+        "confirmed": 6,
+        "recovered": 5,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.830188679245283,
+        "recovered": 8.620689655172415,
+        "infected": 0.6493506493506493
+      },
+      "peak_pct": {
+        "confirmed": 44.11764705882353,
+        "recovered": 40.32258064516129,
+        "infected": 9.433962264150944
+      },
+      "relative": {
+        "recovered": 28.899082568807337,
+        "infected": 71.10091743119266
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0022082372821866413,
+        "recovered": 0.0006381603154943045,
+        "infected": 0.0015700769666923367
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.02208237282186641,
+        "recovered": 0.006381603154943046,
+        "infected": 0.015700769666923367
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.22082372821866414,
+        "recovered": 0.06381603154943045,
+        "infected": 0.15700769666923367
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "7c9165a4d4b4e3f1815b15adb1a990ee",
+    "day_index_1": 70,
+    "day_index_10": 56,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 233,
+        "recovered": 75,
+        "infected": 158
+      },
+      "delta": {
+        "confirmed": 15,
+        "recovered": 12,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 6.8807339449541285,
+        "recovered": 19.047619047619047,
+        "infected": 1.935483870967742
+      },
+      "peak_pct": {
+        "confirmed": 110.29411764705883,
+        "recovered": 96.77419354838709,
+        "infected": 28.30188679245283
+      },
+      "relative": {
+        "recovered": 32.18884120171674,
+        "infected": 67.81115879828327
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00236018021444719,
+        "recovered": 0.0007597146613027436,
+        "infected": 0.0016004655531444464
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.023601802144471898,
+        "recovered": 0.007597146613027435,
+        "infected": 0.016004655531444464
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.236018021444719,
+        "recovered": 0.07597146613027436,
+        "infected": 0.16004655531444464
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "974544e12bb643d8df13830849807493",
+    "day_index_1": 71,
+    "day_index_10": 57,
+    "day_index_100": 12,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 237,
+        "recovered": 85,
+        "infected": 152
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 10,
+        "infected": -6
+      },
+      "delta_pct": {
+        "confirmed": 1.7167381974248928,
+        "recovered": 13.333333333333334,
+        "infected": -3.7974683544303796
+      },
+      "peak_pct": {
+        "confirmed": 29.411764705882355,
+        "recovered": 80.64516129032258,
+        "infected": -56.60377358490566
+      },
+      "relative": {
+        "recovered": 35.86497890295359,
+        "infected": 64.13502109704642
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0024006983297166695,
+        "recovered": 0.0008610099494764427,
+        "infected": 0.0015396883802402269
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.024006983297166697,
+        "recovered": 0.008610099494764427,
+        "infected": 0.01539688380240227
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.24006983297166695,
+        "recovered": 0.08610099494764427,
+        "infected": 0.1539688380240227
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "b80c8d13204b457cd9e77bf4566cd260",
+    "day_index_1": 72,
+    "day_index_10": 58,
+    "day_index_100": 13,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 240,
+        "recovered": 90,
+        "infected": 150
+      },
+      "delta": {
+        "confirmed": 3,
+        "recovered": 5,
+        "infected": -2
+      },
+      "delta_pct": {
+        "confirmed": 1.2658227848101267,
+        "recovered": 5.882352941176471,
+        "infected": -1.3157894736842106
+      },
+      "peak_pct": {
+        "confirmed": 22.058823529411764,
+        "recovered": 40.32258064516129,
+        "infected": -18.867924528301888
+      },
+      "relative": {
+        "recovered": 37.5,
+        "infected": 62.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0024310869161687796,
+        "recovered": 0.0009116575935632922,
+        "infected": 0.0015194293226054871
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.024310869161687794,
+        "recovered": 0.009116575935632922,
+        "infected": 0.01519429322605487
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.24310869161687795,
+        "recovered": 0.09116575935632923,
+        "infected": 0.15194293226054872
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "e1bbf2c336487592db6db4f651e49e78",
+    "day_index_1": 73,
+    "day_index_10": 59,
+    "day_index_100": 14,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 241,
+        "recovered": 90,
+        "infected": 151
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 0.4166666666666667,
+        "infected": 0.6666666666666666
+      },
+      "peak_pct": {
+        "confirmed": 7.352941176470589,
+        "infected": 9.433962264150944
+      },
+      "relative": {
+        "recovered": 37.344398340248965,
+        "infected": 62.655601659751035
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0024412164449861494,
+        "recovered": 0.0009116575935632922,
+        "infected": 0.001529558851422857
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.024412164449861495,
+        "recovered": 0.009116575935632922,
+        "infected": 0.01529558851422857
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.24412164449861495,
+        "recovered": 0.09116575935632923,
+        "infected": 0.1529558851422857
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "40048dc5c4bfa6a87293079cef7d1e14",
+    "day_index_1": 74,
+    "day_index_10": 60,
+    "day_index_100": 15,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 245,
+        "recovered": 95,
+        "infected": 150
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 5,
+        "infected": -1
+      },
+      "delta_pct": {
+        "confirmed": 1.6597510373443984,
+        "recovered": 5.555555555555555,
+        "infected": -0.6622516556291391
+      },
+      "peak_pct": {
+        "confirmed": 29.411764705882355,
+        "recovered": 40.32258064516129,
+        "infected": -9.433962264150944
+      },
+      "relative": {
+        "recovered": 38.775510204081634,
+        "infected": 61.224489795918366
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002481734560255629,
+        "recovered": 0.0009623052376501419,
+        "infected": 0.0015194293226054871
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.02481734560255629,
+        "recovered": 0.009623052376501419,
+        "infected": 0.01519429322605487
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2481734560255629,
+        "recovered": 0.09623052376501419,
+        "infected": 0.15194293226054872
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "33b3bd65a9fb9501d8be517b6b4b69e7",
+    "day_index_1": 75,
+    "day_index_10": 61,
+    "day_index_100": 16,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 249,
+        "recovered": 123,
+        "infected": 126
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 28,
+        "infected": -24
+      },
+      "delta_pct": {
+        "confirmed": 1.6326530612244898,
+        "recovered": 29.473684210526315,
+        "infected": -16
+      },
+      "peak_pct": {
+        "confirmed": 29.411764705882355,
+        "recovered": 225.8064516129032,
+        "infected": -226.41509433962264
+      },
+      "relative": {
+        "recovered": 49.39759036144578,
+        "infected": 50.602409638554214
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0025222526755251085,
+        "recovered": 0.0012459320445364994,
+        "infected": 0.001276320630988609
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.025222526755251086,
+        "recovered": 0.012459320445364994,
+        "infected": 0.012763206309886092
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.25222526755251085,
+        "recovered": 0.12459320445364994,
+        "infected": 0.1276320630988609
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "5fb93c4da340c37a66c43d09e9c66a35",
+    "day_index_1": 76,
+    "day_index_10": 62,
+    "day_index_100": 17,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 13
+  }
+]

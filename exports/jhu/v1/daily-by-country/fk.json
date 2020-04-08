@@ -1,0 +1,67 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "0207fd22029e3cd44c53e248f8baab82",
+      "type": "total-country",
+      "label": "Falkland Islands",
+      "country": "Falkland Islands",
+      "country_code": "FK",
+      "country_latlong": [
+        -51.75,
+        -59
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        -51.75,
+        -59
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6253908692933083,
+        "infected": 0.6253908692933083
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.253908692933083,
+        "infected": 6.253908692933083
+      },
+      "absolute_pop100k": {
+        "confirmed": 62.539086929330836,
+        "infected": 62.539086929330836
+      }
+    },
+    "factbook": {
+      "population": 3198,
+      "death_rate": 4.9,
+      "area": 12173
+    },
+    "data_key": "04b43d0fe34ba09039b6ea46dfce4081",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": null,
+    "day_index_peak_deaths": null,
+    "day_index_peak": null
+  }
+]

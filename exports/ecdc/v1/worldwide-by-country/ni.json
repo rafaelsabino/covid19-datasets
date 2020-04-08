@@ -1,0 +1,539 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "887f0e1d4773d1aae1416e8d95baab61",
+      "type": "total-country",
+      "label": "Nicaragua",
+      "country": "Nicaragua",
+      "country_code": "NI",
+      "country_latlong": [
+        13,
+        -85
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13,
+        -85
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00016120085610550662,
+        "infected": 0.00016120085610550662
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0016120085610550662,
+        "infected": 0.0016120085610550662
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.01612008561055066,
+        "infected": 0.01612008561055066
+      }
+    },
+    "factbook": {
+      "population": 6203441,
+      "median_age": 27.3,
+      "death_rate": 5.2,
+      "area": 130370
+    },
+    "data_key": "c944572729a7d69aa46decf842012263",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "887f0e1d4773d1aae1416e8d95baab61",
+      "type": "total-country",
+      "label": "Nicaragua",
+      "country": "Nicaragua",
+      "country_code": "NI",
+      "country_latlong": [
+        13,
+        -85
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13,
+        -85
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 84
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00032240171221101325,
+        "infected": 0.00032240171221101325
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0032240171221101324,
+        "infected": 0.0032240171221101324
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.03224017122110132,
+        "infected": 0.03224017122110132
+      }
+    },
+    "factbook": {
+      "population": 6203441,
+      "median_age": 27.3,
+      "death_rate": 5.2,
+      "area": 130370
+    },
+    "data_key": "d684ecab996a445b2d92fa7770440f71",
+    "day_index_1": 5,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "887f0e1d4773d1aae1416e8d95baab61",
+      "type": "total-country",
+      "label": "Nicaragua",
+      "country": "Nicaragua",
+      "country_code": "NI",
+      "country_latlong": [
+        13,
+        -85
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13,
+        -85
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 89
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "deaths": 1,
+        "infected": 1
+      },
+      "delta": {
+        "deaths": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -50
+      },
+      "peak_pct": {
+        "infected": -100
+      },
+      "relative": {
+        "deaths": 50,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00032240171221101325,
+        "deaths": 0.00016120085610550662,
+        "infected": 0.00016120085610550662
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0032240171221101324,
+        "deaths": 0.0016120085610550662,
+        "infected": 0.0016120085610550662
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.03224017122110132,
+        "deaths": 0.01612008561055066,
+        "infected": 0.01612008561055066
+      }
+    },
+    "factbook": {
+      "population": 6203441,
+      "median_age": 27.3,
+      "death_rate": 5.2,
+      "area": 130370
+    },
+    "data_key": "9b34e32c056c9aba6fcd271c2f9c8907",
+    "day_index_1": 10,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "887f0e1d4773d1aae1416e8d95baab61",
+      "type": "total-country",
+      "label": "Nicaragua",
+      "country": "Nicaragua",
+      "country_code": "NI",
+      "country_latlong": [
+        13,
+        -85
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13,
+        -85
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 90
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "deaths": 1,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00048360256831651984,
+        "deaths": 0.00016120085610550662,
+        "infected": 0.00032240171221101325
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004836025683165199,
+        "deaths": 0.0016120085610550662,
+        "infected": 0.0032240171221101324
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04836025683165199,
+        "deaths": 0.01612008561055066,
+        "infected": 0.03224017122110132
+      }
+    },
+    "factbook": {
+      "population": 6203441,
+      "median_age": 27.3,
+      "death_rate": 5.2,
+      "area": 130370
+    },
+    "data_key": "7f3c5d4096225eab93d547b7bfd7d0f8",
+    "day_index_1": 11,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "887f0e1d4773d1aae1416e8d95baab61",
+      "type": "total-country",
+      "label": "Nicaragua",
+      "country": "Nicaragua",
+      "country_code": "NI",
+      "country_latlong": [
+        13,
+        -85
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13,
+        -85
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 92
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "deaths": 1,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006448034244220265,
+        "deaths": 0.00016120085610550662,
+        "infected": 0.00048360256831651984
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.006448034244220265,
+        "deaths": 0.0016120085610550662,
+        "infected": 0.004836025683165199
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.06448034244220265,
+        "deaths": 0.01612008561055066,
+        "infected": 0.04836025683165199
+      }
+    },
+    "factbook": {
+      "population": 6203441,
+      "median_age": 27.3,
+      "death_rate": 5.2,
+      "area": 130370
+    },
+    "data_key": "a413bb3fb7e44f37ecf19ff1b27da92b",
+    "day_index_1": 13,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "887f0e1d4773d1aae1416e8d95baab61",
+      "type": "total-country",
+      "label": "Nicaragua",
+      "country": "Nicaragua",
+      "country_code": "NI",
+      "country_latlong": [
+        13,
+        -85
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13,
+        -85
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 93
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "deaths": 1,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 20,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0008060042805275331,
+        "deaths": 0.00016120085610550662,
+        "infected": 0.0006448034244220265
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00806004280527533,
+        "deaths": 0.0016120085610550662,
+        "infected": 0.006448034244220265
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0806004280527533,
+        "deaths": 0.01612008561055066,
+        "infected": 0.06448034244220265
+      }
+    },
+    "factbook": {
+      "population": 6203441,
+      "median_age": 27.3,
+      "death_rate": 5.2,
+      "area": 130370
+    },
+    "data_key": "3a080c9cb9b222c9bf3226ef38b9cb3b",
+    "day_index_1": 14,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "887f0e1d4773d1aae1416e8d95baab61",
+      "type": "total-country",
+      "label": "Nicaragua",
+      "country": "Nicaragua",
+      "country_code": "NI",
+      "country_latlong": [
+        13,
+        -85
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13,
+        -85
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 99
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 1,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 20,
+        "infected": 25
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0009672051366330397,
+        "deaths": 0.00016120085610550662,
+        "infected": 0.0008060042805275331
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.009672051366330398,
+        "deaths": 0.0016120085610550662,
+        "infected": 0.00806004280527533
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.09672051366330398,
+        "deaths": 0.01612008561055066,
+        "infected": 0.0806004280527533
+      }
+    },
+    "factbook": {
+      "population": 6203441,
+      "median_age": 27.3,
+      "death_rate": 5.2,
+      "area": 130370
+    },
+    "data_key": "2ff9aa77918094f1af4535cabb90b65a",
+    "day_index_1": 20,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
+  }
+]

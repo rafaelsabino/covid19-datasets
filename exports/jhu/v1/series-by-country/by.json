@@ -1,0 +1,1916 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 28,
+      "date": "2020-02-28",
+      "timestamp": 1582848000,
+      "index": 38
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 0.9124087591240877,
+        "infected": 0.9310986964618249
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00010550840384987504,
+        "infected": 0.00010550840384987504
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0010550840384987504,
+        "infected": 0.0010550840384987504
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.010550840384987504,
+        "infected": 0.010550840384987504
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "34f6ea2f87c7bea0e949ba4bda16b716",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -35,
+    "day_index_peak_deaths": -34,
+    "day_index_peak": -34
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "date": "2020-03-04",
+      "timestamp": 1583280000,
+      "index": 43
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 500,
+        "infected": 500
+      },
+      "peak_pct": {
+        "confirmed": 4.562043795620438,
+        "infected": 4.655493482309125
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006330504230992503,
+        "infected": 0.0006330504230992503
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.006330504230992504,
+        "infected": 0.006330504230992504
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.06330504230992504,
+        "infected": 0.06330504230992504
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "34a33df3d59d6d3382f338a54f19a532",
+    "day_index_1": 6,
+    "day_index_peak_confirmed": -30,
+    "day_index_peak_deaths": -29,
+    "day_index_peak": -29
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "date": "2020-03-09",
+      "timestamp": 1583712000,
+      "index": 48
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "recovered": 1,
+        "infected": 5
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -16.666666666666668
+      },
+      "peak_pct": {
+        "recovered": 15.151515151515152,
+        "infected": -0.9310986964618249
+      },
+      "relative": {
+        "recovered": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006330504230992503,
+        "recovered": 0.00010550840384987504,
+        "infected": 0.0005275420192493753
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.006330504230992504,
+        "recovered": 0.0010550840384987504,
+        "infected": 0.005275420192493753
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.06330504230992504,
+        "recovered": 0.010550840384987504,
+        "infected": 0.05275420192493753
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "bc222843b6186f99ab52fa8f8ac282d2",
+    "day_index_1": 11,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9,
+        "recovered": 3,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 3,
+        "recovered": 2,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "recovered": 200,
+        "infected": 20
+      },
+      "peak_pct": {
+        "confirmed": 2.737226277372263,
+        "recovered": 30.303030303030305,
+        "infected": 0.9310986964618249
+      },
+      "relative": {
+        "recovered": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0009495756346488755,
+        "recovered": 0.00031652521154962516,
+        "infected": 0.0006330504230992503
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.009495756346488755,
+        "recovered": 0.003165252115496252,
+        "infected": 0.006330504230992504
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.09495756346488755,
+        "recovered": 0.03165252115496252,
+        "infected": 0.06330504230992504
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "0c496008bd2973e984e6a69b26de24c1",
+    "day_index_1": 12,
+    "day_index_peak_confirmed": -24,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -23
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 51
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 12,
+        "recovered": 3,
+        "infected": 9
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 2.737226277372263,
+        "infected": 2.793296089385475
+      },
+      "relative": {
+        "recovered": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0012661008461985006,
+        "recovered": 0.00031652521154962516,
+        "infected": 0.0009495756346488755
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.012661008461985007,
+        "recovered": 0.003165252115496252,
+        "infected": 0.009495756346488755
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.12661008461985007,
+        "recovered": 0.03165252115496252,
+        "infected": 0.09495756346488755
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "01d1ee07da5589c437562f7015cd573a",
+    "day_index_1": 14,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 27,
+        "recovered": 3,
+        "infected": 24
+      },
+      "delta": {
+        "confirmed": 15,
+        "infected": 15
+      },
+      "delta_pct": {
+        "confirmed": 125,
+        "infected": 166.66666666666666
+      },
+      "peak_pct": {
+        "confirmed": 13.686131386861314,
+        "infected": 13.966480446927374
+      },
+      "relative": {
+        "recovered": 11.11111111111111,
+        "infected": 88.88888888888889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0028487269039466265,
+        "recovered": 0.00031652521154962516,
+        "infected": 0.0025322016923970013
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.028487269039466266,
+        "recovered": 0.003165252115496252,
+        "infected": 0.025322016923970014
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2848726903946627,
+        "recovered": 0.03165252115496252,
+        "infected": 0.25322016923970014
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "13d182a6f86f9728fccbaf42f3989859",
+    "day_index_1": 15,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -21,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 36,
+        "recovered": 3,
+        "infected": 33
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 37.5
+      },
+      "peak_pct": {
+        "confirmed": 8.211678832116789,
+        "infected": 8.379888268156424
+      },
+      "relative": {
+        "recovered": 8.333333333333332,
+        "infected": 91.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.003798302538595502,
+        "recovered": 0.00031652521154962516,
+        "infected": 0.0034817773270458766
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03798302538595502,
+        "recovered": 0.003165252115496252,
+        "infected": 0.03481777327045876
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3798302538595502,
+        "recovered": 0.03165252115496252,
+        "infected": 0.3481777327045877
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "88be05c7cd0a8d75d3b8335cecd71177",
+    "day_index_1": 18,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 51,
+        "recovered": 5,
+        "infected": 46
+      },
+      "delta": {
+        "confirmed": 15,
+        "recovered": 2,
+        "infected": 13
+      },
+      "delta_pct": {
+        "confirmed": 41.666666666666664,
+        "recovered": 66.66666666666667,
+        "infected": 39.39393939393939
+      },
+      "peak_pct": {
+        "confirmed": 13.686131386861314,
+        "recovered": 30.303030303030305,
+        "infected": 12.104283054003725
+      },
+      "relative": {
+        "recovered": 9.803921568627452,
+        "infected": 90.19607843137256
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005380928596343627,
+        "recovered": 0.0005275420192493753,
+        "infected": 0.004853386577094252
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.053809285963436274,
+        "recovered": 0.005275420192493753,
+        "infected": 0.04853386577094252
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5380928596343627,
+        "recovered": 0.05275420192493753,
+        "infected": 0.4853386577094252
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "2c3de5b94d131ef7e07772421b4a1711",
+    "day_index_1": 20,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 69,
+        "recovered": 5,
+        "infected": 64
+      },
+      "delta": {
+        "confirmed": 18,
+        "infected": 18
+      },
+      "delta_pct": {
+        "confirmed": 35.294117647058826,
+        "infected": 39.130434782608695
+      },
+      "peak_pct": {
+        "confirmed": 16.423357664233578,
+        "infected": 16.75977653631285
+      },
+      "relative": {
+        "recovered": 7.246376811594203,
+        "infected": 92.7536231884058
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007280079865641378,
+        "recovered": 0.0005275420192493753,
+        "infected": 0.006752537846392003
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.07280079865641378,
+        "recovered": 0.005275420192493753,
+        "infected": 0.06752537846392002
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7280079865641378,
+        "recovered": 0.05275420192493753,
+        "infected": 0.6752537846392003
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "f9d3bdeb7672293a478f05d9f5ec93f4",
+    "day_index_1": 22,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 76,
+        "recovered": 15,
+        "infected": 61
+      },
+      "delta": {
+        "confirmed": 7,
+        "recovered": 10,
+        "infected": -3
+      },
+      "delta_pct": {
+        "confirmed": 10.144927536231885,
+        "recovered": 200,
+        "infected": -4.6875
+      },
+      "peak_pct": {
+        "confirmed": 6.386861313868613,
+        "recovered": 151.5151515151515,
+        "infected": -2.793296089385475
+      },
+      "relative": {
+        "recovered": 19.736842105263158,
+        "infected": 80.26315789473685
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.008018638692590504,
+        "recovered": 0.0015826260577481257,
+        "infected": 0.006436012634842378
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.08018638692590505,
+        "recovered": 0.015826260577481256,
+        "infected": 0.06436012634842378
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8018638692590504,
+        "recovered": 0.15826260577481258,
+        "infected": 0.6436012634842379
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "e7e03937786ff06f92291738560078bb",
+    "day_index_1": 23,
+    "day_index_10": 10,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 81,
+        "recovered": 15,
+        "infected": 66
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 6.578947368421052,
+        "infected": 8.19672131147541
+      },
+      "peak_pct": {
+        "confirmed": 4.562043795620438,
+        "infected": 4.655493482309125
+      },
+      "relative": {
+        "recovered": 18.51851851851852,
+        "infected": 81.48148148148148
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00854618071183988,
+        "recovered": 0.0015826260577481257,
+        "infected": 0.006963554654091753
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.08546180711839879,
+        "recovered": 0.015826260577481256,
+        "infected": 0.06963554654091753
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8546180711839879,
+        "recovered": 0.15826260577481258,
+        "infected": 0.6963554654091754
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "ede29700bb74d313e8436af60cbd8ed1",
+    "day_index_1": 25,
+    "day_index_10": 12,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 81,
+        "recovered": 22,
+        "infected": 59
+      },
+      "delta": {
+        "recovered": 7,
+        "infected": -7
+      },
+      "delta_pct": {
+        "recovered": 46.666666666666664,
+        "infected": -10.606060606060606
+      },
+      "peak_pct": {
+        "recovered": 106.06060606060606,
+        "infected": -6.517690875232775
+      },
+      "relative": {
+        "recovered": 27.160493827160494,
+        "infected": 72.8395061728395
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00854618071183988,
+        "recovered": 0.0023211848846972512,
+        "infected": 0.006224995827142628
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.08546180711839879,
+        "recovered": 0.023211848846972513,
+        "infected": 0.062249958271426285
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8546180711839879,
+        "recovered": 0.23211848846972513,
+        "infected": 0.6224995827142629
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "33d3379f12ed11ff0b4e8f2fc23f7a27",
+    "day_index_1": 26,
+    "day_index_10": 13,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 86,
+        "recovered": 29,
+        "infected": 57
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 7,
+        "infected": -2
+      },
+      "delta_pct": {
+        "confirmed": 6.172839506172839,
+        "recovered": 31.818181818181817,
+        "infected": -3.389830508474576
+      },
+      "peak_pct": {
+        "confirmed": 4.562043795620438,
+        "recovered": 106.06060606060606,
+        "infected": -1.8621973929236497
+      },
+      "relative": {
+        "recovered": 33.72093023255814,
+        "infected": 66.27906976744185
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009073722731089254,
+        "recovered": 0.0030597437116463766,
+        "infected": 0.006013979019442878
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09073722731089254,
+        "recovered": 0.030597437116463767,
+        "infected": 0.06013979019442878
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9073722731089254,
+        "recovered": 0.30597437116463766,
+        "infected": 0.6013979019442878
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "217a4ca6883511a1c87d1471c7218e15",
+    "day_index_1": 27,
+    "day_index_10": 14,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 94,
+        "recovered": 32,
+        "infected": 62
+      },
+      "delta": {
+        "confirmed": 8,
+        "recovered": 3,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 9.30232558139535,
+        "recovered": 10.344827586206897,
+        "infected": 8.771929824561404
+      },
+      "peak_pct": {
+        "confirmed": 7.299270072992702,
+        "recovered": 45.45454545454546,
+        "infected": 4.655493482309125
+      },
+      "relative": {
+        "recovered": 34.04255319148936,
+        "infected": 65.95744680851064
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009917789961888255,
+        "recovered": 0.0033762689231960014,
+        "infected": 0.006541521038692253
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09917789961888254,
+        "recovered": 0.03376268923196001,
+        "infected": 0.06541521038692254
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9917789961888255,
+        "recovered": 0.33762689231960014,
+        "infected": 0.6541521038692253
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "2aa312a65119ccffedf4688fd975e325",
+    "day_index_1": 29,
+    "day_index_10": 16,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 152,
+        "recovered": 32,
+        "infected": 120
+      },
+      "delta": {
+        "confirmed": 58,
+        "infected": 58
+      },
+      "delta_pct": {
+        "confirmed": 61.702127659574465,
+        "infected": 93.54838709677419
+      },
+      "peak_pct": {
+        "confirmed": 52.91970802919709,
+        "infected": 54.00372439478585
+      },
+      "relative": {
+        "recovered": 21.052631578947366,
+        "infected": 78.94736842105263
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.016037277385181008,
+        "recovered": 0.0033762689231960014,
+        "infected": 0.012661008461985005
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1603727738518101,
+        "recovered": 0.03376268923196001,
+        "infected": 0.12661008461985004
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.6037277385181008,
+        "recovered": 0.33762689231960014,
+        "infected": 1.2661008461985006
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "0a0c9330261a7878a362237f3689c837",
+    "day_index_1": 32,
+    "day_index_10": 19,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 152,
+        "deaths": 1,
+        "recovered": 47,
+        "infected": 104
+      },
+      "delta": {
+        "recovered": 15,
+        "deaths": 1,
+        "infected": -16
+      },
+      "delta_pct": {
+        "recovered": 46.875,
+        "infected": -13.333333333333334
+      },
+      "peak_pct": {
+        "recovered": 227.27272727272728,
+        "deaths": 62.5,
+        "infected": -14.897579143389198
+      },
+      "relative": {
+        "deaths": 0.6578947368421052,
+        "recovered": 30.92105263157895,
+        "infected": 68.42105263157895
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.016037277385181008,
+        "recovered": 0.004958894980944127,
+        "deaths": 0.00010550840384987504,
+        "infected": 0.010972874000387005
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1603727738518101,
+        "recovered": 0.04958894980944127,
+        "deaths": 0.0010550840384987504,
+        "infected": 0.10972874000387005
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.6037277385181008,
+        "recovered": 0.49588949809441274,
+        "deaths": 0.010550840384987504,
+        "infected": 1.0972874000387005
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "caa49b5e2b5e46491b01865a5afe2d3f",
+    "day_index_1": 33,
+    "day_index_10": 20,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 163,
+        "deaths": 2,
+        "recovered": 53,
+        "infected": 108
+      },
+      "delta": {
+        "confirmed": 11,
+        "recovered": 6,
+        "deaths": 1,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 7.2368421052631575,
+        "recovered": 12.76595744680851,
+        "infected": 3.8461538461538463,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 10.036496350364963,
+        "recovered": 90.90909090909092,
+        "deaths": 62.5,
+        "infected": 3.7243947858472994
+      },
+      "relative": {
+        "deaths": 1.2269938650306749,
+        "recovered": 32.515337423312886,
+        "infected": 66.25766871165644
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.017197869827529633,
+        "recovered": 0.005591945404043378,
+        "deaths": 0.0002110168076997501,
+        "infected": 0.011394907615786506
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.17197869827529633,
+        "recovered": 0.055919454040433775,
+        "deaths": 0.0021101680769975008,
+        "infected": 0.11394907615786506
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.7197869827529633,
+        "recovered": 0.5591945404043378,
+        "deaths": 0.02110168076997501,
+        "infected": 1.1394907615786507
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "6143db04e027cd6a2b3b6cf5d70e1930",
+    "day_index_1": 34,
+    "day_index_10": 21,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 304,
+        "deaths": 4,
+        "recovered": 53,
+        "infected": 247
+      },
+      "delta": {
+        "confirmed": 141,
+        "deaths": 2,
+        "infected": 139
+      },
+      "delta_pct": {
+        "confirmed": 86.50306748466258,
+        "infected": 128.7037037037037,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 128.64963503649636,
+        "deaths": 125,
+        "infected": 129.42271880819368
+      },
+      "relative": {
+        "deaths": 1.3157894736842104,
+        "recovered": 17.434210526315788,
+        "infected": 81.25
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.032074554770362015,
+        "recovered": 0.005591945404043378,
+        "deaths": 0.0004220336153995002,
+        "infected": 0.02606057575091914
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3207455477036202,
+        "recovered": 0.055919454040433775,
+        "deaths": 0.0042203361539950015,
+        "infected": 0.2606057575091914
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.2074554770362016,
+        "recovered": 0.5591945404043378,
+        "deaths": 0.04220336153995002,
+        "infected": 2.606057575091914
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "8e417979bcd895a63fb114a285536601",
+    "day_index_1": 35,
+    "day_index_10": 22,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -0
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 351,
+        "deaths": 4,
+        "recovered": 53,
+        "infected": 294
+      },
+      "delta": {
+        "confirmed": 47,
+        "infected": 47
+      },
+      "delta_pct": {
+        "confirmed": 15.460526315789474,
+        "infected": 19.02834008097166
+      },
+      "peak_pct": {
+        "confirmed": 42.88321167883212,
+        "infected": 43.76163873370577
+      },
+      "relative": {
+        "deaths": 1.1396011396011396,
+        "recovered": 15.0997150997151,
+        "infected": 83.76068376068376
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.037033449751306145,
+        "recovered": 0.005591945404043378,
+        "deaths": 0.0004220336153995002,
+        "infected": 0.031019470731863265
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.37033449751306147,
+        "recovered": 0.055919454040433775,
+        "deaths": 0.0042203361539950015,
+        "infected": 0.31019470731863263
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.7033449751306144,
+        "recovered": 0.5591945404043378,
+        "deaths": 0.04220336153995002,
+        "infected": 3.1019470731863263
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "9a20ebb0d3e1ecd4725869387f9f39f5",
+    "day_index_1": 36,
+    "day_index_10": 23,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 440,
+        "deaths": 5,
+        "recovered": 53,
+        "infected": 382
+      },
+      "delta": {
+        "confirmed": 89,
+        "deaths": 1,
+        "infected": 88
+      },
+      "delta_pct": {
+        "confirmed": 25.356125356125357,
+        "infected": 29.931972789115648,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 81.20437956204381,
+        "deaths": 62.5,
+        "infected": 81.93668528864059
+      },
+      "relative": {
+        "deaths": 1.1363636363636365,
+        "recovered": 12.045454545454545,
+        "infected": 86.81818181818181
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04642369769394502,
+        "recovered": 0.005591945404043378,
+        "deaths": 0.0005275420192493753,
+        "infected": 0.04030421027065227
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4642369769394502,
+        "recovered": 0.055919454040433775,
+        "deaths": 0.005275420192493753,
+        "infected": 0.40304210270652274
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.642369769394502,
+        "recovered": 0.5591945404043378,
+        "deaths": 0.05275420192493753,
+        "infected": 4.030421027065227
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "7d165d511c28e5fb3f862bed18525512",
+    "day_index_1": 37,
+    "day_index_10": 24,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 562,
+        "deaths": 8,
+        "recovered": 52,
+        "infected": 502
+      },
+      "delta": {
+        "confirmed": 122,
+        "recovered": -1,
+        "deaths": 3,
+        "infected": 120
+      },
+      "delta_pct": {
+        "confirmed": 27.727272727272727,
+        "recovered": -1.8867924528301887,
+        "infected": 31.413612565445025,
+        "deaths": 60
+      },
+      "peak_pct": {
+        "confirmed": 111.3138686131387,
+        "recovered": -15.151515151515152,
+        "deaths": 187.5,
+        "infected": 111.73184357541899
+      },
+      "relative": {
+        "deaths": 1.4234875444839856,
+        "recovered": 9.252669039145907,
+        "infected": 89.32384341637011
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.059295722963629775,
+        "recovered": 0.005486437000193503,
+        "deaths": 0.0008440672307990003,
+        "infected": 0.05296521873263727
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.5929572296362977,
+        "recovered": 0.054864370001935024,
+        "deaths": 0.008440672307990003,
+        "infected": 0.5296521873263728
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.929572296362977,
+        "recovered": 0.5486437000193503,
+        "deaths": 0.08440672307990003,
+        "infected": 5.296521873263727
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "7c47b0c79f56b3338a6f8d8ec5713879",
+    "day_index_1": 38,
+    "day_index_10": 25,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 700,
+        "deaths": 13,
+        "recovered": 53,
+        "infected": 634
+      },
+      "delta": {
+        "confirmed": 138,
+        "recovered": 1,
+        "deaths": 5,
+        "infected": 132
+      },
+      "delta_pct": {
+        "confirmed": 24.555160142348754,
+        "recovered": 1.9230769230769231,
+        "infected": 26.294820717131476,
+        "deaths": 62.5
+      },
+      "peak_pct": {
+        "confirmed": 125.91240875912408,
+        "recovered": 15.151515151515152,
+        "deaths": 312.5,
+        "infected": 122.90502793296089
+      },
+      "relative": {
+        "deaths": 1.8571428571428572,
+        "recovered": 7.571428571428572,
+        "infected": 90.57142857142857
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07385588269491254,
+        "recovered": 0.005591945404043378,
+        "deaths": 0.0013716092500483756,
+        "infected": 0.06689232804082078
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7385588269491254,
+        "recovered": 0.055919454040433775,
+        "deaths": 0.013716092500483756,
+        "infected": 0.6689232804082078
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.3855882694912545,
+        "recovered": 0.5591945404043378,
+        "deaths": 0.13716092500483756,
+        "infected": 6.689232804082078
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "9a5237944d669d92940170628cc3d404",
+    "day_index_1": 39,
+    "day_index_10": 26,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "56538be50a852c5a648d7455df2b672f",
+      "type": "total-country",
+      "label": "Belarus",
+      "country": "Belarus",
+      "country_code": "BY",
+      "country_latlong": [
+        53,
+        28
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        53,
+        28
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 861,
+        "deaths": 13,
+        "recovered": 54,
+        "infected": 794
+      },
+      "delta": {
+        "confirmed": 161,
+        "recovered": 1,
+        "infected": 160
+      },
+      "delta_pct": {
+        "confirmed": 23,
+        "recovered": 1.8867924528301887,
+        "infected": 25.236593059936908
+      },
+      "peak_pct": {
+        "confirmed": 146.89781021897812,
+        "recovered": 15.151515151515152,
+        "infected": 148.975791433892
+      },
+      "relative": {
+        "deaths": 1.5098722415795587,
+        "recovered": 6.2717770034843205,
+        "infected": 92.21835075493613
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.09084273571474241,
+        "recovered": 0.005697453807893253,
+        "deaths": 0.0013716092500483756,
+        "infected": 0.08377367265680079
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.9084273571474242,
+        "recovered": 0.05697453807893253,
+        "deaths": 0.013716092500483756,
+        "infected": 0.8377367265680079
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.084273571474242,
+        "recovered": 0.5697453807893254,
+        "deaths": 0.13716092500483756,
+        "infected": 8.377367265680078
+      }
+    },
+    "factbook": {
+      "population": 9477918,
+      "median_age": 40.9,
+      "death_rate": 13.1,
+      "area": 207600
+    },
+    "data_key": "cf13b43aaad2cbafce740fbc4beadca0",
+    "day_index_1": 40,
+    "day_index_10": 27,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 4
+  }
+]

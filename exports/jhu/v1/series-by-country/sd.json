@@ -1,0 +1,972 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "deaths": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "deaths": 1
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "deaths": 100
+      },
+      "relative": {
+        "deaths": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.1948328542598502e-05,
+        "deaths": 2.1948328542598502e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.000219483285425985,
+        "deaths": 0.000219483285425985
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0021948328542598502,
+        "deaths": 0.0021948328542598502
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "aeffb7e0a0ceed601623f3559d706445",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "deaths": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "infected": 62.5
+      },
+      "relative": {
+        "deaths": 50,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.3896657085197005e-05,
+        "deaths": 2.1948328542598502e-05,
+        "infected": 2.1948328542598502e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00043896657085197,
+        "deaths": 0.000219483285425985,
+        "infected": 0.000219483285425985
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0043896657085197004,
+        "deaths": 0.0021948328542598502,
+        "infected": 0.0021948328542598502
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "9241b5a351e67dfeef3395b2dcc10aec",
+    "day_index_1": 6,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "deaths": 1,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "infected": 62.5
+      },
+      "relative": {
+        "deaths": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 6.584498562779551e-05,
+        "deaths": 2.1948328542598502e-05,
+        "infected": 4.3896657085197005e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0006584498562779552,
+        "deaths": 0.000219483285425985,
+        "infected": 0.00043896657085197
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0065844985627795515,
+        "deaths": 0.0021948328542598502,
+        "infected": 0.0043896657085197004
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "b1175b1d51a662885d0a047f2c0f91ef",
+    "day_index_1": 12,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "deaths": 1,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 66.66666666666667,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 125,
+        "infected": 125
+      },
+      "relative": {
+        "deaths": 20,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00010974164271299252,
+        "deaths": 2.1948328542598502e-05,
+        "infected": 8.779331417039401e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0010974164271299251,
+        "deaths": 0.000219483285425985,
+        "infected": 0.00087793314170394
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.010974164271299252,
+        "deaths": 0.0021948328542598502,
+        "infected": 0.008779331417039401
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "c1d120ea796f5307b27d194eb803b9ad",
+    "day_index_1": 16,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": 15,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 1,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 20,
+        "infected": 25
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "infected": 62.5
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00013168997125559103,
+        "deaths": 2.1948328542598502e-05,
+        "infected": 0.00010974164271299252
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0013168997125559104,
+        "deaths": 0.000219483285425985,
+        "infected": 0.0010974164271299251
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.013168997125559103,
+        "deaths": 0.0021948328542598502,
+        "infected": 0.010974164271299252
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "faf5996256b09d0ca7cf88e73b6536a6",
+    "day_index_1": 17,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": 16,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 2,
+        "infected": 4
+      },
+      "delta": {
+        "deaths": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -20,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "deaths": 100,
+        "infected": -62.5
+      },
+      "relative": {
+        "deaths": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00013168997125559103,
+        "deaths": 4.3896657085197005e-05,
+        "infected": 8.779331417039401e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0013168997125559104,
+        "deaths": 0.00043896657085197,
+        "infected": 0.00087793314170394
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.013168997125559103,
+        "deaths": 0.0043896657085197004,
+        "infected": 0.008779331417039401
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "2364b58398644aeb600608539bb08775",
+    "day_index_1": 18,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": 17,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "deaths": 2,
+        "recovered": 1,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 1
+      },
+      "delta_pct": {
+        "confirmed": 16.666666666666668
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "recovered": 100
+      },
+      "relative": {
+        "deaths": 28.57142857142857,
+        "recovered": 14.285714285714285,
+        "infected": 57.14285714285714
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00015363829979818952,
+        "recovered": 2.1948328542598502e-05,
+        "deaths": 4.3896657085197005e-05,
+        "infected": 8.779331417039401e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0015363829979818952,
+        "recovered": 0.000219483285425985,
+        "deaths": 0.00043896657085197,
+        "infected": 0.00087793314170394
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.015363829979818952,
+        "recovered": 0.0021948328542598502,
+        "deaths": 0.0043896657085197004,
+        "infected": 0.008779331417039401
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "12b79adaa7ec35beb70edb7cde17d95f",
+    "day_index_1": 19,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": 18,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "deaths": 2,
+        "recovered": 2,
+        "infected": 3
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 100,
+        "infected": -25
+      },
+      "peak_pct": {
+        "recovered": 100,
+        "infected": -62.5
+      },
+      "relative": {
+        "deaths": 28.57142857142857,
+        "recovered": 28.57142857142857,
+        "infected": 42.857142857142854
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00015363829979818952,
+        "recovered": 4.3896657085197005e-05,
+        "deaths": 4.3896657085197005e-05,
+        "infected": 6.584498562779551e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0015363829979818952,
+        "recovered": 0.00043896657085197,
+        "deaths": 0.00043896657085197,
+        "infected": 0.0006584498562779552
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.015363829979818952,
+        "recovered": 0.0043896657085197004,
+        "deaths": 0.0043896657085197004,
+        "infected": 0.0065844985627795515
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "94145642ae88ce964f663e33e4c072ee",
+    "day_index_1": 20,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 19,
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "deaths": 2,
+        "recovered": 2,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 14.285714285714286,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "infected": 62.5
+      },
+      "relative": {
+        "deaths": 25,
+        "recovered": 25,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00017558662834078802,
+        "recovered": 4.3896657085197005e-05,
+        "deaths": 4.3896657085197005e-05,
+        "infected": 8.779331417039401e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00175586628340788,
+        "recovered": 0.00043896657085197,
+        "deaths": 0.00043896657085197,
+        "infected": 0.00087793314170394
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.017558662834078802,
+        "recovered": 0.0043896657085197004,
+        "deaths": 0.0043896657085197004,
+        "infected": 0.008779331417039401
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "6915e5b33671ae47ba26710c86f579db",
+    "day_index_1": 21,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 20,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "deaths": 2,
+        "recovered": 2,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 125,
+        "infected": 125
+      },
+      "relative": {
+        "deaths": 20,
+        "recovered": 20,
+        "infected": 60
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00021948328542598504,
+        "recovered": 4.3896657085197005e-05,
+        "deaths": 4.3896657085197005e-05,
+        "infected": 0.00013168997125559103
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0021948328542598502,
+        "recovered": 0.00043896657085197,
+        "deaths": 0.00043896657085197,
+        "infected": 0.0013168997125559104
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.021948328542598504,
+        "recovered": 0.0043896657085197004,
+        "deaths": 0.0043896657085197004,
+        "infected": 0.013168997125559103
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "e1f25b9eb5c9bac3554da53664dbf70c",
+    "day_index_1": 22,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 21,
+    "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 12,
+        "deaths": 2,
+        "recovered": 2,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 20,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 125,
+        "infected": 125
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "recovered": 16.666666666666664,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00026337994251118206,
+        "recovered": 4.3896657085197005e-05,
+        "deaths": 4.3896657085197005e-05,
+        "infected": 0.00017558662834078802
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0026337994251118208,
+        "recovered": 0.00043896657085197,
+        "deaths": 0.00043896657085197,
+        "infected": 0.00175586628340788
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.026337994251118206,
+        "recovered": 0.0043896657085197004,
+        "deaths": 0.0043896657085197004,
+        "infected": 0.017558662834078802
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "f752f3804792c7e93a2ce1fbd8f5f14f",
+    "day_index_1": 24,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 23,
+    "day_index_peak": 13
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "52232275f155d8b9dbb46455c62fd0f5",
+      "type": "total-country",
+      "label": "Sudan",
+      "country": "Sudan",
+      "country_code": "SD",
+      "country_latlong": [
+        15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 14,
+        "deaths": 2,
+        "recovered": 2,
+        "infected": 10
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 16.666666666666668,
+        "infected": 25
+      },
+      "peak_pct": {
+        "confirmed": 125,
+        "infected": 125
+      },
+      "relative": {
+        "deaths": 14.285714285714285,
+        "recovered": 14.285714285714285,
+        "infected": 71.42857142857143
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00030727659959637905,
+        "recovered": 4.3896657085197005e-05,
+        "deaths": 4.3896657085197005e-05,
+        "infected": 0.00021948328542598504
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0030727659959637905,
+        "recovered": 0.00043896657085197,
+        "deaths": 0.00043896657085197,
+        "infected": 0.0021948328542598502
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.030727659959637905,
+        "recovered": 0.0043896657085197004,
+        "deaths": 0.0043896657085197004,
+        "infected": 0.021948328542598504
+      }
+    },
+    "factbook": {
+      "population": 45561556,
+      "median_age": 18.3,
+      "death_rate": 6.5,
+      "area": 1861484
+    },
+    "data_key": "c82cee2c6964561cf32f25bb4074b1ac",
+    "day_index_1": 26,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 25,
+    "day_index_peak": 15
+  }
+]

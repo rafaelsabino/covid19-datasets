@@ -1,0 +1,2413 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "peak_pct": {
+        "confirmed": 11.695906432748536,
+        "infected": 12.820512820512823
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0005741435321511048,
+        "infected": 0.0005741435321511048
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.005741435321511048,
+        "infected": 0.005741435321511048
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.05741435321511048,
+        "infected": 0.05741435321511048
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "1e2d79018f36c1f954d3a9b75bc84408",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "deaths": 1,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 3,
+        "deaths": 1,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 75,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 8.771929824561402,
+        "deaths": 35.714285714285715,
+        "infected": 6.4102564102564115
+      },
+      "relative": {
+        "deaths": 14.285714285714285,
+        "infected": 85.71428571428571
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0010047511812644333,
+        "deaths": 0.0001435358830377762,
+        "infected": 0.0008612152982266572
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.010047511812644332,
+        "deaths": 0.001435358830377762,
+        "infected": 0.008612152982266572
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.10047511812644333,
+        "deaths": 0.01435358830377762,
+        "infected": 0.08612152982266572
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "34e507c4efef1dc898610d4daf2acd07",
+    "day_index_1": 4,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -22,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 23,
+        "deaths": 1,
+        "infected": 22
+      },
+      "delta": {
+        "confirmed": 16,
+        "infected": 16
+      },
+      "delta_pct": {
+        "confirmed": 228.57142857142858,
+        "infected": 266.6666666666667
+      },
+      "peak_pct": {
+        "confirmed": 46.783625730994146,
+        "infected": 51.28205128205129
+      },
+      "relative": {
+        "deaths": 4.3478260869565215,
+        "infected": 95.65217391304348
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0033013253098688527,
+        "deaths": 0.0001435358830377762,
+        "infected": 0.0031577894268310764
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03301325309868853,
+        "deaths": 0.001435358830377762,
+        "infected": 0.031577894268310765
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3301325309868853,
+        "deaths": 0.01435358830377762,
+        "infected": 0.31577894268310763
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "242d11eea99df6b8f3f3101fd556f698",
+    "day_index_1": 6,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 41,
+        "deaths": 2,
+        "infected": 39
+      },
+      "delta": {
+        "confirmed": 18,
+        "deaths": 1,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 78.26086956521739,
+        "infected": 77.27272727272727,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 52.63157894736842,
+        "deaths": 35.714285714285715,
+        "infected": 54.487179487179496
+      },
+      "relative": {
+        "deaths": 4.878048780487805,
+        "infected": 95.1219512195122
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005884971204548824,
+        "deaths": 0.0002870717660755524,
+        "infected": 0.0055978994384732715
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.058849712045488244,
+        "deaths": 0.002870717660755524,
+        "infected": 0.055978994384732715
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5884971204548824,
+        "deaths": 0.02870717660755524,
+        "infected": 0.5597899438473272
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "66ffe95768347645e3197f025c4da87d",
+    "day_index_1": 7,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -19,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 51,
+        "deaths": 2,
+        "infected": 49
+      },
+      "delta": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 24.390243902439025,
+        "infected": 25.641025641025642
+      },
+      "peak_pct": {
+        "confirmed": 29.239766081871345,
+        "infected": 32.05128205128205
+      },
+      "relative": {
+        "deaths": 3.9215686274509802,
+        "infected": 96.07843137254902
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007320330034926586,
+        "deaths": 0.0002870717660755524,
+        "infected": 0.007033258268851034
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.07320330034926587,
+        "deaths": 0.002870717660755524,
+        "infected": 0.07033258268851034
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7320330034926585,
+        "deaths": 0.02870717660755524,
+        "infected": 0.7033258268851034
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "98de28713a9170c893d7b6574ec04cf8",
+    "day_index_1": 8,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 52,
+        "deaths": 2,
+        "infected": 50
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 1.9607843137254901,
+        "infected": 2.0408163265306123
+      },
+      "peak_pct": {
+        "confirmed": 2.923976608187134,
+        "infected": 3.2051282051282057
+      },
+      "relative": {
+        "deaths": 3.8461538461538463,
+        "infected": 96.15384615384616
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007463865917964363,
+        "deaths": 0.0002870717660755524,
+        "infected": 0.00717679415188881
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.07463865917964363,
+        "deaths": 0.002870717660755524,
+        "infected": 0.0717679415188881
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7463865917964363,
+        "deaths": 0.02870717660755524,
+        "infected": 0.717679415188881
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "ee1662f0c207e08e4ba31f402be0bc5f",
+    "day_index_1": 9,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 67,
+        "deaths": 2,
+        "infected": 65
+      },
+      "delta": {
+        "confirmed": 15,
+        "infected": 15
+      },
+      "delta_pct": {
+        "confirmed": 28.846153846153847,
+        "infected": 30
+      },
+      "peak_pct": {
+        "confirmed": 43.859649122807014,
+        "infected": 48.07692307692308
+      },
+      "relative": {
+        "deaths": 2.9850746268656714,
+        "infected": 97.01492537313433
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009616904163531005,
+        "deaths": 0.0002870717660755524,
+        "infected": 0.009329832397455454
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09616904163531005,
+        "deaths": 0.002870717660755524,
+        "infected": 0.09329832397455454
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9616904163531006,
+        "deaths": 0.02870717660755524,
+        "infected": 0.9329832397455453
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "eaecd0d3429dec73e440594ac13b9496",
+    "day_index_1": 10,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 92,
+        "deaths": 2,
+        "infected": 90
+      },
+      "delta": {
+        "confirmed": 25,
+        "infected": 25
+      },
+      "delta_pct": {
+        "confirmed": 37.3134328358209,
+        "infected": 38.46153846153846
+      },
+      "peak_pct": {
+        "confirmed": 73.09941520467835,
+        "infected": 80.12820512820514
+      },
+      "relative": {
+        "deaths": 2.1739130434782608,
+        "infected": 97.82608695652173
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.013205301239475411,
+        "deaths": 0.0002870717660755524,
+        "infected": 0.012918229473399857
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.13205301239475412,
+        "deaths": 0.002870717660755524,
+        "infected": 0.12918229473399856
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.320530123947541,
+        "deaths": 0.02870717660755524,
+        "infected": 1.2918229473399858
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "4bd4709780c26e40436da114d5a14e40",
+    "day_index_1": 11,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 94,
+        "deaths": 3,
+        "infected": 91
+      },
+      "delta": {
+        "confirmed": 2,
+        "deaths": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.1739130434782608,
+        "infected": 1.1111111111111112,
+        "deaths": 50
+      },
+      "peak_pct": {
+        "confirmed": 5.847953216374268,
+        "deaths": 35.714285714285715,
+        "infected": 3.2051282051282057
+      },
+      "relative": {
+        "deaths": 3.1914893617021276,
+        "infected": 96.80851063829788
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.013492373005550963,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.013061765356437634
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.13492373005550962,
+        "deaths": 0.004306076491133286,
+        "infected": 0.13061765356437635
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.3492373005550962,
+        "deaths": 0.04306076491133286,
+        "infected": 1.3061765356437633
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "155082a7018491f601d280ce3e3e2554",
+    "day_index_1": 12,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 127,
+        "deaths": 3,
+        "infected": 124
+      },
+      "delta": {
+        "confirmed": 33,
+        "infected": 33
+      },
+      "delta_pct": {
+        "confirmed": 35.1063829787234,
+        "infected": 36.26373626373626
+      },
+      "peak_pct": {
+        "confirmed": 96.49122807017542,
+        "infected": 105.76923076923077
+      },
+      "relative": {
+        "deaths": 2.3622047244094486,
+        "infected": 97.63779527559055
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01822905714579758,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.01779844949668425
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.18229057145797578,
+        "deaths": 0.004306076491133286,
+        "infected": 0.1779844949668425
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.8229057145797578,
+        "deaths": 0.04306076491133286,
+        "infected": 1.779844949668425
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "c6859c296730f648726dc6e2e7f3be8a",
+    "day_index_1": 13,
+    "day_index_10": 8,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 163,
+        "deaths": 3,
+        "recovered": 3,
+        "infected": 157
+      },
+      "delta": {
+        "confirmed": 36,
+        "recovered": 3,
+        "infected": 33
+      },
+      "delta_pct": {
+        "confirmed": 28.346456692913385,
+        "infected": 26.612903225806452
+      },
+      "peak_pct": {
+        "confirmed": 105.26315789473684,
+        "recovered": 78.94736842105263,
+        "infected": 105.76923076923077
+      },
+      "relative": {
+        "deaths": 1.8404907975460123,
+        "recovered": 1.8404907975460123,
+        "infected": 96.31901840490798
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02339634893515752,
+        "recovered": 0.0004306076491133286,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.022535133636930865
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2339634893515752,
+        "recovered": 0.004306076491133286,
+        "deaths": 0.004306076491133286,
+        "infected": 0.22535133636930865
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.3396348935157523,
+        "recovered": 0.04306076491133286,
+        "deaths": 0.04306076491133286,
+        "infected": 2.2535133636930866
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "67214bfba7457d5fcd3aa9dac4506320",
+    "day_index_1": 14,
+    "day_index_10": 9,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 187,
+        "deaths": 3,
+        "recovered": 3,
+        "infected": 181
+      },
+      "delta": {
+        "confirmed": 24,
+        "infected": 24
+      },
+      "delta_pct": {
+        "confirmed": 14.723926380368098,
+        "infected": 15.286624203821656
+      },
+      "peak_pct": {
+        "confirmed": 70.17543859649122,
+        "infected": 76.92307692307693
+      },
+      "relative": {
+        "deaths": 1.6042780748663104,
+        "recovered": 1.6042780748663104,
+        "infected": 96.79144385026738
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02684121012806415,
+        "recovered": 0.0004306076491133286,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.025979994829837493
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2684121012806415,
+        "recovered": 0.004306076491133286,
+        "deaths": 0.004306076491133286,
+        "infected": 0.25979994829837494
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.6841210128064152,
+        "recovered": 0.04306076491133286,
+        "deaths": 0.04306076491133286,
+        "infected": 2.597999482983749
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "5f4868e0c5a21814842cbb6bb8586583",
+    "day_index_1": 15,
+    "day_index_10": 10,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 201,
+        "deaths": 3,
+        "recovered": 3,
+        "infected": 195
+      },
+      "delta": {
+        "confirmed": 14,
+        "infected": 14
+      },
+      "delta_pct": {
+        "confirmed": 7.4866310160427805,
+        "infected": 7.734806629834254
+      },
+      "peak_pct": {
+        "confirmed": 40.93567251461988,
+        "infected": 44.871794871794876
+      },
+      "relative": {
+        "deaths": 1.4925373134328357,
+        "recovered": 1.4925373134328357,
+        "infected": 97.01492537313433
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.028850712490593015,
+        "recovered": 0.0004306076491133286,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.027989497192366358
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.28850712490593017,
+        "recovered": 0.004306076491133286,
+        "deaths": 0.004306076491133286,
+        "infected": 0.2798949719236636
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.8850712490593016,
+        "recovered": 0.04306076491133286,
+        "deaths": 0.04306076491133286,
+        "infected": 2.798949719236636
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "5300222568313bc601d86262f4148d22",
+    "day_index_1": 16,
+    "day_index_10": 11,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 218,
+        "deaths": 3,
+        "recovered": 3,
+        "infected": 212
+      },
+      "delta": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 8.457711442786069,
+        "infected": 8.717948717948717
+      },
+      "peak_pct": {
+        "confirmed": 49.707602339181285,
+        "infected": 54.487179487179496
+      },
+      "relative": {
+        "deaths": 1.3761467889908259,
+        "recovered": 1.3761467889908259,
+        "infected": 97.24770642201835
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03129082250223521,
+        "recovered": 0.0004306076491133286,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.030429607204008554
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.31290822502235205,
+        "recovered": 0.004306076491133286,
+        "deaths": 0.004306076491133286,
+        "infected": 0.3042960720400855
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.129082250223521,
+        "recovered": 0.04306076491133286,
+        "deaths": 0.04306076491133286,
+        "infected": 3.0429607204008553
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "1f34c5424feb5ef397a199b2623db940",
+    "day_index_1": 17,
+    "day_index_10": 12,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 242,
+        "deaths": 3,
+        "recovered": 4,
+        "infected": 235
+      },
+      "delta": {
+        "confirmed": 24,
+        "recovered": 1,
+        "infected": 23
+      },
+      "delta_pct": {
+        "confirmed": 11.009174311926605,
+        "recovered": 33.333333333333336,
+        "infected": 10.849056603773585
+      },
+      "peak_pct": {
+        "confirmed": 70.17543859649122,
+        "recovered": 26.31578947368421,
+        "infected": 73.71794871794873
+      },
+      "relative": {
+        "deaths": 1.2396694214876034,
+        "recovered": 1.6528925619834711,
+        "infected": 97.10743801652893
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.034735683695141836,
+        "recovered": 0.0005741435321511048,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.033730932513877404
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3473568369514184,
+        "recovered": 0.005741435321511048,
+        "deaths": 0.004306076491133286,
+        "infected": 0.33730932513877404
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.4735683695141835,
+        "recovered": 0.05741435321511048,
+        "deaths": 0.04306076491133286,
+        "infected": 3.3730932513877403
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "47679f5a1c72e049a2a54aa8739e50a7",
+    "day_index_1": 18,
+    "day_index_10": 13,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 264,
+        "deaths": 3,
+        "recovered": 8,
+        "infected": 253
+      },
+      "delta": {
+        "confirmed": 22,
+        "recovered": 4,
+        "infected": 18
+      },
+      "delta_pct": {
+        "confirmed": 9.090909090909092,
+        "recovered": 100,
+        "infected": 7.659574468085107
+      },
+      "peak_pct": {
+        "confirmed": 64.32748538011695,
+        "recovered": 105.26315789473684,
+        "infected": 57.6923076923077
+      },
+      "relative": {
+        "deaths": 1.1363636363636365,
+        "recovered": 3.0303030303030303,
+        "infected": 95.83333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.037893473121972915,
+        "recovered": 0.0011482870643022096,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.036314578408557376
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.37893473121972915,
+        "recovered": 0.011482870643022097,
+        "deaths": 0.004306076491133286,
+        "infected": 0.36314578408557374
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.7893473121972914,
+        "recovered": 0.11482870643022096,
+        "deaths": 0.04306076491133286,
+        "infected": 3.6314578408557376
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "22f55b24c9919d7383aec20ee962bcc7",
+    "day_index_1": 19,
+    "day_index_10": 14,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 293,
+        "deaths": 3,
+        "recovered": 9,
+        "infected": 281
+      },
+      "delta": {
+        "confirmed": 29,
+        "recovered": 1,
+        "infected": 28
+      },
+      "delta_pct": {
+        "confirmed": 10.984848484848484,
+        "recovered": 12.5,
+        "infected": 11.067193675889328
+      },
+      "peak_pct": {
+        "confirmed": 84.7953216374269,
+        "recovered": 26.31578947368421,
+        "infected": 89.74358974358975
+      },
+      "relative": {
+        "deaths": 1.023890784982935,
+        "recovered": 3.0716723549488054,
+        "infected": 95.90443686006826
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.042056013730068426,
+        "recovered": 0.0012918229473399857,
+        "deaths": 0.0004306076491133286,
+        "infected": 0.04033358313361511
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.42056013730068426,
+        "recovered": 0.012918229473399857,
+        "deaths": 0.004306076491133286,
+        "infected": 0.40333583133615114
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.205601373006843,
+        "recovered": 0.12918229473399856,
+        "deaths": 0.04306076491133286,
+        "infected": 4.033358313361511
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "6115aff2cb4ad37f76a7fa17341a955e",
+    "day_index_1": 20,
+    "day_index_10": 15,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 331,
+        "deaths": 7,
+        "recovered": 11,
+        "infected": 313
+      },
+      "delta": {
+        "confirmed": 38,
+        "recovered": 2,
+        "deaths": 4,
+        "infected": 32
+      },
+      "delta_pct": {
+        "confirmed": 12.969283276450511,
+        "recovered": 22.22222222222222,
+        "infected": 11.387900355871887,
+        "deaths": 133.33333333333334
+      },
+      "peak_pct": {
+        "confirmed": 111.1111111111111,
+        "recovered": 52.63157894736842,
+        "deaths": 142.85714285714286,
+        "infected": 102.56410256410258
+      },
+      "relative": {
+        "deaths": 2.1148036253776437,
+        "recovered": 3.3232628398791544,
+        "infected": 94.5619335347432
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04751037728550392,
+        "recovered": 0.0015788947134155382,
+        "deaths": 0.0010047511812644333,
+        "infected": 0.04492673139082395
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4751037728550392,
+        "recovered": 0.015788947134155382,
+        "deaths": 0.010047511812644332,
+        "infected": 0.4492673139082395
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.751037728550392,
+        "recovered": 0.15788947134155382,
+        "deaths": 0.10047511812644333,
+        "infected": 4.492673139082394
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "e568c589d9ac1c89f0d347dbfb3dd395",
+    "day_index_1": 21,
+    "day_index_10": 16,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 346,
+        "deaths": 8,
+        "recovered": 14,
+        "infected": 324
+      },
+      "delta": {
+        "confirmed": 15,
+        "recovered": 3,
+        "deaths": 1,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 4.531722054380665,
+        "recovered": 27.272727272727273,
+        "infected": 3.5143769968051117,
+        "deaths": 14.285714285714286
+      },
+      "peak_pct": {
+        "confirmed": 43.859649122807014,
+        "recovered": 78.94736842105263,
+        "deaths": 35.714285714285715,
+        "infected": 35.256410256410255
+      },
+      "relative": {
+        "deaths": 2.312138728323699,
+        "recovered": 4.046242774566474,
+        "infected": 93.64161849710982
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.049663415531070565,
+        "recovered": 0.0020095023625288666,
+        "deaths": 0.0011482870643022096,
+        "infected": 0.046505626104239486
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.49663415531070565,
+        "recovered": 0.020095023625288665,
+        "deaths": 0.011482870643022097,
+        "infected": 0.46505626104239484
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.966341553107057,
+        "recovered": 0.20095023625288666,
+        "deaths": 0.11482870643022096,
+        "infected": 4.650562610423949
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "1ac22a9e8aabaa414ace639429433ee2",
+    "day_index_1": 22,
+    "day_index_10": 17,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 359,
+        "deaths": 8,
+        "recovered": 17,
+        "infected": 334
+      },
+      "delta": {
+        "confirmed": 13,
+        "recovered": 3,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 3.7572254335260116,
+        "recovered": 21.428571428571427,
+        "infected": 3.0864197530864197
+      },
+      "peak_pct": {
+        "confirmed": 38.01169590643275,
+        "recovered": 78.94736842105263,
+        "infected": 32.05128205128205
+      },
+      "relative": {
+        "deaths": 2.2284122562674096,
+        "recovered": 4.735376044568245,
+        "infected": 93.03621169916435
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.051529382010561654,
+        "recovered": 0.0024401100116421956,
+        "deaths": 0.0011482870643022096,
+        "infected": 0.04794098493461725
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.5152938201056165,
+        "recovered": 0.024401100116421957,
+        "deaths": 0.011482870643022097,
+        "infected": 0.4794098493461725
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.152938201056165,
+        "recovered": 0.24401100116421956,
+        "deaths": 0.11482870643022096,
+        "infected": 4.794098493461725
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "d69f3e5d9927ad3d03f89f7e009036b0",
+    "day_index_1": 23,
+    "day_index_10": 18,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 399,
+        "deaths": 8,
+        "recovered": 17,
+        "infected": 374
+      },
+      "delta": {
+        "confirmed": 40,
+        "infected": 40
+      },
+      "delta_pct": {
+        "confirmed": 11.142061281337048,
+        "infected": 11.976047904191617
+      },
+      "peak_pct": {
+        "confirmed": 116.95906432748538,
+        "infected": 128.2051282051282
+      },
+      "relative": {
+        "deaths": 2.0050125313283207,
+        "recovered": 4.260651629072681,
+        "infected": 93.734335839599
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.057270817332072704,
+        "recovered": 0.0024401100116421956,
+        "deaths": 0.0011482870643022096,
+        "infected": 0.0536824202561283
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.5727081733207271,
+        "recovered": 0.024401100116421957,
+        "deaths": 0.011482870643022097,
+        "infected": 0.536824202561283
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.72708173320727,
+        "recovered": 0.24401100116421956,
+        "deaths": 0.11482870643022096,
+        "infected": 5.3682420256128305
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "a273e1b415c71521f8f6c9046f7eda51",
+    "day_index_1": 24,
+    "day_index_10": 19,
+    "day_index_100": 12,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 422,
+        "deaths": 10,
+        "recovered": 20,
+        "infected": 392
+      },
+      "delta": {
+        "confirmed": 23,
+        "recovered": 3,
+        "deaths": 2,
+        "infected": 18
+      },
+      "delta_pct": {
+        "confirmed": 5.764411027568922,
+        "recovered": 17.647058823529413,
+        "infected": 4.81283422459893,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 67.25146198830409,
+        "recovered": 78.94736842105263,
+        "deaths": 71.42857142857143,
+        "infected": 57.6923076923077
+      },
+      "relative": {
+        "deaths": 2.3696682464454977,
+        "recovered": 4.739336492890995,
+        "infected": 92.89099526066352
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06057214264194156,
+        "recovered": 0.002870717660755524,
+        "deaths": 0.001435358830377762,
+        "infected": 0.05626606615080827
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.6057214264194156,
+        "recovered": 0.028707176607555243,
+        "deaths": 0.014353588303777622,
+        "infected": 0.5626606615080827
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.0572142641941555,
+        "recovered": 0.2870717660755524,
+        "deaths": 0.1435358830377762,
+        "infected": 5.626606615080827
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "32c2bdcf9c850a93cf77a40f6d3b0b95",
+    "day_index_1": 25,
+    "day_index_10": 20,
+    "day_index_100": 13,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 457,
+        "deaths": 10,
+        "recovered": 25,
+        "infected": 422
+      },
+      "delta": {
+        "confirmed": 35,
+        "recovered": 5,
+        "infected": 30
+      },
+      "delta_pct": {
+        "confirmed": 8.293838862559241,
+        "recovered": 25,
+        "infected": 7.653061224489796
+      },
+      "peak_pct": {
+        "confirmed": 102.3391812865497,
+        "recovered": 131.57894736842107,
+        "infected": 96.15384615384616
+      },
+      "relative": {
+        "deaths": 2.1881838074398248,
+        "recovered": 5.470459518599562,
+        "infected": 92.34135667396062
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06559589854826373,
+        "recovered": 0.003588397075944405,
+        "deaths": 0.001435358830377762,
+        "infected": 0.06057214264194156
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.6559589854826373,
+        "recovered": 0.03588397075944405,
+        "deaths": 0.014353588303777622,
+        "infected": 0.6057214264194156
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.559589854826372,
+        "recovered": 0.3588397075944405,
+        "deaths": 0.1435358830377762,
+        "infected": 6.0572142641941555
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "81558b050f2634c14ce4842219acea30",
+    "day_index_1": 26,
+    "day_index_10": 21,
+    "day_index_100": 14,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 485,
+        "deaths": 14,
+        "recovered": 30,
+        "infected": 441
+      },
+      "delta": {
+        "confirmed": 28,
+        "recovered": 5,
+        "deaths": 4,
+        "infected": 19
+      },
+      "delta_pct": {
+        "confirmed": 6.12691466083151,
+        "recovered": 20,
+        "infected": 4.502369668246446,
+        "deaths": 40
+      },
+      "peak_pct": {
+        "confirmed": 81.87134502923976,
+        "recovered": 131.57894736842107,
+        "deaths": 142.85714285714286,
+        "infected": 60.897435897435905
+      },
+      "relative": {
+        "deaths": 2.88659793814433,
+        "recovered": 6.185567010309279,
+        "infected": 90.9278350515464
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06961490327332145,
+        "recovered": 0.004306076491133286,
+        "deaths": 0.0020095023625288666,
+        "infected": 0.0632993244196593
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.6961490327332145,
+        "recovered": 0.04306076491133286,
+        "deaths": 0.020095023625288665,
+        "infected": 0.632993244196593
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.961490327332146,
+        "recovered": 0.4306076491133286,
+        "deaths": 0.20095023625288666,
+        "infected": 6.32993244196593
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "9356e456815ff013d8a575e6285091ac",
+    "day_index_1": 27,
+    "day_index_10": 22,
+    "day_index_100": 15,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 503,
+        "deaths": 17,
+        "recovered": 34,
+        "infected": 452
+      },
+      "delta": {
+        "confirmed": 18,
+        "recovered": 4,
+        "deaths": 3,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 3.711340206185567,
+        "recovered": 13.333333333333334,
+        "infected": 2.494331065759637,
+        "deaths": 21.428571428571427
+      },
+      "peak_pct": {
+        "confirmed": 52.63157894736842,
+        "recovered": 105.26315789473684,
+        "deaths": 107.14285714285714,
+        "infected": 35.256410256410255
+      },
+      "relative": {
+        "deaths": 3.3797216699801194,
+        "recovered": 6.759443339960239,
+        "infected": 89.86083499005964
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07219854916800143,
+        "recovered": 0.004880220023284391,
+        "deaths": 0.0024401100116421956,
+        "infected": 0.06487821913307484
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7219854916800144,
+        "recovered": 0.048802200232843915,
+        "deaths": 0.024401100116421957,
+        "infected": 0.6487821913307484
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.219854916800143,
+        "recovered": 0.4880220023284391,
+        "deaths": 0.24401100116421956,
+        "infected": 6.487821913307484
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "3d737a7f61e6071b5a622260f1ce7003",
+    "day_index_1": 28,
+    "day_index_10": 23,
+    "day_index_100": 16,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 531,
+        "deaths": 20,
+        "recovered": 37,
+        "infected": 474
+      },
+      "delta": {
+        "confirmed": 28,
+        "recovered": 3,
+        "deaths": 3,
+        "infected": 22
+      },
+      "delta_pct": {
+        "confirmed": 5.566600397614314,
+        "recovered": 8.823529411764707,
+        "infected": 4.867256637168142,
+        "deaths": 17.647058823529413
+      },
+      "peak_pct": {
+        "confirmed": 81.87134502923976,
+        "recovered": 78.94736842105263,
+        "deaths": 107.14285714285714,
+        "infected": 70.51282051282051
+      },
+      "relative": {
+        "deaths": 3.766478342749529,
+        "recovered": 6.96798493408663,
+        "infected": 89.26553672316385
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07621755389305916,
+        "recovered": 0.00531082767239772,
+        "deaths": 0.002870717660755524,
+        "infected": 0.06803600855990592
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7621755389305916,
+        "recovered": 0.053108276723977194,
+        "deaths": 0.028707176607555243,
+        "infected": 0.6803600855990592
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.621755389305916,
+        "recovered": 0.531082767239772,
+        "deaths": 0.2870717660755524,
+        "infected": 6.8036008559905925
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "ba325f32a89e298da4650a6e6ea8a42d",
+    "day_index_1": 29,
+    "day_index_10": 24,
+    "day_index_100": 17,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 549,
+        "deaths": 22,
+        "recovered": 39,
+        "infected": 488
+      },
+      "delta": {
+        "confirmed": 18,
+        "recovered": 2,
+        "deaths": 2,
+        "infected": 14
+      },
+      "delta_pct": {
+        "confirmed": 3.389830508474576,
+        "recovered": 5.405405405405405,
+        "infected": 2.9535864978902953,
+        "deaths": 10
+      },
+      "peak_pct": {
+        "confirmed": 52.63157894736842,
+        "recovered": 52.63157894736842,
+        "deaths": 71.42857142857143,
+        "infected": 44.871794871794876
+      },
+      "relative": {
+        "deaths": 4.007285974499089,
+        "recovered": 7.103825136612022,
+        "infected": 88.88888888888889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07880119978773913,
+        "recovered": 0.0055978994384732715,
+        "deaths": 0.0031577894268310764,
+        "infected": 0.07004551092243479
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7880119978773913,
+        "recovered": 0.055978994384732715,
+        "deaths": 0.031577894268310765,
+        "infected": 0.7004551092243478
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.880119978773912,
+        "recovered": 0.5597899438473272,
+        "deaths": 0.31577894268310763,
+        "infected": 7.004551092243479
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "66856466b0f608306b0779ca62a8a102",
+    "day_index_1": 30,
+    "day_index_10": 25,
+    "day_index_100": 18,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "806d74fca2c3f79619909659b811f95d",
+      "type": "total-country",
+      "label": "Bulgaria",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "country_latlong": [
+        43,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        43,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 577,
+        "deaths": 23,
+        "recovered": 42,
+        "infected": 512
+      },
+      "delta": {
+        "confirmed": 28,
+        "recovered": 3,
+        "deaths": 1,
+        "infected": 24
+      },
+      "delta_pct": {
+        "confirmed": 5.100182149362477,
+        "recovered": 7.6923076923076925,
+        "infected": 4.918032786885246,
+        "deaths": 4.545454545454546
+      },
+      "peak_pct": {
+        "confirmed": 81.87134502923976,
+        "recovered": 78.94736842105263,
+        "deaths": 35.714285714285715,
+        "infected": 76.92307692307693
+      },
+      "relative": {
+        "deaths": 3.9861351819757362,
+        "recovered": 7.279029462738301,
+        "infected": 88.73483535528595
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.08282020451279687,
+        "recovered": 0.0060285070875866,
+        "deaths": 0.0033013253098688527,
+        "infected": 0.07349037211534142
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.8282020451279687,
+        "recovered": 0.060285070875866,
+        "deaths": 0.03301325309868853,
+        "infected": 0.7349037211534142
+      },
+      "absolute_pop100k": {
+        "confirmed": 8.282020451279687,
+        "recovered": 0.60285070875866,
+        "deaths": 0.3301325309868853,
+        "infected": 7.349037211534141
+      }
+    },
+    "factbook": {
+      "population": 6966899,
+      "median_age": 43.7,
+      "death_rate": 14.6,
+      "area": 110879
+    },
+    "data_key": "c330f625406c26ac447d573f70aa24f7",
+    "day_index_1": 31,
+    "day_index_10": 26,
+    "day_index_100": 19,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 9
+  }
+]

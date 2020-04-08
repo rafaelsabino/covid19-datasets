@@ -1,0 +1,51 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a190d12e8b1ba9f06a51cc74924ddf4c",
+      "type": "total-country",
+      "label": "Caribbean Netherlands",
+      "country": "Caribbean Netherlands",
+      "country_code": "BQ",
+      "country_latlong": [
+        12.18,
+        -68.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.18,
+        -68.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "relative": {
+        "infected": 100
+      }
+    },
+    "factbook": null,
+    "data_key": "3e3ae544d4d678dfa528e4301287e88a",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": null,
+    "day_index_peak_deaths": null,
+    "day_index_peak": null
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "77dc3efd9317ef83041822d4d2f2dbaf",
+      "type": "total-country",
+      "label": "Timor-Leste",
+      "country": "Timor-Leste",
+      "country_code": "TL",
+      "country_latlong": [
+        -8.83333333,
+        125.91666666
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        -8.83333333,
+        125.91666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 83
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0007226879946347644,
+        "infected": 0.0007226879946347644
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007226879946347644,
+        "infected": 0.007226879946347644
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07226879946347643,
+        "infected": 0.07226879946347643
+      }
+    },
+    "factbook": {
+      "population": 1383723,
+      "median_age": 19.6,
+      "death_rate": 5.7,
+      "area": 14874
+    },
+    "data_key": "f4a0fed0d2205ad0cbd40180326232d0",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": null,
+    "day_index_peak_deaths": null,
+    "day_index_peak": null
+  }
+]

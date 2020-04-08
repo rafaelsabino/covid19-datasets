@@ -1,0 +1,68 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "87716ca94165b704359761e6c82155a6",
+      "type": "total-country",
+      "label": "Western Sahara",
+      "country": "Western Sahara",
+      "country_code": "EH",
+      "country_latlong": [
+        24.5,
+        -13
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        24.5,
+        -13
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006132420420346758,
+        "infected": 0.006132420420346758
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.061324204203467576,
+        "infected": 0.061324204203467576
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6132420420346758,
+        "infected": 0.6132420420346758
+      }
+    },
+    "factbook": {
+      "population": 652271,
+      "median_age": 21.8,
+      "death_rate": 7.7,
+      "area": 266000
+    },
+    "data_key": "e0bad0f2b82f723bc0183b80bbff1a28",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": null,
+    "day_index_peak_deaths": null,
+    "day_index_peak": null
+  }
+]

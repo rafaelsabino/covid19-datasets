@@ -1,0 +1,4465 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 19,
+      "date": "2020-02-19",
+      "timestamp": 1582070400,
+      "index": 29
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "deaths": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "deaths": 2
+      },
+      "peak_pct": {
+        "confirmed": 0.06666222251849876,
+        "deaths": 1.3280212483399734
+      },
+      "relative": {
+        "deaths": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.3550658892091752e-05,
+        "deaths": 2.3550658892091752e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00023550658892091753,
+        "deaths": 0.00023550658892091753
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0023550658892091754,
+        "deaths": 0.0023550658892091754
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "2acff1c179e49208cf66e670b8ea82c8",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -39,
+    "day_index_peak_deaths": -33,
+    "day_index_peak": -36
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 20,
+      "date": "2020-02-20",
+      "timestamp": 1582156800,
+      "index": 30
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "deaths": 2,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 150
+      },
+      "peak_pct": {
+        "confirmed": 0.09999333377774815,
+        "infected": 0.13939224979091164
+      },
+      "relative": {
+        "deaths": 40,
+        "infected": 60
+      },
+      "absolute_pop1k": {
+        "confirmed": 5.887664723022938e-05,
+        "deaths": 2.3550658892091752e-05,
+        "infected": 3.532598833813763e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0005887664723022939,
+        "deaths": 0.00023550658892091753,
+        "infected": 0.00035325988338137627
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.005887664723022938,
+        "deaths": 0.0023550658892091754,
+        "infected": 0.0035325988338137625
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "c58d17390c7eaed00ef912fef54d9960",
+    "day_index_1": 2,
+    "day_index_peak_confirmed": -38,
+    "day_index_peak_deaths": -32,
+    "day_index_peak": -35
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 21,
+      "date": "2020-02-21",
+      "timestamp": 1582243200,
+      "index": 31
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 18,
+        "deaths": 4,
+        "infected": 14
+      },
+      "delta": {
+        "confirmed": 13,
+        "deaths": 2,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 260,
+        "infected": 366.6666666666667,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.43330444637024207,
+        "deaths": 1.3280212483399734,
+        "infected": 0.5111049159000093
+      },
+      "relative": {
+        "deaths": 22.22222222222222,
+        "infected": 77.77777777777779
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0002119559300288258,
+        "deaths": 4.7101317784183505e-05,
+        "infected": 0.00016485461224464228
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.002119559300288258,
+        "deaths": 0.00047101317784183506,
+        "infected": 0.0016485461224464227
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.02119559300288258,
+        "deaths": 0.004710131778418351,
+        "infected": 0.01648546122446423
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "8b213110394623a32a9b503b7841a53a",
+    "day_index_1": 3,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -37,
+    "day_index_peak_deaths": -31,
+    "day_index_peak": -34
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 22,
+      "date": "2020-02-22",
+      "timestamp": 1582329600,
+      "index": 32
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 28,
+        "deaths": 5,
+        "infected": 23
+      },
+      "delta": {
+        "confirmed": 10,
+        "deaths": 1,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 55.55555555555556,
+        "infected": 64.28571428571429,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 0.33331111259249385,
+        "deaths": 0.6640106241699867,
+        "infected": 0.4181767493727349
+      },
+      "relative": {
+        "deaths": 17.857142857142858,
+        "infected": 82.14285714285714
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00032970922448928455,
+        "deaths": 5.887664723022938e-05,
+        "infected": 0.00027083257725905516
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0032970922448928453,
+        "deaths": 0.0005887664723022939,
+        "infected": 0.0027083257725905516
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.03297092244892846,
+        "deaths": 0.005887664723022938,
+        "infected": 0.027083257725905516
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "83cd133b06b23c47978d3a37253cb7d5",
+    "day_index_1": 4,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -36,
+    "day_index_peak_deaths": -30,
+    "day_index_peak": -33
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 23,
+      "date": "2020-02-23",
+      "timestamp": 1582416000,
+      "index": 33
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 43,
+        "deaths": 8,
+        "infected": 35
+      },
+      "delta": {
+        "confirmed": 15,
+        "deaths": 3,
+        "infected": 12
+      },
+      "delta_pct": {
+        "confirmed": 53.57142857142857,
+        "infected": 52.17391304347826,
+        "deaths": 60
+      },
+      "peak_pct": {
+        "confirmed": 0.4999666688887408,
+        "deaths": 1.9920318725099602,
+        "infected": 0.5575689991636466
+      },
+      "relative": {
+        "deaths": 18.6046511627907,
+        "infected": 81.3953488372093
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0005063391661799726,
+        "deaths": 9.420263556836701e-05,
+        "infected": 0.00041213653061160566
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0050633916617997266,
+        "deaths": 0.0009420263556836701,
+        "infected": 0.004121365306116056
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.050633916617997266,
+        "deaths": 0.009420263556836702,
+        "infected": 0.041213653061160566
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "ba57f0c818f8419e9be068c54e3e93c1",
+    "day_index_1": 5,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -35,
+    "day_index_peak_deaths": -29,
+    "day_index_peak": -32
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 24,
+      "date": "2020-02-24",
+      "timestamp": 1582502400,
+      "index": 34
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 61,
+        "deaths": 12,
+        "infected": 49
+      },
+      "delta": {
+        "confirmed": 18,
+        "deaths": 4,
+        "infected": 14
+      },
+      "delta_pct": {
+        "confirmed": 41.86046511627907,
+        "infected": 40,
+        "deaths": 50
+      },
+      "peak_pct": {
+        "confirmed": 0.5999600026664889,
+        "deaths": 2.6560424966799467,
+        "infected": 0.650497165690921
+      },
+      "relative": {
+        "deaths": 19.672131147540984,
+        "infected": 80.32786885245902
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0007182950962087985,
+        "deaths": 0.0001413039533525505,
+        "infected": 0.000576991142856248
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007182950962087985,
+        "deaths": 0.001413039533525505,
+        "infected": 0.00576991142856248
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07182950962087985,
+        "deaths": 0.01413039533525505,
+        "infected": 0.0576991142856248
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "ad4623b83f23ff0fb5f8ed17211db9ba",
+    "day_index_1": 6,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -34,
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -31
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 25,
+      "date": "2020-02-25",
+      "timestamp": 1582588800,
+      "index": 35
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 95,
+        "deaths": 16,
+        "infected": 79
+      },
+      "delta": {
+        "confirmed": 34,
+        "deaths": 4,
+        "infected": 30
+      },
+      "delta_pct": {
+        "confirmed": 55.73770491803279,
+        "infected": 61.224489795918366,
+        "deaths": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 1.133257782814479,
+        "deaths": 2.6560424966799467,
+        "infected": 1.3939224979091165
+      },
+      "relative": {
+        "deaths": 16.842105263157894,
+        "infected": 83.15789473684211
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0011186562973743582,
+        "deaths": 0.00018840527113673402,
+        "infected": 0.0009302510262376243
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.011186562973743583,
+        "deaths": 0.0018840527113673402,
+        "infected": 0.009302510262376242
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.11186562973743581,
+        "deaths": 0.018840527113673403,
+        "infected": 0.09302510262376243
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "5e5c28e720fb9f511eaff542e0d28233",
+    "day_index_1": 7,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -33,
+    "day_index_peak_deaths": -27,
+    "day_index_peak": -30
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 26,
+      "date": "2020-02-26",
+      "timestamp": 1582675200,
+      "index": 36
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 139,
+        "deaths": 19,
+        "recovered": 49,
+        "infected": 71
+      },
+      "delta": {
+        "confirmed": 44,
+        "recovered": 49,
+        "deaths": 3,
+        "infected": -8
+      },
+      "delta_pct": {
+        "confirmed": 46.31578947368421,
+        "infected": -10.126582278481013,
+        "deaths": 18.75
+      },
+      "peak_pct": {
+        "confirmed": 1.4665688954069729,
+        "recovered": 2.7243411542310687,
+        "deaths": 1.9920318725099602,
+        "infected": -0.3717126661090977
+      },
+      "relative": {
+        "deaths": 13.66906474820144,
+        "recovered": 35.25179856115108,
+        "infected": 51.07913669064749
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0016367707930003768,
+        "recovered": 0.000576991142856248,
+        "deaths": 0.00022373125947487165,
+        "infected": 0.0008360483906692572
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.016367707930003767,
+        "recovered": 0.00576991142856248,
+        "deaths": 0.0022373125947487164,
+        "infected": 0.008360483906692572
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1636770793000377,
+        "recovered": 0.0576991142856248,
+        "deaths": 0.022373125947487166,
+        "infected": 0.08360483906692572
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "de540e8378a90e1223728b4536732f8b",
+    "day_index_1": 8,
+    "day_index_10": 6,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -32,
+    "day_index_peak_deaths": -26,
+    "day_index_peak": -29
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 27,
+      "date": "2020-02-27",
+      "timestamp": 1582761600,
+      "index": 37
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 245,
+        "deaths": 26,
+        "recovered": 49,
+        "infected": 170
+      },
+      "delta": {
+        "confirmed": 106,
+        "deaths": 7,
+        "infected": 99
+      },
+      "delta_pct": {
+        "confirmed": 76.2589928057554,
+        "infected": 139.43661971830986,
+        "deaths": 36.8421052631579
+      },
+      "peak_pct": {
+        "confirmed": 3.5330977934804353,
+        "deaths": 4.648074369189907,
+        "infected": 4.599944243100084
+      },
+      "relative": {
+        "deaths": 10.612244897959183,
+        "recovered": 20,
+        "infected": 69.38775510204081
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00288495571428124,
+        "recovered": 0.000576991142856248,
+        "deaths": 0.0003061585655971928,
+        "infected": 0.002001806005827799
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0288495571428124,
+        "recovered": 0.00576991142856248,
+        "deaths": 0.0030615856559719277,
+        "infected": 0.020018060058277987
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.288495571428124,
+        "recovered": 0.0576991142856248,
+        "deaths": 0.030615856559719278,
+        "infected": 0.2001806005827799
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "dc48663ed4be822fb4b7b6a9bebda894",
+    "day_index_1": 9,
+    "day_index_10": 7,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -31,
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -28
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 28,
+      "date": "2020-02-28",
+      "timestamp": 1582848000,
+      "index": 38
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 388,
+        "deaths": 34,
+        "recovered": 73,
+        "infected": 281
+      },
+      "delta": {
+        "confirmed": 143,
+        "recovered": 24,
+        "deaths": 8,
+        "infected": 111
+      },
+      "delta_pct": {
+        "confirmed": 58.36734693877551,
+        "recovered": 48.97959183673469,
+        "infected": 65.29411764705883,
+        "deaths": 30.76923076923077
+      },
+      "peak_pct": {
+        "confirmed": 4.7663489100726615,
+        "recovered": 1.3343711775825642,
+        "deaths": 5.3120849933598935,
+        "infected": 5.157513242263731
+      },
+      "relative": {
+        "deaths": 8.762886597938143,
+        "recovered": 18.814432989690722,
+        "infected": 72.42268041237114
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0045688278250658,
+        "recovered": 0.000859599049561349,
+        "deaths": 0.0004003612011655598,
+        "infected": 0.003308867574338891
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.04568827825065799,
+        "recovered": 0.00859599049561349,
+        "deaths": 0.0040036120116555985,
+        "infected": 0.03308867574338891
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.45688278250658,
+        "recovered": 0.0859599049561349,
+        "deaths": 0.04003612011655598,
+        "infected": 0.3308867574338891
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "7f4e4fdfb568ef6237fe688043420684",
+    "day_index_1": 10,
+    "day_index_10": 8,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -30,
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -27
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 29,
+      "date": "2020-02-29",
+      "timestamp": 1582934400,
+      "index": 39
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 593,
+        "deaths": 43,
+        "recovered": 123,
+        "infected": 427
+      },
+      "delta": {
+        "confirmed": 205,
+        "recovered": 50,
+        "deaths": 9,
+        "infected": 146
+      },
+      "delta_pct": {
+        "confirmed": 52.83505154639175,
+        "recovered": 68.4931506849315,
+        "infected": 51.95729537366548,
+        "deaths": 26.470588235294116
+      },
+      "peak_pct": {
+        "confirmed": 6.832877808146123,
+        "recovered": 2.779939953297009,
+        "deaths": 5.9760956175298805,
+        "infected": 6.783756156491033
+      },
+      "relative": {
+        "deaths": 7.251264755480608,
+        "recovered": 20.741989881956155,
+        "infected": 72.00674536256324
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006982770361505204,
+        "recovered": 0.0014483655218636429,
+        "deaths": 0.0005063391661799726,
+        "infected": 0.005028065673461589
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06982770361505204,
+        "recovered": 0.014483655218636428,
+        "deaths": 0.0050633916617997266,
+        "infected": 0.050280656734615896
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6982770361505204,
+        "recovered": 0.1448365521863643,
+        "deaths": 0.050633916617997266,
+        "infected": 0.5028065673461589
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "ea588931538864e7df519f354bbbb634",
+    "day_index_1": 11,
+    "day_index_10": 9,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -29,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -26
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "date": "2020-03-01",
+      "timestamp": 1583020800,
+      "index": 40
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 978,
+        "deaths": 54,
+        "recovered": 175,
+        "infected": 749
+      },
+      "delta": {
+        "confirmed": 385,
+        "recovered": 52,
+        "deaths": 11,
+        "infected": 322
+      },
+      "delta_pct": {
+        "confirmed": 64.92411467116358,
+        "recovered": 42.27642276422764,
+        "infected": 75.40983606557377,
+        "deaths": 25.58139534883721
+      },
+      "peak_pct": {
+        "confirmed": 12.832477834811012,
+        "recovered": 2.8911375514288893,
+        "deaths": 7.3041168658698545,
+        "infected": 14.961434810891184
+      },
+      "relative": {
+        "deaths": 5.521472392638037,
+        "recovered": 17.893660531697343,
+        "infected": 76.58486707566462
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.011516272198232867,
+        "recovered": 0.0020606826530580285,
+        "deaths": 0.0006358677900864773,
+        "infected": 0.00881972175508836
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.11516272198232867,
+        "recovered": 0.020606826530580286,
+        "deaths": 0.006358677900864773,
+        "infected": 0.08819721755088361
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.1516272198232866,
+        "recovered": 0.20606826530580286,
+        "deaths": 0.06358677900864773,
+        "infected": 0.8819721755088361
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "1ec72318f6e21ba191793bb7f7417bca",
+    "day_index_1": 12,
+    "day_index_10": 10,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -28,
+    "day_index_peak_deaths": -22,
+    "day_index_peak": -25
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "date": "2020-03-02",
+      "timestamp": 1583107200,
+      "index": 41
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1501,
+        "deaths": 66,
+        "recovered": 291,
+        "infected": 1144
+      },
+      "delta": {
+        "confirmed": 523,
+        "recovered": 116,
+        "deaths": 12,
+        "infected": 395
+      },
+      "delta_pct": {
+        "confirmed": 53.47648261758691,
+        "recovered": 66.28571428571429,
+        "infected": 52.7369826435247,
+        "deaths": 22.22222222222222
+      },
+      "peak_pct": {
+        "confirmed": 17.43217118858743,
+        "recovered": 6.44946069164906,
+        "deaths": 7.968127490039841,
+        "infected": 18.3533128891367
+      },
+      "relative": {
+        "deaths": 4.397068620919387,
+        "recovered": 19.38707528314457,
+        "infected": 76.21585609593605
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01767476949851486,
+        "recovered": 0.00342662086879935,
+        "deaths": 0.0007771717434390278,
+        "infected": 0.013470976886276482
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1767476949851486,
+        "recovered": 0.0342662086879935,
+        "deaths": 0.007771717434390278,
+        "infected": 0.1347097688627648
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.7674769498514862,
+        "recovered": 0.34266208687993505,
+        "deaths": 0.07771717434390278,
+        "infected": 1.3470976886276482
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "1957acae284f94e36ed5d3083da539ed",
+    "day_index_1": 13,
+    "day_index_10": 11,
+    "day_index_100": 6,
+    "day_index_1k": 1,
+    "day_index_peak_confirmed": -27,
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "date": "2020-03-03",
+      "timestamp": 1583193600,
+      "index": 42
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2336,
+        "deaths": 77,
+        "recovered": 291,
+        "infected": 1968
+      },
+      "delta": {
+        "confirmed": 835,
+        "deaths": 11,
+        "infected": 824
+      },
+      "delta_pct": {
+        "confirmed": 55.62958027981346,
+        "infected": 72.02797202797203,
+        "deaths": 16.666666666666668
+      },
+      "peak_pct": {
+        "confirmed": 27.83147790147324,
+        "deaths": 7.3041168658698545,
+        "infected": 38.28640460923706
+      },
+      "relative": {
+        "deaths": 3.296232876712329,
+        "recovered": 12.457191780821917,
+        "infected": 84.24657534246576
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02750716958596317,
+        "recovered": 0.00342662086879935,
+        "deaths": 0.0009067003673455324,
+        "infected": 0.023173848349818286
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2750716958596317,
+        "recovered": 0.0342662086879935,
+        "deaths": 0.009067003673455325,
+        "infected": 0.23173848349818285
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.7507169585963167,
+        "recovered": 0.34266208687993505,
+        "deaths": 0.09067003673455325,
+        "infected": 2.3173848349818287
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "97fba6ff3a9bccaa7268cd63baaee9cb",
+    "day_index_1": 14,
+    "day_index_10": 12,
+    "day_index_100": 7,
+    "day_index_1k": 2,
+    "day_index_peak_confirmed": -26,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -23
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "date": "2020-03-04",
+      "timestamp": 1583280000,
+      "index": 43
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2922,
+        "deaths": 92,
+        "recovered": 552,
+        "infected": 2278
+      },
+      "delta": {
+        "confirmed": 586,
+        "recovered": 261,
+        "deaths": 15,
+        "infected": 310
+      },
+      "delta_pct": {
+        "confirmed": 25.085616438356166,
+        "recovered": 89.69072164948453,
+        "infected": 15.752032520325203,
+        "deaths": 19.48051948051948
+      },
+      "peak_pct": {
+        "confirmed": 19.53203119792014,
+        "recovered": 14.511286556210386,
+        "deaths": 9.9601593625498,
+        "infected": 14.403865811727536
+      },
+      "relative": {
+        "deaths": 3.1485284052019162,
+        "recovered": 18.8911704312115,
+        "infected": 77.96030116358659
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.034407512641346054,
+        "recovered": 0.006499981854217324,
+        "deaths": 0.0010833303090362206,
+        "infected": 0.026824200478092506
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.34407512641346055,
+        "recovered": 0.06499981854217324,
+        "deaths": 0.010833303090362206,
+        "infected": 0.2682420047809251
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.4407512641346054,
+        "recovered": 0.6499981854217324,
+        "deaths": 0.10833303090362206,
+        "infected": 2.682420047809251
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "b631a3421e16ceac34f12f366244a4f1",
+    "day_index_1": 15,
+    "day_index_10": 13,
+    "day_index_100": 8,
+    "day_index_1k": 3,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -19,
+    "day_index_peak": -22
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "date": "2020-03-05",
+      "timestamp": 1583366400,
+      "index": 44
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3513,
+        "deaths": 107,
+        "recovered": 739,
+        "infected": 2667
+      },
+      "delta": {
+        "confirmed": 591,
+        "recovered": 187,
+        "deaths": 15,
+        "infected": 389
+      },
+      "delta_pct": {
+        "confirmed": 20.2258726899384,
+        "recovered": 33.8768115942029,
+        "infected": 17.07638279192274,
+        "deaths": 16.304347826086957
+      },
+      "peak_pct": {
+        "confirmed": 19.69868675421639,
+        "recovered": 10.396975425330814,
+        "deaths": 9.9601593625498,
+        "infected": 18.074528389554875
+      },
+      "relative": {
+        "deaths": 3.0458297751209793,
+        "recovered": 21.03615143751779,
+        "infected": 75.91801878736123
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04136673234395916,
+        "recovered": 0.008701968460627903,
+        "deaths": 0.0012599602507269087,
+        "infected": 0.03140480363260435
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4136673234395916,
+        "recovered": 0.08701968460627903,
+        "deaths": 0.012599602507269088,
+        "infected": 0.3140480363260435
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.136673234395916,
+        "recovered": 0.8701968460627904,
+        "deaths": 0.12599602507269086,
+        "infected": 3.1404803632604352
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "1774b0c4a16de7591f2babfd45f46072",
+    "day_index_1": 16,
+    "day_index_10": 14,
+    "day_index_100": 9,
+    "day_index_1k": 4,
+    "day_index_peak_confirmed": -24,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "date": "2020-03-06",
+      "timestamp": 1583452800,
+      "index": 45
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4747,
+        "deaths": 124,
+        "recovered": 913,
+        "infected": 3710
+      },
+      "delta": {
+        "confirmed": 1234,
+        "recovered": 174,
+        "deaths": 17,
+        "infected": 1043
+      },
+      "delta_pct": {
+        "confirmed": 35.126672359806435,
+        "recovered": 23.54533152909337,
+        "infected": 39.10761154855643,
+        "deaths": 15.88785046728972
+      },
+      "peak_pct": {
+        "confirmed": 41.130591293913746,
+        "recovered": 9.67419103747359,
+        "deaths": 11.288180610889775,
+        "infected": 48.462038843973616
+      },
+      "relative": {
+        "deaths": 2.6121761112281443,
+        "recovered": 19.233199915736254,
+        "infected": 78.1546239730356
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.05589748888037978,
+        "recovered": 0.010750875784239885,
+        "deaths": 0.0014601408513096887,
+        "infected": 0.0436864722448302
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.5589748888037978,
+        "recovered": 0.10750875784239886,
+        "deaths": 0.014601408513096888,
+        "infected": 0.436864722448302
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.5897488880379775,
+        "recovered": 1.0750875784239884,
+        "deaths": 0.14601408513096886,
+        "infected": 4.36864722448302
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "5c31e9ae7a93e34529cd8a1132000ed5",
+    "day_index_1": 17,
+    "day_index_10": 15,
+    "day_index_100": 10,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": -23,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 7,
+      "date": "2020-03-07",
+      "timestamp": 1583539200,
+      "index": 46
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5823,
+        "deaths": 145,
+        "recovered": 1669,
+        "infected": 4009
+      },
+      "delta": {
+        "confirmed": 1076,
+        "recovered": 756,
+        "deaths": 21,
+        "infected": 299
+      },
+      "delta_pct": {
+        "confirmed": 22.666947545818413,
+        "recovered": 82.8039430449069,
+        "infected": 8.059299191374663,
+        "deaths": 16.93548387096774
+      },
+      "peak_pct": {
+        "confirmed": 35.864275714952335,
+        "recovered": 42.03269209385078,
+        "deaths": 13.944223107569723,
+        "infected": 13.892760895827527
+      },
+      "relative": {
+        "deaths": 2.4901253649321657,
+        "recovered": 28.66220161428817,
+        "infected": 68.84767302077967
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06856774336432514,
+        "recovered": 0.01965302484545057,
+        "deaths": 0.0017074227696766522,
+        "infected": 0.047207295749197915
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.6856774336432514,
+        "recovered": 0.19653024845450567,
+        "deaths": 0.01707422769676652,
+        "infected": 0.47207295749197914
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.8567743364325136,
+        "recovered": 1.9653024845450568,
+        "deaths": 0.17074227696766522,
+        "infected": 4.720729574919791
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "c35fda251ea5cf2eff60c74396834436",
+    "day_index_1": 18,
+    "day_index_10": 16,
+    "day_index_100": 11,
+    "day_index_1k": 6,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -19
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6566,
+        "deaths": 194,
+        "recovered": 2134,
+        "infected": 4238
+      },
+      "delta": {
+        "confirmed": 743,
+        "recovered": 465,
+        "deaths": 49,
+        "infected": 229
+      },
+      "delta_pct": {
+        "confirmed": 12.759745835479993,
+        "recovered": 27.86099460754943,
+        "infected": 5.712147667747568,
+        "deaths": 33.793103448275865
+      },
+      "peak_pct": {
+        "confirmed": 24.765015665622293,
+        "recovered": 25.853441565662184,
+        "deaths": 32.536520584329345,
+        "infected": 10.640275067372922
+      },
+      "relative": {
+        "deaths": 2.954614681693573,
+        "recovered": 32.5007614986293,
+        "infected": 64.54462381967713
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07731681314273722,
+        "recovered": 0.0251285530378619,
+        "deaths": 0.0022844139125329,
+        "infected": 0.04990384619234242
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7731681314273722,
+        "recovered": 0.251285530378619,
+        "deaths": 0.022844139125328997,
+        "infected": 0.4990384619234242
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.731681314273723,
+        "recovered": 2.51285530378619,
+        "deaths": 0.22844139125329,
+        "infected": 4.990384619234242
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "5f8f8c807658c4317bdf1ede10176f2a",
+    "day_index_1": 19,
+    "day_index_10": 17,
+    "day_index_100": 12,
+    "day_index_1k": 7,
+    "day_index_peak_confirmed": -21,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "date": "2020-03-09",
+      "timestamp": 1583712000,
+      "index": 48
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7161,
+        "deaths": 237,
+        "recovered": 2394,
+        "infected": 4530
+      },
+      "delta": {
+        "confirmed": 595,
+        "recovered": 260,
+        "deaths": 43,
+        "infected": 292
+      },
+      "delta_pct": {
+        "confirmed": 9.06183368869936,
+        "recovered": 12.18369259606373,
+        "infected": 6.890042472864558,
+        "deaths": 22.164948453608247
+      },
+      "peak_pct": {
+        "confirmed": 19.832011199253387,
+        "recovered": 14.455687757144448,
+        "deaths": 28.552456839309432,
+        "infected": 13.567512312982066
+      },
+      "relative": {
+        "deaths": 3.309593632174277,
+        "recovered": 33.43108504398827,
+        "infected": 63.25932132383745
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.08432313416313451,
+        "recovered": 0.028190138693833827,
+        "deaths": 0.0027907530787128726,
+        "infected": 0.05334224239058782
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.8432313416313452,
+        "recovered": 0.28190138693833827,
+        "deaths": 0.027907530787128727,
+        "infected": 0.5334224239058781
+      },
+      "absolute_pop100k": {
+        "confirmed": 8.432313416313452,
+        "recovered": 2.8190138693833826,
+        "deaths": 0.27907530787128726,
+        "infected": 5.3342242390587815
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "1340a8679febd6bc07616f6222413b0b",
+    "day_index_1": 20,
+    "day_index_10": 18,
+    "day_index_100": 13,
+    "day_index_1k": 8,
+    "day_index_peak_confirmed": -20,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8042,
+        "deaths": 291,
+        "recovered": 2731,
+        "infected": 5020
+      },
+      "delta": {
+        "confirmed": 881,
+        "recovered": 337,
+        "deaths": 54,
+        "infected": 490
+      },
+      "delta_pct": {
+        "confirmed": 12.302751012428432,
+        "recovered": 14.07685881370092,
+        "infected": 10.816777041942604,
+        "deaths": 22.78481012658228
+      },
+      "peak_pct": {
+        "confirmed": 29.36470901939871,
+        "recovered": 18.73679528522184,
+        "deaths": 35.85657370517929,
+        "infected": 22.767400799182234
+      },
+      "relative": {
+        "deaths": 3.618502859985078,
+        "recovered": 33.959214125839345,
+        "infected": 62.422283014175584
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.09469719940510093,
+        "recovered": 0.03215842471715129,
+        "deaths": 0.00342662086879935,
+        "infected": 0.0591121538191503
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.9469719940510093,
+        "recovered": 0.3215842471715129,
+        "deaths": 0.0342662086879935,
+        "infected": 0.5911215381915029
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.469719940510094,
+        "recovered": 3.2158424717151286,
+        "deaths": 0.34266208687993505,
+        "infected": 5.91121538191503
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "9f737488065c37ad802077dcb2d38534",
+    "day_index_1": 21,
+    "day_index_10": 19,
+    "day_index_100": 14,
+    "day_index_1k": 9,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9000,
+        "deaths": 354,
+        "recovered": 2959,
+        "infected": 5687
+      },
+      "delta": {
+        "confirmed": 958,
+        "recovered": 228,
+        "deaths": 63,
+        "infected": 667
+      },
+      "delta_pct": {
+        "confirmed": 11.91245958716737,
+        "recovered": 8.34859025997803,
+        "infected": 13.286852589641434,
+        "deaths": 21.649484536082475
+      },
+      "peak_pct": {
+        "confirmed": 31.931204586360913,
+        "recovered": 12.676526187034362,
+        "deaths": 41.832669322709165,
+        "infected": 30.991543536846024
+      },
+      "relative": {
+        "deaths": 3.933333333333333,
+        "recovered": 32.87777777777778,
+        "infected": 63.1888888888889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.10597796501441288,
+        "recovered": 0.03484319983084975,
+        "deaths": 0.0041684666239002405,
+        "infected": 0.06696629855966289
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.0597796501441288,
+        "recovered": 0.34843199830849747,
+        "deaths": 0.0416846662390024,
+        "infected": 0.669662985596629
+      },
+      "absolute_pop100k": {
+        "confirmed": 10.597796501441287,
+        "recovered": 3.484319983084975,
+        "deaths": 0.41684666239002405,
+        "infected": 6.69662985596629
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "177ddc1389cd718207ceb8a9575a74d9",
+    "day_index_1": 22,
+    "day_index_10": 20,
+    "day_index_100": 15,
+    "day_index_1k": 10,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 51
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10075,
+        "deaths": 429,
+        "recovered": 2959,
+        "infected": 6687
+      },
+      "delta": {
+        "confirmed": 1075,
+        "deaths": 75,
+        "infected": 1000
+      },
+      "delta_pct": {
+        "confirmed": 11.944444444444445,
+        "infected": 17.583963425356075,
+        "deaths": 21.1864406779661
+      },
+      "peak_pct": {
+        "confirmed": 35.83094460369309,
+        "deaths": 49.800796812749006,
+        "infected": 46.464083263637214
+      },
+      "relative": {
+        "deaths": 4.258064516129032,
+        "recovered": 29.369727047146405,
+        "infected": 66.37220843672456
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.11863644416891221,
+        "recovered": 0.03484319983084975,
+        "deaths": 0.005051616332353681,
+        "infected": 0.07874162800570877
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.1863644416891221,
+        "recovered": 0.34843199830849747,
+        "deaths": 0.05051616332353681,
+        "infected": 0.7874162800570877
+      },
+      "absolute_pop100k": {
+        "confirmed": 11.863644416891221,
+        "recovered": 3.484319983084975,
+        "deaths": 0.5051616332353681,
+        "infected": 7.874162800570877
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "2bb6b51b991139c5bcb9735d3816f806",
+    "day_index_1": 23,
+    "day_index_10": 21,
+    "day_index_100": 16,
+    "day_index_1k": 11,
+    "day_index_10k": 1,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11364,
+        "deaths": 514,
+        "recovered": 2959,
+        "infected": 7891
+      },
+      "delta": {
+        "confirmed": 1289,
+        "deaths": 85,
+        "infected": 1204
+      },
+      "delta_pct": {
+        "confirmed": 12.794044665012407,
+        "infected": 18.00508449229849,
+        "deaths": 19.813519813519815
+      },
+      "peak_pct": {
+        "confirmed": 42.96380241317246,
+        "deaths": 56.440903054448874,
+        "infected": 55.942756249419205
+      },
+      "relative": {
+        "deaths": 4.523055262231609,
+        "recovered": 26.038366772263288,
+        "infected": 69.4385779655051
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.13381484382486533,
+        "recovered": 0.03484319983084975,
+        "deaths": 0.00605251933526758,
+        "infected": 0.092919124658748
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.3381484382486533,
+        "recovered": 0.34843199830849747,
+        "deaths": 0.0605251933526758,
+        "infected": 0.9291912465874801
+      },
+      "absolute_pop100k": {
+        "confirmed": 13.381484382486533,
+        "recovered": 3.484319983084975,
+        "deaths": 0.605251933526758,
+        "infected": 9.2919124658748
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "65dd4068780c7be30f37a91ad1951dcc",
+    "day_index_1": 24,
+    "day_index_10": 22,
+    "day_index_100": 17,
+    "day_index_1k": 12,
+    "day_index_10k": 2,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 12729,
+        "deaths": 611,
+        "recovered": 2959,
+        "infected": 9159
+      },
+      "delta": {
+        "confirmed": 1365,
+        "deaths": 97,
+        "infected": 1268
+      },
+      "delta_pct": {
+        "confirmed": 12.011615628299895,
+        "infected": 16.068939297934357,
+        "deaths": 18.8715953307393
+      },
+      "peak_pct": {
+        "confirmed": 45.49696686887541,
+        "deaths": 64.40903054448872,
+        "infected": 58.91645757829198
+      },
+      "relative": {
+        "deaths": 4.800062848613402,
+        "recovered": 23.246130882237413,
+        "infected": 71.95380626914918
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.14988816851871797,
+        "recovered": 0.03484319983084975,
+        "deaths": 0.007194726291534031,
+        "infected": 0.10785024239633419
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.4988816851871798,
+        "recovered": 0.34843199830849747,
+        "deaths": 0.0719472629153403,
+        "infected": 1.0785024239633418
+      },
+      "absolute_pop100k": {
+        "confirmed": 14.988816851871798,
+        "recovered": 3.484319983084975,
+        "deaths": 0.719472629153403,
+        "infected": 10.785024239633419
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "e1983e33802686952c56bfabbd00640c",
+    "day_index_1": 25,
+    "day_index_10": 23,
+    "day_index_100": 18,
+    "day_index_1k": 13,
+    "day_index_10k": 3,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13938,
+        "deaths": 724,
+        "recovered": 4590,
+        "infected": 8624
+      },
+      "delta": {
+        "confirmed": 1209,
+        "recovered": 1631,
+        "deaths": 113,
+        "infected": -535
+      },
+      "delta_pct": {
+        "confirmed": 9.497996700447796,
+        "recovered": 55.11997296383913,
+        "infected": -5.84124904465553,
+        "deaths": 18.49427168576105
+      },
+      "peak_pct": {
+        "confirmed": 40.29731351243251,
+        "recovered": 90.68164127654843,
+        "deaths": 75.0332005312085,
+        "infected": -24.85828454604591
+      },
+      "relative": {
+        "deaths": 5.194432486726933,
+        "recovered": 32.93155402496771,
+        "infected": 61.87401348830536
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.16412454181898742,
+        "recovered": 0.05404876215735057,
+        "deaths": 0.008525338518937215,
+        "infected": 0.10155044114269964
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.6412454181898741,
+        "recovered": 0.5404876215735057,
+        "deaths": 0.08525338518937214,
+        "infected": 1.0155044114269964
+      },
+      "absolute_pop100k": {
+        "confirmed": 16.41245418189874,
+        "recovered": 5.404876215735057,
+        "deaths": 0.8525338518937214,
+        "infected": 10.155044114269964
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "5f81ffc165bc2000c1a2b606ace8a28e",
+    "day_index_1": 26,
+    "day_index_10": 24,
+    "day_index_100": 19,
+    "day_index_1k": 14,
+    "day_index_10k": 4,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 14991,
+        "deaths": 853,
+        "recovered": 4590,
+        "infected": 9548
+      },
+      "delta": {
+        "confirmed": 1053,
+        "deaths": 129,
+        "infected": 924
+      },
+      "delta_pct": {
+        "confirmed": 7.554885923374946,
+        "infected": 10.714285714285714,
+        "deaths": 17.81767955801105
+      },
+      "peak_pct": {
+        "confirmed": 35.0976601559896,
+        "deaths": 85.65737051792829,
+        "infected": 42.932812935600786
+      },
+      "relative": {
+        "deaths": 5.690080715095725,
+        "recovered": 30.618371022613566,
+        "infected": 63.69154826229071
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.17652396372567372,
+        "recovered": 0.05404876215735057,
+        "deaths": 0.010044356017477133,
+        "infected": 0.11243084555084602
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.7652396372567372,
+        "recovered": 0.5404876215735057,
+        "deaths": 0.10044356017477134,
+        "infected": 1.1243084555084601
+      },
+      "absolute_pop100k": {
+        "confirmed": 17.652396372567374,
+        "recovered": 5.404876215735057,
+        "deaths": 1.0044356017477134,
+        "infected": 11.243084555084602
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "f87e655498d8e61540f3dcfc6f27a5bb",
+    "day_index_1": 27,
+    "day_index_10": 25,
+    "day_index_100": 20,
+    "day_index_1k": 15,
+    "day_index_10k": 5,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16169,
+        "deaths": 988,
+        "recovered": 5389,
+        "infected": 9792
+      },
+      "delta": {
+        "confirmed": 1178,
+        "recovered": 799,
+        "deaths": 135,
+        "infected": 244
+      },
+      "delta_pct": {
+        "confirmed": 7.858048162230672,
+        "recovered": 17.40740740740741,
+        "infected": 2.5555090071219104,
+        "deaths": 15.826494724501758
+      },
+      "peak_pct": {
+        "confirmed": 39.26404906339578,
+        "recovered": 44.423440453686204,
+        "deaths": 89.64143426294821,
+        "infected": 11.33723631632748
+      },
+      "relative": {
+        "deaths": 6.110458284371328,
+        "recovered": 33.32921021708207,
+        "infected": 60.5603314985466
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.19039530181311579,
+        "recovered": 0.06345725038474123,
+        "deaths": 0.011634025492693326,
+        "infected": 0.11530402593568122
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.903953018131158,
+        "recovered": 0.6345725038474124,
+        "deaths": 0.11634025492693326,
+        "infected": 1.153040259356812
+      },
+      "absolute_pop100k": {
+        "confirmed": 19.03953018131158,
+        "recovered": 6.345725038474123,
+        "deaths": 1.1634025492693327,
+        "infected": 11.530402593568121
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "633d56a82ce4d4b3ab23ab0867c11886",
+    "day_index_1": 28,
+    "day_index_10": 26,
+    "day_index_100": 21,
+    "day_index_1k": 16,
+    "day_index_10k": 6,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 17361,
+        "deaths": 1135,
+        "recovered": 5389,
+        "infected": 10837
+      },
+      "delta": {
+        "confirmed": 1192,
+        "deaths": 147,
+        "infected": 1045
+      },
+      "delta_pct": {
+        "confirmed": 7.372131857257715,
+        "infected": 10.671977124183007,
+        "deaths": 14.878542510121457
+      },
+      "peak_pct": {
+        "confirmed": 39.73068462102527,
+        "deaths": 97.60956175298804,
+        "infected": 48.55496701050089
+      },
+      "relative": {
+        "deaths": 6.537641840907781,
+        "recovered": 31.04083866136743,
+        "infected": 62.42151949772479
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.20443149451280246,
+        "recovered": 0.06345725038474123,
+        "deaths": 0.01336499892126207,
+        "infected": 0.12760924520679917
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.0443149451280247,
+        "recovered": 0.6345725038474124,
+        "deaths": 0.1336499892126207,
+        "infected": 1.2760924520679917
+      },
+      "absolute_pop100k": {
+        "confirmed": 20.443149451280245,
+        "recovered": 6.345725038474123,
+        "deaths": 1.336499892126207,
+        "infected": 12.760924520679918
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "78335a52c6df47503f3987c52ecb674b",
+    "day_index_1": 29,
+    "day_index_10": 27,
+    "day_index_100": 22,
+    "day_index_1k": 17,
+    "day_index_10k": 7,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 18407,
+        "deaths": 1284,
+        "recovered": 5710,
+        "infected": 11413
+      },
+      "delta": {
+        "confirmed": 1046,
+        "recovered": 321,
+        "deaths": 149,
+        "infected": 576
+      },
+      "delta_pct": {
+        "confirmed": 6.024998559990784,
+        "recovered": 5.9565782148821675,
+        "infected": 5.3151241118390695,
+        "deaths": 13.127753303964758
+      },
+      "peak_pct": {
+        "confirmed": 34.86434237717486,
+        "recovered": 17.847214500166796,
+        "deaths": 98.93758300132802,
+        "infected": 26.763311959855034
+      },
+      "relative": {
+        "deaths": 6.975607105992286,
+        "recovered": 31.020807301570052,
+        "infected": 62.00358559243766
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.21674848911336644,
+        "recovered": 0.06723713113692195,
+        "deaths": 0.015119523008722905,
+        "infected": 0.13439183496772159
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.1674848911336646,
+        "recovered": 0.6723713113692196,
+        "deaths": 0.15119523008722904,
+        "infected": 1.3439183496772158
+      },
+      "absolute_pop100k": {
+        "confirmed": 21.674848911336646,
+        "recovered": 6.723713113692195,
+        "deaths": 1.5119523008722906,
+        "infected": 13.43918349677216
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "756560b5f44d47c2d3577d330cdb553f",
+    "day_index_1": 30,
+    "day_index_10": 28,
+    "day_index_100": 23,
+    "day_index_1k": 18,
+    "day_index_10k": 8,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 19644,
+        "deaths": 1433,
+        "recovered": 6745,
+        "infected": 11466
+      },
+      "delta": {
+        "confirmed": 1237,
+        "recovered": 1035,
+        "deaths": 149,
+        "infected": 53
+      },
+      "delta_pct": {
+        "confirmed": 6.7202694627044055,
+        "recovered": 18.126094570928196,
+        "infected": 0.4643827214579865,
+        "deaths": 11.60436137071651
+      },
+      "peak_pct": {
+        "confirmed": 41.23058462769149,
+        "recovered": 57.54475703324808,
+        "deaths": 98.93758300132802,
+        "infected": 2.462596412972772
+      },
+      "relative": {
+        "deaths": 7.294848299735287,
+        "recovered": 34.33618407656282,
+        "infected": 58.36896762370189
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2313145716381252,
+        "recovered": 0.07942459711357944,
+        "deaths": 0.01687404709618374,
+        "infected": 0.13501592742836202
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.3131457163812517,
+        "recovered": 0.7942459711357943,
+        "deaths": 0.16874047096183742,
+        "infected": 1.3501592742836201
+      },
+      "absolute_pop100k": {
+        "confirmed": 23.13145716381252,
+        "recovered": 7.942459711357944,
+        "deaths": 1.6874047096183742,
+        "infected": 13.501592742836202
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "a6729a43a312a2f42a17f31f8510f53d",
+    "day_index_1": 31,
+    "day_index_10": 29,
+    "day_index_100": 24,
+    "day_index_1k": 19,
+    "day_index_10k": 9,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 20610,
+        "deaths": 1556,
+        "recovered": 7635,
+        "infected": 11419
+      },
+      "delta": {
+        "confirmed": 966,
+        "recovered": 890,
+        "deaths": 123,
+        "infected": -47
+      },
+      "delta_pct": {
+        "confirmed": 4.9175320708613315,
+        "recovered": 13.194959229058561,
+        "infected": -0.40990755276469565,
+        "deaths": 8.583391486392184
+      },
+      "peak_pct": {
+        "confirmed": 32.19785347643491,
+        "recovered": 49.48293116868676,
+        "deaths": 81.67330677290838,
+        "infected": -2.183811913390949
+      },
+      "relative": {
+        "deaths": 7.54973313925279,
+        "recovered": 37.04512372634643,
+        "infected": 55.40514313440078
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2426895398830055,
+        "recovered": 0.08990464032056027,
+        "deaths": 0.018322412618047384,
+        "infected": 0.13446248694439786
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.4268953988300552,
+        "recovered": 0.8990464032056027,
+        "deaths": 0.18322412618047385,
+        "infected": 1.3446248694439786
+      },
+      "absolute_pop100k": {
+        "confirmed": 24.268953988300552,
+        "recovered": 8.990464032056027,
+        "deaths": 1.8322412618047383,
+        "infected": 13.446248694439786
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "a18fc4139e892d3f210073e463fb402b",
+    "day_index_1": 32,
+    "day_index_10": 30,
+    "day_index_100": 25,
+    "day_index_1k": 20,
+    "day_index_10k": 10,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 21638,
+        "deaths": 1685,
+        "recovered": 7635,
+        "infected": 12318
+      },
+      "delta": {
+        "confirmed": 1028,
+        "deaths": 129,
+        "infected": 899
+      },
+      "delta_pct": {
+        "confirmed": 4.9878699660359045,
+        "infected": 7.872843506436641,
+        "deaths": 8.290488431876607
+      },
+      "peak_pct": {
+        "confirmed": 34.264382374508365,
+        "deaths": 85.65737051792829,
+        "infected": 41.77121085400985
+      },
+      "relative": {
+        "deaths": 7.78722617617155,
+        "recovered": 35.28514650152509,
+        "infected": 56.92762732230335
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.25479457855354065,
+        "recovered": 0.08990464032056027,
+        "deaths": 0.019841430116587302,
+        "infected": 0.1450485081163931
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.5479457855354064,
+        "recovered": 0.8990464032056027,
+        "deaths": 0.19841430116587302,
+        "infected": 1.4504850811639312
+      },
+      "absolute_pop100k": {
+        "confirmed": 25.479457855354067,
+        "recovered": 8.990464032056027,
+        "deaths": 1.9841430116587302,
+        "infected": 14.504850811639312
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "d48c25bdd3eed27586c483e6fda6de9d",
+    "day_index_1": 33,
+    "day_index_10": 31,
+    "day_index_100": 26,
+    "day_index_1k": 21,
+    "day_index_10k": 11,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 23049,
+        "deaths": 1812,
+        "recovered": 8376,
+        "infected": 12861
+      },
+      "delta": {
+        "confirmed": 1411,
+        "recovered": 741,
+        "deaths": 127,
+        "infected": 543
+      },
+      "delta_pct": {
+        "confirmed": 6.520935391440983,
+        "recovered": 9.705304518664047,
+        "infected": 4.40818314661471,
+        "deaths": 7.537091988130563
+      },
+      "peak_pct": {
+        "confirmed": 47.03019798680088,
+        "recovered": 41.19871010786167,
+        "deaths": 84.32934926958832,
+        "infected": 25.22999721215501
+      },
+      "relative": {
+        "deaths": 7.8615124300403485,
+        "recovered": 36.33997136535208,
+        "infected": 55.79851620460757
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2714095684019114,
+        "recovered": 0.09863015944008026,
+        "deaths": 0.021336896956235127,
+        "infected": 0.15144251200559602
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.7140956840191137,
+        "recovered": 0.9863015944008026,
+        "deaths": 0.21336896956235127,
+        "infected": 1.5144251200559602
+      },
+      "absolute_pop100k": {
+        "confirmed": 27.140956840191137,
+        "recovered": 9.863015944008026,
+        "deaths": 2.1336896956235125,
+        "infected": 15.144251200559603
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "c45bd865b94d5b2427152c2b9eb1d129",
+    "day_index_1": 34,
+    "day_index_10": 32,
+    "day_index_100": 27,
+    "day_index_1k": 22,
+    "day_index_10k": 12,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 24811,
+        "deaths": 1934,
+        "recovered": 8913,
+        "infected": 13964
+      },
+      "delta": {
+        "confirmed": 1762,
+        "recovered": 537,
+        "deaths": 122,
+        "infected": 1103
+      },
+      "delta_pct": {
+        "confirmed": 7.644583279101045,
+        "recovered": 6.411174785100287,
+        "infected": 8.576315994090661,
+        "deaths": 6.732891832229581
+      },
+      "peak_pct": {
+        "confirmed": 58.72941803879742,
+        "recovered": 29.856555098409878,
+        "deaths": 81.00929614873839,
+        "infected": 51.24988383979184
+      },
+      "relative": {
+        "deaths": 7.79492966829229,
+        "recovered": 35.923582282052315,
+        "infected": 56.281488049655394
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.29215769888584425,
+        "recovered": 0.1049535113526069,
+        "deaths": 0.022773487148652724,
+        "infected": 0.16443070038458463
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.9215769888584426,
+        "recovered": 1.049535113526069,
+        "deaths": 0.22773487148652724,
+        "infected": 1.6443070038458463
+      },
+      "absolute_pop100k": {
+        "confirmed": 29.215769888584425,
+        "recovered": 10.495351135260691,
+        "deaths": 2.2773487148652722,
+        "infected": 16.443070038458462
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "80e691f4496168a3955f4315ac161d26",
+    "day_index_1": 35,
+    "day_index_10": 33,
+    "day_index_100": 28,
+    "day_index_1k": 23,
+    "day_index_10k": 13,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 27017,
+        "deaths": 2077,
+        "recovered": 9625,
+        "infected": 15315
+      },
+      "delta": {
+        "confirmed": 2206,
+        "recovered": 712,
+        "deaths": 143,
+        "infected": 1351
+      },
+      "delta_pct": {
+        "confirmed": 8.891217605094514,
+        "recovered": 7.988331650398295,
+        "infected": 9.674878258378689,
+        "deaths": 7.394002068252327
+      },
+      "peak_pct": {
+        "confirmed": 73.52843143790415,
+        "recovered": 39.58634493494941,
+        "deaths": 94.95351925630811,
+        "infected": 62.77297648917387
+      },
+      "relative": {
+        "deaths": 7.6877521560498945,
+        "recovered": 35.62571714105933,
+        "infected": 56.68653070289077
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.31813407564382146,
+        "recovered": 0.11333754591819156,
+        "deaths": 0.024457359259437286,
+        "infected": 0.1803391704661926
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.181340756438215,
+        "recovered": 1.1333754591819156,
+        "deaths": 0.24457359259437286,
+        "infected": 1.803391704661926
+      },
+      "absolute_pop100k": {
+        "confirmed": 31.813407564382146,
+        "recovered": 11.333754591819156,
+        "deaths": 2.4457359259437284,
+        "infected": 18.033917046619262
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "450977f904a74742ed841f642f5a9b95",
+    "day_index_1": 36,
+    "day_index_10": 34,
+    "day_index_100": 29,
+    "day_index_1k": 24,
+    "day_index_10k": 14,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 29406,
+        "deaths": 2234,
+        "recovered": 10457,
+        "infected": 16715
+      },
+      "delta": {
+        "confirmed": 2389,
+        "recovered": 832,
+        "deaths": 157,
+        "infected": 1400
+      },
+      "delta_pct": {
+        "confirmed": 8.842580597401636,
+        "recovered": 8.644155844155843,
+        "infected": 9.141364675155076,
+        "deaths": 7.558979297063072
+      },
+      "peak_pct": {
+        "confirmed": 79.62802479834679,
+        "recovered": 46.25820082286223,
+        "deaths": 104.24966799468791,
+        "infected": 65.0497165690921
+      },
+      "relative": {
+        "deaths": 7.597089029449772,
+        "recovered": 35.560769910902536,
+        "infected": 56.84214105964769
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.34626533769042506,
+        "recovered": 0.12313462001730173,
+        "deaths": 0.026306085982466487,
+        "infected": 0.19682463169065684
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.4626533769042505,
+        "recovered": 1.2313462001730173,
+        "deaths": 0.26306085982466487,
+        "infected": 1.9682463169065683
+      },
+      "absolute_pop100k": {
+        "confirmed": 34.6265337690425,
+        "recovered": 12.313462001730173,
+        "deaths": 2.6306085982466487,
+        "infected": 19.682463169065684
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "9e45030a803049e8c1abd78bfe7f3d79",
+    "day_index_1": 37,
+    "day_index_10": 35,
+    "day_index_100": 30,
+    "day_index_1k": 25,
+    "day_index_10k": 15,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 32332,
+        "deaths": 2378,
+        "recovered": 11133,
+        "infected": 18821
+      },
+      "delta": {
+        "confirmed": 2926,
+        "recovered": 676,
+        "deaths": 144,
+        "infected": 2106
+      },
+      "delta_pct": {
+        "confirmed": 9.950350268652656,
+        "recovered": 6.464569188103662,
+        "infected": 12.599461561471731,
+        "deaths": 6.445837063563116
+      },
+      "peak_pct": {
+        "confirmed": 97.52683154456369,
+        "recovered": 37.584788168575564,
+        "deaths": 95.61752988047809,
+        "infected": 97.85335935321997
+      },
+      "relative": {
+        "deaths": 7.35494247185451,
+        "recovered": 34.433378696028704,
+        "infected": 58.21167883211679
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.3807199516495553,
+        "recovered": 0.13109474272282876,
+        "deaths": 0.028001733422697093,
+        "infected": 0.22162347550402944
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.8071995164955528,
+        "recovered": 1.3109474272282875,
+        "deaths": 0.28001733422697095,
+        "infected": 2.2162347550402943
+      },
+      "absolute_pop100k": {
+        "confirmed": 38.07199516495553,
+        "recovered": 13.109474272282876,
+        "deaths": 2.8001733422697095,
+        "infected": 22.162347550402945
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "17c3ee0999737ac6aafbce60ad5cc3f2",
+    "day_index_1": 38,
+    "day_index_10": 36,
+    "day_index_100": 31,
+    "day_index_1k": 26,
+    "day_index_10k": 16,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 35408,
+        "deaths": 2517,
+        "recovered": 11679,
+        "infected": 21212
+      },
+      "delta": {
+        "confirmed": 3076,
+        "recovered": 546,
+        "deaths": 139,
+        "infected": 2391
+      },
+      "delta_pct": {
+        "confirmed": 9.513794383273536,
+        "recovered": 4.904338453247103,
+        "infected": 12.703894585834972,
+        "deaths": 5.84524810765349
+      },
+      "peak_pct": {
+        "confirmed": 102.52649823345111,
+        "recovered": 30.356944290003334,
+        "deaths": 92.29747675962815,
+        "infected": 111.09562308335657
+      },
+      "relative": {
+        "deaths": 7.108563036601898,
+        "recovered": 32.984071396294624,
+        "infected": 59.907365567103476
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.4169408650255924,
+        "recovered": 0.13752407260036978,
+        "deaths": 0.02963850421569747,
+        "infected": 0.24977828820952513
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.169408650255924,
+        "recovered": 1.3752407260036978,
+        "deaths": 0.2963850421569747,
+        "infected": 2.4977828820952515
+      },
+      "absolute_pop100k": {
+        "confirmed": 41.694086502559244,
+        "recovered": 13.752407260036978,
+        "deaths": 2.963850421569747,
+        "infected": 24.977828820952514
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "1809254496e38cd9154ff70a82184688",
+    "day_index_1": 39,
+    "day_index_10": 37,
+    "day_index_100": 32,
+    "day_index_1k": 27,
+    "day_index_10k": 17,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 38309,
+        "deaths": 2640,
+        "recovered": 12391,
+        "infected": 23278
+      },
+      "delta": {
+        "confirmed": 2901,
+        "recovered": 712,
+        "deaths": 123,
+        "infected": 2066
+      },
+      "delta_pct": {
+        "confirmed": 8.193063714414821,
+        "recovered": 6.0964123640722665,
+        "infected": 9.739769941542523,
+        "deaths": 4.886769964243147
+      },
+      "peak_pct": {
+        "confirmed": 96.69355376308246,
+        "recovered": 39.58634493494941,
+        "deaths": 81.67330677290838,
+        "infected": 95.99479602267448
+      },
+      "relative": {
+        "deaths": 6.891331018820643,
+        "recovered": 32.34487979326007,
+        "infected": 60.76378918791929
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.4511010957485715,
+        "recovered": 0.14590810716595445,
+        "deaths": 0.031086869737561112,
+        "infected": 0.2741061188450559
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.5110109574857145,
+        "recovered": 1.4590810716595446,
+        "deaths": 0.3108686973756111,
+        "infected": 2.7410611884505593
+      },
+      "absolute_pop100k": {
+        "confirmed": 45.11010957485715,
+        "recovered": 14.590810716595445,
+        "deaths": 3.1086869737561114,
+        "infected": 27.41061188450559
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "e69d0d354558e762c70d36cae5c42981",
+    "day_index_1": 40,
+    "day_index_10": 38,
+    "day_index_100": 33,
+    "day_index_1k": 28,
+    "day_index_10k": 18,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 41495,
+        "deaths": 2757,
+        "recovered": 13911,
+        "infected": 24827
+      },
+      "delta": {
+        "confirmed": 3186,
+        "recovered": 1520,
+        "deaths": 117,
+        "infected": 1549
+      },
+      "delta_pct": {
+        "confirmed": 8.316583570440367,
+        "recovered": 12.266967960616576,
+        "infected": 6.654351748431996,
+        "deaths": 4.431818181818182
+      },
+      "peak_pct": {
+        "confirmed": 106.19292047196853,
+        "recovered": 84.51017458022906,
+        "deaths": 77.68924302788844,
+        "infected": 71.97286497537404
+      },
+      "relative": {
+        "deaths": 6.644173996867092,
+        "recovered": 33.524521026629714,
+        "infected": 59.8313049765032
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.48861729536367365,
+        "recovered": 0.1638066079239442,
+        "deaths": 0.03246458328274848,
+        "infected": 0.292346104156981
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.886172953636737,
+        "recovered": 1.638066079239442,
+        "deaths": 0.3246458328274848,
+        "infected": 2.92346104156981
+      },
+      "absolute_pop100k": {
+        "confirmed": 48.86172953636736,
+        "recovered": 16.38066079239442,
+        "deaths": 3.2464583282748483,
+        "infected": 29.234610415698096
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "e0f40a66a7ddcf0f8dea30ba3430a286",
+    "day_index_1": 41,
+    "day_index_10": 39,
+    "day_index_100": 34,
+    "day_index_1k": 29,
+    "day_index_10k": 19,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 44605,
+        "deaths": 2898,
+        "recovered": 14656,
+        "infected": 27051
+      },
+      "delta": {
+        "confirmed": 3110,
+        "recovered": 745,
+        "deaths": 141,
+        "infected": 2224
+      },
+      "delta_pct": {
+        "confirmed": 7.494878901072418,
+        "recovered": 5.355474085256272,
+        "infected": 8.957989285858138,
+        "deaths": 5.114254624591948
+      },
+      "peak_pct": {
+        "confirmed": 103.65975601626558,
+        "recovered": 41.42110530412543,
+        "deaths": 93.62549800796813,
+        "infected": 103.33612117832915
+      },
+      "relative": {
+        "deaths": 6.497029480999888,
+        "recovered": 32.85730299293801,
+        "infected": 60.6456675260621
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5252385699408764,
+        "recovered": 0.17257922836124837,
+        "deaths": 0.03412490473464095,
+        "infected": 0.318534436844987
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.252385699408764,
+        "recovered": 1.7257922836124837,
+        "deaths": 0.3412490473464095,
+        "infected": 3.18534436844987
+      },
+      "absolute_pop100k": {
+        "confirmed": 52.52385699408764,
+        "recovered": 17.257922836124838,
+        "deaths": 3.412490473464095,
+        "infected": 31.8534436844987
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "053c3932aac7517f37e70cd4162368e6",
+    "day_index_1": 42,
+    "day_index_10": 40,
+    "day_index_100": 35,
+    "day_index_1k": 30,
+    "day_index_10k": 20,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 47593,
+        "deaths": 3036,
+        "recovered": 15473,
+        "infected": 29084
+      },
+      "delta": {
+        "confirmed": 2988,
+        "recovered": 817,
+        "deaths": 138,
+        "infected": 2033
+      },
+      "delta_pct": {
+        "confirmed": 6.698800582894294,
+        "recovered": 5.574508733624454,
+        "infected": 7.515433810210343,
+        "deaths": 4.761904761904762
+      },
+      "peak_pct": {
+        "confirmed": 99.59336044263716,
+        "recovered": 45.42421883687312,
+        "deaths": 91.63346613545818,
+        "infected": 94.46148127497446
+      },
+      "relative": {
+        "deaths": 6.379089361880949,
+        "recovered": 32.511083562708805,
+        "infected": 61.10982707541025
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5604232543256614,
+        "recovered": 0.18219967251866784,
+        "deaths": 0.03574990019819528,
+        "infected": 0.34247368160879826
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.6042325432566145,
+        "recovered": 1.8219967251866784,
+        "deaths": 0.35749900198195284,
+        "infected": 3.4247368160879827
+      },
+      "absolute_pop100k": {
+        "confirmed": 56.042325432566145,
+        "recovered": 18.219967251866784,
+        "deaths": 3.574990019819528,
+        "infected": 34.24736816087982
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "ed3a1385dd535fbbbb83d35ee2270631",
+    "day_index_1": 43,
+    "day_index_10": 41,
+    "day_index_100": 36,
+    "day_index_1k": 31,
+    "day_index_10k": 21,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 50468,
+        "deaths": 3160,
+        "recovered": 16711,
+        "infected": 30597
+      },
+      "delta": {
+        "confirmed": 2875,
+        "recovered": 1238,
+        "deaths": 124,
+        "infected": 1513
+      },
+      "delta_pct": {
+        "confirmed": 6.04080431996302,
+        "recovered": 8.001034059329154,
+        "infected": 5.202173016091321,
+        "deaths": 4.084321475625823
+      },
+      "peak_pct": {
+        "confirmed": 95.82694487034198,
+        "recovered": 68.83131324363394,
+        "deaths": 82.33731739707835,
+        "infected": 70.3001579778831
+      },
+      "relative": {
+        "deaths": 6.2613933581675525,
+        "recovered": 33.11207101529682,
+        "infected": 60.62653562653563
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5942773264830433,
+        "recovered": 0.19677753037287263,
+        "deaths": 0.03721004104950497,
+        "infected": 0.3602897550606657
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.942773264830433,
+        "recovered": 1.9677753037287262,
+        "deaths": 0.3721004104950497,
+        "infected": 3.6028975506066567
+      },
+      "absolute_pop100k": {
+        "confirmed": 59.427732648304335,
+        "recovered": 19.677753037287264,
+        "deaths": 3.721004104950497,
+        "infected": 36.028975506066566
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "d1624fef585f9a8576a308209bd6b56d",
+    "day_index_1": 44,
+    "day_index_10": 42,
+    "day_index_100": 37,
+    "day_index_1k": 32,
+    "day_index_10k": 22,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 53183,
+        "deaths": 3294,
+        "recovered": 17935,
+        "infected": 31954
+      },
+      "delta": {
+        "confirmed": 2715,
+        "recovered": 1224,
+        "deaths": 134,
+        "infected": 1357
+      },
+      "delta_pct": {
+        "confirmed": 5.379646508678767,
+        "recovered": 7.3245167853509665,
+        "infected": 4.4350753341830895,
+        "deaths": 4.2405063291139244
+      },
+      "peak_pct": {
+        "confirmed": 90.49396706886208,
+        "recovered": 68.05293005671078,
+        "deaths": 88.97742363877822,
+        "infected": 63.0517609887557
+      },
+      "relative": {
+        "deaths": 6.193708515879134,
+        "recovered": 33.72318221988229,
+        "infected": 60.08310926423858
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6262473459290578,
+        "recovered": 0.21119053361483278,
+        "deaths": 0.03878793519527512,
+        "infected": 0.3762688771189499
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.262473459290579,
+        "recovered": 2.111905336148328,
+        "deaths": 0.3878793519527512,
+        "infected": 3.762688771189499
+      },
+      "absolute_pop100k": {
+        "confirmed": 62.62473459290578,
+        "recovered": 21.119053361483278,
+        "deaths": 3.8787935195275116,
+        "infected": 37.62688771189499
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "3bd59cd5506e7f05b27b986012d218b7",
+    "day_index_1": 45,
+    "day_index_10": 43,
+    "day_index_100": 38,
+    "day_index_1k": 33,
+    "day_index_10k": 23,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 55743,
+        "deaths": 3452,
+        "recovered": 19736,
+        "infected": 32555
+      },
+      "delta": {
+        "confirmed": 2560,
+        "recovered": 1801,
+        "deaths": 158,
+        "infected": 601
+      },
+      "delta_pct": {
+        "confirmed": 4.813568245491981,
+        "recovered": 10.041817674937274,
+        "infected": 1.8808286912436627,
+        "deaths": 4.796599878567092
+      },
+      "peak_pct": {
+        "confirmed": 85.32764482367843,
+        "recovered": 100.13343711775826,
+        "deaths": 104.9136786188579,
+        "infected": 27.924914041445962
+      },
+      "relative": {
+        "deaths": 6.1927058105950525,
+        "recovered": 35.40534237482733,
+        "infected": 58.401951814577615
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6563921893109352,
+        "recovered": 0.23239790194716142,
+        "deaths": 0.040648437247750364,
+        "infected": 0.3833458501160235
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.563921893109352,
+        "recovered": 2.323979019471614,
+        "deaths": 0.40648437247750363,
+        "infected": 3.8334585011602353
+      },
+      "absolute_pop100k": {
+        "confirmed": 65.63921893109352,
+        "recovered": 23.239790194716143,
+        "deaths": 4.064843724775036,
+        "infected": 38.33458501160235
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "e4fae690150fedd462acdf36ee139ad9",
+    "day_index_1": 46,
+    "day_index_10": 44,
+    "day_index_100": 39,
+    "day_index_1k": 34,
+    "day_index_10k": 24,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 58226,
+        "deaths": 3603,
+        "recovered": 19736,
+        "infected": 34887
+      },
+      "delta": {
+        "confirmed": 2483,
+        "deaths": 151,
+        "infected": 2332
+      },
+      "delta_pct": {
+        "confirmed": 4.45437095240658,
+        "infected": 7.163262171709415,
+        "deaths": 4.374275782155272
+      },
+      "peak_pct": {
+        "confirmed": 82.76114925671622,
+        "deaths": 100.265604249668,
+        "infected": 108.35424217080198
+      },
+      "relative": {
+        "deaths": 6.187957269948133,
+        "recovered": 33.895510596640676,
+        "infected": 59.916532133411195
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6856303323254672,
+        "recovered": 0.23239790194716142,
+        "deaths": 0.04242651199410329,
+        "infected": 0.4108059183842025
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.856303323254672,
+        "recovered": 2.323979019471614,
+        "deaths": 0.42426511994103294,
+        "infected": 4.108059183842025
+      },
+      "absolute_pop100k": {
+        "confirmed": 68.56303323254672,
+        "recovered": 23.239790194716143,
+        "deaths": 4.2426511994103295,
+        "infected": 41.08059183842025
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "6b285bef85df05574b9b1ba11054829a",
+    "day_index_1": 47,
+    "day_index_10": 45,
+    "day_index_100": 40,
+    "day_index_1k": 35,
+    "day_index_10k": 25,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 13,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 60500,
+        "deaths": 3739,
+        "recovered": 24236,
+        "infected": 32525
+      },
+      "delta": {
+        "confirmed": 2274,
+        "recovered": 4500,
+        "deaths": 136,
+        "infected": -2362
+      },
+      "delta_pct": {
+        "confirmed": 3.9054717823652663,
+        "recovered": 22.800972841507903,
+        "infected": -6.770430246223522,
+        "deaths": 3.7746322509020263
+      },
+      "peak_pct": {
+        "confirmed": 75.7949470035331,
+        "recovered": 250.19459579673082,
+        "deaths": 90.3054448871182,
+        "infected": -109.74816466871108
+      },
+      "relative": {
+        "deaths": 6.180165289256198,
+        "recovered": 40.0595041322314,
+        "infected": 53.760330578512395
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.7124074314857756,
+        "recovered": 0.2853868844543679,
+        "deaths": 0.04402795679876553,
+        "infected": 0.38299259023264215
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.124074314857756,
+        "recovered": 2.853868844543679,
+        "deaths": 0.44027956798765533,
+        "infected": 3.8299259023264214
+      },
+      "absolute_pop100k": {
+        "confirmed": 71.24074314857755,
+        "recovered": 28.53868844543679,
+        "deaths": 4.4027956798765535,
+        "infected": 38.29925902326421
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "afb4a1e19805c963ea5f6561aa33b2dd",
+    "day_index_1": 48,
+    "day_index_10": 46,
+    "day_index_100": 41,
+    "day_index_1k": 36,
+    "day_index_10k": 26,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 14,
+    "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "729b3e5c7161a080c0d8ef4ed55d121f",
+      "type": "total-country",
+      "label": "Iran",
+      "country": "Iran",
+      "country_code": "IR",
+      "country_latlong": [
+        32,
+        53
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        32,
+        53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 62589,
+        "deaths": 3872,
+        "recovered": 27039,
+        "infected": 31678
+      },
+      "delta": {
+        "confirmed": 2089,
+        "recovered": 2803,
+        "deaths": 133,
+        "infected": -847
+      },
+      "delta_pct": {
+        "confirmed": 3.452892561983471,
+        "recovered": 11.565439841558012,
+        "infected": -2.6041506533435816,
+        "deaths": 3.5571008290986894
+      },
+      "peak_pct": {
+        "confirmed": 69.62869142057197,
+        "recovered": 155.84343378183033,
+        "deaths": 88.31341301460823,
+        "infected": -39.355078524300716
+      },
+      "relative": {
+        "deaths": 6.186390579814344,
+        "recovered": 43.200881944111586,
+        "infected": 50.61272747607407
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.7370060946985654,
+        "recovered": 0.31839313289163446,
+        "deaths": 0.04559407561508964,
+        "infected": 0.37301888619184126
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.370060946985654,
+        "recovered": 3.1839313289163447,
+        "deaths": 0.45594075615089635,
+        "infected": 3.7301888619184127
+      },
+      "absolute_pop100k": {
+        "confirmed": 73.70060946985653,
+        "recovered": 31.839313289163446,
+        "deaths": 4.559407561508964,
+        "infected": 37.301888619184126
+      }
+    },
+    "factbook": {
+      "population": 84923314,
+      "median_age": 31.7,
+      "death_rate": 5.3,
+      "area": 1648195
+    },
+    "data_key": "c94c9a30cebeef32e29b717eedfdd8c9",
+    "day_index_1": 49,
+    "day_index_10": 47,
+    "day_index_100": 42,
+    "day_index_1k": 37,
+    "day_index_10k": 27,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 15,
+    "day_index_peak": 12
+  }
+]

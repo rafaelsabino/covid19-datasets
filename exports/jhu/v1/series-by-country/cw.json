@@ -1,0 +1,973 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 55.55555555555556,
+        "infected": 55.55555555555556
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006607420132809145,
+        "infected": 0.006607420132809145
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06607420132809144,
+        "infected": 0.06607420132809144
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6607420132809145,
+        "infected": 0.6607420132809145
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "3bc1708ae45e41649e0265641d9d1925",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 200,
+        "infected": 200
+      },
+      "peak_pct": {
+        "confirmed": 111.11111111111111,
+        "infected": 111.11111111111111
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.019822260398427435,
+        "infected": 0.019822260398427435
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.19822260398427435,
+        "infected": 0.19822260398427435
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.9822260398427434,
+        "infected": 1.9822260398427434
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "0a82607c87ec8b67cb3a4b4c1ab6b27b",
+    "day_index_1": 4,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "deaths": 1,
+        "infected": 2
+      },
+      "delta": {
+        "deaths": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -33.333333333333336
+      },
+      "peak_pct": {
+        "infected": -55.55555555555556
+      },
+      "relative": {
+        "deaths": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.019822260398427435,
+        "deaths": 0.006607420132809145,
+        "infected": 0.01321484026561829
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.19822260398427435,
+        "deaths": 0.06607420132809144,
+        "infected": 0.13214840265618288
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.9822260398427434,
+        "deaths": 0.6607420132809145,
+        "infected": 1.321484026561829
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "469db15caeb142cb880adb403688a012",
+    "day_index_1": 6,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "deaths": 1,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 55.55555555555556,
+        "infected": 55.55555555555556
+      },
+      "relative": {
+        "deaths": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02642968053123658,
+        "deaths": 0.006607420132809145,
+        "infected": 0.019822260398427435
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.26429680531236577,
+        "deaths": 0.06607420132809144,
+        "infected": 0.19822260398427435
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.642968053123658,
+        "deaths": 0.6607420132809145,
+        "infected": 1.9822260398427434
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "a6bd11818055147204ecc5dcfb954b9b",
+    "day_index_1": 10,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 1,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 66.66666666666667
+      },
+      "peak_pct": {
+        "confirmed": 111.11111111111111,
+        "infected": 111.11111111111111
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "infected": 83.33333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03964452079685487,
+        "deaths": 0.006607420132809145,
+        "infected": 0.03303710066404572
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3964452079685487,
+        "deaths": 0.06607420132809144,
+        "infected": 0.3303710066404572
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.9644520796854867,
+        "deaths": 0.6607420132809145,
+        "infected": 3.303710066404572
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "8db6f947493206b832d15c80c922cba3",
+    "day_index_1": 11,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 3
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "infected": -40
+      },
+      "peak_pct": {
+        "recovered": 120,
+        "infected": -111.11111111111111
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "recovered": 33.33333333333333,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03964452079685487,
+        "recovered": 0.01321484026561829,
+        "deaths": 0.006607420132809145,
+        "infected": 0.019822260398427435
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3964452079685487,
+        "recovered": 0.13214840265618288,
+        "deaths": 0.06607420132809144,
+        "infected": 0.19822260398427435
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.9644520796854867,
+        "recovered": 1.321484026561829,
+        "deaths": 0.6607420132809145,
+        "infected": 1.9822260398427434
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "e536e71b36b03e7665d7e76797f45e5e",
+    "day_index_1": 13,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 66.66666666666667
+      },
+      "peak_pct": {
+        "confirmed": 111.11111111111111,
+        "infected": 111.11111111111111
+      },
+      "relative": {
+        "deaths": 12.5,
+        "recovered": 25,
+        "infected": 62.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.05285936106247316,
+        "recovered": 0.01321484026561829,
+        "deaths": 0.006607420132809145,
+        "infected": 0.03303710066404572
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.5285936106247315,
+        "recovered": 0.13214840265618288,
+        "deaths": 0.06607420132809144,
+        "infected": 0.3303710066404572
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.285936106247316,
+        "recovered": 1.321484026561829,
+        "deaths": 0.6607420132809145,
+        "infected": 3.303710066404572
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "fa5204c4c27b958b79543f772771c15a",
+    "day_index_1": 14,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 37.5,
+        "infected": 60
+      },
+      "peak_pct": {
+        "confirmed": 166.66666666666666,
+        "infected": 166.66666666666666
+      },
+      "relative": {
+        "deaths": 9.090909090909092,
+        "recovered": 18.181818181818183,
+        "infected": 72.72727272727273
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0726816214609006,
+        "recovered": 0.01321484026561829,
+        "deaths": 0.006607420132809145,
+        "infected": 0.05285936106247316
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.726816214609006,
+        "recovered": 0.13214840265618288,
+        "deaths": 0.06607420132809144,
+        "infected": 0.5285936106247315
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.268162146090059,
+        "recovered": 1.321484026561829,
+        "deaths": 0.6607420132809145,
+        "infected": 5.285936106247316
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "ed5f4bd2de2f489c18cb7794e960bab8",
+    "day_index_1": 17,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11,
+        "deaths": 1,
+        "recovered": 3,
+        "infected": 7
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 50,
+        "infected": -12.5
+      },
+      "peak_pct": {
+        "recovered": 60,
+        "infected": -55.55555555555556
+      },
+      "relative": {
+        "deaths": 9.090909090909092,
+        "recovered": 27.27272727272727,
+        "infected": 63.63636363636363
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0726816214609006,
+        "recovered": 0.019822260398427435,
+        "deaths": 0.006607420132809145,
+        "infected": 0.04625194092966401
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.726816214609006,
+        "recovered": 0.19822260398427435,
+        "deaths": 0.06607420132809144,
+        "infected": 0.4625194092966401
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.268162146090059,
+        "recovered": 1.9822260398427434,
+        "deaths": 0.6607420132809145,
+        "infected": 4.625194092966401
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "504f521b3dcf48a34e85bbad7080ba64",
+    "day_index_1": 19,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11,
+        "deaths": 1,
+        "recovered": 5,
+        "infected": 5
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "recovered": 66.66666666666667,
+        "infected": -28.571428571428573
+      },
+      "peak_pct": {
+        "recovered": 120,
+        "infected": -111.11111111111111
+      },
+      "relative": {
+        "deaths": 9.090909090909092,
+        "recovered": 45.45454545454545,
+        "infected": 45.45454545454545
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0726816214609006,
+        "recovered": 0.03303710066404572,
+        "deaths": 0.006607420132809145,
+        "infected": 0.03303710066404572
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.726816214609006,
+        "recovered": 0.3303710066404572,
+        "deaths": 0.06607420132809144,
+        "infected": 0.3303710066404572
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.268162146090059,
+        "recovered": 3.303710066404572,
+        "deaths": 0.6607420132809145,
+        "infected": 3.303710066404572
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "342638ebdaccfcd612c7ff3d4f4ccd5f",
+    "day_index_1": 22,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13,
+        "deaths": 1,
+        "recovered": 5,
+        "infected": 7
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 18.181818181818183,
+        "infected": 40
+      },
+      "peak_pct": {
+        "confirmed": 111.11111111111111,
+        "infected": 111.11111111111111
+      },
+      "relative": {
+        "deaths": 7.6923076923076925,
+        "recovered": 38.46153846153847,
+        "infected": 53.84615384615385
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.08589646172651888,
+        "recovered": 0.03303710066404572,
+        "deaths": 0.006607420132809145,
+        "infected": 0.04625194092966401
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.8589646172651888,
+        "recovered": 0.3303710066404572,
+        "deaths": 0.06607420132809144,
+        "infected": 0.4625194092966401
+      },
+      "absolute_pop100k": {
+        "confirmed": 8.589646172651888,
+        "recovered": 3.303710066404572,
+        "deaths": 0.6607420132809145,
+        "infected": 4.625194092966401
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "bf5e9fa8b347a393797c0ce27163a8a3",
+    "day_index_1": 24,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13,
+        "deaths": 1,
+        "recovered": 7,
+        "infected": 5
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "recovered": 40,
+        "infected": -28.571428571428573
+      },
+      "peak_pct": {
+        "recovered": 120,
+        "infected": -111.11111111111111
+      },
+      "relative": {
+        "deaths": 7.6923076923076925,
+        "recovered": 53.84615384615385,
+        "infected": 38.46153846153847
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.08589646172651888,
+        "recovered": 0.04625194092966401,
+        "deaths": 0.006607420132809145,
+        "infected": 0.03303710066404572
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.8589646172651888,
+        "recovered": 0.4625194092966401,
+        "deaths": 0.06607420132809144,
+        "infected": 0.3303710066404572
+      },
+      "absolute_pop100k": {
+        "confirmed": 8.589646172651888,
+        "recovered": 4.625194092966401,
+        "deaths": 0.6607420132809145,
+        "infected": 3.303710066404572
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "9be8b14590dfbf049045d2204c8d4686",
+    "day_index_1": 25,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 13
+  }
+]

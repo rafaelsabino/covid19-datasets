@@ -1,0 +1,945 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "peak_pct": {
+        "confirmed": 12.34567901234568,
+        "infected": 16.129032258064516
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001034782131796061,
+        "infected": 0.001034782131796061
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01034782131796061,
+        "infected": 0.01034782131796061
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1034782131796061,
+        "infected": 0.1034782131796061
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "bf7c9c6b8c78a76a3265e7c1613d9ef8",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 71,
+        "deaths": 1,
+        "infected": 70
+      },
+      "delta": {
+        "confirmed": 69,
+        "deaths": 1,
+        "infected": 68
+      },
+      "delta_pct": {
+        "confirmed": 3450,
+        "infected": 3400
+      },
+      "peak_pct": {
+        "confirmed": 425.925925925926,
+        "deaths": 100,
+        "infected": 548.3870967741935
+      },
+      "relative": {
+        "deaths": 1.4084507042253522,
+        "infected": 98.59154929577466
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03673476567876017,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.03621737461286214
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3673476567876017,
+        "deaths": 0.005173910658980305,
+        "infected": 0.3621737461286214
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.673476567876017,
+        "deaths": 0.05173910658980305,
+        "infected": 3.621737461286214
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "2c6998a2bb0cf7532597d381e9fbf1b1",
+    "day_index_1": 12,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 86,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 84
+      },
+      "delta": {
+        "confirmed": 15,
+        "recovered": 1,
+        "infected": 14
+      },
+      "delta_pct": {
+        "confirmed": 21.12676056338028,
+        "infected": 20
+      },
+      "peak_pct": {
+        "confirmed": 92.5925925925926,
+        "recovered": 29.411764705882355,
+        "infected": 112.9032258064516
+      },
+      "relative": {
+        "deaths": 1.1627906976744187,
+        "recovered": 1.1627906976744187,
+        "infected": 97.67441860465115
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.044495631667230626,
+        "recovered": 0.0005173910658980305,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.04346084953543457
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4449563166723063,
+        "recovered": 0.005173910658980305,
+        "deaths": 0.005173910658980305,
+        "infected": 0.43460849535434565
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.449563166723062,
+        "recovered": 0.05173910658980305,
+        "deaths": 0.05173910658980305,
+        "infected": 4.346084953543457
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "e3c846901248863a67d08c8eca9209a0",
+    "day_index_1": 13,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 91,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 89
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 5.813953488372093,
+        "infected": 5.9523809523809526
+      },
+      "peak_pct": {
+        "confirmed": 30.864197530864203,
+        "infected": 40.32258064516129
+      },
+      "relative": {
+        "deaths": 1.098901098901099,
+        "recovered": 1.098901098901099,
+        "infected": 97.8021978021978
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04708258699672078,
+        "recovered": 0.0005173910658980305,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.04604780486492472
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.47082586996720777,
+        "recovered": 0.005173910658980305,
+        "deaths": 0.005173910658980305,
+        "infected": 0.4604780486492472
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.708258699672077,
+        "recovered": 0.05173910658980305,
+        "deaths": 0.05173910658980305,
+        "infected": 4.604780486492472
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "f919214b3f1da1cdb6ef47f5d25e6d65",
+    "day_index_1": 14,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 94,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 92
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 3.2967032967032965,
+        "infected": 3.3707865168539324
+      },
+      "peak_pct": {
+        "confirmed": 18.51851851851852,
+        "infected": 24.193548387096772
+      },
+      "relative": {
+        "deaths": 1.0638297872340425,
+        "recovered": 1.0638297872340425,
+        "infected": 97.87234042553192
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04863476019441487,
+        "recovered": 0.0005173910658980305,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.04759997806261881
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4863476019441487,
+        "recovered": 0.005173910658980305,
+        "deaths": 0.005173910658980305,
+        "infected": 0.4759997806261881
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.863476019441487,
+        "recovered": 0.05173910658980305,
+        "deaths": 0.05173910658980305,
+        "infected": 4.759997806261881
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "fb16d49707091ae1cafb32b9846088d0",
+    "day_index_1": 15,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 112,
+        "deaths": 1,
+        "recovered": 6,
+        "infected": 105
+      },
+      "delta": {
+        "confirmed": 18,
+        "recovered": 5,
+        "infected": 13
+      },
+      "delta_pct": {
+        "confirmed": 19.148936170212767,
+        "recovered": 500,
+        "infected": 14.130434782608695
+      },
+      "peak_pct": {
+        "confirmed": 111.11111111111111,
+        "recovered": 147.05882352941177,
+        "infected": 104.83870967741935
+      },
+      "relative": {
+        "deaths": 0.8928571428571428,
+        "recovered": 5.357142857142857,
+        "infected": 93.75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.057947799380579416,
+        "recovered": 0.003104346395388183,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.054326061919293206
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.5794779938057941,
+        "recovered": 0.03104346395388183,
+        "deaths": 0.005173910658980305,
+        "infected": 0.5432606191929321
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.794779938057942,
+        "recovered": 0.31043463953881834,
+        "deaths": 0.05173910658980305,
+        "infected": 5.43260619192932
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "a71346e0f56cdc63e9dcbcf17ba3fd3b",
+    "day_index_1": 17,
+    "day_index_10": 6,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 125,
+        "deaths": 1,
+        "recovered": 10,
+        "infected": 114
+      },
+      "delta": {
+        "confirmed": 13,
+        "recovered": 4,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 11.607142857142858,
+        "recovered": 66.66666666666667,
+        "infected": 8.571428571428571
+      },
+      "peak_pct": {
+        "confirmed": 80.24691358024691,
+        "recovered": 117.64705882352942,
+        "infected": 72.58064516129032
+      },
+      "relative": {
+        "deaths": 0.8,
+        "recovered": 8,
+        "infected": 91.2
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06467388323725382,
+        "recovered": 0.0051739106589803055,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.05898258151237548
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.6467388323725382,
+        "recovered": 0.051739106589803054,
+        "deaths": 0.005173910658980305,
+        "infected": 0.5898258151237548
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.467388323725381,
+        "recovered": 0.5173910658980305,
+        "deaths": 0.05173910658980305,
+        "infected": 5.898258151237548
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "c38c4d0b85784a87968fdf61c9a5f2d5",
+    "day_index_1": 18,
+    "day_index_10": 7,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 126,
+        "deaths": 1,
+        "recovered": 10,
+        "infected": 115
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 0.8,
+        "infected": 0.8771929824561403
+      },
+      "peak_pct": {
+        "confirmed": 6.17283950617284,
+        "infected": 8.064516129032258
+      },
+      "relative": {
+        "deaths": 0.7936507936507936,
+        "recovered": 7.936507936507936,
+        "infected": 91.26984126984127
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06519127430315184,
+        "recovered": 0.0051739106589803055,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.05949997257827351
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.6519127430315185,
+        "recovered": 0.051739106589803054,
+        "deaths": 0.005173910658980305,
+        "infected": 0.5949997257827351
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.5191274303151845,
+        "recovered": 0.5173910658980305,
+        "deaths": 0.05173910658980305,
+        "infected": 5.949997257827351
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "c827e092530fbab0ea92377ad5797f41",
+    "day_index_1": 20,
+    "day_index_10": 9,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 135,
+        "deaths": 1,
+        "recovered": 16,
+        "infected": 118
+      },
+      "delta": {
+        "confirmed": 9,
+        "recovered": 6,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 7.142857142857143,
+        "recovered": 60,
+        "infected": 2.608695652173913
+      },
+      "peak_pct": {
+        "confirmed": 55.55555555555556,
+        "recovered": 176.47058823529412,
+        "infected": 24.193548387096772
+      },
+      "relative": {
+        "deaths": 0.7407407407407408,
+        "recovered": 11.851851851851853,
+        "infected": 87.4074074074074
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06984779389623412,
+        "recovered": 0.008278257054368488,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.061052145775967605
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.6984779389623412,
+        "recovered": 0.08278257054368487,
+        "deaths": 0.005173910658980305,
+        "infected": 0.610521457759676
+      },
+      "absolute_pop100k": {
+        "confirmed": 6.984779389623412,
+        "recovered": 0.8278257054368487,
+        "deaths": 0.05173910658980305,
+        "infected": 6.105214577596761
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "9e2676e443648c4d09438a3e1e4634a0",
+    "day_index_1": 21,
+    "day_index_10": 10,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 145,
+        "deaths": 1,
+        "recovered": 23,
+        "infected": 121
+      },
+      "delta": {
+        "confirmed": 10,
+        "recovered": 7,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 7.407407407407407,
+        "recovered": 43.75,
+        "infected": 2.542372881355932
+      },
+      "peak_pct": {
+        "confirmed": 61.728395061728406,
+        "recovered": 205.8823529411765,
+        "infected": 24.193548387096772
+      },
+      "relative": {
+        "deaths": 0.6896551724137931,
+        "recovered": 15.862068965517242,
+        "infected": 83.44827586206897
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07502170455521442,
+        "recovered": 0.011899994515654702,
+        "deaths": 0.0005173910658980305,
+        "infected": 0.0626043189736617
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7502170455521442,
+        "recovered": 0.11899994515654702,
+        "deaths": 0.005173910658980305,
+        "infected": 0.626043189736617
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.502170455521442,
+        "recovered": 1.1899994515654702,
+        "deaths": 0.05173910658980305,
+        "infected": 6.2604318973661695
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "e03ce377c77fa5f7f6128a55b33707ba",
+    "day_index_1": 22,
+    "day_index_10": 11,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "7fd7261173b8d984499b7125041f757a",
+      "type": "total-country",
+      "label": "Kosovo",
+      "country": "Kosovo",
+      "country_code": "XK",
+      "country_latlong": [
+        42.666667,
+        21.166667
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        42.666667,
+        21.166667
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 170,
+        "deaths": 4,
+        "recovered": 24,
+        "infected": 142
+      },
+      "delta": {
+        "confirmed": 25,
+        "recovered": 1,
+        "deaths": 3,
+        "infected": 21
+      },
+      "delta_pct": {
+        "confirmed": 17.24137931034483,
+        "recovered": 4.3478260869565215,
+        "infected": 17.355371900826448,
+        "deaths": 300
+      },
+      "peak_pct": {
+        "confirmed": 154.320987654321,
+        "recovered": 29.411764705882355,
+        "deaths": 300,
+        "infected": 169.35483870967744
+      },
+      "relative": {
+        "deaths": 2.3529411764705883,
+        "recovered": 14.117647058823529,
+        "infected": 83.52941176470588
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0879564812026652,
+        "recovered": 0.012417385581552733,
+        "deaths": 0.002069564263592122,
+        "infected": 0.07346953135752034
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.8795648120266519,
+        "recovered": 0.12417385581552733,
+        "deaths": 0.02069564263592122,
+        "infected": 0.7346953135752033
+      },
+      "absolute_pop100k": {
+        "confirmed": 8.79564812026652,
+        "recovered": 1.2417385581552733,
+        "deaths": 0.2069564263592122,
+        "infected": 7.346953135752034
+      }
+    },
+    "factbook": {
+      "population": 1932774,
+      "median_age": 30.5,
+      "death_rate": 7,
+      "area": 10887
+    },
+    "data_key": "3215207a15e8112e0a2e8d4175d2ce9d",
+    "day_index_1": 24,
+    "day_index_10": 13,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 9
+  }
+]

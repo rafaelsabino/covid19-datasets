@@ -1,0 +1,2934 @@
+[
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 31,
+      "date": "2020-01-31",
+      "timestamp": 1580428800,
+      "index": 10
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "peak_pct": {
+        "confirmed": 0.2804262478968031,
+        "infected": 0.30057108506161706
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.4112114611821064e-05,
+        "infected": 1.4112114611821064e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00014112114611821065,
+        "infected": 0.00014112114611821065
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0014112114611821065,
+        "infected": 0.0014112114611821065
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "4a82a7822af701d72726942965f9821b",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -64,
+    "day_index_peak_deaths": -62,
+    "day_index_peak": -63
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 12,
+      "date": "2020-02-12",
+      "timestamp": 1581465600,
+      "index": 22
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "recovered": 2
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "infected": -100
+      },
+      "peak_pct": {
+        "recovered": 3.6630036630036633,
+        "infected": -0.30057108506161706
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.4112114611821064e-05,
+        "recovered": 1.4112114611821064e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00014112114611821065,
+        "recovered": 0.00014112114611821065
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0014112114611821065,
+        "recovered": 0.0014112114611821065
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "57e2a097bc0418debad127b9c5fd8c73",
+    "day_index_1": 13,
+    "day_index_peak_confirmed": -52,
+    "day_index_peak_deaths": -50,
+    "day_index_peak": -51
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "date": "2020-03-02",
+      "timestamp": 1583107200,
+      "index": 41
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "recovered": 2,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50
+      },
+      "peak_pct": {
+        "confirmed": 0.14021312394840155,
+        "infected": 0.15028554253080853
+      },
+      "relative": {
+        "recovered": 66.66666666666666,
+        "infected": 33.33333333333333
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.1168171917731595e-05,
+        "recovered": 1.4112114611821064e-05,
+        "infected": 7.056057305910532e-06
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00021168171917731595,
+        "recovered": 0.00014112114611821065,
+        "infected": 7.056057305910532e-05
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0021168171917731594,
+        "recovered": 0.0014112114611821065,
+        "infected": 0.0007056057305910532
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "dd62d79f38d01bf8be4f9b4a61c35342",
+    "day_index_1": 32,
+    "day_index_peak_confirmed": -33,
+    "day_index_peak_deaths": -31,
+    "day_index_peak": -32
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "date": "2020-03-05",
+      "timestamp": 1583366400,
+      "index": 44
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "recovered": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 33.333333333333336,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.14021312394840155,
+        "infected": 0.15028554253080853
+      },
+      "relative": {
+        "recovered": 50,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.822422922364213e-05,
+        "recovered": 1.4112114611821064e-05,
+        "infected": 1.4112114611821064e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0002822422922364213,
+        "recovered": 0.00014112114611821065,
+        "infected": 0.00014112114611821065
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.002822422922364213,
+        "recovered": 0.0014112114611821065,
+        "infected": 0.0014112114611821065
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "69ec1136346f35610a4c57296e503488",
+    "day_index_1": 35,
+    "day_index_peak_confirmed": -30,
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -29
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "date": "2020-03-06",
+      "timestamp": 1583452800,
+      "index": 45
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13,
+        "recovered": 2,
+        "infected": 11
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 225,
+        "infected": 450
+      },
+      "peak_pct": {
+        "confirmed": 1.261918115535614,
+        "infected": 1.3525698827772767
+      },
+      "relative": {
+        "recovered": 15.384615384615385,
+        "infected": 84.61538461538461
+      },
+      "absolute_pop1k": {
+        "confirmed": 9.17287449768369e-05,
+        "recovered": 1.4112114611821064e-05,
+        "infected": 7.761663036501585e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0009172874497683691,
+        "recovered": 0.00014112114611821065,
+        "infected": 0.0007761663036501585
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.00917287449768369,
+        "recovered": 0.0014112114611821065,
+        "infected": 0.007761663036501585
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "8f827bde798c6fad568c3d9f474a44c2",
+    "day_index_1": 36,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -29,
+    "day_index_peak_deaths": -27,
+    "day_index_peak": -28
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 17,
+        "recovered": 3,
+        "infected": 14
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 1,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 30.76923076923077,
+        "recovered": 50,
+        "infected": 27.272727272727273
+      },
+      "peak_pct": {
+        "confirmed": 0.5608524957936062,
+        "recovered": 1.8315018315018317,
+        "infected": 0.4508566275924256
+      },
+      "relative": {
+        "recovered": 17.647058823529413,
+        "infected": 82.35294117647058
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00011995297420047904,
+        "recovered": 2.1168171917731595e-05,
+        "infected": 9.878480228274745e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0011995297420047905,
+        "recovered": 0.00021168171917731595,
+        "infected": 0.0009878480228274744
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.011995297420047905,
+        "recovered": 0.0021168171917731594,
+        "infected": 0.009878480228274745
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "514239a41cce0be614d8e533fd1541d9",
+    "day_index_1": 38,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -27,
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -26
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 20,
+        "recovered": 3,
+        "infected": 17
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 17.647058823529413,
+        "infected": 21.428571428571427
+      },
+      "peak_pct": {
+        "confirmed": 0.4206393718452047,
+        "infected": 0.4508566275924256
+      },
+      "relative": {
+        "recovered": 15,
+        "infected": 85
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00014112114611821062,
+        "recovered": 2.1168171917731595e-05,
+        "infected": 0.00011995297420047904
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0014112114611821063,
+        "recovered": 0.00021168171917731595,
+        "infected": 0.0011995297420047905
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.014112114611821063,
+        "recovered": 0.0021168171917731594,
+        "infected": 0.011995297420047905
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "5d8420d143e64505aef96789ea3c0b14",
+    "day_index_1": 40,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 51
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 28,
+        "recovered": 3,
+        "infected": 25
+      },
+      "delta": {
+        "confirmed": 8,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 40,
+        "infected": 47.05882352941177
+      },
+      "peak_pct": {
+        "confirmed": 1.1217049915872124,
+        "infected": 1.2022843402464682
+      },
+      "relative": {
+        "recovered": 10.714285714285714,
+        "infected": 89.28571428571429
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0001975696045654949,
+        "recovered": 2.1168171917731595e-05,
+        "infected": 0.00017640143264776329
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.001975696045654949,
+        "recovered": 0.00021168171917731595,
+        "infected": 0.0017640143264776329
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.01975696045654949,
+        "recovered": 0.0021168171917731594,
+        "infected": 0.01764014326477633
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "160424a2699e4515643a0a1c28469743",
+    "day_index_1": 42,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": -23,
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -22
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 45,
+        "recovered": 3,
+        "infected": 42
+      },
+      "delta": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 60.714285714285715,
+        "infected": 68
+      },
+      "peak_pct": {
+        "confirmed": 2.3836231071228267,
+        "infected": 2.554854223023745
+      },
+      "relative": {
+        "recovered": 6.666666666666667,
+        "infected": 93.33333333333333
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00031752257876597394,
+        "recovered": 2.1168171917731595e-05,
+        "infected": 0.00029635440684824235
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0031752257876597394,
+        "recovered": 0.00021168171917731595,
+        "infected": 0.0029635440684824235
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.03175225787659739,
+        "recovered": 0.0021168171917731594,
+        "infected": 0.029635440684824235
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "c90080b9fb613409bc72d8271ffc5242",
+    "day_index_1": 43,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 59,
+        "recovered": 8,
+        "infected": 51
+      },
+      "delta": {
+        "confirmed": 14,
+        "recovered": 5,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 31.11111111111111,
+        "recovered": 166.66666666666666,
+        "infected": 21.428571428571427
+      },
+      "peak_pct": {
+        "confirmed": 1.9629837352776218,
+        "recovered": 9.157509157509157,
+        "infected": 1.3525698827772767
+      },
+      "relative": {
+        "recovered": 13.559322033898304,
+        "infected": 86.4406779661017
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00041630738104872137,
+        "recovered": 5.644845844728426e-05,
+        "infected": 0.0003598589226014371
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004163073810487214,
+        "recovered": 0.0005644845844728426,
+        "infected": 0.003598589226014371
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04163073810487214,
+        "recovered": 0.005644845844728426,
+        "infected": 0.03598589226014371
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "e01dfaab4a453345e4083233c05a7584",
+    "day_index_1": 44,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": -21,
+    "day_index_peak_deaths": -19,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 63,
+        "recovered": 8,
+        "infected": 55
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 6.779661016949152,
+        "infected": 7.8431372549019605
+      },
+      "peak_pct": {
+        "confirmed": 0.5608524957936062,
+        "infected": 0.6011421701232341
+      },
+      "relative": {
+        "recovered": 12.698412698412698,
+        "infected": 87.3015873015873
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0004445316102723635,
+        "recovered": 5.644845844728426e-05,
+        "infected": 0.00038808315182507926
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004445316102723635,
+        "recovered": 0.0005644845844728426,
+        "infected": 0.0038808315182507925
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04445316102723635,
+        "recovered": 0.005644845844728426,
+        "infected": 0.03880831518250793
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "9058f90a77130a4b4c9ab1dcb6d40334",
+    "day_index_1": 45,
+    "day_index_10": 10,
+    "day_index_peak_confirmed": -20,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -19
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 90,
+        "recovered": 8,
+        "infected": 82
+      },
+      "delta": {
+        "confirmed": 27,
+        "infected": 27
+      },
+      "delta_pct": {
+        "confirmed": 42.857142857142854,
+        "infected": 49.09090909090909
+      },
+      "peak_pct": {
+        "confirmed": 3.785754346606842,
+        "infected": 4.057709648331831
+      },
+      "relative": {
+        "recovered": 8.88888888888889,
+        "infected": 91.11111111111111
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006350451575319479,
+        "recovered": 5.644845844728426e-05,
+        "infected": 0.0005785966990846637
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.006350451575319479,
+        "recovered": 0.0005644845844728426,
+        "infected": 0.0057859669908466365
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.06350451575319478,
+        "recovered": 0.005644845844728426,
+        "infected": 0.05785966990846637
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "f294c8567e02a339f420da665b73bd88",
+    "day_index_1": 46,
+    "day_index_10": 11,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 114,
+        "recovered": 8,
+        "infected": 106
+      },
+      "delta": {
+        "confirmed": 24,
+        "infected": 24
+      },
+      "delta_pct": {
+        "confirmed": 26.666666666666668,
+        "infected": 29.26829268292683
+      },
+      "peak_pct": {
+        "confirmed": 3.365114974761638,
+        "infected": 3.606853020739405
+      },
+      "relative": {
+        "recovered": 7.017543859649122,
+        "infected": 92.98245614035088
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0008043905328738006,
+        "recovered": 5.644845844728426e-05,
+        "infected": 0.0007479420744265164
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.008043905328738006,
+        "recovered": 0.0005644845844728426,
+        "infected": 0.007479420744265164
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.08043905328738006,
+        "recovered": 0.005644845844728426,
+        "infected": 0.07479420744265164
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "515b53ac1705559e89b270a8216a8f39",
+    "day_index_1": 47,
+    "day_index_10": 12,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 147,
+        "recovered": 8,
+        "infected": 139
+      },
+      "delta": {
+        "confirmed": 33,
+        "infected": 33
+      },
+      "delta_pct": {
+        "confirmed": 28.94736842105263,
+        "infected": 31.132075471698112
+      },
+      "peak_pct": {
+        "confirmed": 4.627033090297251,
+        "infected": 4.959422903516682
+      },
+      "relative": {
+        "recovered": 5.442176870748299,
+        "infected": 94.5578231292517
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0010372404239688481,
+        "recovered": 5.644845844728426e-05,
+        "infected": 0.000980791965521564
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.010372404239688481,
+        "recovered": 0.0005644845844728426,
+        "infected": 0.009807919655215639
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.10372404239688482,
+        "recovered": 0.005644845844728426,
+        "infected": 0.0980791965521564
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "2af229f018077b714ffb31d9fe365d65",
+    "day_index_1": 48,
+    "day_index_10": 13,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 199,
+        "deaths": 1,
+        "recovered": 9,
+        "infected": 189
+      },
+      "delta": {
+        "confirmed": 52,
+        "recovered": 1,
+        "deaths": 1,
+        "infected": 50
+      },
+      "delta_pct": {
+        "confirmed": 35.374149659863946,
+        "recovered": 12.5,
+        "infected": 35.97122302158273
+      },
+      "peak_pct": {
+        "confirmed": 7.2910824453168805,
+        "recovered": 1.8315018315018317,
+        "deaths": 14.705882352941178,
+        "infected": 7.514277126540427
+      },
+      "relative": {
+        "deaths": 0.5025125628140703,
+        "recovered": 4.522613065326634,
+        "infected": 94.9748743718593
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0014041554038761958,
+        "recovered": 6.350451575319478e-05,
+        "deaths": 7.056057305910532e-06,
+        "infected": 0.0013335948308170905
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.014041554038761957,
+        "recovered": 0.0006350451575319479,
+        "deaths": 7.056057305910532e-05,
+        "infected": 0.013335948308170906
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.14041554038761958,
+        "recovered": 0.006350451575319479,
+        "deaths": 0.0007056057305910532,
+        "infected": 0.13335948308170906
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "14372deeed142c7966ebb1573f9c46e9",
+    "day_index_1": 49,
+    "day_index_10": 14,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 253,
+        "deaths": 1,
+        "recovered": 9,
+        "infected": 243
+      },
+      "delta": {
+        "confirmed": 54,
+        "infected": 54
+      },
+      "delta_pct": {
+        "confirmed": 27.1356783919598,
+        "infected": 28.571428571428573
+      },
+      "peak_pct": {
+        "confirmed": 7.571508693213684,
+        "infected": 8.115419296663662
+      },
+      "relative": {
+        "deaths": 0.3952569169960474,
+        "recovered": 3.557312252964427,
+        "infected": 96.04743083003953
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0017851824983953644,
+        "recovered": 6.350451575319478e-05,
+        "deaths": 7.056057305910532e-06,
+        "infected": 0.0017146219253362592
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.017851824983953643,
+        "recovered": 0.0006350451575319479,
+        "deaths": 7.056057305910532e-05,
+        "infected": 0.017146219253362592
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.17851824983953643,
+        "recovered": 0.006350451575319479,
+        "deaths": 0.0007056057305910532,
+        "infected": 0.1714621925336259
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "c7f17b7e5d727740fee1322eef9f7c44",
+    "day_index_1": 50,
+    "day_index_10": 15,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 306,
+        "deaths": 1,
+        "recovered": 12,
+        "infected": 293
+      },
+      "delta": {
+        "confirmed": 53,
+        "recovered": 3,
+        "infected": 50
+      },
+      "delta_pct": {
+        "confirmed": 20.948616600790515,
+        "recovered": 33.333333333333336,
+        "infected": 20.5761316872428
+      },
+      "peak_pct": {
+        "confirmed": 7.4312955692652825,
+        "recovered": 5.4945054945054945,
+        "infected": 7.514277126540427
+      },
+      "relative": {
+        "deaths": 0.32679738562091504,
+        "recovered": 3.9215686274509802,
+        "infected": 95.75163398692811
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0021591535356086226,
+        "recovered": 8.467268767092638e-05,
+        "deaths": 7.056057305910532e-06,
+        "infected": 0.0020674247906317857
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.021591535356086225,
+        "recovered": 0.0008467268767092638,
+        "deaths": 7.056057305910532e-05,
+        "infected": 0.020674247906317857
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.21591535356086225,
+        "recovered": 0.008467268767092638,
+        "deaths": 0.0007056057305910532,
+        "infected": 0.20674247906317858
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "e1199242bb49d25f37f12d855764f44c",
+    "day_index_1": 51,
+    "day_index_10": 16,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 367,
+        "deaths": 1,
+        "recovered": 16,
+        "infected": 350
+      },
+      "delta": {
+        "confirmed": 61,
+        "recovered": 4,
+        "infected": 57
+      },
+      "delta_pct": {
+        "confirmed": 19.934640522875817,
+        "recovered": 33.333333333333336,
+        "infected": 19.453924914675767
+      },
+      "peak_pct": {
+        "confirmed": 8.553000560852496,
+        "recovered": 7.326007326007327,
+        "infected": 8.566275924256086
+      },
+      "relative": {
+        "deaths": 0.2724795640326975,
+        "recovered": 4.35967302452316,
+        "infected": 95.36784741144415
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002589573031269165,
+        "recovered": 0.00011289691689456851,
+        "deaths": 7.056057305910532e-06,
+        "infected": 0.002469620057068686
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.025895730312691653,
+        "recovered": 0.0011289691689456852,
+        "deaths": 7.056057305910532e-05,
+        "infected": 0.02469620057068686
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2589573031269165,
+        "recovered": 0.011289691689456852,
+        "deaths": 0.0007056057305910532,
+        "infected": 0.24696200570686863
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "1ff8675b658b17c55fb09ba009b3cd35",
+    "day_index_1": 52,
+    "day_index_10": 17,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 438,
+        "deaths": 1,
+        "recovered": 16,
+        "infected": 421
+      },
+      "delta": {
+        "confirmed": 71,
+        "infected": 71
+      },
+      "delta_pct": {
+        "confirmed": 19.346049046321525,
+        "infected": 20.285714285714285
+      },
+      "peak_pct": {
+        "confirmed": 9.955131800336511,
+        "infected": 10.670273519687406
+      },
+      "relative": {
+        "deaths": 0.228310502283105,
+        "recovered": 3.65296803652968,
+        "infected": 96.11872146118722
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.003090553099988813,
+        "recovered": 0.00011289691689456851,
+        "deaths": 7.056057305910532e-06,
+        "infected": 0.002970600125788334
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03090553099988813,
+        "recovered": 0.0011289691689456852,
+        "deaths": 7.056057305910532e-05,
+        "infected": 0.029706001257883342
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3090553099988813,
+        "recovered": 0.011289691689456852,
+        "deaths": 0.0007056057305910532,
+        "infected": 0.2970600125788334
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "c1765fbd625c929b090d8537b5357f13",
+    "day_index_1": 53,
+    "day_index_10": 18,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 495,
+        "deaths": 1,
+        "recovered": 22,
+        "infected": 472
+      },
+      "delta": {
+        "confirmed": 57,
+        "recovered": 6,
+        "infected": 51
+      },
+      "delta_pct": {
+        "confirmed": 13.013698630136986,
+        "recovered": 37.5,
+        "infected": 12.114014251781473
+      },
+      "peak_pct": {
+        "confirmed": 7.992148065058889,
+        "recovered": 10.989010989010989,
+        "infected": 7.664562669071236
+      },
+      "relative": {
+        "deaths": 0.20202020202020202,
+        "recovered": 4.444444444444445,
+        "infected": 95.35353535353536
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.003492748366425713,
+        "recovered": 0.0001552332607300317,
+        "deaths": 7.056057305910532e-06,
+        "infected": 0.003330459048389771
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03492748366425713,
+        "recovered": 0.001552332607300317,
+        "deaths": 7.056057305910532e-05,
+        "infected": 0.03330459048389771
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3492748366425713,
+        "recovered": 0.01552332607300317,
+        "deaths": 0.0007056057305910532,
+        "infected": 0.3330459048389771
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "b03f5e0f0dfe0e7c6fbb0deafe4a3efc",
+    "day_index_1": 54,
+    "day_index_10": 19,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 658,
+        "deaths": 3,
+        "recovered": 29,
+        "infected": 626
+      },
+      "delta": {
+        "confirmed": 163,
+        "recovered": 7,
+        "deaths": 2,
+        "infected": 154
+      },
+      "delta_pct": {
+        "confirmed": 32.92929292929293,
+        "recovered": 31.818181818181817,
+        "infected": 32.6271186440678,
+        "deaths": 200
+      },
+      "peak_pct": {
+        "confirmed": 22.854739203589457,
+        "recovered": 12.82051282051282,
+        "deaths": 29.411764705882355,
+        "infected": 23.143973549744516
+      },
+      "relative": {
+        "deaths": 0.4559270516717325,
+        "recovered": 4.407294832826747,
+        "infected": 95.13677811550151
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00464288570728913,
+        "recovered": 0.00020462566187140542,
+        "deaths": 2.1168171917731595e-05,
+        "infected": 0.0044170918734999925
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0464288570728913,
+        "recovered": 0.002046256618714054,
+        "deaths": 0.00021168171917731595,
+        "infected": 0.044170918734999925
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.46428857072891305,
+        "recovered": 0.02046256618714054,
+        "deaths": 0.0021168171917731594,
+        "infected": 0.44170918734999925
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "0bc786f3f971e376de96dca8e835d9b1",
+    "day_index_1": 55,
+    "day_index_10": 20,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 840,
+        "deaths": 3,
+        "recovered": 38,
+        "infected": 799
+      },
+      "delta": {
+        "confirmed": 182,
+        "recovered": 9,
+        "infected": 173
+      },
+      "delta_pct": {
+        "confirmed": 27.659574468085108,
+        "recovered": 31.03448275862069,
+        "infected": 27.635782747603834
+      },
+      "peak_pct": {
+        "confirmed": 25.518788558609085,
+        "recovered": 16.483516483516482,
+        "infected": 25.999398857829874
+      },
+      "relative": {
+        "deaths": 0.35714285714285715,
+        "recovered": 4.523809523809524,
+        "infected": 95.11904761904762
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005927088136964847,
+        "recovered": 0.0002681301776246002,
+        "deaths": 2.1168171917731595e-05,
+        "infected": 0.005637789787422515
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05927088136964847,
+        "recovered": 0.002681301776246002,
+        "deaths": 0.00021168171917731595,
+        "infected": 0.05637789787422515
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5927088136964848,
+        "recovered": 0.02681301776246002,
+        "deaths": 0.0021168171917731594,
+        "infected": 0.5637789787422515
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "223748b33d87997ae3945ff71c7c0567",
+    "day_index_1": 56,
+    "day_index_10": 21,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1036,
+        "deaths": 4,
+        "recovered": 45,
+        "infected": 987
+      },
+      "delta": {
+        "confirmed": 196,
+        "recovered": 7,
+        "deaths": 1,
+        "infected": 188
+      },
+      "delta_pct": {
+        "confirmed": 23.333333333333332,
+        "recovered": 18.42105263157895,
+        "infected": 23.529411764705884,
+        "deaths": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 27.481772293886706,
+        "recovered": 12.82051282051282,
+        "deaths": 14.705882352941178,
+        "infected": 28.253681995792007
+      },
+      "relative": {
+        "deaths": 0.3861003861003861,
+        "recovered": 4.343629343629344,
+        "infected": 95.27027027027027
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007310075368923311,
+        "recovered": 0.00031752257876597394,
+        "deaths": 2.822422922364213e-05,
+        "infected": 0.006964328560933695
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0731007536892331,
+        "recovered": 0.0031752257876597394,
+        "deaths": 0.0002822422922364213,
+        "infected": 0.06964328560933696
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7310075368923311,
+        "recovered": 0.03175225787659739,
+        "deaths": 0.002822422922364213,
+        "infected": 0.6964328560933695
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "b9d6374c7c8b28b6cc605464cadb0b5d",
+    "day_index_1": 57,
+    "day_index_10": 22,
+    "day_index_100": 11,
+    "day_index_1k": 1,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1264,
+        "deaths": 4,
+        "recovered": 49,
+        "infected": 1211
+      },
+      "delta": {
+        "confirmed": 228,
+        "recovered": 4,
+        "infected": 224
+      },
+      "delta_pct": {
+        "confirmed": 22.00772200772201,
+        "recovered": 8.88888888888889,
+        "infected": 22.69503546099291
+      },
+      "peak_pct": {
+        "confirmed": 31.968592260235557,
+        "recovered": 7.326007326007327,
+        "infected": 33.66396152690111
+      },
+      "relative": {
+        "deaths": 0.31645569620253167,
+        "recovered": 3.8765822784810124,
+        "infected": 95.80696202531645
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.008918856434670911,
+        "recovered": 0.00034574680798961604,
+        "deaths": 2.822422922364213e-05,
+        "infected": 0.008544885397457654
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.08918856434670912,
+        "recovered": 0.0034574680798961604,
+        "deaths": 0.0002822422922364213,
+        "infected": 0.08544885397457654
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8918856434670911,
+        "recovered": 0.0345746807989616,
+        "deaths": 0.002822422922364213,
+        "infected": 0.8544885397457654
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "97d2f7376d7fd6077e1f4c329262e77e",
+    "day_index_1": 58,
+    "day_index_10": 23,
+    "day_index_100": 12,
+    "day_index_1k": 2,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1534,
+        "deaths": 8,
+        "recovered": 64,
+        "infected": 1462
+      },
+      "delta": {
+        "confirmed": 270,
+        "recovered": 15,
+        "deaths": 4,
+        "infected": 251
+      },
+      "delta_pct": {
+        "confirmed": 21.360759493670887,
+        "recovered": 30.612244897959183,
+        "infected": 20.726672171758878,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 37.85754346606842,
+        "recovered": 27.47252747252747,
+        "deaths": 58.82352941176471,
+        "infected": 37.72167117523295
+      },
+      "relative": {
+        "deaths": 0.5215123859191656,
+        "recovered": 4.172099087353325,
+        "infected": 95.30638852672752
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.010823991907266756,
+        "recovered": 0.00045158766757827406,
+        "deaths": 5.644845844728426e-05,
+        "infected": 0.010315955781241197
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.10823991907266756,
+        "recovered": 0.004515876675782741,
+        "deaths": 0.0005644845844728426,
+        "infected": 0.10315955781241197
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.0823991907266757,
+        "recovered": 0.04515876675782741,
+        "deaths": 0.005644845844728426,
+        "infected": 1.0315955781241197
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "7a13fe2661eafbae612b55a72457c9ce",
+    "day_index_1": 59,
+    "day_index_10": 24,
+    "day_index_100": 13,
+    "day_index_1k": 3,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1836,
+        "deaths": 9,
+        "recovered": 66,
+        "infected": 1761
+      },
+      "delta": {
+        "confirmed": 302,
+        "recovered": 2,
+        "deaths": 1,
+        "infected": 299
+      },
+      "delta_pct": {
+        "confirmed": 19.687092568448502,
+        "recovered": 3.125,
+        "infected": 20.451436388508892,
+        "deaths": 12.5
+      },
+      "peak_pct": {
+        "confirmed": 42.34436343241727,
+        "recovered": 3.6630036630036633,
+        "deaths": 14.705882352941178,
+        "infected": 44.93537721671175
+      },
+      "relative": {
+        "deaths": 0.49019607843137253,
+        "recovered": 3.594771241830065,
+        "infected": 95.91503267973856
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.012954921213651736,
+        "recovered": 0.0004656997821900951,
+        "deaths": 6.350451575319478e-05,
+        "infected": 0.012425716915708446
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.12954921213651738,
+        "recovered": 0.004656997821900951,
+        "deaths": 0.0006350451575319479,
+        "infected": 0.12425716915708446
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.2954921213651736,
+        "recovered": 0.04656997821900951,
+        "deaths": 0.006350451575319479,
+        "infected": 1.2425716915708447
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "926b84096638a1a8b45beb86bc5b3c4d",
+    "day_index_1": 60,
+    "day_index_10": 25,
+    "day_index_100": 14,
+    "day_index_1k": 4,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2337,
+        "deaths": 17,
+        "recovered": 121,
+        "infected": 2199
+      },
+      "delta": {
+        "confirmed": 501,
+        "recovered": 55,
+        "deaths": 8,
+        "infected": 438
+      },
+      "delta_pct": {
+        "confirmed": 27.287581699346404,
+        "recovered": 83.33333333333333,
+        "infected": 24.87223168654174,
+        "deaths": 88.88888888888889
+      },
+      "peak_pct": {
+        "confirmed": 70.24677509814919,
+        "recovered": 100.73260073260073,
+        "deaths": 117.64705882352942,
+        "infected": 65.82506762849414
+      },
+      "relative": {
+        "deaths": 0.727428326914848,
+        "recovered": 5.177578091570389,
+        "infected": 94.09499358151476
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.016490005923912913,
+        "recovered": 0.0008537829340151743,
+        "deaths": 0.00011995297420047904,
+        "infected": 0.01551627001569726
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.16490005923912915,
+        "recovered": 0.008537829340151744,
+        "deaths": 0.0011995297420047905,
+        "infected": 0.1551627001569726
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.6490005923912914,
+        "recovered": 0.08537829340151744,
+        "deaths": 0.011995297420047905,
+        "infected": 1.551627001569726
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "79d0e49c2d4650b2e321c135e7a9d138",
+    "day_index_1": 61,
+    "day_index_10": 26,
+    "day_index_100": 15,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2777,
+        "deaths": 24,
+        "recovered": 190,
+        "infected": 2563
+      },
+      "delta": {
+        "confirmed": 440,
+        "recovered": 69,
+        "deaths": 7,
+        "infected": 364
+      },
+      "delta_pct": {
+        "confirmed": 18.8275566966196,
+        "recovered": 57.02479338842975,
+        "infected": 16.552978626648475,
+        "deaths": 41.1764705882353
+      },
+      "peak_pct": {
+        "confirmed": 61.69377453729668,
+        "recovered": 126.37362637362637,
+        "deaths": 102.94117647058825,
+        "infected": 54.703937481214304
+      },
+      "relative": {
+        "deaths": 0.8642419877565718,
+        "recovered": 6.841915736406194,
+        "infected": 92.29384227583724
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.019594671138513545,
+        "recovered": 0.001340650888123001,
+        "deaths": 0.00016934537534185276,
+        "infected": 0.01808467487504869
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.19594671138513545,
+        "recovered": 0.01340650888123001,
+        "deaths": 0.0016934537534185276,
+        "infected": 0.18084674875048692
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.9594671138513546,
+        "recovered": 0.13406508881230011,
+        "deaths": 0.016934537534185275,
+        "infected": 1.8084674875048692
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "0e3676c5c624a60a3dae04279b3e085e",
+    "day_index_1": 62,
+    "day_index_10": 27,
+    "day_index_100": 16,
+    "day_index_1k": 6,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3548,
+        "deaths": 30,
+        "recovered": 235,
+        "infected": 3283
+      },
+      "delta": {
+        "confirmed": 771,
+        "recovered": 45,
+        "deaths": 6,
+        "infected": 720
+      },
+      "delta_pct": {
+        "confirmed": 27.76377385667987,
+        "recovered": 23.68421052631579,
+        "infected": 28.092079594225517,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 108.1043185642176,
+        "recovered": 82.41758241758241,
+        "deaths": 88.23529411764706,
+        "infected": 108.20559062218216
+      },
+      "relative": {
+        "deaths": 0.8455467869222096,
+        "recovered": 6.623449830890643,
+        "infected": 92.53100338218715
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.025034891321370566,
+        "recovered": 0.001658173466888975,
+        "deaths": 0.00021168171917731595,
+        "infected": 0.023165036135304275
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.25034891321370567,
+        "recovered": 0.01658173466888975,
+        "deaths": 0.0021168171917731594,
+        "infected": 0.23165036135304273
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.5034891321370565,
+        "recovered": 0.1658173466888975,
+        "deaths": 0.021168171917731595,
+        "infected": 2.3165036135304273
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "fceb6f23e9d9d85ced3946d7e663f6e7",
+    "day_index_1": 63,
+    "day_index_10": 28,
+    "day_index_100": 17,
+    "day_index_1k": 7,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4149,
+        "deaths": 34,
+        "recovered": 281,
+        "infected": 3834
+      },
+      "delta": {
+        "confirmed": 601,
+        "recovered": 46,
+        "deaths": 4,
+        "infected": 551
+      },
+      "delta_pct": {
+        "confirmed": 16.939120631341602,
+        "recovered": 19.574468085106382,
+        "infected": 16.78342978982638,
+        "deaths": 13.333333333333334
+      },
+      "peak_pct": {
+        "confirmed": 84.26808749298934,
+        "recovered": 84.24908424908425,
+        "deaths": 58.82352941176471,
+        "infected": 82.80733393447551
+      },
+      "relative": {
+        "deaths": 0.8194745721860689,
+        "recovered": 6.772716317184864,
+        "infected": 92.40780911062907
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.029275581762222797,
+        "recovered": 0.0019827521029608594,
+        "deaths": 0.00023990594840095808,
+        "infected": 0.027052923710860977
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.29275581762222797,
+        "recovered": 0.019827521029608594,
+        "deaths": 0.002399059484009581,
+        "infected": 0.27052923710860977
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.9275581762222798,
+        "recovered": 0.19827521029608594,
+        "deaths": 0.02399059484009581,
+        "infected": 2.705292371086098
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "28075cdb3aadbb50b3326cd2f98d615c",
+    "day_index_1": 64,
+    "day_index_10": 29,
+    "day_index_100": 18,
+    "day_index_1k": 8,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4731,
+        "deaths": 43,
+        "recovered": 333,
+        "infected": 4355
+      },
+      "delta": {
+        "confirmed": 582,
+        "recovered": 52,
+        "deaths": 9,
+        "infected": 521
+      },
+      "delta_pct": {
+        "confirmed": 14.027476500361534,
+        "recovered": 18.505338078291814,
+        "infected": 13.588941053729787,
+        "deaths": 26.470588235294116
+      },
+      "peak_pct": {
+        "confirmed": 81.60403813796971,
+        "recovered": 95.23809523809523,
+        "deaths": 132.35294117647058,
+        "infected": 78.29876765855126
+      },
+      "relative": {
+        "deaths": 0.9088987529063622,
+        "recovered": 7.038681039949271,
+        "infected": 92.05242020714437
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03338220711426273,
+        "recovered": 0.0023496670828682072,
+        "deaths": 0.0003034104641541529,
+        "infected": 0.030729129567240367
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3338220711426273,
+        "recovered": 0.02349667082868207,
+        "deaths": 0.003034104641541529,
+        "infected": 0.30729129567240365
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.3382207114262727,
+        "recovered": 0.23496670828682073,
+        "deaths": 0.03034104641541529,
+        "infected": 3.0729129567240365
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "622bd13507aba35b469bd779db34aea2",
+    "day_index_1": 65,
+    "day_index_10": 30,
+    "day_index_100": 19,
+    "day_index_1k": 9,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5389,
+        "deaths": 45,
+        "recovered": 355,
+        "infected": 4989
+      },
+      "delta": {
+        "confirmed": 658,
+        "recovered": 22,
+        "deaths": 2,
+        "infected": 634
+      },
+      "delta_pct": {
+        "confirmed": 13.908264637497357,
+        "recovered": 6.606606606606607,
+        "infected": 14.557979334098738,
+        "deaths": 4.651162790697675
+      },
+      "peak_pct": {
+        "confirmed": 92.26023555804824,
+        "recovered": 40.29304029304029,
+        "deaths": 29.411764705882355,
+        "infected": 95.28103396453261
+      },
+      "relative": {
+        "deaths": 0.8350343291890889,
+        "recovered": 6.587493041380591,
+        "infected": 92.57747262943032
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03802509282155186,
+        "recovered": 0.002504900343598239,
+        "deaths": 0.00031752257876597394,
+        "infected": 0.03520266989918764
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.3802509282155186,
+        "recovered": 0.02504900343598239,
+        "deaths": 0.0031752257876597394,
+        "infected": 0.3520266989918764
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.8025092821551856,
+        "recovered": 0.25049003435982387,
+        "deaths": 0.03175225787659739,
+        "infected": 3.520266989918764
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "012fcd394d786b47c5dc3a570e8a2fb4",
+    "day_index_1": 66,
+    "day_index_10": 31,
+    "day_index_100": 20,
+    "day_index_1k": 10,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6343,
+        "deaths": 47,
+        "recovered": 406,
+        "infected": 5890
+      },
+      "delta": {
+        "confirmed": 954,
+        "recovered": 51,
+        "deaths": 2,
+        "infected": 901
+      },
+      "delta_pct": {
+        "confirmed": 17.702727778808683,
+        "recovered": 14.366197183098592,
+        "infected": 18.05973140910002,
+        "deaths": 4.444444444444445
+      },
+      "peak_pct": {
+        "confirmed": 133.7633202467751,
+        "recovered": 93.4065934065934,
+        "deaths": 29.411764705882355,
+        "infected": 135.4072738202585
+      },
+      "relative": {
+        "deaths": 0.7409743023805769,
+        "recovered": 6.400756739713069,
+        "infected": 92.85826895790635
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0447565714913905,
+        "recovered": 0.0028647592661996757,
+        "deaths": 0.000331634693377795,
+        "infected": 0.041560177531813035
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.447565714913905,
+        "recovered": 0.028647592661996756,
+        "deaths": 0.00331634693377795,
+        "infected": 0.41560177531813036
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.4756571491390496,
+        "recovered": 0.28647592661996757,
+        "deaths": 0.0331634693377795,
+        "infected": 4.156017753181303
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "46a125441fb325c5a0e8865e81a4e7ee",
+    "day_index_1": 67,
+    "day_index_10": 32,
+    "day_index_100": 21,
+    "day_index_1k": 11,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "29908a604f61a6031781fd4375bb8173",
+      "type": "total-country",
+      "label": "Russia",
+      "country": "Russia",
+      "country_code": "RU",
+      "country_latlong": [
+        60,
+        100
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "administrative": null,
+      "latlong": [
+        60,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7497,
+        "deaths": 58,
+        "recovered": 494,
+        "infected": 6945
+      },
+      "delta": {
+        "confirmed": 1154,
+        "recovered": 88,
+        "deaths": 11,
+        "infected": 1055
+      },
+      "delta_pct": {
+        "confirmed": 18.19328393504651,
+        "recovered": 21.67487684729064,
+        "infected": 17.911714770797964,
+        "deaths": 23.404255319148938
+      },
+      "peak_pct": {
+        "confirmed": 161.8059450364554,
+        "recovered": 161.17216117216117,
+        "deaths": 161.76470588235296,
+        "infected": 158.551247370003
+      },
+      "relative": {
+        "deaths": 0.7736427904495131,
+        "recovered": 6.589302387621715,
+        "infected": 92.63705482192877
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.05289926162241126,
+        "recovered": 0.0034856923091198025,
+        "deaths": 0.00040925132374281084,
+        "infected": 0.04900431798954864
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.5289926162241125,
+        "recovered": 0.034856923091198026,
+        "deaths": 0.004092513237428108,
+        "infected": 0.4900431798954864
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.289926162241126,
+        "recovered": 0.3485692309119803,
+        "deaths": 0.04092513237428108,
+        "infected": 4.900431798954864
+      }
+    },
+    "factbook": {
+      "population": 141722205,
+      "median_age": 40.3,
+      "death_rate": 13.4,
+      "area": 17098242
+    },
+    "data_key": "3a2fe7792dc543110a88a84acf72ddde",
+    "day_index_1": 68,
+    "day_index_10": 33,
+    "day_index_100": 22,
+    "day_index_1k": 12,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 4
+  }
+]

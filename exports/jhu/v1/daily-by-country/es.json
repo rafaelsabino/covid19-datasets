@@ -1,0 +1,4111 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 1,
+      "date": "2020-02-01",
+      "timestamp": 1580515200,
+      "index": 11
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 0.01240294694019299,
+        "infected": 0.019941770031507995
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.9993685194468177e-05,
+        "infected": 1.9993685194468177e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00019993685194468177,
+        "infected": 0.00019993685194468177
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0019993685194468177,
+        "infected": 0.0019993685194468177
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "430ffe3f052dd4b351017a2d8b93c8c6",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -57,
+    "day_index_peak_deaths": -57,
+    "day_index_peak": -57
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 9,
+      "date": "2020-02-09",
+      "timestamp": 1581206400,
+      "index": 19
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.01240294694019299,
+        "infected": 0.019941770031507995
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.9987370388936354e-05,
+        "infected": 3.9987370388936354e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00039987370388936354,
+        "infected": 0.00039987370388936354
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.003998737038893635,
+        "infected": 0.003998737038893635
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "19a3b0da63e56ac8421a422cae132480",
+    "day_index_1": 9,
+    "day_index_peak_confirmed": -49,
+    "day_index_peak_deaths": -49,
+    "day_index_peak": -49
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 15,
+      "date": "2020-02-15",
+      "timestamp": 1581724800,
+      "index": 25
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "recovered": 2
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "infected": -100
+      },
+      "peak_pct": {
+        "recovered": 0.05664759530957911,
+        "infected": -0.03988354006301599
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.9987370388936354e-05,
+        "recovered": 3.9987370388936354e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00039987370388936354,
+        "recovered": 0.00039987370388936354
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.003998737038893635,
+        "recovered": 0.003998737038893635
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "469624a144a1460fd7fea565c08726f9",
+    "day_index_1": 15,
+    "day_index_peak_confirmed": -43,
+    "day_index_peak_deaths": -43,
+    "day_index_peak": -43
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 25,
+      "date": "2020-02-25",
+      "timestamp": 1582588800,
+      "index": 35
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "recovered": 2,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 200
+      },
+      "peak_pct": {
+        "confirmed": 0.04961178776077196,
+        "infected": 0.07976708012603198
+      },
+      "relative": {
+        "recovered": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00011996211116680908,
+        "recovered": 3.9987370388936354e-05,
+        "infected": 7.997474077787271e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0011996211116680907,
+        "recovered": 0.00039987370388936354,
+        "infected": 0.0007997474077787271
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.011996211116680908,
+        "recovered": 0.003998737038893635,
+        "infected": 0.00799747407778727
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "79d4d4e0d8b2a5665223995357b446d8",
+    "day_index_1": 25,
+    "day_index_peak_confirmed": -33,
+    "day_index_peak_deaths": -33,
+    "day_index_peak": -33
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 26,
+      "date": "2020-02-26",
+      "timestamp": 1582675200,
+      "index": 36
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13,
+        "recovered": 2,
+        "infected": 11
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 116.66666666666667,
+        "infected": 175
+      },
+      "peak_pct": {
+        "confirmed": 0.08682062858135092,
+        "infected": 0.13959239022055597
+      },
+      "relative": {
+        "recovered": 15.384615384615385,
+        "infected": 84.61538461538461
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00025991790752808634,
+        "recovered": 3.9987370388936354e-05,
+        "infected": 0.00021993053713914996
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.002599179075280863,
+        "recovered": 0.00039987370388936354,
+        "infected": 0.0021993053713914995
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.025991790752808636,
+        "recovered": 0.003998737038893635,
+        "infected": 0.021993053713914995
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "3f79ef28ae33d15e89e8404ceddfa653",
+    "day_index_1": 26,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -32,
+    "day_index_peak_deaths": -32,
+    "day_index_peak": -32
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 27,
+      "date": "2020-02-27",
+      "timestamp": 1582761600,
+      "index": 37
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15,
+        "recovered": 2,
+        "infected": 13
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 15.384615384615385,
+        "infected": 18.181818181818183
+      },
+      "peak_pct": {
+        "confirmed": 0.02480589388038598,
+        "infected": 0.03988354006301599
+      },
+      "relative": {
+        "recovered": 13.333333333333334,
+        "infected": 86.66666666666667
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00029990527791702267,
+        "recovered": 3.9987370388936354e-05,
+        "infected": 0.00025991790752808634
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.002999052779170227,
+        "recovered": 0.00039987370388936354,
+        "infected": 0.002599179075280863
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.029990527791702266,
+        "recovered": 0.003998737038893635,
+        "infected": 0.025991790752808636
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "d71830c6b6aed78809b1f021742d7044",
+    "day_index_1": 27,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -31,
+    "day_index_peak_deaths": -31,
+    "day_index_peak": -31
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 28,
+      "date": "2020-02-28",
+      "timestamp": 1582848000,
+      "index": 38
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 32,
+        "recovered": 2,
+        "infected": 30
+      },
+      "delta": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 113.33333333333333,
+        "infected": 130.76923076923077
+      },
+      "peak_pct": {
+        "confirmed": 0.21085009798328083,
+        "infected": 0.3390100905356359
+      },
+      "relative": {
+        "recovered": 6.25,
+        "infected": 93.75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006397979262229817,
+        "recovered": 3.9987370388936354e-05,
+        "infected": 0.0005998105558340453
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.006397979262229817,
+        "recovered": 0.00039987370388936354,
+        "infected": 0.005998105558340454
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.06397979262229816,
+        "recovered": 0.003998737038893635,
+        "infected": 0.05998105558340453
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "6134c6a4ae67ddf979b154f44a7eda74",
+    "day_index_1": 28,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -30,
+    "day_index_peak_deaths": -30,
+    "day_index_peak": -30
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 29,
+      "date": "2020-02-29",
+      "timestamp": 1582934400,
+      "index": 39
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 45,
+        "recovered": 2,
+        "infected": 43
+      },
+      "delta": {
+        "confirmed": 13,
+        "infected": 13
+      },
+      "delta_pct": {
+        "confirmed": 40.625,
+        "infected": 43.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 0.16123831022250887,
+        "infected": 0.2592430104096039
+      },
+      "relative": {
+        "recovered": 4.444444444444445,
+        "infected": 95.55555555555556
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.000899715833751068,
+        "recovered": 3.9987370388936354e-05,
+        "infected": 0.0008597284633621317
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00899715833751068,
+        "recovered": 0.00039987370388936354,
+        "infected": 0.008597284633621317
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0899715833751068,
+        "recovered": 0.003998737038893635,
+        "infected": 0.08597284633621317
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "44674c7b4d50e6385231b4119cb076c5",
+    "day_index_1": 29,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -29,
+    "day_index_peak_deaths": -29,
+    "day_index_peak": -29
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "date": "2020-03-01",
+      "timestamp": 1583020800,
+      "index": 40
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 84,
+        "recovered": 2,
+        "infected": 82
+      },
+      "delta": {
+        "confirmed": 39,
+        "infected": 39
+      },
+      "delta_pct": {
+        "confirmed": 86.66666666666667,
+        "infected": 90.69767441860465
+      },
+      "peak_pct": {
+        "confirmed": 0.4837149306675266,
+        "infected": 0.7777290312288119
+      },
+      "relative": {
+        "recovered": 2.380952380952381,
+        "infected": 97.61904761904762
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001679469556335327,
+        "recovered": 3.9987370388936354e-05,
+        "infected": 0.0016394821859463907
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.016794695563353272,
+        "recovered": 0.00039987370388936354,
+        "infected": 0.016394821859463907
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1679469556335327,
+        "recovered": 0.003998737038893635,
+        "infected": 0.16394821859463907
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "84dfda08c8521f16d9dd39e777b3ee5c",
+    "day_index_1": 30,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -28,
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -28
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "date": "2020-03-02",
+      "timestamp": 1583107200,
+      "index": 41
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 120,
+        "recovered": 2,
+        "infected": 118
+      },
+      "delta": {
+        "confirmed": 36,
+        "infected": 36
+      },
+      "delta_pct": {
+        "confirmed": 42.857142857142854,
+        "infected": 43.90243902439025
+      },
+      "peak_pct": {
+        "confirmed": 0.44650608984694756,
+        "infected": 0.7179037211342878
+      },
+      "relative": {
+        "recovered": 1.6666666666666667,
+        "infected": 98.33333333333333
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0023992422233361814,
+        "recovered": 3.9987370388936354e-05,
+        "infected": 0.0023592548529472453
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.023992422233361815,
+        "recovered": 0.00039987370388936354,
+        "infected": 0.023592548529472453
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.23992422233361813,
+        "recovered": 0.003998737038893635,
+        "infected": 0.2359254852947245
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "c699d5ae4b60c7c2455c1273e57bc7bb",
+    "day_index_1": 31,
+    "day_index_10": 6,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -27,
+    "day_index_peak_deaths": -27,
+    "day_index_peak": -27
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "date": "2020-03-03",
+      "timestamp": 1583193600,
+      "index": 42
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 165,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 162
+      },
+      "delta": {
+        "confirmed": 45,
+        "deaths": 1,
+        "infected": 44
+      },
+      "delta_pct": {
+        "confirmed": 37.5,
+        "infected": 37.28813559322034
+      },
+      "peak_pct": {
+        "confirmed": 0.5581326123086846,
+        "deaths": 0.11444266422522317,
+        "infected": 0.8774378813863517
+      },
+      "relative": {
+        "deaths": 0.6060606060606061,
+        "recovered": 1.2121212121212122,
+        "infected": 98.18181818181819
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0032989580570872493,
+        "recovered": 3.9987370388936354e-05,
+        "deaths": 1.9993685194468177e-05,
+        "infected": 0.003238977001503845
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03298958057087249,
+        "recovered": 0.00039987370388936354,
+        "deaths": 0.00019993685194468177,
+        "infected": 0.03238977001503845
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3298958057087249,
+        "recovered": 0.003998737038893635,
+        "deaths": 0.0019993685194468177,
+        "infected": 0.3238977001503845
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "0e44abe487d1b3f8a76e16e7742c7fc4",
+    "day_index_1": 32,
+    "day_index_10": 7,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -26,
+    "day_index_peak_deaths": -26,
+    "day_index_peak": -26
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "date": "2020-03-04",
+      "timestamp": 1583280000,
+      "index": 43
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 222,
+        "deaths": 2,
+        "recovered": 2,
+        "infected": 218
+      },
+      "delta": {
+        "confirmed": 57,
+        "deaths": 1,
+        "infected": 56
+      },
+      "delta_pct": {
+        "confirmed": 34.54545454545455,
+        "infected": 34.5679012345679,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.7069679755910003,
+        "deaths": 0.11444266422522317,
+        "infected": 1.1167391217644478
+      },
+      "relative": {
+        "deaths": 0.9009009009009009,
+        "recovered": 0.9009009009009009,
+        "infected": 98.1981981981982
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0044385981131719356,
+        "recovered": 3.9987370388936354e-05,
+        "deaths": 3.9987370388936354e-05,
+        "infected": 0.004358623372394063
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.044385981131719356,
+        "recovered": 0.00039987370388936354,
+        "deaths": 0.00039987370388936354,
+        "infected": 0.04358623372394063
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.44385981131719354,
+        "recovered": 0.003998737038893635,
+        "deaths": 0.003998737038893635,
+        "infected": 0.4358623372394063
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "e989d17be418151f88b5db9405322b89",
+    "day_index_1": 33,
+    "day_index_10": 8,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -25
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "date": "2020-03-05",
+      "timestamp": 1583366400,
+      "index": 44
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 259,
+        "deaths": 3,
+        "recovered": 2,
+        "infected": 254
+      },
+      "delta": {
+        "confirmed": 37,
+        "deaths": 1,
+        "infected": 36
+      },
+      "delta_pct": {
+        "confirmed": 16.666666666666668,
+        "infected": 16.513761467889907,
+        "deaths": 50
+      },
+      "peak_pct": {
+        "confirmed": 0.45890903678714057,
+        "deaths": 0.11444266422522317,
+        "infected": 0.7179037211342878
+      },
+      "relative": {
+        "deaths": 1.1583011583011582,
+        "recovered": 0.7722007722007722,
+        "infected": 98.06949806949807
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005178364465367258,
+        "recovered": 3.9987370388936354e-05,
+        "deaths": 5.998105558340454e-05,
+        "infected": 0.005078396039394918
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05178364465367258,
+        "recovered": 0.00039987370388936354,
+        "deaths": 0.0005998105558340453,
+        "infected": 0.050783960393949175
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5178364465367258,
+        "recovered": 0.003998737038893635,
+        "deaths": 0.005998105558340454,
+        "infected": 0.5078396039394918
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "0fb17104869f6d218b5021a66088a6ea",
+    "day_index_1": 34,
+    "day_index_10": 9,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -24,
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "date": "2020-03-06",
+      "timestamp": 1583452800,
+      "index": 45
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 400,
+        "deaths": 5,
+        "recovered": 2,
+        "infected": 393
+      },
+      "delta": {
+        "confirmed": 141,
+        "deaths": 2,
+        "infected": 139
+      },
+      "delta_pct": {
+        "confirmed": 54.44015444015444,
+        "infected": 54.724409448818896,
+        "deaths": 66.66666666666667
+      },
+      "peak_pct": {
+        "confirmed": 1.7488155185672114,
+        "deaths": 0.22888532845044635,
+        "infected": 2.771906034379611
+      },
+      "relative": {
+        "deaths": 1.25,
+        "recovered": 0.5,
+        "infected": 98.25
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00799747407778727,
+        "recovered": 3.9987370388936354e-05,
+        "deaths": 9.99684259723409e-05,
+        "infected": 0.007857518281425994
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0799747407778727,
+        "recovered": 0.00039987370388936354,
+        "deaths": 0.000999684259723409,
+        "infected": 0.07857518281425994
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.7997474077787271,
+        "recovered": 0.003998737038893635,
+        "deaths": 0.00999684259723409,
+        "infected": 0.7857518281425995
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "58d5cb9d24625445816732a48adddb95",
+    "day_index_1": 35,
+    "day_index_10": 10,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -23,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -23
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 7,
+      "date": "2020-03-07",
+      "timestamp": 1583539200,
+      "index": 46
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 500,
+        "deaths": 10,
+        "recovered": 30,
+        "infected": 460
+      },
+      "delta": {
+        "confirmed": 100,
+        "recovered": 28,
+        "deaths": 5,
+        "infected": 67
+      },
+      "delta_pct": {
+        "confirmed": 25,
+        "recovered": 1400,
+        "infected": 17.048346055979643,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 1.240294694019299,
+        "recovered": 0.7930663343341076,
+        "deaths": 0.5722133211261159,
+        "infected": 1.3360985921110358
+      },
+      "relative": {
+        "deaths": 2,
+        "recovered": 6,
+        "infected": 92
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00999684259723409,
+        "recovered": 0.0005998105558340453,
+        "deaths": 0.0001999368519446818,
+        "infected": 0.009197095189455362
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09996842597234089,
+        "recovered": 0.005998105558340454,
+        "deaths": 0.001999368519446818,
+        "infected": 0.09197095189455362
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9996842597234089,
+        "recovered": 0.05998105558340453,
+        "deaths": 0.01999368519446818,
+        "infected": 0.9197095189455362
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "b04496af4f0bc6468e249565673a6083",
+    "day_index_1": 36,
+    "day_index_10": 11,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -22,
+    "day_index_peak": -22
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 673,
+        "deaths": 17,
+        "recovered": 30,
+        "infected": 626
+      },
+      "delta": {
+        "confirmed": 173,
+        "deaths": 7,
+        "infected": 166
+      },
+      "delta_pct": {
+        "confirmed": 34.6,
+        "infected": 36.08695652173913,
+        "deaths": 70
+      },
+      "peak_pct": {
+        "confirmed": 2.145709820653387,
+        "deaths": 0.8010986495765623,
+        "infected": 3.310333825230327
+      },
+      "relative": {
+        "deaths": 2.526002971768202,
+        "recovered": 4.457652303120357,
+        "infected": 93.01634472511144
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.013455750135877085,
+        "recovered": 0.0005998105558340453,
+        "deaths": 0.00033989264830595905,
+        "infected": 0.01251604693173708
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.13455750135877084,
+        "recovered": 0.005998105558340454,
+        "deaths": 0.0033989264830595906,
+        "infected": 0.1251604693173708
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.3455750135877085,
+        "recovered": 0.05998105558340453,
+        "deaths": 0.0339892648305959,
+        "infected": 1.251604693173708
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "34aa94c1ed40b6deea342ad3fd75e0e5",
+    "day_index_1": 37,
+    "day_index_10": 12,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": -21,
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "date": "2020-03-09",
+      "timestamp": 1583712000,
+      "index": 48
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1073,
+        "deaths": 28,
+        "recovered": 32,
+        "infected": 1013
+      },
+      "delta": {
+        "confirmed": 400,
+        "recovered": 2,
+        "deaths": 11,
+        "infected": 387
+      },
+      "delta_pct": {
+        "confirmed": 59.43536404160476,
+        "recovered": 6.666666666666667,
+        "infected": 61.82108626198083,
+        "deaths": 64.70588235294117
+      },
+      "peak_pct": {
+        "confirmed": 4.961178776077196,
+        "recovered": 0.05664759530957911,
+        "deaths": 1.2588693064774548,
+        "infected": 7.7174650021935935
+      },
+      "relative": {
+        "deaths": 2.60950605778192,
+        "recovered": 2.982292637465051,
+        "infected": 94.40820130475302
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.021453224213664357,
+        "recovered": 0.0006397979262229817,
+        "deaths": 0.000559823185445109,
+        "infected": 0.020253603101996264
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.21453224213664357,
+        "recovered": 0.006397979262229817,
+        "deaths": 0.00559823185445109,
+        "infected": 0.20253603101996265
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.1453224213664357,
+        "recovered": 0.06397979262229816,
+        "deaths": 0.0559823185445109,
+        "infected": 2.0253603101996265
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "6eaf161d26efb6c5eda4ff0e55cd7099",
+    "day_index_1": 38,
+    "day_index_10": 13,
+    "day_index_100": 8,
+    "day_index_1k": 1,
+    "day_index_peak_confirmed": -20,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1695,
+        "deaths": 35,
+        "recovered": 32,
+        "infected": 1628
+      },
+      "delta": {
+        "confirmed": 622,
+        "deaths": 7,
+        "infected": 615
+      },
+      "delta_pct": {
+        "confirmed": 57.968313140726934,
+        "infected": 60.71076011846002,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 7.714632996800039,
+        "deaths": 0.8010986495765623,
+        "infected": 12.264188569377417
+      },
+      "relative": {
+        "deaths": 2.0648967551622417,
+        "recovered": 1.887905604719764,
+        "infected": 96.047197640118
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03388929640462356,
+        "recovered": 0.0006397979262229817,
+        "deaths": 0.0006997789818063863,
+        "infected": 0.032549719496594194
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.33889296404623565,
+        "recovered": 0.006397979262229817,
+        "deaths": 0.006997789818063862,
+        "infected": 0.3254971949659419
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.388929640462356,
+        "recovered": 0.06397979262229816,
+        "deaths": 0.06997789818063863,
+        "infected": 3.2549719496594194
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "acc6fe6b1d7bcb29999ad068f63cb53a",
+    "day_index_1": 39,
+    "day_index_10": 14,
+    "day_index_100": 9,
+    "day_index_1k": 2,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": -19,
+    "day_index_peak": -19
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2277,
+        "deaths": 54,
+        "recovered": 183,
+        "infected": 2040
+      },
+      "delta": {
+        "confirmed": 582,
+        "recovered": 151,
+        "deaths": 19,
+        "infected": 412
+      },
+      "delta_pct": {
+        "confirmed": 34.336283185840706,
+        "recovered": 471.875,
+        "infected": 25.307125307125308,
+        "deaths": 54.285714285714285
+      },
+      "peak_pct": {
+        "confirmed": 7.21851511919232,
+        "recovered": 4.276893445873223,
+        "deaths": 2.1744106202792404,
+        "infected": 8.216009252981294
+      },
+      "relative": {
+        "deaths": 2.371541501976284,
+        "recovered": 8.036890645586297,
+        "infected": 89.59156785243742
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.045525621187804045,
+        "recovered": 0.003658844390587677,
+        "deaths": 0.0010796590005012817,
+        "infected": 0.04078711779671509
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.45525621187804044,
+        "recovered": 0.03658844390587677,
+        "deaths": 0.010796590005012817,
+        "infected": 0.4078711779671509
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.552562118780404,
+        "recovered": 0.36588443905876766,
+        "deaths": 0.10796590005012817,
+        "infected": 4.078711779671509
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "c69b3b20367c688212c37f05ba9097a2",
+    "day_index_1": 40,
+    "day_index_10": 15,
+    "day_index_100": 10,
+    "day_index_1k": 3,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 51
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2277,
+        "deaths": 55,
+        "recovered": 183,
+        "infected": 2039
+      },
+      "delta": {
+        "deaths": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -0.049019607843137254,
+        "deaths": 1.8518518518518519
+      },
+      "peak_pct": {
+        "deaths": 0.11444266422522317,
+        "infected": -0.019941770031507995
+      },
+      "relative": {
+        "deaths": 2.4154589371980677,
+        "recovered": 8.036890645586297,
+        "infected": 89.54765041721564
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.045525621187804045,
+        "recovered": 0.003658844390587677,
+        "deaths": 0.0010996526856957498,
+        "infected": 0.040767124111520614
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.45525621187804044,
+        "recovered": 0.03658844390587677,
+        "deaths": 0.010996526856957498,
+        "infected": 0.40767124111520614
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.552562118780404,
+        "recovered": 0.36588443905876766,
+        "deaths": 0.10996526856957498,
+        "infected": 4.076712411152061
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "55c4864420a7a04b9733302f2812cb1e",
+    "day_index_1": 41,
+    "day_index_10": 16,
+    "day_index_100": 11,
+    "day_index_1k": 4,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5232,
+        "deaths": 133,
+        "recovered": 193,
+        "infected": 4906
+      },
+      "delta": {
+        "confirmed": 2955,
+        "recovered": 10,
+        "deaths": 78,
+        "infected": 2867
+      },
+      "delta_pct": {
+        "confirmed": 129.7760210803689,
+        "recovered": 5.46448087431694,
+        "infected": 140.60814124570868,
+        "deaths": 141.8181818181818
+      },
+      "peak_pct": {
+        "confirmed": 36.65070820827028,
+        "recovered": 0.2832379765478955,
+        "deaths": 8.926527809567407,
+        "infected": 57.17305468033342
+      },
+      "relative": {
+        "deaths": 2.5420489296636086,
+        "recovered": 3.688837920489297,
+        "infected": 93.7691131498471
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.10460696093745751,
+        "recovered": 0.0038587812425323583,
+        "deaths": 0.0026591601308642676,
+        "infected": 0.09808901956406088
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.0460696093745752,
+        "recovered": 0.03858781242532358,
+        "deaths": 0.026591601308642677,
+        "infected": 0.9808901956406089
+      },
+      "absolute_pop100k": {
+        "confirmed": 10.460696093745751,
+        "recovered": 0.3858781242532358,
+        "deaths": 0.26591601308642676,
+        "infected": 9.808901956406087
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "aa890e2caf5b84635515aec1ae103bcb",
+    "day_index_1": 42,
+    "day_index_10": 17,
+    "day_index_100": 12,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6391,
+        "deaths": 195,
+        "recovered": 517,
+        "infected": 5679
+      },
+      "delta": {
+        "confirmed": 1159,
+        "recovered": 324,
+        "deaths": 62,
+        "infected": 773
+      },
+      "delta_pct": {
+        "confirmed": 22.152140672782874,
+        "recovered": 167.87564766839378,
+        "infected": 15.756216877293111,
+        "deaths": 46.61654135338346
+      },
+      "peak_pct": {
+        "confirmed": 14.375015503683674,
+        "recovered": 9.176910440151815,
+        "deaths": 7.095445181963836,
+        "infected": 15.41498823435568
+      },
+      "relative": {
+        "deaths": 3.0511657017681113,
+        "recovered": 8.089500860585199,
+        "infected": 88.8593334376467
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.12777964207784612,
+        "recovered": 0.010336735245540048,
+        "deaths": 0.003898768612921295,
+        "infected": 0.11354413821938479
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.2777964207784611,
+        "recovered": 0.10336735245540048,
+        "deaths": 0.038987686129212946,
+        "infected": 1.1354413821938478
+      },
+      "absolute_pop100k": {
+        "confirmed": 12.777964207784612,
+        "recovered": 1.0336735245540047,
+        "deaths": 0.3898768612921295,
+        "infected": 11.35441382193848
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "3d812b6c6777f1a78de15c66cc66e063",
+    "day_index_1": 43,
+    "day_index_10": 18,
+    "day_index_100": 13,
+    "day_index_1k": 6,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7798,
+        "deaths": 289,
+        "recovered": 517,
+        "infected": 6992
+      },
+      "delta": {
+        "confirmed": 1407,
+        "deaths": 94,
+        "infected": 1313
+      },
+      "delta_pct": {
+        "confirmed": 22.015334063526833,
+        "infected": 23.120267652755768,
+        "deaths": 48.205128205128204
+      },
+      "peak_pct": {
+        "confirmed": 17.450946344851538,
+        "deaths": 10.757610437170978,
+        "infected": 26.18354405137
+      },
+      "relative": {
+        "deaths": 3.7060784816619647,
+        "recovered": 6.629905103872788,
+        "infected": 89.66401641446525
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.15591075714646285,
+        "recovered": 0.010336735245540048,
+        "deaths": 0.005778175021201304,
+        "infected": 0.1397958468797215
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.5591075714646285,
+        "recovered": 0.10336735245540048,
+        "deaths": 0.05778175021201304,
+        "infected": 1.3979584687972149
+      },
+      "absolute_pop100k": {
+        "confirmed": 15.591075714646285,
+        "recovered": 1.0336735245540047,
+        "deaths": 0.5778175021201304,
+        "infected": 13.97958468797215
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "ab342e061b8ca7f7a4c7a8e459e8b6f6",
+    "day_index_1": 44,
+    "day_index_10": 19,
+    "day_index_100": 14,
+    "day_index_1k": 7,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9942,
+        "deaths": 342,
+        "recovered": 530,
+        "infected": 9070
+      },
+      "delta": {
+        "confirmed": 2144,
+        "recovered": 13,
+        "deaths": 53,
+        "infected": 2078
+      },
+      "delta_pct": {
+        "confirmed": 27.494229289561424,
+        "recovered": 2.514506769825919,
+        "infected": 29.719679633867276,
+        "deaths": 18.33910034602076
+      },
+      "peak_pct": {
+        "confirmed": 26.591918239773772,
+        "recovered": 0.36820936951226424,
+        "deaths": 6.065461203936828,
+        "infected": 41.43899812547362
+      },
+      "relative": {
+        "deaths": 3.4399517199758605,
+        "recovered": 5.330919332126332,
+        "infected": 91.2291289478978
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.19877721820340263,
+        "recovered": 0.010596653153068134,
+        "deaths": 0.006837840336508117,
+        "infected": 0.18134272471382637
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.9877721820340264,
+        "recovered": 0.10596653153068133,
+        "deaths": 0.06837840336508116,
+        "infected": 1.8134272471382638
+      },
+      "absolute_pop100k": {
+        "confirmed": 19.877721820340263,
+        "recovered": 1.0596653153068134,
+        "deaths": 0.6837840336508116,
+        "infected": 18.134272471382637
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "16288183101fd7d6fe2d818ead61a02c",
+    "day_index_1": 45,
+    "day_index_10": 20,
+    "day_index_100": 15,
+    "day_index_1k": 8,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11748,
+        "deaths": 533,
+        "recovered": 1028,
+        "infected": 10187
+      },
+      "delta": {
+        "confirmed": 1806,
+        "recovered": 498,
+        "deaths": 191,
+        "infected": 1117
+      },
+      "delta_pct": {
+        "confirmed": 18.16535908267954,
+        "recovered": 93.9622641509434,
+        "infected": 12.315325248070563,
+        "deaths": 55.84795321637427
+      },
+      "peak_pct": {
+        "confirmed": 22.39972217398854,
+        "recovered": 14.105251232085198,
+        "deaths": 21.858548867017625,
+        "infected": 22.27495712519443
+      },
+      "relative": {
+        "deaths": 4.536942458290773,
+        "recovered": 8.750425604358188,
+        "infected": 86.71263193735103
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.23488581366461217,
+        "recovered": 0.020553508379913286,
+        "deaths": 0.010656634208651539,
+        "infected": 0.20367567107604734
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.348858136646122,
+        "recovered": 0.20553508379913288,
+        "deaths": 0.10656634208651539,
+        "infected": 2.036756710760473
+      },
+      "absolute_pop100k": {
+        "confirmed": 23.48858136646122,
+        "recovered": 2.0553508379913286,
+        "deaths": 1.0656634208651539,
+        "infected": 20.367567107604735
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "e7cc47178ba9204981889cf1d4e4947a",
+    "day_index_1": 46,
+    "day_index_10": 21,
+    "day_index_100": 16,
+    "day_index_1k": 9,
+    "day_index_10k": 1,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13910,
+        "deaths": 623,
+        "recovered": 1081,
+        "infected": 12206
+      },
+      "delta": {
+        "confirmed": 2162,
+        "recovered": 53,
+        "deaths": 90,
+        "infected": 2019
+      },
+      "delta_pct": {
+        "confirmed": 18.403132448076267,
+        "recovered": 5.155642023346304,
+        "infected": 19.81937763816629,
+        "deaths": 16.885553470919323
+      },
+      "peak_pct": {
+        "confirmed": 26.815171284697243,
+        "recovered": 1.5011612757038464,
+        "deaths": 10.299839780270085,
+        "infected": 40.26243369361464
+      },
+      "relative": {
+        "deaths": 4.478792235801582,
+        "recovered": 7.771387491013659,
+        "infected": 87.74982027318477
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2781121610550524,
+        "recovered": 0.0216131736952201,
+        "deaths": 0.012456065876153674,
+        "infected": 0.2440429214836786
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.7811216105505236,
+        "recovered": 0.216131736952201,
+        "deaths": 0.12456065876153674,
+        "infected": 2.440429214836786
+      },
+      "absolute_pop100k": {
+        "confirmed": 27.81121610550524,
+        "recovered": 2.16131736952201,
+        "deaths": 1.2456065876153675,
+        "infected": 24.40429214836786
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "560cf3fe7c71fa9dd82601e934490abf",
+    "day_index_1": 47,
+    "day_index_10": 22,
+    "day_index_100": 17,
+    "day_index_1k": 10,
+    "day_index_10k": 2,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 17963,
+        "deaths": 830,
+        "recovered": 1107,
+        "infected": 16026
+      },
+      "delta": {
+        "confirmed": 4053,
+        "recovered": 26,
+        "deaths": 207,
+        "infected": 3820
+      },
+      "delta_pct": {
+        "confirmed": 29.137311286843996,
+        "recovered": 2.4051803885291396,
+        "infected": 31.296083893167296,
+        "deaths": 33.22632423756019
+      },
+      "peak_pct": {
+        "confirmed": 50.26914394860219,
+        "recovered": 0.7364187390245285,
+        "deaths": 23.689631494621196,
+        "infected": 76.17756152036054
+      },
+      "relative": {
+        "deaths": 4.620609029672104,
+        "recovered": 6.162667705839782,
+        "infected": 89.21672326448812
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.3591465671482319,
+        "recovered": 0.022133009510276275,
+        "deaths": 0.01659475871140859,
+        "infected": 0.320418798926547
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.591465671482319,
+        "recovered": 0.22133009510276275,
+        "deaths": 0.1659475871140859,
+        "infected": 3.20418798926547
+      },
+      "absolute_pop100k": {
+        "confirmed": 35.91465671482319,
+        "recovered": 2.2133009510276276,
+        "deaths": 1.659475871140859,
+        "infected": 32.0418798926547
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "a5e2d01070e9197e2d356d19873ab958",
+    "day_index_1": 48,
+    "day_index_10": 23,
+    "day_index_100": 18,
+    "day_index_1k": 11,
+    "day_index_10k": 3,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 20410,
+        "deaths": 1043,
+        "recovered": 1588,
+        "infected": 17779
+      },
+      "delta": {
+        "confirmed": 2447,
+        "recovered": 481,
+        "deaths": 213,
+        "infected": 1753
+      },
+      "delta_pct": {
+        "confirmed": 13.62244613928631,
+        "recovered": 43.450767841011746,
+        "infected": 10.938474978160489,
+        "deaths": 25.662650602409638
+      },
+      "peak_pct": {
+        "confirmed": 30.350011162652248,
+        "recovered": 13.623746671953777,
+        "deaths": 24.376287479972536,
+        "infected": 34.95792286523351
+      },
+      "relative": {
+        "deaths": 5.110240078392945,
+        "recovered": 7.780499755022048,
+        "infected": 87.10926016658502
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.4080711148190955,
+        "recovered": 0.03174997208881547,
+        "deaths": 0.02085341365783031,
+        "infected": 0.3554677290724497
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.0807111481909555,
+        "recovered": 0.3174997208881547,
+        "deaths": 0.20853413657830308,
+        "infected": 3.5546772907244972
+      },
+      "absolute_pop100k": {
+        "confirmed": 40.80711148190955,
+        "recovered": 3.174997208881547,
+        "deaths": 2.085341365783031,
+        "infected": 35.54677290724497
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "cfdf16013ef3bea8420c4e7658140b3f",
+    "day_index_1": 49,
+    "day_index_10": 24,
+    "day_index_100": 19,
+    "day_index_1k": 12,
+    "day_index_10k": 4,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 25374,
+        "deaths": 1375,
+        "recovered": 2125,
+        "infected": 21874
+      },
+      "delta": {
+        "confirmed": 4964,
+        "recovered": 537,
+        "deaths": 332,
+        "infected": 4095
+      },
+      "delta_pct": {
+        "confirmed": 24.32141107300343,
+        "recovered": 33.81612090680101,
+        "infected": 23.03279149558468,
+        "deaths": 31.83125599232982
+      },
+      "peak_pct": {
+        "confirmed": 61.568228611118,
+        "recovered": 15.20987934062199,
+        "deaths": 37.9949645227741,
+        "infected": 81.66154827902524
+      },
+      "relative": {
+        "deaths": 5.418932765823284,
+        "recovered": 8.374714274454167,
+        "infected": 86.20635295972255
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5073197681244356,
+        "recovered": 0.04248658103824488,
+        "deaths": 0.027491317142393747,
+        "infected": 0.4373418699437969
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.0731976812443556,
+        "recovered": 0.4248658103824488,
+        "deaths": 0.27491317142393745,
+        "infected": 4.373418699437969
+      },
+      "absolute_pop100k": {
+        "confirmed": 50.731976812443556,
+        "recovered": 4.248658103824488,
+        "deaths": 2.7491317142393745,
+        "infected": 43.73418699437969
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "cced26249a493ae54f0a9cb9cef725ad",
+    "day_index_1": 50,
+    "day_index_10": 25,
+    "day_index_100": 20,
+    "day_index_1k": 13,
+    "day_index_10k": 5,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 28603,
+        "deaths": 1756,
+        "recovered": 2125,
+        "infected": 24722
+      },
+      "delta": {
+        "confirmed": 3229,
+        "deaths": 381,
+        "infected": 2848
+      },
+      "delta_pct": {
+        "confirmed": 12.725624655158825,
+        "infected": 13.020023772515316,
+        "deaths": 27.70909090909091
+      },
+      "peak_pct": {
+        "confirmed": 40.049115669883165,
+        "deaths": 43.60265506981003,
+        "infected": 56.79416104973477
+      },
+      "relative": {
+        "deaths": 6.1392161661364195,
+        "recovered": 7.429290633849596,
+        "infected": 86.43149320001399
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5718793776173733,
+        "recovered": 0.04248658103824488,
+        "deaths": 0.03510891120148612,
+        "infected": 0.49428388537764234
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.718793776173733,
+        "recovered": 0.4248658103824488,
+        "deaths": 0.3510891120148612,
+        "infected": 4.942838853776424
+      },
+      "absolute_pop100k": {
+        "confirmed": 57.18793776173733,
+        "recovered": 4.248658103824488,
+        "deaths": 3.510891120148612,
+        "infected": 49.428388537764235
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "40cf635efb24b3a42f7df9c3107a3e45",
+    "day_index_1": 51,
+    "day_index_10": 26,
+    "day_index_100": 21,
+    "day_index_1k": 14,
+    "day_index_10k": 6,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 35136,
+        "deaths": 2311,
+        "recovered": 3355,
+        "infected": 29470
+      },
+      "delta": {
+        "confirmed": 6533,
+        "recovered": 1230,
+        "deaths": 555,
+        "infected": 4748
+      },
+      "delta_pct": {
+        "confirmed": 22.840261511030313,
+        "recovered": 57.88235294117647,
+        "infected": 19.205565892727126,
+        "deaths": 31.605922551252846
+      },
+      "peak_pct": {
+        "confirmed": 81.0284523602808,
+        "recovered": 34.83827111539115,
+        "deaths": 63.515678644998864,
+        "infected": 94.68352410959996
+      },
+      "relative": {
+        "deaths": 6.577299635701276,
+        "recovered": 9.54861111111111,
+        "infected": 83.8740892531876
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.7024981229928339,
+        "recovered": 0.06707881382744074,
+        "deaths": 0.04620540648441596,
+        "infected": 0.5892139026809772
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.024981229928339,
+        "recovered": 0.6707881382744074,
+        "deaths": 0.4620540648441596,
+        "infected": 5.8921390268097715
+      },
+      "absolute_pop100k": {
+        "confirmed": 70.24981229928339,
+        "recovered": 6.707881382744074,
+        "deaths": 4.6205406484415965,
+        "infected": 58.92139026809772
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "4e4aa05e9bf87e3d9a4867a17b1029d4",
+    "day_index_1": 52,
+    "day_index_10": 27,
+    "day_index_100": 22,
+    "day_index_1k": 15,
+    "day_index_10k": 7,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 39885,
+        "deaths": 2808,
+        "recovered": 3794,
+        "infected": 33283
+      },
+      "delta": {
+        "confirmed": 4749,
+        "recovered": 439,
+        "deaths": 497,
+        "infected": 3813
+      },
+      "delta_pct": {
+        "confirmed": 13.516051912568306,
+        "recovered": 13.0849478390462,
+        "infected": 12.938581608415337,
+        "deaths": 21.5058416270013
+      },
+      "peak_pct": {
+        "confirmed": 58.90159501897651,
+        "recovered": 12.434147170452615,
+        "deaths": 56.87800411993591,
+        "infected": 76.03796913013998
+      },
+      "relative": {
+        "deaths": 7.04024069198947,
+        "recovered": 9.512348000501442,
+        "infected": 83.44741130750909
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.7974481339813633,
+        "recovered": 0.07585604162781227,
+        "deaths": 0.056142268026066644,
+        "infected": 0.6654498243274843
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.974481339813632,
+        "recovered": 0.7585604162781228,
+        "deaths": 0.5614226802606664,
+        "infected": 6.654498243274843
+      },
+      "absolute_pop100k": {
+        "confirmed": 79.74481339813633,
+        "recovered": 7.585604162781228,
+        "deaths": 5.614226802606664,
+        "infected": 66.54498243274844
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "352cfb6dbddc1b28bf88fd6e6cb85d4b",
+    "day_index_1": 53,
+    "day_index_10": 28,
+    "day_index_100": 23,
+    "day_index_1k": 16,
+    "day_index_10k": 8,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 49515,
+        "deaths": 3647,
+        "recovered": 5367,
+        "infected": 40501
+      },
+      "delta": {
+        "confirmed": 9630,
+        "recovered": 1573,
+        "deaths": 839,
+        "infected": 7218
+      },
+      "delta_pct": {
+        "confirmed": 24.144415193681834,
+        "recovered": 41.460200316288876,
+        "infected": 21.686746987951807,
+        "deaths": 29.87891737891738
+      },
+      "peak_pct": {
+        "confirmed": 119.44037903405848,
+        "recovered": 44.55333371098397,
+        "deaths": 96.01739528496223,
+        "infected": 143.93969608742472
+      },
+      "relative": {
+        "deaths": 7.365444814702615,
+        "recovered": 10.839139654650106,
+        "infected": 81.79541553064728
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.9899873224040918,
+        "recovered": 0.10730610843871072,
+        "deaths": 0.07291696990422544,
+        "infected": 0.8097642440611557
+      },
+      "absolute_pop10k": {
+        "confirmed": 9.899873224040919,
+        "recovered": 1.0730610843871071,
+        "deaths": 0.7291696990422545,
+        "infected": 8.097642440611557
+      },
+      "absolute_pop100k": {
+        "confirmed": 98.99873224040918,
+        "recovered": 10.730610843871071,
+        "deaths": 7.291696990422544,
+        "infected": 80.97642440611557
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "7cb454b7519e8f02bd05ac628ac3962b",
+    "day_index_1": 54,
+    "day_index_10": 29,
+    "day_index_100": 24,
+    "day_index_1k": 17,
+    "day_index_10k": 9,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 57786,
+        "deaths": 4365,
+        "recovered": 7015,
+        "infected": 46406
+      },
+      "delta": {
+        "confirmed": 8271,
+        "recovered": 1648,
+        "deaths": 718,
+        "infected": 5905
+      },
+      "delta_pct": {
+        "confirmed": 16.704029082096334,
+        "recovered": 30.706167318800073,
+        "infected": 14.579886916372436,
+        "deaths": 19.687414313134084
+      },
+      "peak_pct": {
+        "confirmed": 102.58477414233622,
+        "recovered": 46.67761853509319,
+        "deaths": 82.16983291371024,
+        "infected": 117.75615203605471
+      },
+      "relative": {
+        "deaths": 7.553732738033434,
+        "recovered": 12.139618592738726,
+        "infected": 80.30664866922784
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.1553550926475382,
+        "recovered": 0.14025570163919426,
+        "deaths": 0.0872724358738536,
+        "infected": 0.9278269551344903
+      },
+      "absolute_pop10k": {
+        "confirmed": 11.553550926475381,
+        "recovered": 1.4025570163919427,
+        "deaths": 0.8727243587385359,
+        "infected": 9.278269551344904
+      },
+      "absolute_pop100k": {
+        "confirmed": 115.53550926475383,
+        "recovered": 14.025570163919426,
+        "deaths": 8.72724358738536,
+        "infected": 92.78269551344903
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "4dc91d85b4474d322bef6c7b2802f932",
+    "day_index_1": 55,
+    "day_index_10": 30,
+    "day_index_100": 25,
+    "day_index_1k": 18,
+    "day_index_10k": 10,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 65719,
+        "deaths": 5138,
+        "recovered": 9357,
+        "infected": 51224
+      },
+      "delta": {
+        "confirmed": 7933,
+        "recovered": 2342,
+        "deaths": 773,
+        "infected": 4818
+      },
+      "delta_pct": {
+        "confirmed": 13.7282386737272,
+        "recovered": 33.3856022808268,
+        "infected": 10.382278153687023,
+        "deaths": 17.70904925544101
+      },
+      "peak_pct": {
+        "confirmed": 98.39257807655099,
+        "recovered": 66.33433410751714,
+        "deaths": 88.46417944609752,
+        "infected": 96.07944801180552
+      },
+      "relative": {
+        "deaths": 7.818134785982744,
+        "recovered": 14.237891629513536,
+        "infected": 77.94397358450372
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.3139649972952543,
+        "recovered": 0.18708091236463875,
+        "deaths": 0.1027275545291775,
+        "infected": 1.024156530401438
+      },
+      "absolute_pop10k": {
+        "confirmed": 13.139649972952544,
+        "recovered": 1.8708091236463875,
+        "deaths": 1.027275545291775,
+        "infected": 10.24156530401438
+      },
+      "absolute_pop100k": {
+        "confirmed": 131.39649972952543,
+        "recovered": 18.708091236463876,
+        "deaths": 10.272755452917751,
+        "infected": 102.4156530401438
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "684bb9b09cb02c0a5e32951955b3a965",
+    "day_index_1": 56,
+    "day_index_10": 31,
+    "day_index_100": 26,
+    "day_index_1k": 19,
+    "day_index_10k": 11,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 73235,
+        "deaths": 5982,
+        "recovered": 12285,
+        "infected": 54968
+      },
+      "delta": {
+        "confirmed": 7516,
+        "recovered": 2928,
+        "deaths": 844,
+        "infected": 3744
+      },
+      "delta_pct": {
+        "confirmed": 11.436570854699553,
+        "recovered": 31.292080795126644,
+        "infected": 7.309073871622677,
+        "deaths": 16.426625145971194
+      },
+      "peak_pct": {
+        "confirmed": 93.22054920249052,
+        "recovered": 82.93207953322381,
+        "deaths": 96.58960860608835,
+        "infected": 74.66198699796594
+      },
+      "relative": {
+        "deaths": 8.168225575203113,
+        "recovered": 16.77476616371953,
+        "infected": 75.05700826107736
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.464237535216877,
+        "recovered": 0.24562242261404157,
+        "deaths": 0.11960222483330865,
+        "infected": 1.0990128877695269
+      },
+      "absolute_pop10k": {
+        "confirmed": 14.64237535216877,
+        "recovered": 2.456224226140416,
+        "deaths": 1.1960222483330865,
+        "infected": 10.99012887769527
+      },
+      "absolute_pop100k": {
+        "confirmed": 146.4237535216877,
+        "recovered": 24.56224226140416,
+        "deaths": 11.960222483330865,
+        "infected": 109.90128877695268
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "2c39228c883280ddeec400406e0a7a6c",
+    "day_index_1": 57,
+    "day_index_10": 32,
+    "day_index_100": 27,
+    "day_index_1k": 20,
+    "day_index_10k": 12,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 80110,
+        "deaths": 6803,
+        "recovered": 14709,
+        "infected": 58598
+      },
+      "delta": {
+        "confirmed": 6875,
+        "recovered": 2424,
+        "deaths": 821,
+        "infected": 3630
+      },
+      "delta_pct": {
+        "confirmed": 9.387587901959446,
+        "recovered": 19.731379731379732,
+        "infected": 6.603842235482462,
+        "deaths": 13.724506853895019
+      },
+      "peak_pct": {
+        "confirmed": 85.2702602138268,
+        "recovered": 68.65688551520988,
+        "deaths": 93.95742732890822,
+        "infected": 72.38862521437403
+      },
+      "relative": {
+        "deaths": 8.49207339907627,
+        "recovered": 18.36100362002247,
+        "infected": 73.14692298090127
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.6016941209288458,
+        "recovered": 0.29408711552543243,
+        "deaths": 0.13601704037796702,
+        "infected": 1.1715899650254464
+      },
+      "absolute_pop10k": {
+        "confirmed": 16.016941209288458,
+        "recovered": 2.9408711552543245,
+        "deaths": 1.3601704037796702,
+        "infected": 11.715899650254464
+      },
+      "absolute_pop100k": {
+        "confirmed": 160.16941209288458,
+        "recovered": 29.40871155254324,
+        "deaths": 13.601704037796702,
+        "infected": 117.15899650254464
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "a9b8732802be0f3f8910f73c327fd5e2",
+    "day_index_1": 58,
+    "day_index_10": 33,
+    "day_index_100": 28,
+    "day_index_1k": 21,
+    "day_index_10k": 13,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 87956,
+        "deaths": 7716,
+        "recovered": 16780,
+        "infected": 63460
+      },
+      "delta": {
+        "confirmed": 7846,
+        "recovered": 2071,
+        "deaths": 913,
+        "infected": 4862
+      },
+      "delta_pct": {
+        "confirmed": 9.794033204344027,
+        "recovered": 14.07981507920321,
+        "infected": 8.29721150892522,
+        "deaths": 13.420549757459945
+      },
+      "peak_pct": {
+        "confirmed": 97.3135216927542,
+        "recovered": 58.65858494306917,
+        "deaths": 104.48615243762876,
+        "infected": 96.95688589319187
+      },
+      "relative": {
+        "deaths": 8.772568102232935,
+        "recovered": 19.07772067852108,
+        "infected": 72.14971121924599
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.758564574964643,
+        "recovered": 0.33549403756317603,
+        "deaths": 0.15427127496051646,
+        "infected": 1.2687992624409505
+      },
+      "absolute_pop10k": {
+        "confirmed": 17.58564574964643,
+        "recovered": 3.3549403756317604,
+        "deaths": 1.5427127496051645,
+        "infected": 12.687992624409505
+      },
+      "absolute_pop100k": {
+        "confirmed": 175.85645749646432,
+        "recovered": 33.5494037563176,
+        "deaths": 15.427127496051646,
+        "infected": 126.87992624409506
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "1de848eaaa56dbdfe795eea6b143a8a1",
+    "day_index_1": 59,
+    "day_index_10": 34,
+    "day_index_100": 29,
+    "day_index_1k": 22,
+    "day_index_10k": 14,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 95923,
+        "deaths": 8464,
+        "recovered": 19259,
+        "infected": 68200
+      },
+      "delta": {
+        "confirmed": 7967,
+        "recovered": 2479,
+        "deaths": 748,
+        "infected": 4740
+      },
+      "delta_pct": {
+        "confirmed": 9.05793805993906,
+        "recovered": 14.773539928486294,
+        "infected": 7.469271982351088,
+        "deaths": 9.694142042509071
+      },
+      "peak_pct": {
+        "confirmed": 98.81427827251754,
+        "recovered": 70.21469438622331,
+        "deaths": 85.60311284046693,
+        "infected": 94.5239899493479
+      },
+      "relative": {
+        "deaths": 8.823744044702522,
+        "recovered": 20.077562211357026,
+        "infected": 71.09869374394046
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.9178542649089712,
+        "recovered": 0.38505838316026264,
+        "deaths": 0.16922655148597868,
+        "infected": 1.3635693302627299
+      },
+      "absolute_pop10k": {
+        "confirmed": 19.17854264908971,
+        "recovered": 3.850583831602626,
+        "deaths": 1.6922655148597867,
+        "infected": 13.635693302627299
+      },
+      "absolute_pop100k": {
+        "confirmed": 191.78542649089712,
+        "recovered": 38.505838316026264,
+        "deaths": 16.92265514859787,
+        "infected": 136.356933026273
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "3b8e7f3326b8806bf1db8b932eba6ad9",
+    "day_index_1": 60,
+    "day_index_10": 35,
+    "day_index_100": 30,
+    "day_index_1k": 23,
+    "day_index_10k": 15,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 104118,
+        "deaths": 9387,
+        "recovered": 22647,
+        "infected": 72084
+      },
+      "delta": {
+        "confirmed": 8195,
+        "recovered": 3388,
+        "deaths": 923,
+        "infected": 3884
+      },
+      "delta_pct": {
+        "confirmed": 8.543310780521876,
+        "recovered": 17.59177527389792,
+        "infected": 5.6950146627565985,
+        "deaths": 10.905009451795841
+      },
+      "peak_pct": {
+        "confirmed": 101.64215017488154,
+        "recovered": 95.96102645442701,
+        "deaths": 105.63057907988099,
+        "infected": 77.45383480237706
+      },
+      "relative": {
+        "deaths": 9.015732150060508,
+        "recovered": 21.75128219904339,
+        "infected": 69.2329856508961
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.081702515077638,
+        "recovered": 0.4527969885991208,
+        "deaths": 0.1876807229204728,
+        "infected": 1.4412248035580442
+      },
+      "absolute_pop10k": {
+        "confirmed": 20.817025150776377,
+        "recovered": 4.527969885991208,
+        "deaths": 1.876807229204728,
+        "infected": 14.412248035580442
+      },
+      "absolute_pop100k": {
+        "confirmed": 208.1702515077638,
+        "recovered": 45.27969885991208,
+        "deaths": 18.76807229204728,
+        "infected": 144.1224803558044
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "91ae0cd33e5621efe408f23bb0b937fe",
+    "day_index_1": 61,
+    "day_index_10": 36,
+    "day_index_100": 31,
+    "day_index_1k": 24,
+    "day_index_10k": 16,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 112065,
+        "deaths": 10348,
+        "recovered": 26743,
+        "infected": 74974
+      },
+      "delta": {
+        "confirmed": 7947,
+        "recovered": 4096,
+        "deaths": 961,
+        "infected": 2890
+      },
+      "delta_pct": {
+        "confirmed": 7.632685990894946,
+        "recovered": 18.086280743586347,
+        "infected": 4.009211475500805,
+        "deaths": 10.237562586555875
+      },
+      "peak_pct": {
+        "confirmed": 98.56621933371369,
+        "recovered": 116.01427519401801,
+        "deaths": 109.97940032043947,
+        "infected": 57.6317153910581
+      },
+      "relative": {
+        "deaths": 9.233926738946147,
+        "recovered": 23.863829027796367,
+        "infected": 66.90224423325748
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.2405923313180764,
+        "recovered": 0.5346911231556625,
+        "deaths": 0.2068946543923567,
+        "infected": 1.4990065537700572
+      },
+      "absolute_pop10k": {
+        "confirmed": 22.405923313180764,
+        "recovered": 5.346911231556625,
+        "deaths": 2.068946543923567,
+        "infected": 14.990065537700572
+      },
+      "absolute_pop100k": {
+        "confirmed": 224.05923313180764,
+        "recovered": 53.46911231556625,
+        "deaths": 20.689465439235672,
+        "infected": 149.90065537700573
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "a611c9b890a50632ba784391a78882e8",
+    "day_index_1": 62,
+    "day_index_10": 37,
+    "day_index_100": 32,
+    "day_index_1k": 25,
+    "day_index_10k": 17,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 119199,
+        "deaths": 11198,
+        "recovered": 30513,
+        "infected": 77488
+      },
+      "delta": {
+        "confirmed": 7134,
+        "recovered": 3770,
+        "deaths": 850,
+        "infected": 2514
+      },
+      "delta_pct": {
+        "confirmed": 6.365948333556418,
+        "recovered": 14.09714691695023,
+        "infected": 3.353162429642276,
+        "deaths": 8.214147661383842
+      },
+      "peak_pct": {
+        "confirmed": 88.48262347133678,
+        "recovered": 106.78071715855661,
+        "deaths": 97.2762645914397,
+        "infected": 50.133609859211106
+      },
+      "relative": {
+        "deaths": 9.394374113876793,
+        "recovered": 25.598369113834845,
+        "infected": 65.00725677228836
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.3832272814954125,
+        "recovered": 0.6100673163388075,
+        "deaths": 0.22388928680765466,
+        "infected": 1.5492706783489503
+      },
+      "absolute_pop10k": {
+        "confirmed": 23.832272814954123,
+        "recovered": 6.100673163388075,
+        "deaths": 2.2388928680765465,
+        "infected": 15.492706783489503
+      },
+      "absolute_pop100k": {
+        "confirmed": 238.32272814954126,
+        "recovered": 61.00673163388075,
+        "deaths": 22.388928680765467,
+        "infected": 154.927067834895
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "23efbaac49dc6d4149b760bc30df1cc8",
+    "day_index_1": 63,
+    "day_index_10": 38,
+    "day_index_100": 33,
+    "day_index_1k": 26,
+    "day_index_10k": 18,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 126168,
+        "deaths": 11947,
+        "recovered": 34219,
+        "infected": 80002
+      },
+      "delta": {
+        "confirmed": 6969,
+        "recovered": 3706,
+        "deaths": 749,
+        "infected": 2514
+      },
+      "delta_pct": {
+        "confirmed": 5.8465255581003195,
+        "recovered": 12.145642840756398,
+        "infected": 3.2443733223208753,
+        "deaths": 6.688694409716021
+      },
+      "peak_pct": {
+        "confirmed": 86.43613722620495,
+        "recovered": 104.9679941086501,
+        "deaths": 85.71755550469216,
+        "infected": 50.133609859211106
+      },
+      "relative": {
+        "deaths": 9.46912053769577,
+        "recovered": 27.12177414241329,
+        "infected": 63.409105319890934
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.522563273615661,
+        "recovered": 0.6841639136695066,
+        "deaths": 0.23886455701831133,
+        "infected": 1.5995348029278433
+      },
+      "absolute_pop10k": {
+        "confirmed": 25.225632736156612,
+        "recovered": 6.841639136695066,
+        "deaths": 2.3886455701831135,
+        "infected": 15.995348029278434
+      },
+      "absolute_pop100k": {
+        "confirmed": 252.25632736156612,
+        "recovered": 68.41639136695066,
+        "deaths": 23.88645570183113,
+        "infected": 159.95348029278432
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "8f81ee0051429577fdf7dda481cf9109",
+    "day_index_1": 64,
+    "day_index_10": 39,
+    "day_index_100": 34,
+    "day_index_1k": 27,
+    "day_index_10k": 19,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 131646,
+        "deaths": 12641,
+        "recovered": 38080,
+        "infected": 80925
+      },
+      "delta": {
+        "confirmed": 5478,
+        "recovered": 3861,
+        "deaths": 694,
+        "infected": 923
+      },
+      "delta_pct": {
+        "confirmed": 4.341829941031007,
+        "recovered": 11.283205236856716,
+        "infected": 1.1537211569710757,
+        "deaths": 5.808989704528334
+      },
+      "peak_pct": {
+        "confirmed": 67.94334333837719,
+        "recovered": 109.35818274514246,
+        "deaths": 79.42320897230488,
+        "infected": 18.40625373908188
+      },
+      "relative": {
+        "deaths": 9.602266684897376,
+        "recovered": 28.926059280190813,
+        "infected": 61.47167403491181
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.632088681110958,
+        "recovered": 0.7613595322053482,
+        "deaths": 0.25274017454327224,
+        "infected": 1.6179889743623375
+      },
+      "absolute_pop10k": {
+        "confirmed": 26.320886811109578,
+        "recovered": 7.613595322053483,
+        "deaths": 2.5274017454327224,
+        "infected": 16.179889743623374
+      },
+      "absolute_pop100k": {
+        "confirmed": 263.2088681110958,
+        "recovered": 76.13595322053483,
+        "deaths": 25.274017454327225,
+        "infected": 161.79889743623374
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "e34c2dc5c41585ddf11fedecbd43a009",
+    "day_index_1": 65,
+    "day_index_10": 40,
+    "day_index_100": 35,
+    "day_index_1k": 28,
+    "day_index_10k": 20,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 136675,
+        "deaths": 13341,
+        "recovered": 40437,
+        "infected": 82897
+      },
+      "delta": {
+        "confirmed": 5029,
+        "recovered": 2357,
+        "deaths": 700,
+        "infected": 1972
+      },
+      "delta_pct": {
+        "confirmed": 3.8200932804642753,
+        "recovered": 6.1896008403361344,
+        "infected": 2.4368242199567502,
+        "deaths": 5.537536587295309
+      },
+      "peak_pct": {
+        "confirmed": 62.37442016223055,
+        "recovered": 66.75919107233898,
+        "deaths": 80.10986495765621,
+        "infected": 39.325170502133766
+      },
+      "relative": {
+        "deaths": 9.76111212730931,
+        "recovered": 29.586244741174315,
+        "infected": 60.65264313151637
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.7326369239539385,
+        "recovered": 0.8084846482087097,
+        "deaths": 0.2667357541794,
+        "infected": 1.6574165215658285
+      },
+      "absolute_pop10k": {
+        "confirmed": 27.326369239539385,
+        "recovered": 8.084846482087096,
+        "deaths": 2.667357541794,
+        "infected": 16.574165215658287
+      },
+      "absolute_pop100k": {
+        "confirmed": 273.26369239539383,
+        "recovered": 80.84846482087097,
+        "deaths": 26.67357541794,
+        "infected": 165.74165215658286
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "a7e8e7a28893cfb1b0b0c59cd4d2f903",
+    "day_index_1": 66,
+    "day_index_10": 41,
+    "day_index_100": 36,
+    "day_index_1k": 29,
+    "day_index_10k": 21,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ca70aeb1d57baaf4eb8ebded94d192fc",
+      "type": "total-country",
+      "label": "Spain",
+      "country": "Spain",
+      "country_code": "ES",
+      "country_latlong": [
+        40,
+        -4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        40,
+        -4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 141942,
+        "deaths": 14045,
+        "recovered": 43208,
+        "infected": 84689
+      },
+      "delta": {
+        "confirmed": 5267,
+        "recovered": 2771,
+        "deaths": 704,
+        "infected": 1792
+      },
+      "delta_pct": {
+        "confirmed": 3.853667459301262,
+        "recovered": 6.852634963028909,
+        "infected": 2.1617187594243457,
+        "deaths": 5.276965744696799
+      },
+      "peak_pct": {
+        "confirmed": 65.32632153399648,
+        "recovered": 78.48524330142186,
+        "deaths": 80.5676356145571,
+        "infected": 35.73565189646233
+      },
+      "relative": {
+        "deaths": 9.894886643840442,
+        "recovered": 30.440602499612517,
+        "infected": 59.66451085654704
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.8379436638732023,
+        "recovered": 0.8638871498825811,
+        "deaths": 0.2808113085563056,
+        "infected": 1.6932452054343157
+      },
+      "absolute_pop10k": {
+        "confirmed": 28.379436638732024,
+        "recovered": 8.63887149882581,
+        "deaths": 2.808113085563056,
+        "infected": 16.932452054343155
+      },
+      "absolute_pop100k": {
+        "confirmed": 283.7943663873202,
+        "recovered": 86.3887149882581,
+        "deaths": 28.08113085563056,
+        "infected": 169.32452054343156
+      }
+    },
+    "factbook": {
+      "population": 50015792,
+      "median_age": 43.9,
+      "death_rate": 9.3,
+      "area": 505370
+    },
+    "data_key": "96eaaa49736176519d32924c6baab0d8",
+    "day_index_1": 67,
+    "day_index_10": 42,
+    "day_index_100": 37,
+    "day_index_1k": 30,
+    "day_index_10k": 22,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 9
+  }
+]

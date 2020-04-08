@@ -1,0 +1,3433 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 4,
+      "date": "2020-02-04",
+      "timestamp": 1580774400,
+      "index": 14
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 0.06623393826996954,
+        "infected": 0.09340556697179153
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 8.531901975954369e-05,
+        "infected": 8.531901975954369e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.000853190197595437,
+        "infected": 0.000853190197595437
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.008531901975954369,
+        "infected": 0.008531901975954369
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "5c87438306fb4a53782d0677f3278e15",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -58,
+    "day_index_peak_deaths": -59,
+    "day_index_peak": -58
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 17,
+      "date": "2020-02-17",
+      "timestamp": 1581897600,
+      "index": 27
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "recovered": 1
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -100
+      },
+      "peak_pct": {
+        "recovered": 0.2707092582566324,
+        "infected": -0.09340556697179153
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 8.531901975954369e-05,
+        "recovered": 8.531901975954369e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.000853190197595437,
+        "recovered": 0.000853190197595437
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.008531901975954369,
+        "recovered": 0.008531901975954369
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "fd7496869995a31cde4c1c01f0fc1dde",
+    "day_index_1": 14,
+    "day_index_peak_confirmed": -45,
+    "day_index_peak_deaths": -46,
+    "day_index_peak": -45
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 1,
+      "date": "2020-03-01",
+      "timestamp": 1583020800,
+      "index": 40
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "recovered": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.06623393826996954,
+        "infected": 0.09340556697179153
+      },
+      "relative": {
+        "recovered": 50,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00017063803951908739,
+        "recovered": 8.531901975954369e-05,
+        "infected": 8.531901975954369e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.001706380395190874,
+        "recovered": 0.000853190197595437,
+        "infected": 0.000853190197595437
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.017063803951908738,
+        "recovered": 0.008531901975954369,
+        "infected": 0.008531901975954369
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "25cae64843ee2a0148cff0cf8313d515",
+    "day_index_1": 27,
+    "day_index_peak_confirmed": -32,
+    "day_index_peak_deaths": -33,
+    "day_index_peak": -32
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "date": "2020-03-02",
+      "timestamp": 1583107200,
+      "index": 41
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "recovered": 1,
+        "infected": 7
+      },
+      "delta": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 300,
+        "infected": 600
+      },
+      "peak_pct": {
+        "confirmed": 0.39740362961981723,
+        "infected": 0.5604334018307492
+      },
+      "relative": {
+        "recovered": 12.5,
+        "infected": 87.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0006825521580763495,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.0005972331383168059
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.006825521580763496,
+        "recovered": 0.000853190197595437,
+        "infected": 0.005972331383168059
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.06825521580763495,
+        "recovered": 0.008531901975954369,
+        "infected": 0.059723313831680586
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "e1ab2efd8905bc50ad30a67c249ab54f",
+    "day_index_1": 28,
+    "day_index_peak_confirmed": -31,
+    "day_index_peak_deaths": -32,
+    "day_index_peak": -31
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "date": "2020-03-03",
+      "timestamp": 1583193600,
+      "index": 42
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13,
+        "recovered": 1,
+        "infected": 12
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 62.5,
+        "infected": 71.42857142857143
+      },
+      "peak_pct": {
+        "confirmed": 0.3311696913498477,
+        "infected": 0.46702783485895766
+      },
+      "relative": {
+        "recovered": 7.6923076923076925,
+        "infected": 92.3076923076923
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001109147256874068,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.0010238282371145245
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.011091472568740681,
+        "recovered": 0.000853190197595437,
+        "infected": 0.010238282371145244
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.1109147256874068,
+        "recovered": 0.008531901975954369,
+        "infected": 0.10238282371145245
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "03767fc0b2095fc753fd84cdf6428ab2",
+    "day_index_1": 29,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -30,
+    "day_index_peak_deaths": -31,
+    "day_index_peak": -30
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "date": "2020-03-04",
+      "timestamp": 1583280000,
+      "index": 43
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 23,
+        "recovered": 1,
+        "infected": 22
+      },
+      "delta": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 76.92307692307692,
+        "infected": 83.33333333333333
+      },
+      "peak_pct": {
+        "confirmed": 0.6623393826996954,
+        "infected": 0.9340556697179153
+      },
+      "relative": {
+        "recovered": 4.3478260869565215,
+        "infected": 95.65217391304348
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001962337454469505,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.0018770184347099614
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.019623374544695052,
+        "recovered": 0.000853190197595437,
+        "infected": 0.018770184347099615
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19623374544695052,
+        "recovered": 0.008531901975954369,
+        "infected": 0.18770184347099614
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "db8bdd4449bfcf391698e3b9398e8364",
+    "day_index_1": 30,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -29,
+    "day_index_peak_deaths": -30,
+    "day_index_peak": -29
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "date": "2020-03-05",
+      "timestamp": 1583366400,
+      "index": 44
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 50,
+        "recovered": 1,
+        "infected": 49
+      },
+      "delta": {
+        "confirmed": 27,
+        "infected": 27
+      },
+      "delta_pct": {
+        "confirmed": 117.3913043478261,
+        "infected": 122.72727272727273
+      },
+      "peak_pct": {
+        "confirmed": 1.7883163332891774,
+        "infected": 2.521950308238371
+      },
+      "relative": {
+        "recovered": 2,
+        "infected": 98
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0042659509879771846,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.004180631968217641
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.042659509879771844,
+        "recovered": 0.000853190197595437,
+        "infected": 0.041806319682176414
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.42659509879771845,
+        "recovered": 0.008531901975954369,
+        "infected": 0.4180631968217641
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "425b4ebbee4eb0556458dc301fc8b709",
+    "day_index_1": 31,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -28,
+    "day_index_peak_deaths": -29,
+    "day_index_peak": -28
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "date": "2020-03-06",
+      "timestamp": 1583452800,
+      "index": 45
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 109,
+        "recovered": 1,
+        "infected": 108
+      },
+      "delta": {
+        "confirmed": 59,
+        "infected": 59
+      },
+      "delta_pct": {
+        "confirmed": 118,
+        "infected": 120.40816326530613
+      },
+      "peak_pct": {
+        "confirmed": 3.907802357928203,
+        "infected": 5.5109284513357
+      },
+      "relative": {
+        "recovered": 0.9174311926605505,
+        "infected": 99.08256880733946
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009299773153790263,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.00921445413403072
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09299773153790263,
+        "recovered": 0.000853190197595437,
+        "infected": 0.0921445413403072
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9299773153790263,
+        "recovered": 0.008531901975954369,
+        "infected": 0.921445413403072
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "f3222497f5dd999361130bf8e1fd0ce6",
+    "day_index_1": 32,
+    "day_index_10": 4,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -27,
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -27
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 7,
+      "date": "2020-03-07",
+      "timestamp": 1583539200,
+      "index": 46
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 169,
+        "recovered": 1,
+        "infected": 168
+      },
+      "delta": {
+        "confirmed": 60,
+        "infected": 60
+      },
+      "delta_pct": {
+        "confirmed": 55.04587155963303,
+        "infected": 55.55555555555556
+      },
+      "peak_pct": {
+        "confirmed": 3.9740362961981717,
+        "infected": 5.604334018307491
+      },
+      "relative": {
+        "recovered": 0.591715976331361,
+        "infected": 99.40828402366864
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014418914339362885,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.014333595319603341
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.14418914339362884,
+        "recovered": 0.000853190197595437,
+        "infected": 0.14333595319603343
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.4418914339362885,
+        "recovered": 0.008531901975954369,
+        "infected": 1.433359531960334
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "729f2a774fb7460c385f5c067849500e",
+    "day_index_1": 33,
+    "day_index_10": 5,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -26,
+    "day_index_peak_deaths": -27,
+    "day_index_peak": -26
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 200,
+        "recovered": 1,
+        "infected": 199
+      },
+      "delta": {
+        "confirmed": 31,
+        "infected": 31
+      },
+      "delta_pct": {
+        "confirmed": 18.34319526627219,
+        "infected": 18.452380952380953
+      },
+      "peak_pct": {
+        "confirmed": 2.0532520863690555,
+        "infected": 2.895572576125537
+      },
+      "relative": {
+        "recovered": 0.5,
+        "infected": 99.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.017063803951908738,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.016978484932149197
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.17063803951908738,
+        "recovered": 0.000853190197595437,
+        "infected": 0.16978484932149196
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.7063803951908738,
+        "recovered": 0.008531901975954369,
+        "infected": 1.6978484932149196
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "7b445794ac2a00c9bf40b331998ef2ed",
+    "day_index_1": 34,
+    "day_index_10": 6,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -26,
+    "day_index_peak": -25
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "date": "2020-03-09",
+      "timestamp": 1583712000,
+      "index": 48
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 239,
+        "recovered": 1,
+        "infected": 238
+      },
+      "delta": {
+        "confirmed": 39,
+        "infected": 39
+      },
+      "delta_pct": {
+        "confirmed": 19.5,
+        "infected": 19.597989949748744
+      },
+      "peak_pct": {
+        "confirmed": 2.583123592528812,
+        "infected": 3.6428171118998693
+      },
+      "relative": {
+        "recovered": 0.41841004184100417,
+        "infected": 99.581589958159
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.020391245722530944,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.0203059267027714
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.20391245722530943,
+        "recovered": 0.000853190197595437,
+        "infected": 0.20305926702771399
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.0391245722530944,
+        "recovered": 0.008531901975954369,
+        "infected": 2.03059267027714
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "207614287e611eb83af26b9062e3fd57",
+    "day_index_1": 35,
+    "day_index_10": 7,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -24,
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 267,
+        "recovered": 1,
+        "infected": 266
+      },
+      "delta": {
+        "confirmed": 28,
+        "infected": 28
+      },
+      "delta_pct": {
+        "confirmed": 11.715481171548117,
+        "infected": 11.764705882352942
+      },
+      "peak_pct": {
+        "confirmed": 1.854550271559147,
+        "infected": 2.6153558752101627
+      },
+      "relative": {
+        "recovered": 0.37453183520599254,
+        "infected": 99.625468164794
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.022780178275798167,
+        "recovered": 8.531901975954369e-05,
+        "infected": 0.022694859256038622
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.22780178275798169,
+        "recovered": 0.000853190197595437,
+        "infected": 0.22694859256038621
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.278017827579817,
+        "recovered": 0.008531901975954369,
+        "infected": 2.2694859256038624
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "d6b9d116c92c7fc059b657a38a3ff67e",
+    "day_index_1": 36,
+    "day_index_10": 8,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -23,
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -23
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 314,
+        "deaths": 3,
+        "recovered": 1,
+        "infected": 310
+      },
+      "delta": {
+        "confirmed": 47,
+        "deaths": 3,
+        "infected": 44
+      },
+      "delta_pct": {
+        "confirmed": 17.60299625468165,
+        "infected": 16.541353383458645
+      },
+      "peak_pct": {
+        "confirmed": 3.112995098688568,
+        "deaths": 1.736111111111111,
+        "infected": 4.109844946758827
+      },
+      "relative": {
+        "deaths": 0.9554140127388535,
+        "recovered": 0.3184713375796179,
+        "infected": 98.72611464968153
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.026790172204496723,
+        "recovered": 8.531901975954369e-05,
+        "deaths": 0.0002559570592786311,
+        "infected": 0.026448896125458546
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2679017220449672,
+        "recovered": 0.000853190197595437,
+        "deaths": 0.002559570592786311,
+        "infected": 0.26448896125458543
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.6790172204496723,
+        "recovered": 0.008531901975954369,
+        "deaths": 0.025595705927863113,
+        "infected": 2.6448896125458545
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "5f960139b64aed960753b9f12cd42118",
+    "day_index_1": 37,
+    "day_index_10": 9,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -22
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 559,
+        "deaths": 3,
+        "recovered": 1,
+        "infected": 555
+      },
+      "delta": {
+        "confirmed": 245,
+        "infected": 245
+      },
+      "delta_pct": {
+        "confirmed": 78.02547770700637,
+        "infected": 79.03225806451613
+      },
+      "peak_pct": {
+        "confirmed": 16.227314876142536,
+        "infected": 22.884363908088922
+      },
+      "relative": {
+        "deaths": 0.5366726296958855,
+        "recovered": 0.17889087656529518,
+        "infected": 99.28443649373881
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04769333204558493,
+        "recovered": 8.531901975954369e-05,
+        "deaths": 0.0002559570592786311,
+        "infected": 0.04735205596654675
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4769333204558493,
+        "recovered": 0.000853190197595437,
+        "deaths": 0.002559570592786311,
+        "infected": 0.47352055966546747
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.769333204558493,
+        "recovered": 0.008531901975954369,
+        "deaths": 0.025595705927863113,
+        "infected": 4.735205596654675
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "0350aa62340cc80cf7ff3e3556eac083",
+    "day_index_1": 39,
+    "day_index_10": 11,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": -20,
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 689,
+        "deaths": 4,
+        "recovered": 1,
+        "infected": 684
+      },
+      "delta": {
+        "confirmed": 130,
+        "deaths": 1,
+        "infected": 129
+      },
+      "delta_pct": {
+        "confirmed": 23.25581395348837,
+        "infected": 23.243243243243242,
+        "deaths": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 8.61041197509604,
+        "deaths": 0.5787037037037037,
+        "infected": 12.049318139361107
+      },
+      "relative": {
+        "deaths": 0.5805515239477503,
+        "recovered": 0.14513788098693758,
+        "infected": 99.2743105950653
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.05878480461432561,
+        "recovered": 8.531901975954369e-05,
+        "deaths": 0.00034127607903817477,
+        "infected": 0.05835820951552789
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.587848046143256,
+        "recovered": 0.000853190197595437,
+        "deaths": 0.003412760790381748,
+        "infected": 0.5835820951552789
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.87848046143256,
+        "recovered": 0.008531901975954369,
+        "deaths": 0.034127607903817476,
+        "infected": 5.8358209515527895
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "d9ffdc8d2bd864a2970c99c208dcc61b",
+    "day_index_1": 40,
+    "day_index_10": 12,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -19
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 886,
+        "deaths": 4,
+        "recovered": 1,
+        "infected": 881
+      },
+      "delta": {
+        "confirmed": 197,
+        "infected": 197
+      },
+      "delta_pct": {
+        "confirmed": 28.592162554426704,
+        "infected": 28.801169590643276
+      },
+      "peak_pct": {
+        "confirmed": 13.048085839183997,
+        "infected": 18.40089669344293
+      },
+      "relative": {
+        "deaths": 0.4514672686230248,
+        "recovered": 0.1128668171557562,
+        "infected": 99.43566591422122
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07559265150695571,
+        "recovered": 8.531901975954369e-05,
+        "deaths": 0.00034127607903817477,
+        "infected": 0.075166056408158
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7559265150695571,
+        "recovered": 0.000853190197595437,
+        "deaths": 0.003412760790381748,
+        "infected": 0.75166056408158
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.5592651506955715,
+        "recovered": 0.008531901975954369,
+        "deaths": 0.034127607903817476,
+        "infected": 7.516605640815801
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "f7c49de35c0bb86bb1627bf6b5a2f082",
+    "day_index_1": 41,
+    "day_index_10": 13,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": -19,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1058,
+        "deaths": 5,
+        "recovered": 1,
+        "infected": 1052
+      },
+      "delta": {
+        "confirmed": 172,
+        "deaths": 1,
+        "infected": 171
+      },
+      "delta_pct": {
+        "confirmed": 19.41309255079007,
+        "infected": 19.409761634506243,
+        "deaths": 25
+      },
+      "peak_pct": {
+        "confirmed": 11.39223738243476,
+        "deaths": 0.5787037037037037,
+        "infected": 15.97235195217635
+      },
+      "relative": {
+        "deaths": 0.4725897920604915,
+        "recovered": 0.0945179584120983,
+        "infected": 99.4328922495274
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.09026752290559724,
+        "recovered": 8.531901975954369e-05,
+        "deaths": 0.0004265950987977185,
+        "infected": 0.08975560878703998
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.9026752290559724,
+        "recovered": 0.000853190197595437,
+        "deaths": 0.0042659509879771846,
+        "infected": 0.8975560878703998
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.026752290559724,
+        "recovered": 0.008531901975954369,
+        "deaths": 0.04265950987977185,
+        "infected": 8.975560878703998
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "ba36d859e0abf0c7230d3787fa94d63b",
+    "day_index_1": 42,
+    "day_index_10": 14,
+    "day_index_100": 11,
+    "day_index_1k": 1,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1243,
+        "deaths": 10,
+        "recovered": 1,
+        "infected": 1232
+      },
+      "delta": {
+        "confirmed": 185,
+        "deaths": 5,
+        "infected": 180
+      },
+      "delta_pct": {
+        "confirmed": 17.485822306238184,
+        "infected": 17.11026615969582,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 12.253278579944364,
+        "deaths": 2.893518518518518,
+        "infected": 16.813002054922475
+      },
+      "relative": {
+        "deaths": 0.8045052292839904,
+        "recovered": 0.08045052292839903,
+        "infected": 99.11504424778761
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.10605154156111282,
+        "recovered": 8.531901975954369e-05,
+        "deaths": 0.000853190197595437,
+        "infected": 0.10511303234375784
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.0605154156111283,
+        "recovered": 0.000853190197595437,
+        "deaths": 0.008531901975954369,
+        "infected": 1.0511303234375784
+      },
+      "absolute_pop100k": {
+        "confirmed": 10.605154156111283,
+        "recovered": 0.008531901975954369,
+        "deaths": 0.0853190197595437,
+        "infected": 10.511303234375784
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "750d9b0b377f31ba12dd35fba88f1975",
+    "day_index_1": 43,
+    "day_index_10": 15,
+    "day_index_100": 12,
+    "day_index_1k": 2,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1486,
+        "deaths": 14,
+        "recovered": 31,
+        "infected": 1441
+      },
+      "delta": {
+        "confirmed": 243,
+        "recovered": 30,
+        "deaths": 4,
+        "infected": 209
+      },
+      "delta_pct": {
+        "confirmed": 19.549477071600965,
+        "recovered": 3000,
+        "infected": 16.964285714285715,
+        "deaths": 40
+      },
+      "peak_pct": {
+        "confirmed": 16.094846999602595,
+        "recovered": 8.12127774769897,
+        "deaths": 2.314814814814815,
+        "infected": 19.52176349710443
+      },
+      "relative": {
+        "deaths": 0.9421265141318977,
+        "recovered": 2.0861372812920593,
+        "infected": 96.97173620457605
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.12678406336268194,
+        "recovered": 0.002644889612545855,
+        "deaths": 0.0011944662766336118,
+        "infected": 0.12294470747350247
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.2678406336268195,
+        "recovered": 0.02644889612545855,
+        "deaths": 0.011944662766336118,
+        "infected": 1.2294470747350248
+      },
+      "absolute_pop100k": {
+        "confirmed": 12.678406336268194,
+        "recovered": 0.2644889612545855,
+        "deaths": 0.11944662766336117,
+        "infected": 12.294470747350248
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "48c015a0bb1b02fbdc6b4b79e1c31d4f",
+    "day_index_1": 44,
+    "day_index_10": 16,
+    "day_index_100": 13,
+    "day_index_1k": 3,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1795,
+        "deaths": 21,
+        "recovered": 31,
+        "infected": 1743
+      },
+      "delta": {
+        "confirmed": 309,
+        "deaths": 7,
+        "infected": 302
+      },
+      "delta_pct": {
+        "confirmed": 20.794078061911172,
+        "infected": 20.95766828591256,
+        "deaths": 50
+      },
+      "peak_pct": {
+        "confirmed": 20.466286925420583,
+        "deaths": 4.050925925925926,
+        "infected": 28.20848122548104
+      },
+      "relative": {
+        "deaths": 1.16991643454039,
+        "recovered": 1.7270194986072425,
+        "infected": 97.10306406685237
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.15314764046838095,
+        "recovered": 0.002644889612545855,
+        "deaths": 0.0017916994149504177,
+        "infected": 0.14871105144088467
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.5314764046838094,
+        "recovered": 0.02644889612545855,
+        "deaths": 0.01791699414950418,
+        "infected": 1.4871105144088468
+      },
+      "absolute_pop100k": {
+        "confirmed": 15.314764046838095,
+        "recovered": 0.2644889612545855,
+        "deaths": 0.17916994149504176,
+        "infected": 14.871105144088467
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "7860ebda384cac31c6445f0f96fd9130",
+    "day_index_1": 45,
+    "day_index_10": 17,
+    "day_index_100": 14,
+    "day_index_1k": 4,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2257,
+        "deaths": 37,
+        "recovered": 1,
+        "infected": 2219
+      },
+      "delta": {
+        "confirmed": 462,
+        "recovered": -30,
+        "deaths": 16,
+        "infected": 476
+      },
+      "delta_pct": {
+        "confirmed": 25.738161559888578,
+        "recovered": -96.7741935483871,
+        "infected": 27.309236947791163,
+        "deaths": 76.19047619047619
+      },
+      "peak_pct": {
+        "confirmed": 30.600079480725924,
+        "recovered": -8.12127774769897,
+        "deaths": 9.25925925925926,
+        "infected": 44.461049878572766
+      },
+      "relative": {
+        "deaths": 1.639344262295082,
+        "recovered": 0.044306601683650866,
+        "infected": 98.31634913602126
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.19256502759729013,
+        "recovered": 8.531901975954369e-05,
+        "deaths": 0.003156803731103117,
+        "infected": 0.18932290484642747
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.9256502759729013,
+        "recovered": 0.000853190197595437,
+        "deaths": 0.031568037311031166,
+        "infected": 1.8932290484642746
+      },
+      "absolute_pop100k": {
+        "confirmed": 19.256502759729013,
+        "recovered": 0.008531901975954369,
+        "deaths": 0.3156803731103117,
+        "infected": 18.932290484642746
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "ce49d7dd5e00f99fc996044bca2f3a07",
+    "day_index_1": 46,
+    "day_index_10": 18,
+    "day_index_100": 15,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2815,
+        "deaths": 67,
+        "recovered": 263,
+        "infected": 2485
+      },
+      "delta": {
+        "confirmed": 558,
+        "recovered": 262,
+        "deaths": 30,
+        "infected": 266
+      },
+      "delta_pct": {
+        "confirmed": 24.723083739477183,
+        "recovered": 26200,
+        "infected": 11.987381703470032,
+        "deaths": 81.08108108108108
+      },
+      "peak_pct": {
+        "confirmed": 36.958537554643,
+        "recovered": 70.92582566323769,
+        "deaths": 17.36111111111111,
+        "infected": 24.845880814496546
+      },
+      "relative": {
+        "deaths": 2.380106571936057,
+        "recovered": 9.342806394316163,
+        "infected": 88.27708703374778
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2401730406231155,
+        "recovered": 0.022438902196759994,
+        "deaths": 0.005716374323889428,
+        "infected": 0.2120177641024661
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.401730406231155,
+        "recovered": 0.22438902196759994,
+        "deaths": 0.05716374323889428,
+        "infected": 2.120177641024661
+      },
+      "absolute_pop100k": {
+        "confirmed": 24.017304062311553,
+        "recovered": 2.2438902196759996,
+        "deaths": 0.5716374323889428,
+        "infected": 21.20177641024661
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "47a9b2a5bc3d5fc31854fa429af0fc30",
+    "day_index_1": 47,
+    "day_index_10": 19,
+    "day_index_100": 16,
+    "day_index_1k": 6,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3401,
+        "deaths": 75,
+        "recovered": 263,
+        "infected": 3063
+      },
+      "delta": {
+        "confirmed": 586,
+        "deaths": 8,
+        "infected": 578
+      },
+      "delta_pct": {
+        "confirmed": 20.817051509769094,
+        "infected": 23.259557344064387,
+        "deaths": 11.940298507462687
+      },
+      "peak_pct": {
+        "confirmed": 38.81308782620215,
+        "deaths": 4.62962962962963,
+        "infected": 53.988417709695504
+      },
+      "relative": {
+        "deaths": 2.2052337547780065,
+        "recovered": 7.733019700088209,
+        "infected": 90.06174654513379
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.29016998620220813,
+        "recovered": 0.022438902196759994,
+        "deaths": 0.006398926481965777,
+        "infected": 0.2613321575234823
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.901699862022081,
+        "recovered": 0.22438902196759994,
+        "deaths": 0.06398926481965778,
+        "infected": 2.6133215752348233
+      },
+      "absolute_pop100k": {
+        "confirmed": 29.016998620220814,
+        "recovered": 2.2438902196759996,
+        "deaths": 0.6398926481965778,
+        "infected": 26.13321575234823
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "422021f28531a5b67c110bdc930e2a76",
+    "day_index_1": 48,
+    "day_index_10": 20,
+    "day_index_100": 17,
+    "day_index_1k": 7,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3743,
+        "deaths": 88,
+        "recovered": 401,
+        "infected": 3254
+      },
+      "delta": {
+        "confirmed": 342,
+        "recovered": 138,
+        "deaths": 13,
+        "infected": 191
+      },
+      "delta_pct": {
+        "confirmed": 10.05586592178771,
+        "recovered": 52.47148288973384,
+        "infected": 6.23571661769507,
+        "deaths": 17.333333333333332
+      },
+      "peak_pct": {
+        "confirmed": 22.65200688832958,
+        "recovered": 37.35787763941527,
+        "deaths": 7.523148148148148,
+        "infected": 17.84046329161218
+      },
+      "relative": {
+        "deaths": 2.351055303232701,
+        "recovered": 10.713331552230832,
+        "infected": 86.93561314453648
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.31934909095997205,
+        "recovered": 0.034212926923577025,
+        "deaths": 0.007508073738839846,
+        "infected": 0.2776280902975552
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.1934909095997206,
+        "recovered": 0.34212926923577025,
+        "deaths": 0.07508073738839846,
+        "infected": 2.776280902975552
+      },
+      "absolute_pop100k": {
+        "confirmed": 31.934909095997206,
+        "recovered": 3.4212926923577025,
+        "deaths": 0.7508073738839846,
+        "infected": 27.76280902975552
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "95838cc32f7e1ddb6814cb0b358b8ef7",
+    "day_index_1": 49,
+    "day_index_10": 21,
+    "day_index_100": 18,
+    "day_index_1k": 8,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4269,
+        "deaths": 122,
+        "recovered": 461,
+        "infected": 3686
+      },
+      "delta": {
+        "confirmed": 526,
+        "recovered": 60,
+        "deaths": 34,
+        "infected": 432
+      },
+      "delta_pct": {
+        "confirmed": 14.052898744322736,
+        "recovered": 14.962593516209477,
+        "infected": 13.2759680393362,
+        "deaths": 38.63636363636363
+      },
+      "peak_pct": {
+        "confirmed": 34.83905153000397,
+        "recovered": 16.24255549539794,
+        "deaths": 19.675925925925924,
+        "infected": 40.35120493181394
+      },
+      "relative": {
+        "deaths": 2.8578121339892246,
+        "recovered": 10.798781916139612,
+        "infected": 86.34340594987117
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.36422689535349206,
+        "recovered": 0.039332068109149645,
+        "deaths": 0.010408920410664331,
+        "infected": 0.31448590683367805
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.642268953534921,
+        "recovered": 0.3933206810914964,
+        "deaths": 0.10408920410664331,
+        "infected": 3.1448590683367805
+      },
+      "absolute_pop100k": {
+        "confirmed": 36.42268953534921,
+        "recovered": 3.9332068109149647,
+        "deaths": 1.040892041066433,
+        "infected": 31.448590683367804
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "cc7002a6a2f41a1cd861aeb7af93d908",
+    "day_index_1": 50,
+    "day_index_10": 22,
+    "day_index_100": 19,
+    "day_index_1k": 9,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4937,
+        "deaths": 178,
+        "recovered": 547,
+        "infected": 4212
+      },
+      "delta": {
+        "confirmed": 668,
+        "recovered": 86,
+        "deaths": 56,
+        "infected": 526
+      },
+      "delta_pct": {
+        "confirmed": 15.647692668072148,
+        "recovered": 18.655097613882862,
+        "infected": 14.270211611502985,
+        "deaths": 45.90163934426229
+      },
+      "peak_pct": {
+        "confirmed": 44.244270764339646,
+        "recovered": 23.280996210070388,
+        "deaths": 32.407407407407405,
+        "infected": 49.13132822716234
+      },
+      "relative": {
+        "deaths": 3.6054283978124366,
+        "recovered": 11.079602997771925,
+        "infected": 85.31496860441564
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.42122000055286724,
+        "recovered": 0.0466695038084704,
+        "deaths": 0.015186785517198778,
+        "infected": 0.35936371122719807
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.212200005528672,
+        "recovered": 0.46669503808470403,
+        "deaths": 0.15186785517198778,
+        "infected": 3.593637112271981
+      },
+      "absolute_pop100k": {
+        "confirmed": 42.122000055286726,
+        "recovered": 4.66695038084704,
+        "deaths": 1.5186785517198778,
+        "infected": 35.936371122719805
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "b9515c44fc233d324c1b989d12e98c86",
+    "day_index_1": 51,
+    "day_index_10": 23,
+    "day_index_100": 20,
+    "day_index_1k": 10,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6235,
+        "deaths": 220,
+        "recovered": 675,
+        "infected": 5340
+      },
+      "delta": {
+        "confirmed": 1298,
+        "recovered": 128,
+        "deaths": 42,
+        "infected": 1128
+      },
+      "delta_pct": {
+        "confirmed": 26.29127000202552,
+        "recovered": 23.40036563071298,
+        "infected": 26.78062678062678,
+        "deaths": 23.59550561797753
+      },
+      "peak_pct": {
+        "confirmed": 85.97165187442044,
+        "recovered": 34.650785056848946,
+        "deaths": 24.305555555555554,
+        "infected": 105.36147954418085
+      },
+      "relative": {
+        "deaths": 3.5284683239775463,
+        "recovered": 10.82598235765838,
+        "infected": 85.64554931836408
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5319640882007549,
+        "recovered": 0.057590338337692,
+        "deaths": 0.018770184347099615,
+        "infected": 0.45560356551596337
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.319640882007549,
+        "recovered": 0.5759033833769199,
+        "deaths": 0.18770184347099617,
+        "infected": 4.556035655159634
+      },
+      "absolute_pop100k": {
+        "confirmed": 53.19640882007549,
+        "recovered": 5.7590338337692,
+        "deaths": 1.8770184347099614,
+        "infected": 45.560356551596335
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "71faae0138829f5c5e2ed3e9b32197bc",
+    "day_index_1": 52,
+    "day_index_10": 24,
+    "day_index_100": 21,
+    "day_index_1k": 11,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7284,
+        "deaths": 289,
+        "recovered": 858,
+        "infected": 6137
+      },
+      "delta": {
+        "confirmed": 1049,
+        "recovered": 183,
+        "deaths": 69,
+        "infected": 797
+      },
+      "delta_pct": {
+        "confirmed": 16.82437850842021,
+        "recovered": 27.11111111111111,
+        "infected": 14.925093632958802,
+        "deaths": 31.363636363636363
+      },
+      "peak_pct": {
+        "confirmed": 69.47940124519805,
+        "recovered": 49.539794260963724,
+        "deaths": 39.93055555555555,
+        "infected": 74.44423687651785
+      },
+      "relative": {
+        "deaths": 3.9676002196595275,
+        "recovered": 11.779242174629324,
+        "infected": 84.25315760571115
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6214637399285163,
+        "recovered": 0.07320371895368849,
+        "deaths": 0.024657196710508127,
+        "infected": 0.5236028242643197
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.214637399285163,
+        "recovered": 0.7320371895368849,
+        "deaths": 0.24657196710508128,
+        "infected": 5.236028242643197
+      },
+      "absolute_pop100k": {
+        "confirmed": 62.146373992851636,
+        "recovered": 7.320371895368849,
+        "deaths": 2.4657196710508127,
+        "infected": 52.36028242643197
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "b77459ca6318c939293e1edafafc638e",
+    "day_index_1": 53,
+    "day_index_10": 25,
+    "day_index_100": 22,
+    "day_index_1k": 12,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9134,
+        "deaths": 353,
+        "recovered": 1063,
+        "infected": 7718
+      },
+      "delta": {
+        "confirmed": 1850,
+        "recovered": 205,
+        "deaths": 64,
+        "infected": 1581
+      },
+      "delta_pct": {
+        "confirmed": 25.398132894014278,
+        "recovered": 23.892773892773892,
+        "infected": 25.761772853185594,
+        "deaths": 22.14532871972318
+      },
+      "peak_pct": {
+        "confirmed": 122.53278579944364,
+        "recovered": 55.495397942609635,
+        "deaths": 37.03703703703704,
+        "infected": 147.6742013824024
+      },
+      "relative": {
+        "deaths": 3.8646814101160496,
+        "recovered": 11.637836654258814,
+        "infected": 84.49748193562515
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.7793039264836721,
+        "recovered": 0.09069411800439495,
+        "deaths": 0.030117613975118925,
+        "infected": 0.6584921945041583
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.793039264836721,
+        "recovered": 0.9069411800439495,
+        "deaths": 0.30117613975118923,
+        "infected": 6.584921945041583
+      },
+      "absolute_pop100k": {
+        "confirmed": 77.9303926483672,
+        "recovered": 9.069411800439495,
+        "deaths": 3.0117613975118926,
+        "infected": 65.84921945041583
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "dff345b59d0ba357de8f2e1c09927e3e",
+    "day_index_1": 54,
+    "day_index_10": 26,
+    "day_index_100": 23,
+    "day_index_1k": 13,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10836,
+        "deaths": 431,
+        "recovered": 1359,
+        "infected": 9046
+      },
+      "delta": {
+        "confirmed": 1702,
+        "recovered": 296,
+        "deaths": 78,
+        "infected": 1328
+      },
+      "delta_pct": {
+        "confirmed": 18.6336763739873,
+        "recovered": 27.845719661335842,
+        "infected": 17.206530189168177,
+        "deaths": 22.096317280453256
+      },
+      "peak_pct": {
+        "confirmed": 112.73016293548814,
+        "recovered": 80.12994044396319,
+        "deaths": 45.138888888888886,
+        "infected": 124.04259293853914
+      },
+      "relative": {
+        "deaths": 3.9774824658545587,
+        "recovered": 12.541528239202657,
+        "infected": 83.48098929494279
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.9245168981144155,
+        "recovered": 0.11594854785321988,
+        "deaths": 0.036772497516363335,
+        "infected": 0.7717958527448323
+      },
+      "absolute_pop10k": {
+        "confirmed": 9.245168981144156,
+        "recovered": 1.1594854785321989,
+        "deaths": 0.36772497516363334,
+        "infected": 7.717958527448323
+      },
+      "absolute_pop100k": {
+        "confirmed": 92.45168981144155,
+        "recovered": 11.594854785321989,
+        "deaths": 3.6772497516363334,
+        "infected": 77.17958527448323
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "1ffc79f1433e8625cd5bdabc8d9d3960",
+    "day_index_1": 55,
+    "day_index_10": 27,
+    "day_index_100": 24,
+    "day_index_1k": 14,
+    "day_index_10k": 1,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11899,
+        "deaths": 513,
+        "recovered": 1527,
+        "infected": 9859
+      },
+      "delta": {
+        "confirmed": 1063,
+        "recovered": 168,
+        "deaths": 82,
+        "infected": 813
+      },
+      "delta_pct": {
+        "confirmed": 9.809892949427834,
+        "recovered": 12.362030905077262,
+        "infected": 8.987397744859607,
+        "deaths": 19.02552204176334
+      },
+      "peak_pct": {
+        "confirmed": 70.40667638097761,
+        "recovered": 45.47915538711424,
+        "deaths": 47.453703703703695,
+        "infected": 75.9387259480665
+      },
+      "relative": {
+        "deaths": 4.311286662744768,
+        "recovered": 12.833011177409867,
+        "infected": 82.85570215984536
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.0152110161188104,
+        "recovered": 0.13028214317282322,
+        "deaths": 0.04376865713664592,
+        "infected": 0.8411602158093413
+      },
+      "absolute_pop10k": {
+        "confirmed": 10.152110161188103,
+        "recovered": 1.302821431728232,
+        "deaths": 0.43768657136645917,
+        "infected": 8.411602158093412
+      },
+      "absolute_pop100k": {
+        "confirmed": 101.52110161188104,
+        "recovered": 13.028214317282321,
+        "deaths": 4.376865713664592,
+        "infected": 84.11602158093413
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "a2d8a6134c41632aff3709c3abe47a89",
+    "day_index_1": 56,
+    "day_index_10": 28,
+    "day_index_100": 25,
+    "day_index_1k": 15,
+    "day_index_10k": 2,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 12775,
+        "deaths": 705,
+        "recovered": 1696,
+        "infected": 10374
+      },
+      "delta": {
+        "confirmed": 876,
+        "recovered": 169,
+        "deaths": 192,
+        "infected": 515
+      },
+      "delta_pct": {
+        "confirmed": 7.361963190184049,
+        "recovered": 11.067452521283563,
+        "infected": 5.223653514555228,
+        "deaths": 37.42690058479532
+      },
+      "peak_pct": {
+        "confirmed": 58.020929924493316,
+        "recovered": 45.74986464537088,
+        "deaths": 111.1111111111111,
+        "infected": 48.10386699047264
+      },
+      "relative": {
+        "deaths": 5.518590998043052,
+        "recovered": 13.275929549902152,
+        "infected": 81.2054794520548
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.0899504774281707,
+        "recovered": 0.14470105751218612,
+        "deaths": 0.06014990893047831,
+        "infected": 0.8850995109855063
+      },
+      "absolute_pop10k": {
+        "confirmed": 10.899504774281707,
+        "recovered": 1.4470105751218612,
+        "deaths": 0.6014990893047831,
+        "infected": 8.850995109855063
+      },
+      "absolute_pop100k": {
+        "confirmed": 108.99504774281708,
+        "recovered": 14.470105751218613,
+        "deaths": 6.01499089304783,
+        "infected": 88.50995109855063
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "fb5fa057f3ea347d5c92b44dd3a5eb3c",
+    "day_index_1": 57,
+    "day_index_10": 29,
+    "day_index_100": 26,
+    "day_index_1k": 16,
+    "day_index_10k": 3,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13964,
+        "deaths": 828,
+        "recovered": 2132,
+        "infected": 11004
+      },
+      "delta": {
+        "confirmed": 1189,
+        "recovered": 436,
+        "deaths": 123,
+        "infected": 630
+      },
+      "delta_pct": {
+        "confirmed": 9.307240704500979,
+        "recovered": 25.70754716981132,
+        "infected": 6.0728744939271255,
+        "deaths": 17.4468085106383
+      },
+      "peak_pct": {
+        "confirmed": 78.75215260299377,
+        "recovered": 118.02923659989173,
+        "deaths": 71.18055555555554,
+        "infected": 58.845507192228666
+      },
+      "relative": {
+        "deaths": 5.929533085075909,
+        "recovered": 15.267831566886278,
+        "infected": 78.80263534803781
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.1913947919222683,
+        "recovered": 0.18190015012734717,
+        "deaths": 0.07064414836090219,
+        "infected": 0.9388504934340188
+      },
+      "absolute_pop10k": {
+        "confirmed": 11.913947919222682,
+        "recovered": 1.8190015012734717,
+        "deaths": 0.7064414836090218,
+        "infected": 9.388504934340189
+      },
+      "absolute_pop100k": {
+        "confirmed": 119.13947919222683,
+        "recovered": 18.19001501273472,
+        "deaths": 7.064414836090219,
+        "infected": 93.88504934340189
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "a90ce8a4563bd19ff443e4e9ed2ba855",
+    "day_index_1": 58,
+    "day_index_10": 30,
+    "day_index_100": 27,
+    "day_index_1k": 17,
+    "day_index_10k": 4,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15348,
+        "deaths": 1011,
+        "recovered": 2495,
+        "infected": 11842
+      },
+      "delta": {
+        "confirmed": 1384,
+        "recovered": 363,
+        "deaths": 183,
+        "infected": 838
+      },
+      "delta_pct": {
+        "confirmed": 9.911200229160698,
+        "recovered": 17.026266416510317,
+        "infected": 7.615412577244638,
+        "deaths": 22.10144927536232
+      },
+      "peak_pct": {
+        "confirmed": 91.66777056563784,
+        "recovered": 98.26746074715756,
+        "deaths": 105.90277777777777,
+        "infected": 78.2738651223613
+      },
+      "relative": {
+        "deaths": 6.587177482408131,
+        "recovered": 16.256189731561115,
+        "infected": 77.15663278603076
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.3094763152694766,
+        "recovered": 0.21287095430006153,
+        "deaths": 0.08625752897689867,
+        "infected": 1.0103478319925165
+      },
+      "absolute_pop10k": {
+        "confirmed": 13.094763152694766,
+        "recovered": 2.1287095430006153,
+        "deaths": 0.8625752897689867,
+        "infected": 10.103478319925166
+      },
+      "absolute_pop100k": {
+        "confirmed": 130.94763152694767,
+        "recovered": 21.287095430006154,
+        "deaths": 8.625752897689868,
+        "infected": 101.03478319925165
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "7ea3b82ad25fa97b5ed5563f775c112c",
+    "day_index_1": 59,
+    "day_index_10": 31,
+    "day_index_100": 28,
+    "day_index_1k": 18,
+    "day_index_10k": 5,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16770,
+        "deaths": 1143,
+        "recovered": 2872,
+        "infected": 12755
+      },
+      "delta": {
+        "confirmed": 1422,
+        "recovered": 377,
+        "deaths": 132,
+        "infected": 913
+      },
+      "delta_pct": {
+        "confirmed": 9.26505082095387,
+        "recovered": 15.110220440881763,
+        "infected": 7.709846309744975,
+        "deaths": 13.056379821958457
+      },
+      "peak_pct": {
+        "confirmed": 94.18466021989667,
+        "recovered": 102.05739036275041,
+        "deaths": 76.38888888888889,
+        "infected": 85.27928264524567
+      },
+      "relative": {
+        "deaths": 6.815742397137746,
+        "recovered": 17.12581991651759,
+        "infected": 76.05843768634466
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.4307999613675477,
+        "recovered": 0.2450362247494095,
+        "deaths": 0.09751963958515844,
+        "infected": 1.0882440970329799
+      },
+      "absolute_pop10k": {
+        "confirmed": 14.307999613675477,
+        "recovered": 2.450362247494095,
+        "deaths": 0.9751963958515844,
+        "infected": 10.8824409703298
+      },
+      "absolute_pop100k": {
+        "confirmed": 143.07999613675477,
+        "recovered": 24.50362247494095,
+        "deaths": 9.751963958515844,
+        "infected": 108.82440970329799
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "968523eb25211920a0215c6753d63ae8",
+    "day_index_1": 60,
+    "day_index_10": 32,
+    "day_index_100": 29,
+    "day_index_1k": 19,
+    "day_index_10k": 6,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 18431,
+        "deaths": 1283,
+        "recovered": 3247,
+        "infected": 13901
+      },
+      "delta": {
+        "confirmed": 1661,
+        "recovered": 375,
+        "deaths": 140,
+        "infected": 1146
+      },
+      "delta_pct": {
+        "confirmed": 9.90459153249851,
+        "recovered": 13.057103064066853,
+        "infected": 8.984711877695021,
+        "deaths": 12.248468941382328
+      },
+      "peak_pct": {
+        "confirmed": 110.0145714664194,
+        "recovered": 101.51597184623715,
+        "deaths": 81.0185185185185,
+        "infected": 107.04277974967309
+      },
+      "relative": {
+        "deaths": 6.9610981498562206,
+        "recovered": 17.617058217134176,
+        "infected": 75.4218436330096
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.5725148531881499,
+        "recovered": 0.27703085715923836,
+        "deaths": 0.10946430235149457,
+        "infected": 1.186019693677417
+      },
+      "absolute_pop10k": {
+        "confirmed": 15.725148531881498,
+        "recovered": 2.7703085715923836,
+        "deaths": 1.0946430235149456,
+        "infected": 11.86019693677417
+      },
+      "absolute_pop100k": {
+        "confirmed": 157.25148531881499,
+        "recovered": 27.703085715923837,
+        "deaths": 10.946430235149457,
+        "infected": 118.6019693677417
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "c1a86dd2691f3bd9391f37098134a1fa",
+    "day_index_1": 61,
+    "day_index_10": 33,
+    "day_index_100": 30,
+    "day_index_1k": 20,
+    "day_index_10k": 7,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 19691,
+        "deaths": 1447,
+        "recovered": 3751,
+        "infected": 14493
+      },
+      "delta": {
+        "confirmed": 1260,
+        "recovered": 504,
+        "deaths": 164,
+        "infected": 592
+      },
+      "delta_pct": {
+        "confirmed": 6.836308393467528,
+        "recovered": 15.52202032645519,
+        "infected": 4.258686425437019,
+        "deaths": 12.782540919719407
+      },
+      "peak_pct": {
+        "confirmed": 83.45476222016161,
+        "recovered": 136.43746616134274,
+        "deaths": 94.90740740740739,
+        "infected": 55.29609564730058
+      },
+      "relative": {
+        "deaths": 7.348534863643288,
+        "recovered": 19.04931186836626,
+        "infected": 73.60215326799046
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.680016818085175,
+        "recovered": 0.32003164311804844,
+        "deaths": 0.12345662159205974,
+        "infected": 1.2365285533750667
+      },
+      "absolute_pop10k": {
+        "confirmed": 16.80016818085175,
+        "recovered": 3.200316431180484,
+        "deaths": 1.2345662159205975,
+        "infected": 12.365285533750667
+      },
+      "absolute_pop100k": {
+        "confirmed": 168.0016818085175,
+        "recovered": 32.003164311804845,
+        "deaths": 12.345662159205974,
+        "infected": 123.65285533750668
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "cb933c819daad9160a4514dc0b88f996",
+    "day_index_1": 62,
+    "day_index_10": 34,
+    "day_index_100": 31,
+    "day_index_1k": 21,
+    "day_index_10k": 8,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 20814,
+        "deaths": 1632,
+        "recovered": 3986,
+        "infected": 15196
+      },
+      "delta": {
+        "confirmed": 1123,
+        "recovered": 235,
+        "deaths": 185,
+        "infected": 703
+      },
+      "delta_pct": {
+        "confirmed": 5.703113097354121,
+        "recovered": 6.2649960010663825,
+        "infected": 4.850617539501829,
+        "deaths": 12.785072563925363
+      },
+      "peak_pct": {
+        "confirmed": 74.38071267717578,
+        "recovered": 63.61667569030861,
+        "deaths": 107.06018518518519,
+        "infected": 65.66411358116945
+      },
+      "relative": {
+        "deaths": 7.840876333237244,
+        "recovered": 19.150571730565964,
+        "infected": 73.00855193619678
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.7758300772751425,
+        "recovered": 0.3400816127615412,
+        "deaths": 0.13924064024757532,
+        "infected": 1.296507824266026
+      },
+      "absolute_pop10k": {
+        "confirmed": 17.758300772751426,
+        "recovered": 3.400816127615412,
+        "deaths": 1.3924064024757532,
+        "infected": 12.96507824266026
+      },
+      "absolute_pop100k": {
+        "confirmed": 177.58300772751426,
+        "recovered": 34.00816127615412,
+        "deaths": 13.924064024757532,
+        "infected": 129.6507824266026
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "3ddb3b13f3c9afaf5b6b9386a82d2eea",
+    "day_index_1": 63,
+    "day_index_10": 35,
+    "day_index_100": 32,
+    "day_index_1k": 22,
+    "day_index_10k": 9,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "815b02657a742caafc0cae94dfb2ffd3",
+      "type": "total-country",
+      "label": "Belgium",
+      "country": "Belgium",
+      "country_code": "BE",
+      "country_latlong": [
+        50.83333333,
+        4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        50.83333333,
+        4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 22194,
+        "deaths": 2035,
+        "recovered": 4157,
+        "infected": 16002
+      },
+      "delta": {
+        "confirmed": 1380,
+        "recovered": 171,
+        "deaths": 403,
+        "infected": 806
+      },
+      "delta_pct": {
+        "confirmed": 6.630152781781494,
+        "recovered": 4.290015052684395,
+        "infected": 5.304027375625164,
+        "deaths": 24.693627450980394
+      },
+      "peak_pct": {
+        "confirmed": 91.40283481255796,
+        "recovered": 46.29128316188414,
+        "deaths": 233.21759259259255,
+        "infected": 75.28488697926396
+      },
+      "relative": {
+        "deaths": 9.16914481391367,
+        "recovered": 18.730287465080654,
+        "infected": 72.10056772100569
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.8935703245433129,
+        "recovered": 0.35467116514042313,
+        "deaths": 0.17362420521067143,
+        "infected": 1.3652749541922182
+      },
+      "absolute_pop10k": {
+        "confirmed": 18.935703245433128,
+        "recovered": 3.546711651404231,
+        "deaths": 1.7362420521067143,
+        "infected": 13.652749541922182
+      },
+      "absolute_pop100k": {
+        "confirmed": 189.3570324543313,
+        "recovered": 35.46711651404231,
+        "deaths": 17.362420521067143,
+        "infected": 136.52749541922182
+      }
+    },
+    "factbook": {
+      "population": 11720716,
+      "median_age": 41.6,
+      "death_rate": 9.8,
+      "area": 30528
+    },
+    "data_key": "87e17a64121c5d600ca1dfe792844da4",
+    "day_index_1": 64,
+    "day_index_10": 36,
+    "day_index_100": 33,
+    "day_index_1k": 23,
+    "day_index_10k": 10,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 4
+  }
+]

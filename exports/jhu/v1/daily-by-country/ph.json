@@ -1,0 +1,3289 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 30,
+      "date": "2020-01-30",
+      "timestamp": 1580342400,
+      "index": 9
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 0.28801843317972353,
+        "infected": 0.3037667071688943
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 9.159118293813799e-06,
+        "infected": 9.159118293813799e-06
+      },
+      "absolute_pop10k": {
+        "confirmed": 9.1591182938138e-05,
+        "infected": 9.1591182938138e-05
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0009159118293813799,
+        "infected": 0.0009159118293813799
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "7620304f0c899169e525738dc29f82a1",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -62,
+    "day_index_peak_deaths": -63,
+    "day_index_peak": -62
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 2,
+      "date": "2020-02-02",
+      "timestamp": 1580601600,
+      "index": 12
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "deaths": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "deaths": 1
+      },
+      "delta_pct": {
+        "confirmed": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.28801843317972353,
+        "deaths": 8.333333333333332
+      },
+      "relative": {
+        "deaths": 50,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.8318236587627598e-05,
+        "deaths": 9.159118293813799e-06,
+        "infected": 9.159118293813799e-06
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.000183182365876276,
+        "deaths": 9.1591182938138e-05,
+        "infected": 9.1591182938138e-05
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0018318236587627598,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.0009159118293813799
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "7dc39bef5899727d93d252b5d836903d",
+    "day_index_1": 4,
+    "day_index_peak_confirmed": -59,
+    "day_index_peak_deaths": -60,
+    "day_index_peak": -59
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 7,
+      "date": "2020-02-07",
+      "timestamp": 1581033600,
+      "index": 17
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "deaths": 1,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.28801843317972353,
+        "infected": 0.3037667071688943
+      },
+      "relative": {
+        "deaths": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.7477354881441397e-05,
+        "deaths": 9.159118293813799e-06,
+        "infected": 1.8318236587627598e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00027477354881441396,
+        "deaths": 9.1591182938138e-05,
+        "infected": 0.000183182365876276
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0027477354881441395,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.0018318236587627598
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "bdfb2dff134b62a35f0457844fcb34b7",
+    "day_index_1": 9,
+    "day_index_peak_confirmed": -54,
+    "day_index_peak_deaths": -55,
+    "day_index_peak": -54
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 12,
+      "date": "2020-02-12",
+      "timestamp": 1581465600,
+      "index": 22
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 1
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -50
+      },
+      "peak_pct": {
+        "recovered": 13.88888888888889,
+        "infected": -0.3037667071688943
+      },
+      "relative": {
+        "deaths": 33.33333333333333,
+        "recovered": 33.33333333333333,
+        "infected": 33.33333333333333
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.7477354881441397e-05,
+        "recovered": 9.159118293813799e-06,
+        "deaths": 9.159118293813799e-06,
+        "infected": 9.159118293813799e-06
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00027477354881441396,
+        "recovered": 9.1591182938138e-05,
+        "deaths": 9.1591182938138e-05,
+        "infected": 9.1591182938138e-05
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0027477354881441395,
+        "recovered": 0.0009159118293813799,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.0009159118293813799
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "9e6dd02f4a7b9437a7a18624710f06b5",
+    "day_index_1": 14,
+    "day_index_peak_confirmed": -49,
+    "day_index_peak_deaths": -50,
+    "day_index_peak": -49
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "date": "2020-03-06",
+      "timestamp": 1583452800,
+      "index": 45
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 66.66666666666667,
+        "infected": 200
+      },
+      "peak_pct": {
+        "confirmed": 0.5760368663594471,
+        "infected": 0.6075334143377886
+      },
+      "relative": {
+        "deaths": 20,
+        "recovered": 20,
+        "infected": 60
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.579559146906899e-05,
+        "recovered": 9.159118293813799e-06,
+        "deaths": 9.159118293813799e-06,
+        "infected": 2.7477354881441397e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0004579559146906899,
+        "recovered": 9.1591182938138e-05,
+        "deaths": 9.1591182938138e-05,
+        "infected": 0.00027477354881441396
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.004579559146906899,
+        "recovered": 0.0009159118293813799,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.0027477354881441395
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "eb04a14812b0f6b1202e87929437959a",
+    "day_index_1": 37,
+    "day_index_peak_confirmed": -26,
+    "day_index_peak_deaths": -27,
+    "day_index_peak": -26
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 7,
+      "date": "2020-03-07",
+      "timestamp": 1583539200,
+      "index": 46
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 20,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 0.28801843317972353,
+        "infected": 0.3037667071688943
+      },
+      "relative": {
+        "deaths": 16.666666666666664,
+        "recovered": 16.666666666666664,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 5.4954709762882794e-05,
+        "recovered": 9.159118293813799e-06,
+        "deaths": 9.159118293813799e-06,
+        "infected": 3.6636473175255196e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0005495470976288279,
+        "recovered": 9.1591182938138e-05,
+        "deaths": 9.1591182938138e-05,
+        "infected": 0.000366364731752552
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.005495470976288279,
+        "recovered": 0.0009159118293813799,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.0036636473175255197
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "5bfcfe04c3ee1a7642d266f7f0dddd4c",
+    "day_index_1": 38,
+    "day_index_peak_confirmed": -25,
+    "day_index_peak_deaths": -26,
+    "day_index_peak": -25
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 66.66666666666667,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 1.1520737327188941,
+        "infected": 1.2150668286755772
+      },
+      "relative": {
+        "deaths": 10,
+        "recovered": 10,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 9.159118293813798e-05,
+        "recovered": 9.159118293813799e-06,
+        "deaths": 9.159118293813799e-06,
+        "infected": 7.327294635051039e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0009159118293813798,
+        "recovered": 9.1591182938138e-05,
+        "deaths": 9.1591182938138e-05,
+        "infected": 0.000732729463505104
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.009159118293813799,
+        "recovered": 0.0009159118293813799,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.007327294635051039
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "8f9cc8946a5c26e4180e19a3c59b9a5c",
+    "day_index_1": 39,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -24,
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -24
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "date": "2020-03-09",
+      "timestamp": 1583712000,
+      "index": 48
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 20,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 18
+      },
+      "delta": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "delta_pct": {
+        "confirmed": 100,
+        "infected": 125
+      },
+      "peak_pct": {
+        "confirmed": 2.880184331797235,
+        "infected": 3.037667071688943
+      },
+      "relative": {
+        "deaths": 5,
+        "recovered": 5,
+        "infected": 90
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00018318236587627597,
+        "recovered": 9.159118293813799e-06,
+        "deaths": 9.159118293813799e-06,
+        "infected": 0.00016486412928864836
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0018318236587627596,
+        "recovered": 9.1591182938138e-05,
+        "deaths": 9.1591182938138e-05,
+        "infected": 0.0016486412928864837
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.018318236587627598,
+        "recovered": 0.0009159118293813799,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.016486412928864835
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "c720fc36cdc27d68c25e1543c080bcd8",
+    "day_index_1": 40,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -23,
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -23
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "date": "2020-03-10",
+      "timestamp": 1583798400,
+      "index": 49
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 33,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 30
+      },
+      "delta": {
+        "confirmed": 13,
+        "recovered": 1,
+        "infected": 12
+      },
+      "delta_pct": {
+        "confirmed": 65,
+        "recovered": 100,
+        "infected": 66.66666666666667
+      },
+      "peak_pct": {
+        "confirmed": 3.744239631336406,
+        "recovered": 13.88888888888889,
+        "infected": 3.6452004860267317
+      },
+      "relative": {
+        "deaths": 3.0303030303030303,
+        "recovered": 6.0606060606060606,
+        "infected": 90.9090909090909
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00030225090369585535,
+        "recovered": 1.8318236587627598e-05,
+        "deaths": 9.159118293813799e-06,
+        "infected": 0.00027477354881441396
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0030225090369585535,
+        "recovered": 0.000183182365876276,
+        "deaths": 9.1591182938138e-05,
+        "infected": 0.0027477354881441395
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.030225090369585535,
+        "recovered": 0.0018318236587627598,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.027477354881441398
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "874c36b61dacfb0b112986de49f17a87",
+    "day_index_1": 41,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -22,
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -22
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 49,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 46
+      },
+      "delta": {
+        "confirmed": 16,
+        "infected": 16
+      },
+      "delta_pct": {
+        "confirmed": 48.484848484848484,
+        "infected": 53.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 4.6082949308755765,
+        "infected": 4.860267314702309
+      },
+      "relative": {
+        "deaths": 2.0408163265306123,
+        "recovered": 4.081632653061225,
+        "infected": 93.87755102040816
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00044879679639687613,
+        "recovered": 1.8318236587627598e-05,
+        "deaths": 9.159118293813799e-06,
+        "infected": 0.00042131944151543475
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004487967963968761,
+        "recovered": 0.000183182365876276,
+        "deaths": 9.1591182938138e-05,
+        "infected": 0.0042131944151543475
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.044879679639687614,
+        "recovered": 0.0018318236587627598,
+        "deaths": 0.0009159118293813799,
+        "infected": 0.04213194415154348
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "8980a775131cb5573852e8cdfc2eb24e",
+    "day_index_1": 42,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -21,
+    "day_index_peak_deaths": -22,
+    "day_index_peak": -21
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "date": "2020-03-12",
+      "timestamp": 1583971200,
+      "index": 51
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 52,
+        "deaths": 2,
+        "recovered": 2,
+        "infected": 48
+      },
+      "delta": {
+        "confirmed": 3,
+        "deaths": 1,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 6.122448979591836,
+        "infected": 4.3478260869565215,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 0.8640552995391706,
+        "deaths": 8.333333333333332,
+        "infected": 0.6075334143377886
+      },
+      "relative": {
+        "deaths": 3.8461538461538463,
+        "recovered": 3.8461538461538463,
+        "infected": 92.3076923076923
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0004762741512783175,
+        "recovered": 1.8318236587627598e-05,
+        "deaths": 1.8318236587627598e-05,
+        "infected": 0.00043963767810306235
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004762741512783175,
+        "recovered": 0.000183182365876276,
+        "deaths": 0.000183182365876276,
+        "infected": 0.0043963767810306234
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04762741512783175,
+        "recovered": 0.0018318236587627598,
+        "deaths": 0.0018318236587627598,
+        "infected": 0.04396376781030623
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "d3c3c331bc9b91df65a38876727c0e47",
+    "day_index_1": 43,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -20,
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -20
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 64,
+        "deaths": 5,
+        "recovered": 2,
+        "infected": 57
+      },
+      "delta": {
+        "confirmed": 12,
+        "deaths": 3,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 23.076923076923077,
+        "infected": 18.75,
+        "deaths": 150
+      },
+      "peak_pct": {
+        "confirmed": 3.4562211981566824,
+        "deaths": 25,
+        "infected": 2.7339003645200486
+      },
+      "relative": {
+        "deaths": 7.8125,
+        "recovered": 3.125,
+        "infected": 89.0625
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0005861835708040831,
+        "recovered": 1.8318236587627598e-05,
+        "deaths": 4.579559146906899e-05,
+        "infected": 0.0005220697427473865
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.005861835708040832,
+        "recovered": 0.000183182365876276,
+        "deaths": 0.0004579559146906899,
+        "infected": 0.005220697427473865
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.058618357080408315,
+        "recovered": 0.0018318236587627598,
+        "deaths": 0.004579559146906899,
+        "infected": 0.05220697427473865
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "2727beae25d88359138856a7d0f74eed",
+    "day_index_1": 44,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": -19,
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -19
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 111,
+        "deaths": 8,
+        "recovered": 2,
+        "infected": 101
+      },
+      "delta": {
+        "confirmed": 47,
+        "deaths": 3,
+        "infected": 44
+      },
+      "delta_pct": {
+        "confirmed": 73.4375,
+        "infected": 77.19298245614036,
+        "deaths": 60
+      },
+      "peak_pct": {
+        "confirmed": 13.536866359447005,
+        "deaths": 25,
+        "infected": 13.365735115431349
+      },
+      "relative": {
+        "deaths": 7.207207207207207,
+        "recovered": 1.8018018018018018,
+        "infected": 90.990990990991
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0010166621306133316,
+        "recovered": 1.8318236587627598e-05,
+        "deaths": 7.327294635051039e-05,
+        "infected": 0.0009250709476751937
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.010166621306133316,
+        "recovered": 0.000183182365876276,
+        "deaths": 0.000732729463505104,
+        "infected": 0.009250709476751938
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.10166621306133315,
+        "recovered": 0.0018318236587627598,
+        "deaths": 0.007327294635051039,
+        "infected": 0.09250709476751937
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "b5dadb00c4e687d080a3606e1d2a14ce",
+    "day_index_1": 45,
+    "day_index_10": 7,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": -18,
+    "day_index_peak_deaths": -19,
+    "day_index_peak": -18
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 15,
+      "date": "2020-03-15",
+      "timestamp": 1584230400,
+      "index": 54
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 140,
+        "deaths": 11,
+        "recovered": 2,
+        "infected": 127
+      },
+      "delta": {
+        "confirmed": 29,
+        "deaths": 3,
+        "infected": 26
+      },
+      "delta_pct": {
+        "confirmed": 26.126126126126128,
+        "infected": 25.742574257425744,
+        "deaths": 37.5
+      },
+      "peak_pct": {
+        "confirmed": 8.352534562211982,
+        "deaths": 25,
+        "infected": 7.897934386391252
+      },
+      "relative": {
+        "deaths": 7.857142857142857,
+        "recovered": 1.4285714285714286,
+        "infected": 90.71428571428571
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0012822765611339318,
+        "recovered": 1.8318236587627598e-05,
+        "deaths": 0.00010075030123195179,
+        "infected": 0.0011632080233143524
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.012822765611339318,
+        "recovered": 0.000183182365876276,
+        "deaths": 0.0010075030123195179,
+        "infected": 0.011632080233143525
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.12822765611339318,
+        "recovered": 0.0018318236587627598,
+        "deaths": 0.010075030123195178,
+        "infected": 0.11632080233143524
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "e65f0535d3cd4b24f829c294e5ddac93",
+    "day_index_1": 46,
+    "day_index_10": 8,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": -18,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "date": "2020-03-16",
+      "timestamp": 1584316800,
+      "index": 55
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 142,
+        "deaths": 12,
+        "recovered": 2,
+        "infected": 128
+      },
+      "delta": {
+        "confirmed": 2,
+        "deaths": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 1.4285714285714286,
+        "infected": 0.7874015748031497,
+        "deaths": 9.090909090909092
+      },
+      "peak_pct": {
+        "confirmed": 0.5760368663594471,
+        "deaths": 8.333333333333332,
+        "infected": 0.3037667071688943
+      },
+      "relative": {
+        "deaths": 8.450704225352112,
+        "recovered": 1.4084507042253522,
+        "infected": 90.14084507042254
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0013005947977215594,
+        "recovered": 1.8318236587627598e-05,
+        "deaths": 0.00010990941952576559,
+        "infected": 0.0011723671416081663
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.013005947977215594,
+        "recovered": 0.000183182365876276,
+        "deaths": 0.0010990941952576559,
+        "infected": 0.011723671416081664
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.13005947977215593,
+        "recovered": 0.0018318236587627598,
+        "deaths": 0.010990941952576558,
+        "infected": 0.11723671416081663
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "4eb3ce89d0967ce5c0fc6b83d4ce2ff3",
+    "day_index_1": 47,
+    "day_index_10": 9,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": -16,
+    "day_index_peak_deaths": -17,
+    "day_index_peak": -16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 187,
+        "deaths": 12,
+        "recovered": 5,
+        "infected": 170
+      },
+      "delta": {
+        "confirmed": 45,
+        "recovered": 3,
+        "infected": 42
+      },
+      "delta_pct": {
+        "confirmed": 31.690140845070424,
+        "recovered": 150,
+        "infected": 32.8125
+      },
+      "peak_pct": {
+        "confirmed": 12.960829493087559,
+        "recovered": 41.666666666666664,
+        "infected": 12.75820170109356
+      },
+      "relative": {
+        "deaths": 6.417112299465241,
+        "recovered": 2.6737967914438503,
+        "infected": 90.9090909090909
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0017127551209431802,
+        "recovered": 4.579559146906899e-05,
+        "deaths": 0.00010990941952576559,
+        "infected": 0.0015570501099483457
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.017127551209431803,
+        "recovered": 0.0004579559146906899,
+        "deaths": 0.0010990941952576559,
+        "infected": 0.015570501099483457
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.17127551209431802,
+        "recovered": 0.004579559146906899,
+        "deaths": 0.010990941952576558,
+        "infected": 0.15570501099483458
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "53ea79ea74b432490f24ebb5bd3eddca",
+    "day_index_1": 48,
+    "day_index_10": 10,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -16,
+    "day_index_peak": -15
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 202,
+        "deaths": 19,
+        "recovered": 5,
+        "infected": 178
+      },
+      "delta": {
+        "confirmed": 15,
+        "deaths": 7,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 8.02139037433155,
+        "infected": 4.705882352941177,
+        "deaths": 58.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 4.320276497695852,
+        "deaths": 58.333333333333336,
+        "infected": 2.4301336573511545
+      },
+      "relative": {
+        "deaths": 9.405940594059405,
+        "recovered": 2.4752475247524752,
+        "infected": 88.11881188118812
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0018501418953503874,
+        "recovered": 4.579559146906899e-05,
+        "deaths": 0.00017402324758246217,
+        "infected": 0.0016303230562988561
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.018501418953503875,
+        "recovered": 0.0004579559146906899,
+        "deaths": 0.0017402324758246217,
+        "infected": 0.01630323056298856
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.18501418953503873,
+        "recovered": 0.004579559146906899,
+        "deaths": 0.017402324758246216,
+        "infected": 0.1630323056298856
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "8a082bd5691f8f1edb08be44f22aabc4",
+    "day_index_1": 49,
+    "day_index_10": 11,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 217,
+        "deaths": 17,
+        "recovered": 8,
+        "infected": 192
+      },
+      "delta": {
+        "confirmed": 15,
+        "recovered": 3,
+        "deaths": -2,
+        "infected": 14
+      },
+      "delta_pct": {
+        "confirmed": 7.425742574257426,
+        "recovered": 60,
+        "infected": 7.865168539325842,
+        "deaths": -10.526315789473685
+      },
+      "peak_pct": {
+        "confirmed": 4.320276497695852,
+        "recovered": 41.666666666666664,
+        "deaths": -16.666666666666664,
+        "infected": 4.25273390036452
+      },
+      "relative": {
+        "deaths": 7.834101382488479,
+        "recovered": 3.686635944700461,
+        "infected": 88.47926267281106
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001987528669757594,
+        "recovered": 7.327294635051039e-05,
+        "deaths": 0.0001557050109948346,
+        "infected": 0.0017585507124122494
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01987528669757594,
+        "recovered": 0.000732729463505104,
+        "deaths": 0.001557050109948346,
+        "infected": 0.017585507124122494
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19875286697575942,
+        "recovered": 0.007327294635051039,
+        "deaths": 0.015570501099483458,
+        "infected": 0.17585507124122493
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "5ac6b018d5eb988663a5218aa5e9cb87",
+    "day_index_1": 50,
+    "day_index_10": 12,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -14,
+    "day_index_peak": -13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 230,
+        "deaths": 18,
+        "recovered": 8,
+        "infected": 204
+      },
+      "delta": {
+        "confirmed": 13,
+        "deaths": 1,
+        "infected": 12
+      },
+      "delta_pct": {
+        "confirmed": 5.990783410138249,
+        "infected": 6.25,
+        "deaths": 5.882352941176471
+      },
+      "peak_pct": {
+        "confirmed": 3.744239631336406,
+        "deaths": 8.333333333333332,
+        "infected": 3.6452004860267317
+      },
+      "relative": {
+        "deaths": 7.82608695652174,
+        "recovered": 3.4782608695652173,
+        "infected": 88.69565217391305
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0021065972075771737,
+        "recovered": 7.327294635051039e-05,
+        "deaths": 0.00016486412928864836,
+        "infected": 0.001868460131938015
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.02106597207577174,
+        "recovered": 0.000732729463505104,
+        "deaths": 0.0016486412928864837,
+        "infected": 0.01868460131938015
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.21065972075771738,
+        "recovered": 0.007327294635051039,
+        "deaths": 0.016486412928864835,
+        "infected": 0.1868460131938015
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "c03b36fcb036dc9f3795130c0c388b8f",
+    "day_index_1": 51,
+    "day_index_10": 13,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 307,
+        "deaths": 19,
+        "recovered": 13,
+        "infected": 275
+      },
+      "delta": {
+        "confirmed": 77,
+        "recovered": 5,
+        "deaths": 1,
+        "infected": 71
+      },
+      "delta_pct": {
+        "confirmed": 33.47826086956522,
+        "recovered": 62.5,
+        "infected": 34.80392156862745,
+        "deaths": 5.555555555555555
+      },
+      "peak_pct": {
+        "confirmed": 22.177419354838708,
+        "recovered": 69.44444444444444,
+        "deaths": 8.333333333333332,
+        "infected": 21.567436208991495
+      },
+      "relative": {
+        "deaths": 6.188925081433225,
+        "recovered": 4.234527687296417,
+        "infected": 89.57654723127035
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0028118493162008363,
+        "recovered": 0.00011906853781957938,
+        "deaths": 0.00017402324758246217,
+        "infected": 0.0025187575307987946
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.028118493162008363,
+        "recovered": 0.0011906853781957938,
+        "deaths": 0.0017402324758246217,
+        "infected": 0.025187575307987944
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.2811849316200836,
+        "recovered": 0.011906853781957938,
+        "deaths": 0.017402324758246216,
+        "infected": 0.25187575307987947
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "b2e07a56f2f89208c907fc135d17c505",
+    "day_index_1": 52,
+    "day_index_10": 14,
+    "day_index_100": 8,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 380,
+        "deaths": 25,
+        "recovered": 15,
+        "infected": 340
+      },
+      "delta": {
+        "confirmed": 73,
+        "recovered": 2,
+        "deaths": 6,
+        "infected": 65
+      },
+      "delta_pct": {
+        "confirmed": 23.778501628664497,
+        "recovered": 15.384615384615385,
+        "infected": 23.636363636363637,
+        "deaths": 31.57894736842105
+      },
+      "peak_pct": {
+        "confirmed": 21.02534562211982,
+        "recovered": 27.77777777777778,
+        "deaths": 50,
+        "infected": 19.74483596597813
+      },
+      "relative": {
+        "deaths": 6.578947368421052,
+        "recovered": 3.9473684210526314,
+        "infected": 89.47368421052632
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0034804649516492433,
+        "recovered": 0.00013738677440720698,
+        "deaths": 0.00022897795734534495,
+        "infected": 0.0031141002198966914
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03480464951649243,
+        "recovered": 0.0013738677440720698,
+        "deaths": 0.0022897795734534497,
+        "infected": 0.031141002198966913
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3480464951649243,
+        "recovered": 0.013738677440720699,
+        "deaths": 0.022897795734534494,
+        "infected": 0.31141002198966916
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "265c96ac4f5220e8c78d3cb47594239d",
+    "day_index_1": 53,
+    "day_index_10": 15,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": -10,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 462,
+        "deaths": 33,
+        "recovered": 18,
+        "infected": 411
+      },
+      "delta": {
+        "confirmed": 82,
+        "recovered": 3,
+        "deaths": 8,
+        "infected": 71
+      },
+      "delta_pct": {
+        "confirmed": 21.57894736842105,
+        "recovered": 20,
+        "infected": 20.88235294117647,
+        "deaths": 32
+      },
+      "peak_pct": {
+        "confirmed": 23.617511520737327,
+        "recovered": 41.666666666666664,
+        "deaths": 66.66666666666666,
+        "infected": 21.567436208991495
+      },
+      "relative": {
+        "deaths": 7.142857142857142,
+        "recovered": 3.896103896103896,
+        "infected": 88.96103896103897
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004231512651741975,
+        "recovered": 0.00016486412928864836,
+        "deaths": 0.00030225090369585535,
+        "infected": 0.003764397618757471
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.042315126517419754,
+        "recovered": 0.0016486412928864837,
+        "deaths": 0.0030225090369585535,
+        "infected": 0.03764397618757471
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.42315126517419754,
+        "recovered": 0.016486412928864835,
+        "deaths": 0.030225090369585535,
+        "infected": 0.3764397618757471
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "2545950319860c3209e82aaa39964169",
+    "day_index_1": 54,
+    "day_index_10": 16,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": -9,
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 552,
+        "deaths": 35,
+        "recovered": 20,
+        "infected": 497
+      },
+      "delta": {
+        "confirmed": 90,
+        "recovered": 2,
+        "deaths": 2,
+        "infected": 86
+      },
+      "delta_pct": {
+        "confirmed": 19.48051948051948,
+        "recovered": 11.11111111111111,
+        "infected": 20.92457420924574,
+        "deaths": 6.0606060606060606
+      },
+      "peak_pct": {
+        "confirmed": 25.921658986175117,
+        "recovered": 27.77777777777778,
+        "deaths": 16.666666666666664,
+        "infected": 26.12393681652491
+      },
+      "relative": {
+        "deaths": 6.340579710144928,
+        "recovered": 3.6231884057971016,
+        "infected": 90.03623188405797
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005055833298185217,
+        "recovered": 0.00018318236587627597,
+        "deaths": 0.00032056914028348295,
+        "infected": 0.004552081792025458
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.050558332981852167,
+        "recovered": 0.0018318236587627596,
+        "deaths": 0.0032056914028348294,
+        "infected": 0.04552081792025458
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5055833298185217,
+        "recovered": 0.018318236587627598,
+        "deaths": 0.032056914028348295,
+        "infected": 0.45520817920254575
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "393274726d5521a4f223c249d4262dd8",
+    "day_index_1": 55,
+    "day_index_10": 17,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 636,
+        "deaths": 38,
+        "recovered": 26,
+        "infected": 572
+      },
+      "delta": {
+        "confirmed": 84,
+        "recovered": 6,
+        "deaths": 3,
+        "infected": 75
+      },
+      "delta_pct": {
+        "confirmed": 15.217391304347826,
+        "recovered": 30,
+        "infected": 15.090543259557345,
+        "deaths": 8.571428571428571
+      },
+      "peak_pct": {
+        "confirmed": 24.193548387096776,
+        "recovered": 83.33333333333333,
+        "deaths": 25,
+        "infected": 22.782503037667073
+      },
+      "relative": {
+        "deaths": 5.9748427672955975,
+        "recovered": 4.088050314465408,
+        "infected": 89.937106918239
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005825199234865575,
+        "recovered": 0.00023813707563915876,
+        "deaths": 0.00034804649516492433,
+        "infected": 0.005239015664061493
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05825199234865575,
+        "recovered": 0.0023813707563915877,
+        "deaths": 0.0034804649516492433,
+        "infected": 0.05239015664061493
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5825199234865576,
+        "recovered": 0.023813707563915876,
+        "deaths": 0.03480464951649243,
+        "infected": 0.5239015664061493
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "4fea99c4a9708f0447ddacfd8eb57fe7",
+    "day_index_1": 56,
+    "day_index_10": 18,
+    "day_index_100": 12,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": -8,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "date": "2020-03-26",
+      "timestamp": 1585180800,
+      "index": 65
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 707,
+        "deaths": 45,
+        "recovered": 28,
+        "infected": 634
+      },
+      "delta": {
+        "confirmed": 71,
+        "recovered": 2,
+        "deaths": 7,
+        "infected": 62
+      },
+      "delta_pct": {
+        "confirmed": 11.163522012578616,
+        "recovered": 7.6923076923076925,
+        "infected": 10.839160839160838,
+        "deaths": 18.42105263157895
+      },
+      "peak_pct": {
+        "confirmed": 20.44930875576037,
+        "recovered": 27.77777777777778,
+        "deaths": 58.333333333333336,
+        "infected": 18.833535844471445
+      },
+      "relative": {
+        "deaths": 6.364922206506366,
+        "recovered": 3.9603960396039604,
+        "infected": 89.67468175388967
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006475496633726356,
+        "recovered": 0.00025645531222678636,
+        "deaths": 0.0004121603232216209,
+        "infected": 0.0058068809982779485
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06475496633726356,
+        "recovered": 0.0025645531222678636,
+        "deaths": 0.0041216032322162095,
+        "infected": 0.05806880998277948
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6475496633726356,
+        "recovered": 0.025645531222678635,
+        "deaths": 0.041216032322162095,
+        "infected": 0.5806880998277949
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "7c5ba63cf07d48895a338c8d945826fc",
+    "day_index_1": 57,
+    "day_index_10": 19,
+    "day_index_100": 13,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": -7,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 803,
+        "deaths": 54,
+        "recovered": 31,
+        "infected": 718
+      },
+      "delta": {
+        "confirmed": 96,
+        "recovered": 3,
+        "deaths": 9,
+        "infected": 84
+      },
+      "delta_pct": {
+        "confirmed": 13.578500707213578,
+        "recovered": 10.714285714285714,
+        "infected": 13.249211356466876,
+        "deaths": 20
+      },
+      "peak_pct": {
+        "confirmed": 27.64976958525346,
+        "recovered": 41.666666666666664,
+        "deaths": 75,
+        "infected": 25.51640340218712
+      },
+      "relative": {
+        "deaths": 6.724782067247821,
+        "recovered": 3.8605230386052307,
+        "infected": 89.41469489414695
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00735477198993248,
+        "recovered": 0.00028393266710822774,
+        "deaths": 0.0004945923878659452,
+        "infected": 0.006576246934958307
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0735477198993248,
+        "recovered": 0.0028393266710822775,
+        "deaths": 0.004945923878659452,
+        "infected": 0.06576246934958307
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.735477198993248,
+        "recovered": 0.028393266710822773,
+        "deaths": 0.049459238786594514,
+        "infected": 0.6576246934958307
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "f25f31f6baddc5107cf99aba32bbb29b",
+    "day_index_1": 58,
+    "day_index_10": 20,
+    "day_index_100": 14,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1075,
+        "deaths": 68,
+        "recovered": 35,
+        "infected": 972
+      },
+      "delta": {
+        "confirmed": 272,
+        "recovered": 4,
+        "deaths": 14,
+        "infected": 254
+      },
+      "delta_pct": {
+        "confirmed": 33.872976338729764,
+        "recovered": 12.903225806451612,
+        "infected": 35.37604456824513,
+        "deaths": 25.925925925925927
+      },
+      "peak_pct": {
+        "confirmed": 78.3410138248848,
+        "recovered": 55.55555555555556,
+        "deaths": 116.66666666666667,
+        "infected": 77.15674362089915
+      },
+      "relative": {
+        "deaths": 6.325581395348837,
+        "recovered": 3.255813953488372,
+        "infected": 90.4186046511628
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.009846052165849833,
+        "recovered": 0.00032056914028348295,
+        "deaths": 0.0006228200439793383,
+        "infected": 0.008902662981587012
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.09846052165849833,
+        "recovered": 0.0032056914028348294,
+        "deaths": 0.006228200439793384,
+        "infected": 0.08902662981587012
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.9846052165849833,
+        "recovered": 0.032056914028348295,
+        "deaths": 0.062282004397933834,
+        "infected": 0.8902662981587012
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "e6e5361876e2366cf11e138bf950260d",
+    "day_index_1": 59,
+    "day_index_10": 21,
+    "day_index_100": 15,
+    "day_index_1k": 1,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1418,
+        "deaths": 71,
+        "recovered": 42,
+        "infected": 1305
+      },
+      "delta": {
+        "confirmed": 343,
+        "recovered": 7,
+        "deaths": 3,
+        "infected": 333
+      },
+      "delta_pct": {
+        "confirmed": 31.906976744186046,
+        "recovered": 20,
+        "infected": 34.25925925925926,
+        "deaths": 4.411764705882353
+      },
+      "peak_pct": {
+        "confirmed": 98.79032258064517,
+        "recovered": 97.22222222222221,
+        "deaths": 25,
+        "infected": 101.1543134872418
+      },
+      "relative": {
+        "deaths": 5.007052186177715,
+        "recovered": 2.9619181946403383,
+        "infected": 92.03102961918195
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.012987629740627966,
+        "recovered": 0.00038468296834017954,
+        "deaths": 0.0006502973988607797,
+        "infected": 0.011952649373427007
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.12987629740627965,
+        "recovered": 0.0038468296834017956,
+        "deaths": 0.006502973988607797,
+        "infected": 0.11952649373427007
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.2987629740627966,
+        "recovered": 0.03846829683401795,
+        "deaths": 0.06502973988607796,
+        "infected": 1.1952649373427007
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "dd39fa42a1a1b7ce1c41f69a3c94f664",
+    "day_index_1": 60,
+    "day_index_10": 22,
+    "day_index_100": 16,
+    "day_index_1k": 2,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1546,
+        "deaths": 78,
+        "recovered": 42,
+        "infected": 1426
+      },
+      "delta": {
+        "confirmed": 128,
+        "deaths": 7,
+        "infected": 121
+      },
+      "delta_pct": {
+        "confirmed": 9.026798307475318,
+        "infected": 9.272030651340996,
+        "deaths": 9.859154929577464
+      },
+      "peak_pct": {
+        "confirmed": 36.86635944700461,
+        "deaths": 58.333333333333336,
+        "infected": 36.75577156743621
+      },
+      "relative": {
+        "deaths": 5.045278137128072,
+        "recovered": 2.716688227684347,
+        "infected": 92.23803363518758
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014159996882236132,
+        "recovered": 0.00038468296834017954,
+        "deaths": 0.0007144112269174763,
+        "infected": 0.013060902686978477
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1415999688223613,
+        "recovered": 0.0038468296834017956,
+        "deaths": 0.007144112269174763,
+        "infected": 0.13060902686978476
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.4159996882236132,
+        "recovered": 0.03846829683401795,
+        "deaths": 0.07144112269174763,
+        "infected": 1.3060902686978477
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "ce9d2aa08b7cee25327768a381375b98",
+    "day_index_1": 61,
+    "day_index_10": 23,
+    "day_index_100": 17,
+    "day_index_1k": 3,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2084,
+        "deaths": 88,
+        "recovered": 49,
+        "infected": 1947
+      },
+      "delta": {
+        "confirmed": 538,
+        "recovered": 7,
+        "deaths": 10,
+        "infected": 521
+      },
+      "delta_pct": {
+        "confirmed": 34.79948253557568,
+        "recovered": 16.666666666666668,
+        "infected": 36.535764375876575,
+        "deaths": 12.820512820512821
+      },
+      "peak_pct": {
+        "confirmed": 154.95391705069125,
+        "recovered": 97.22222222222221,
+        "deaths": 83.33333333333334,
+        "infected": 158.26245443499394
+      },
+      "relative": {
+        "deaths": 4.222648752399232,
+        "recovered": 2.3512476007677545,
+        "infected": 93.42610364683301
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.019087602524307957,
+        "recovered": 0.00044879679639687613,
+        "deaths": 0.0008060024098556143,
+        "infected": 0.017832803318055465
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.19087602524307956,
+        "recovered": 0.004487967963968761,
+        "deaths": 0.008060024098556143,
+        "infected": 0.17832803318055465
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.9087602524307956,
+        "recovered": 0.044879679639687614,
+        "deaths": 0.08060024098556143,
+        "infected": 1.7832803318055466
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "e3534b2c39f64a57188872b94a58233f",
+    "day_index_1": 62,
+    "day_index_10": 24,
+    "day_index_100": 18,
+    "day_index_1k": 4,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2311,
+        "deaths": 96,
+        "recovered": 50,
+        "infected": 2165
+      },
+      "delta": {
+        "confirmed": 227,
+        "recovered": 1,
+        "deaths": 8,
+        "infected": 218
+      },
+      "delta_pct": {
+        "confirmed": 10.892514395393475,
+        "recovered": 2.0408163265306123,
+        "infected": 11.196712891628145,
+        "deaths": 9.090909090909092
+      },
+      "peak_pct": {
+        "confirmed": 65.38018433179724,
+        "recovered": 13.88888888888889,
+        "deaths": 66.66666666666666,
+        "infected": 66.22114216281896
+      },
+      "relative": {
+        "deaths": 4.154045867589788,
+        "recovered": 2.163565556036348,
+        "infected": 93.68238857637387
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.021166722377003688,
+        "recovered": 0.0004579559146906899,
+        "deaths": 0.0008792753562061247,
+        "infected": 0.019829491106106874
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.21166722377003688,
+        "recovered": 0.004579559146906899,
+        "deaths": 0.008792753562061247,
+        "infected": 0.19829491106106875
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.1166722377003686,
+        "recovered": 0.04579559146906899,
+        "deaths": 0.08792753562061247,
+        "infected": 1.9829491106106873
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "608eb23f65d2295098858ff14c7bfbdc",
+    "day_index_1": 63,
+    "day_index_10": 25,
+    "day_index_100": 19,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2633,
+        "deaths": 107,
+        "recovered": 51,
+        "infected": 2475
+      },
+      "delta": {
+        "confirmed": 322,
+        "recovered": 1,
+        "deaths": 11,
+        "infected": 310
+      },
+      "delta_pct": {
+        "confirmed": 13.93336218087408,
+        "recovered": 2,
+        "infected": 14.318706697459584,
+        "deaths": 11.458333333333334
+      },
+      "peak_pct": {
+        "confirmed": 92.74193548387098,
+        "recovered": 13.88888888888889,
+        "deaths": 91.66666666666666,
+        "infected": 94.16767922235724
+      },
+      "relative": {
+        "deaths": 4.063805545005697,
+        "recovered": 1.9369540448157994,
+        "infected": 93.99924041017852
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02411595846761173,
+        "recovered": 0.00046711503298450373,
+        "deaths": 0.0009800256574380765,
+        "infected": 0.02266881777718915
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2411595846761173,
+        "recovered": 0.004671150329845037,
+        "deaths": 0.009800256574380765,
+        "infected": 0.2266881777718915
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.411595846761173,
+        "recovered": 0.04671150329845038,
+        "deaths": 0.09800256574380764,
+        "infected": 2.266881777718915
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "ac3f88eb5db86e8556cd07137d9819d7",
+    "day_index_1": 64,
+    "day_index_10": 26,
+    "day_index_100": 20,
+    "day_index_1k": 6,
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3018,
+        "deaths": 136,
+        "recovered": 52,
+        "infected": 2830
+      },
+      "delta": {
+        "confirmed": 385,
+        "recovered": 1,
+        "deaths": 29,
+        "infected": 355
+      },
+      "delta_pct": {
+        "confirmed": 14.622104063805544,
+        "recovered": 1.9607843137254901,
+        "infected": 14.343434343434344,
+        "deaths": 27.102803738317757
+      },
+      "peak_pct": {
+        "confirmed": 110.88709677419355,
+        "recovered": 13.88888888888889,
+        "deaths": 241.66666666666666,
+        "infected": 107.83718104495748
+      },
+      "relative": {
+        "deaths": 4.506295559973492,
+        "recovered": 1.7229953611663356,
+        "infected": 93.77070907886016
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.027642219010730044,
+        "recovered": 0.0004762741512783175,
+        "deaths": 0.0012456400879586767,
+        "infected": 0.025920304771493048
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.27642219010730046,
+        "recovered": 0.004762741512783175,
+        "deaths": 0.012456400879586767,
+        "infected": 0.25920304771493047
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.7642219010730043,
+        "recovered": 0.04762741512783175,
+        "deaths": 0.12456400879586767,
+        "infected": 2.592030477149305
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "96add75da90dadd14aeea888c933ed60",
+    "day_index_1": 65,
+    "day_index_10": 27,
+    "day_index_100": 21,
+    "day_index_1k": 7,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3094,
+        "deaths": 144,
+        "recovered": 57,
+        "infected": 2893
+      },
+      "delta": {
+        "confirmed": 76,
+        "recovered": 5,
+        "deaths": 8,
+        "infected": 63
+      },
+      "delta_pct": {
+        "confirmed": 2.518223989396952,
+        "recovered": 9.615384615384615,
+        "infected": 2.2261484098939928,
+        "deaths": 5.882352941176471
+      },
+      "peak_pct": {
+        "confirmed": 21.889400921658986,
+        "recovered": 69.44444444444444,
+        "deaths": 66.66666666666666,
+        "infected": 19.137302551640342
+      },
+      "relative": {
+        "deaths": 4.654169360051713,
+        "recovered": 1.8422753716871365,
+        "infected": 93.50355526826115
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.028338312001059893,
+        "recovered": 0.0005220697427473865,
+        "deaths": 0.001318913034309187,
+        "infected": 0.02649732922400332
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.28338312001059895,
+        "recovered": 0.005220697427473865,
+        "deaths": 0.01318913034309187,
+        "infected": 0.2649732922400332
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.833831200105989,
+        "recovered": 0.05220697427473865,
+        "deaths": 0.13189130343091868,
+        "infected": 2.649732922400332
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "210e89d69d4cf0fe42e57689af9527f6",
+    "day_index_1": 66,
+    "day_index_10": 28,
+    "day_index_100": 22,
+    "day_index_1k": 8,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 5,
+      "date": "2020-04-05",
+      "timestamp": 1586048400,
+      "index": 75
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3246,
+        "deaths": 152,
+        "recovered": 64,
+        "infected": 3030
+      },
+      "delta": {
+        "confirmed": 152,
+        "recovered": 7,
+        "deaths": 8,
+        "infected": 137
+      },
+      "delta_pct": {
+        "confirmed": 4.912734324499031,
+        "recovered": 12.280701754385966,
+        "infected": 4.73556861389561,
+        "deaths": 5.555555555555555
+      },
+      "peak_pct": {
+        "confirmed": 43.77880184331797,
+        "recovered": 97.22222222222221,
+        "deaths": 66.66666666666666,
+        "infected": 41.61603888213852
+      },
+      "relative": {
+        "deaths": 4.682686383240911,
+        "recovered": 1.9716574245224894,
+        "infected": 93.3456561922366
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.02973049798171959,
+        "recovered": 0.0005861835708040831,
+        "deaths": 0.0013921859806596973,
+        "infected": 0.02775212843025581
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.2973049798171959,
+        "recovered": 0.005861835708040832,
+        "deaths": 0.013921859806596973,
+        "infected": 0.2775212843025581
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.973049798171959,
+        "recovered": 0.058618357080408315,
+        "deaths": 0.13921859806596973,
+        "infected": 2.775212843025581
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "b6192bcd30b31e9639e8ae3334a03fa1",
+    "day_index_1": 67,
+    "day_index_10": 29,
+    "day_index_100": 23,
+    "day_index_1k": 9,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3660,
+        "deaths": 163,
+        "recovered": 73,
+        "infected": 3424
+      },
+      "delta": {
+        "confirmed": 414,
+        "recovered": 9,
+        "deaths": 11,
+        "infected": 394
+      },
+      "delta_pct": {
+        "confirmed": 12.754158964879853,
+        "recovered": 14.0625,
+        "infected": 13.003300330033003,
+        "deaths": 7.2368421052631575
+      },
+      "peak_pct": {
+        "confirmed": 119.23963133640554,
+        "recovered": 125,
+        "deaths": 91.66666666666666,
+        "infected": 119.68408262454435
+      },
+      "relative": {
+        "deaths": 4.453551912568305,
+        "recovered": 1.994535519125683,
+        "infected": 93.55191256830601
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0335223729553585,
+        "recovered": 0.0006686156354484073,
+        "deaths": 0.0014929362818916492,
+        "infected": 0.03136082103801845
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.33522372955358504,
+        "recovered": 0.0066861563544840736,
+        "deaths": 0.014929362818916492,
+        "infected": 0.3136082103801845
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.35223729553585,
+        "recovered": 0.06686156354484073,
+        "deaths": 0.14929362818916492,
+        "infected": 3.1360821038018445
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "25e2a97e36f86c15ff5a157b91aadb48",
+    "day_index_1": 68,
+    "day_index_10": 30,
+    "day_index_100": 24,
+    "day_index_1k": 10,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d1dd82ea9e09e16414483ccd77d15f25",
+      "type": "total-country",
+      "label": "Philippines",
+      "country": "Philippines",
+      "country_code": "PH",
+      "country_latlong": [
+        13,
+        122
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        122
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3764,
+        "deaths": 177,
+        "recovered": 84,
+        "infected": 3503
+      },
+      "delta": {
+        "confirmed": 104,
+        "recovered": 11,
+        "deaths": 14,
+        "infected": 79
+      },
+      "delta_pct": {
+        "confirmed": 2.841530054644809,
+        "recovered": 15.068493150684931,
+        "infected": 2.307242990654206,
+        "deaths": 8.588957055214724
+      },
+      "peak_pct": {
+        "confirmed": 29.95391705069125,
+        "recovered": 152.77777777777777,
+        "deaths": 116.66666666666667,
+        "infected": 23.99756986634265
+      },
+      "relative": {
+        "deaths": 4.702444208289054,
+        "recovered": 2.2316684378320937,
+        "infected": 93.06588735387885
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.03447492125791514,
+        "recovered": 0.0007693659366803591,
+        "deaths": 0.0016211639380050422,
+        "infected": 0.032084391383229736
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.34474921257915137,
+        "recovered": 0.007693659366803591,
+        "deaths": 0.01621163938005042,
+        "infected": 0.3208439138322974
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.447492125791514,
+        "recovered": 0.0769365936680359,
+        "deaths": 0.16211639380050422,
+        "infected": 3.208439138322974
+      }
+    },
+    "factbook": {
+      "population": 109180815,
+      "median_age": 24.1,
+      "death_rate": 6,
+      "area": 300000
+    },
+    "data_key": "43c61cea50524b4714dd43760b1f7805",
+    "day_index_1": 69,
+    "day_index_10": 31,
+    "day_index_100": 25,
+    "day_index_1k": 11,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 5
+  }
+]

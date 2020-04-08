@@ -1,0 +1,2093 @@
+[
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 27,
+      "date": "2020-01-27",
+      "timestamp": 1580083200,
+      "index": 6
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "peak_pct": {
+        "confirmed": 9.433962264150944,
+        "infected": 10
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 5.907726976051965e-05,
+        "infected": 5.907726976051965e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0005907726976051965,
+        "infected": 0.0005907726976051965
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.005907726976051965,
+        "infected": 0.005907726976051965
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "d9bca7f1f39aa1b40c5996baf5b891d2",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": -58,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -58
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 12,
+      "date": "2020-02-12",
+      "timestamp": 1581465600,
+      "index": 22
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1,
+        "recovered": 1
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -100
+      },
+      "peak_pct": {
+        "recovered": 16.129032258064516,
+        "infected": -10
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 5.907726976051965e-05,
+        "recovered": 5.907726976051965e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0005907726976051965,
+        "recovered": 0.0005907726976051965
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.005907726976051965,
+        "recovered": 0.005907726976051965
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "8dc9040abb9f147055d4dcd644665af5",
+    "day_index_1": 17,
+    "day_index_peak_confirmed": -42,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -42
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 8,
+      "date": "2020-03-08",
+      "timestamp": 1583625600,
+      "index": 47
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "recovered": 1,
+        "infected": 1
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100
+      },
+      "peak_pct": {
+        "confirmed": 9.433962264150944,
+        "infected": 10
+      },
+      "relative": {
+        "recovered": 50,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0001181545395210393,
+        "recovered": 5.907726976051965e-05,
+        "infected": 5.907726976051965e-05
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.001181545395210393,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.0005907726976051965
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.01181545395210393,
+        "recovered": 0.005907726976051965,
+        "infected": 0.005907726976051965
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "f630d6d9a208e76fa81e80ed6923c709",
+    "day_index_1": 42,
+    "day_index_peak_confirmed": -17,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -17
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "date": "2020-03-11",
+      "timestamp": 1583884800,
+      "index": 50
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "recovered": 1,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 9.433962264150944,
+        "infected": 10
+      },
+      "relative": {
+        "recovered": 33.33333333333333,
+        "infected": 66.66666666666666
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00017723180928155895,
+        "recovered": 5.907726976051965e-05,
+        "infected": 0.0001181545395210393
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0017723180928155896,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.001181545395210393
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.017723180928155894,
+        "recovered": 0.005907726976051965,
+        "infected": 0.01181545395210393
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "e03a00a9771351e35a686015e778b141",
+    "day_index_1": 45,
+    "day_index_peak_confirmed": -14,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -14
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "date": "2020-03-13",
+      "timestamp": 1584057600,
+      "index": 52
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "recovered": 1,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 66.66666666666667,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 18.867924528301888,
+        "infected": 20
+      },
+      "relative": {
+        "recovered": 20,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00029538634880259826,
+        "recovered": 5.907726976051965e-05,
+        "infected": 0.0002363090790420786
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0029538634880259826,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.002363090790420786
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.029538634880259824,
+        "recovered": 0.005907726976051965,
+        "infected": 0.02363090790420786
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "6ef170380a7effaff0a6a2c781d04146",
+    "day_index_1": 47,
+    "day_index_peak_confirmed": -12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 14,
+      "date": "2020-03-14",
+      "timestamp": 1584144000,
+      "index": 53
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "recovered": 1,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 40,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 18.867924528301888,
+        "infected": 20
+      },
+      "relative": {
+        "recovered": 14.285714285714285,
+        "infected": 85.71428571428571
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0004135408883236376,
+        "recovered": 5.907726976051965e-05,
+        "infected": 0.0003544636185631179
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004135408883236376,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.003544636185631179
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.04135408883236376,
+        "recovered": 0.005907726976051965,
+        "infected": 0.03544636185631179
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "2f348fd6def4088154505ed91c1d24e8",
+    "day_index_1": 48,
+    "day_index_peak_confirmed": -11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "date": "2020-03-17",
+      "timestamp": 1584403200,
+      "index": 56
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 33,
+        "recovered": 1,
+        "infected": 32
+      },
+      "delta": {
+        "confirmed": 26,
+        "infected": 26
+      },
+      "delta_pct": {
+        "confirmed": 371.42857142857144,
+        "infected": 433.3333333333333
+      },
+      "peak_pct": {
+        "confirmed": 245.2830188679245,
+        "infected": 260
+      },
+      "relative": {
+        "recovered": 3.0303030303030303,
+        "infected": 96.96969696969697
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0019495499020971486,
+        "recovered": 5.907726976051965e-05,
+        "infected": 0.0018904726323366288
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.019495499020971484,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.01890472632336629
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.19495499020971485,
+        "recovered": 0.005907726976051965,
+        "infected": 0.1890472632336629
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "8987abc759489f306fd14fe8496e5adf",
+    "day_index_1": 51,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "date": "2020-03-18",
+      "timestamp": 1584489600,
+      "index": 57
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 35,
+        "recovered": 1,
+        "infected": 34
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 6.0606060606060606,
+        "infected": 6.25
+      },
+      "peak_pct": {
+        "confirmed": 18.867924528301888,
+        "infected": 20
+      },
+      "relative": {
+        "recovered": 2.857142857142857,
+        "infected": 97.14285714285714
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002067704441618188,
+        "recovered": 5.907726976051965e-05,
+        "infected": 0.002008627171857668
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.02067704441618188,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.02008627171857668
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.20677044416181878,
+        "recovered": 0.005907726976051965,
+        "infected": 0.20086271718576681
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "8a86ad57da6209f42e547975c3e89e8c",
+    "day_index_1": 52,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": -7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "date": "2020-03-19",
+      "timestamp": 1584576000,
+      "index": 58
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 37,
+        "recovered": 1,
+        "infected": 36
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 5.714285714285714,
+        "infected": 5.882352941176471
+      },
+      "peak_pct": {
+        "confirmed": 18.867924528301888,
+        "infected": 20
+      },
+      "relative": {
+        "recovered": 2.7027027027027026,
+        "infected": 97.2972972972973
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0021858589811392273,
+        "recovered": 5.907726976051965e-05,
+        "infected": 0.0021267817113787076
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.021858589811392274,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.021267817113787075
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.21858589811392273,
+        "recovered": 0.005907726976051965,
+        "infected": 0.21267817113787077
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "6fbd9179d8827cab5f0422db20d5dc1e",
+    "day_index_1": 53,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": -6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "date": "2020-03-20",
+      "timestamp": 1584662400,
+      "index": 59
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 51,
+        "recovered": 1,
+        "infected": 50
+      },
+      "delta": {
+        "confirmed": 14,
+        "infected": 14
+      },
+      "delta_pct": {
+        "confirmed": 37.83783783783784,
+        "infected": 38.888888888888886
+      },
+      "peak_pct": {
+        "confirmed": 132.07547169811323,
+        "infected": 140
+      },
+      "relative": {
+        "recovered": 1.9607843137254901,
+        "infected": 98.0392156862745
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0030129407577865024,
+        "recovered": 5.907726976051965e-05,
+        "infected": 0.0029538634880259826
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.030129407577865024,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.029538634880259824
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.30129407577865025,
+        "recovered": 0.005907726976051965,
+        "infected": 0.2953863488025983
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "b27fa59d57211440943cb318558357a2",
+    "day_index_1": 54,
+    "day_index_10": 4,
+    "day_index_peak_confirmed": -5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 21,
+      "date": "2020-03-21",
+      "timestamp": 1584748800,
+      "index": 60
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 53,
+        "recovered": 1,
+        "infected": 52
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 3.9215686274509802,
+        "infected": 4
+      },
+      "peak_pct": {
+        "confirmed": 18.867924528301888,
+        "infected": 20
+      },
+      "relative": {
+        "recovered": 1.8867924528301887,
+        "infected": 98.11320754716981
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0031310952973075414,
+        "recovered": 5.907726976051965e-05,
+        "infected": 0.003072018027547022
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.031310952973075415,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.030720180275470223
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3131095297307541,
+        "recovered": 0.005907726976051965,
+        "infected": 0.3072018027547022
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "316a136e811a64646e62fa7f5b521824",
+    "day_index_1": 55,
+    "day_index_10": 5,
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 22,
+      "date": "2020-03-22",
+      "timestamp": 1584835200,
+      "index": 61
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 84,
+        "recovered": 2,
+        "infected": 82
+      },
+      "delta": {
+        "confirmed": 31,
+        "recovered": 1,
+        "infected": 30
+      },
+      "delta_pct": {
+        "confirmed": 58.490566037735846,
+        "recovered": 100,
+        "infected": 57.69230769230769
+      },
+      "peak_pct": {
+        "confirmed": 292.45283018867923,
+        "recovered": 16.129032258064516,
+        "infected": 300
+      },
+      "relative": {
+        "recovered": 2.380952380952381,
+        "infected": 97.61904761904762
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004962490659883651,
+        "recovered": 0.0001181545395210393,
+        "infected": 0.004844336120362612
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.04962490659883651,
+        "recovered": 0.001181545395210393,
+        "infected": 0.04844336120362612
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.4962490659883651,
+        "recovered": 0.01181545395210393,
+        "infected": 0.4844336120362612
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "6dc523c3788fca0bc4882c74f394de74",
+    "day_index_1": 56,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": -3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "date": "2020-03-23",
+      "timestamp": 1584921600,
+      "index": 62
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 87,
+        "recovered": 2,
+        "infected": 85
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 3.5714285714285716,
+        "infected": 3.658536585365854
+      },
+      "peak_pct": {
+        "confirmed": 28.30188679245283,
+        "infected": 30
+      },
+      "relative": {
+        "recovered": 2.2988505747126435,
+        "infected": 97.70114942528735
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0051397224691652095,
+        "recovered": 0.0001181545395210393,
+        "infected": 0.00502156792964417
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.051397224691652095,
+        "recovered": 0.001181545395210393,
+        "infected": 0.050215679296441704
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.513972246916521,
+        "recovered": 0.01181545395210393,
+        "infected": 0.502156792964417
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "562378c91c3030893da5b386ce441bb6",
+    "day_index_1": 57,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "date": "2020-03-24",
+      "timestamp": 1585008000,
+      "index": 63
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 91,
+        "recovered": 4,
+        "infected": 87
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 4.597701149425287,
+        "recovered": 100,
+        "infected": 2.3529411764705883
+      },
+      "peak_pct": {
+        "confirmed": 37.735849056603776,
+        "recovered": 32.25806451612903,
+        "infected": 20
+      },
+      "relative": {
+        "recovered": 4.395604395604396,
+        "infected": 95.6043956043956
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0053760315482072885,
+        "recovered": 0.0002363090790420786,
+        "infected": 0.0051397224691652095
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.053760315482072885,
+        "recovered": 0.002363090790420786,
+        "infected": 0.051397224691652095
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5376031548207288,
+        "recovered": 0.02363090790420786,
+        "infected": 0.513972246916521
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "6060259df2d1e967d58e2c95a2018a29",
+    "day_index_1": 58,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": null,
+    "day_index_peak": -1
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "date": "2020-03-25",
+      "timestamp": 1585094400,
+      "index": 64
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 96,
+        "recovered": 10,
+        "infected": 86
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 6,
+        "infected": -1
+      },
+      "delta_pct": {
+        "confirmed": 5.4945054945054945,
+        "recovered": 150,
+        "infected": -1.1494252873563218
+      },
+      "peak_pct": {
+        "confirmed": 47.16981132075472,
+        "recovered": 96.77419354838709,
+        "infected": -10
+      },
+      "relative": {
+        "recovered": 10.416666666666668,
+        "infected": 89.58333333333334
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005671417897009886,
+        "recovered": 0.0005907726976051965,
+        "infected": 0.00508064519940469
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.056714178970098866,
+        "recovered": 0.005907726976051965,
+        "infected": 0.050806451994046896
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5671417897009886,
+        "recovered": 0.05907726976051965,
+        "infected": 0.508064519940469
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "ddc542f198ba83f8270d0a5c59c91fc1",
+    "day_index_1": 59,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "date": "2020-03-27",
+      "timestamp": 1585267200,
+      "index": 66
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 99,
+        "recovered": 11,
+        "infected": 88
+      },
+      "delta": {
+        "confirmed": 3,
+        "recovered": 1,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 3.125,
+        "recovered": 10,
+        "infected": 2.3255813953488373
+      },
+      "peak_pct": {
+        "confirmed": 28.30188679245283,
+        "recovered": 16.129032258064516,
+        "infected": 20
+      },
+      "relative": {
+        "recovered": 11.11111111111111,
+        "infected": 88.88888888888889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0058486497062914455,
+        "recovered": 0.0006498499673657162,
+        "infected": 0.005198799738925729
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05848649706291446,
+        "recovered": 0.006498499673657162,
+        "infected": 0.051987997389257294
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5848649706291446,
+        "recovered": 0.06498499673657161,
+        "infected": 0.5198799738925729
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "02c72e633bb35f6504c4a4c97e8a21e1",
+    "day_index_1": 61,
+    "day_index_10": 11,
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 28,
+      "date": "2020-03-28",
+      "timestamp": 1585353600,
+      "index": 67
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 99,
+        "recovered": 13,
+        "infected": 86
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "recovered": 18.181818181818183,
+        "infected": -2.272727272727273
+      },
+      "peak_pct": {
+        "recovered": 32.25806451612903,
+        "infected": -20
+      },
+      "relative": {
+        "recovered": 13.131313131313133,
+        "infected": 86.86868686868688
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0058486497062914455,
+        "recovered": 0.0007680045068867555,
+        "infected": 0.00508064519940469
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05848649706291446,
+        "recovered": 0.007680045068867556,
+        "infected": 0.050806451994046896
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5848649706291446,
+        "recovered": 0.07680045068867555,
+        "infected": 0.508064519940469
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "b326b476e178d9270542c71b4a19bcd8",
+    "day_index_1": 62,
+    "day_index_10": 12,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 29,
+      "date": "2020-03-29",
+      "timestamp": 1585440000,
+      "index": 68
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 103,
+        "recovered": 21,
+        "infected": 82
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 8,
+        "infected": -4
+      },
+      "delta_pct": {
+        "confirmed": 4.040404040404041,
+        "recovered": 61.53846153846154,
+        "infected": -4.651162790697675
+      },
+      "peak_pct": {
+        "confirmed": 37.735849056603776,
+        "recovered": 129.03225806451613,
+        "infected": -40
+      },
+      "relative": {
+        "recovered": 20.388349514563107,
+        "infected": 79.6116504854369
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0060849587853335245,
+        "recovered": 0.0012406226649709128,
+        "infected": 0.004844336120362612
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.060849587853335246,
+        "recovered": 0.012406226649709128,
+        "infected": 0.04844336120362612
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6084958785333524,
+        "recovered": 0.12406226649709128,
+        "infected": 0.4844336120362612
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "c0b76839616db4681bdc2445bcb90de7",
+    "day_index_1": 63,
+    "day_index_10": 13,
+    "day_index_100": 1,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "date": "2020-03-30",
+      "timestamp": 1585530000,
+      "index": 69
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 107,
+        "recovered": 21,
+        "infected": 86
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 3.883495145631068,
+        "infected": 4.878048780487805
+      },
+      "peak_pct": {
+        "confirmed": 37.735849056603776,
+        "infected": 40
+      },
+      "relative": {
+        "recovered": 19.626168224299064,
+        "infected": 80.37383177570094
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0063212678643756025,
+        "recovered": 0.0012406226649709128,
+        "infected": 0.00508064519940469
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06321267864375603,
+        "recovered": 0.012406226649709128,
+        "infected": 0.050806451994046896
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6321267864375603,
+        "recovered": 0.12406226649709128,
+        "infected": 0.508064519940469
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "5508aee1fdb5b57c4d2093259cc99243",
+    "day_index_1": 64,
+    "day_index_10": 14,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "date": "2020-03-31",
+      "timestamp": 1585616400,
+      "index": 70
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 109,
+        "recovered": 23,
+        "infected": 86
+      },
+      "delta": {
+        "confirmed": 2,
+        "recovered": 2
+      },
+      "delta_pct": {
+        "confirmed": 1.8691588785046729,
+        "recovered": 9.523809523809524
+      },
+      "peak_pct": {
+        "confirmed": 18.867924528301888,
+        "recovered": 32.25806451612903
+      },
+      "relative": {
+        "recovered": 21.100917431192663,
+        "infected": 78.89908256880734
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006439422403896642,
+        "recovered": 0.001358777204491952,
+        "infected": 0.00508064519940469
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06439422403896641,
+        "recovered": 0.013587772044919521,
+        "infected": 0.050806451994046896
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6439422403896642,
+        "recovered": 0.13587772044919522,
+        "infected": 0.508064519940469
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "41762929c1092a8f0889474edb47db1b",
+    "day_index_1": 65,
+    "day_index_10": 15,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 1,
+      "date": "2020-04-01",
+      "timestamp": 1585702800,
+      "index": 71
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 109,
+        "recovered": 25,
+        "infected": 84
+      },
+      "delta": {
+        "recovered": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "recovered": 8.695652173913043,
+        "infected": -2.3255813953488373
+      },
+      "peak_pct": {
+        "recovered": 32.25806451612903,
+        "infected": -20
+      },
+      "relative": {
+        "recovered": 22.93577981651376,
+        "infected": 77.06422018348624
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006439422403896642,
+        "recovered": 0.0014769317440129913,
+        "infected": 0.004962490659883651
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06439422403896641,
+        "recovered": 0.014769317440129912,
+        "infected": 0.04962490659883651
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6439422403896642,
+        "recovered": 0.14769317440129914,
+        "infected": 0.4962490659883651
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "843fd1d7f506b45d1da0e0f34519d5ac",
+    "day_index_1": 66,
+    "day_index_10": 16,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "date": "2020-04-02",
+      "timestamp": 1585789200,
+      "index": 72
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 110,
+        "recovered": 34,
+        "infected": 76
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 9,
+        "infected": -8
+      },
+      "delta_pct": {
+        "confirmed": 0.9174311926605505,
+        "recovered": 36,
+        "infected": -9.523809523809524
+      },
+      "peak_pct": {
+        "confirmed": 9.433962264150944,
+        "recovered": 145.16129032258064,
+        "infected": -80
+      },
+      "relative": {
+        "recovered": 30.909090909090907,
+        "infected": 69.0909090909091
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006498499673657162,
+        "recovered": 0.002008627171857668,
+        "infected": 0.004489872501799493
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06498499673657161,
+        "recovered": 0.02008627171857668,
+        "infected": 0.04489872501799493
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6498499673657162,
+        "recovered": 0.20086271718576681,
+        "infected": 0.44898725017994934
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "570d8144deadafc036c6b7ae5b27045d",
+    "day_index_1": 67,
+    "day_index_10": 17,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "date": "2020-04-03",
+      "timestamp": 1585875600,
+      "index": 73
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 114,
+        "recovered": 35,
+        "infected": 79
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 1,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 3.6363636363636362,
+        "recovered": 2.9411764705882355,
+        "infected": 3.9473684210526314
+      },
+      "peak_pct": {
+        "confirmed": 37.735849056603776,
+        "recovered": 16.129032258064516,
+        "infected": 30
+      },
+      "relative": {
+        "recovered": 30.701754385964914,
+        "infected": 69.2982456140351
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006734808752699241,
+        "recovered": 0.002067704441618188,
+        "infected": 0.0046671043110810525
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06734808752699241,
+        "recovered": 0.02067704441618188,
+        "infected": 0.04667104311081052
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6734808752699241,
+        "recovered": 0.20677044416181878,
+        "infected": 0.46671043110810523
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "542b5b29321847aac110a7c7eca30d49",
+    "day_index_1": 68,
+    "day_index_10": 18,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 4,
+      "date": "2020-04-04",
+      "timestamp": 1585962000,
+      "index": 74
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 114,
+        "recovered": 50,
+        "infected": 64
+      },
+      "delta": {
+        "recovered": 15,
+        "infected": -15
+      },
+      "delta_pct": {
+        "recovered": 42.857142857142854,
+        "infected": -18.9873417721519
+      },
+      "peak_pct": {
+        "recovered": 241.93548387096774,
+        "infected": -150
+      },
+      "relative": {
+        "recovered": 43.859649122807014,
+        "infected": 56.14035087719298
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006734808752699241,
+        "recovered": 0.0029538634880259826,
+        "infected": 0.0037809452646732577
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06734808752699241,
+        "recovered": 0.029538634880259824,
+        "infected": 0.03780945264673258
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6734808752699241,
+        "recovered": 0.2953863488025983,
+        "infected": 0.3780945264673258
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "5f4974809a68b3a46291233f717cfa92",
+    "day_index_1": 69,
+    "day_index_10": 19,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "date": "2020-04-06",
+      "timestamp": 1586134800,
+      "index": 76
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 114,
+        "recovered": 53,
+        "infected": 61
+      },
+      "delta": {
+        "recovered": 3,
+        "infected": -3
+      },
+      "delta_pct": {
+        "recovered": 6,
+        "infected": -4.6875
+      },
+      "peak_pct": {
+        "recovered": 48.387096774193544,
+        "infected": -30
+      },
+      "relative": {
+        "recovered": 46.49122807017544,
+        "infected": 53.50877192982456
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.006734808752699241,
+        "recovered": 0.0031310952973075414,
+        "infected": 0.003603713455391699
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.06734808752699241,
+        "recovered": 0.031310952973075415,
+        "infected": 0.03603713455391699
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.6734808752699241,
+        "recovered": 0.3131095297307541,
+        "infected": 0.3603713455391699
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "22e1ce04b261b89f0f7337a507aec673",
+    "day_index_1": 71,
+    "day_index_10": 21,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "date": "2020-04-07",
+      "timestamp": 1586221200,
+      "index": 77
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 115,
+        "recovered": 58,
+        "infected": 57
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 5,
+        "infected": -4
+      },
+      "delta_pct": {
+        "confirmed": 0.8771929824561403,
+        "recovered": 9.433962264150944,
+        "infected": -6.557377049180328
+      },
+      "peak_pct": {
+        "confirmed": 9.433962264150944,
+        "recovered": 80.64516129032258,
+        "infected": -40
+      },
+      "relative": {
+        "recovered": 50.43478260869565,
+        "infected": 49.56521739130435
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.00679388602245976,
+        "recovered": 0.0034264816461101397,
+        "infected": 0.0033674043763496204
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0679388602245976,
+        "recovered": 0.0342648164611014,
+        "infected": 0.033674043763496204
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.679388602245976,
+        "recovered": 0.342648164611014,
+        "infected": 0.33674043763496203
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "881ac001684ccca371eda8701151e541",
+    "day_index_1": 72,
+    "day_index_10": 22,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 13
+  }
+]

@@ -203,6 +203,7 @@ c8f891ab33f88cf497cf84b6ed226e93	686a0e45485b8015fae11cb2eac8c68b	country	Eritre
 7896297ab3f613d9fd8ee9b266bded56	40aec6531a2cbff5a924a6ea0cb1f2a7	country	Estonia	EE		Estonia	Estonia							Europe	Northern Europe					ecdc/worldwide, jhu/daily, jhu/series
 28fa65d707b5baf34fb58482b1adcbba	4f73872c85b959e444606f77b8627021	country	Eswatini	SZ		Eswatini	Eswatini							Africa	Southern Africa					ecdc/worldwide, jhu/daily, jhu/series
 052dfe14261e2f40fbdcdbe05467328f	c8291b2007b1c0b1a7b4307ef5b6bd00	country	Ethiopia	ET		Ethiopia	Ethiopia							Africa	Eastern Africa					ecdc/worldwide, jhu/daily, jhu/series
+ff0dba53a7d455a2b9c3f09a61c69bc0	0ce96207a24ba784d8248b65e2132fe9	country	Falkland Islands	FK	true	Falkland Islands	United Kingdom	true		Falkland Islands (Malvinas)				Americas	South America					jhu/daily, jhu/series
 ff0dba53a7d455a2b9c3f09a61c69bc0	3b9b67aec87aa3f283a7ba58b1cf8fb8	country	Falkland Islands	FK	true	Falkland Islands	Falkland_Islands_(Malvinas)							Americas	South America					ecdc/worldwide
 6f2b79b9aa7fa12b91ca0291c98d889c	5f7e86996d6346d240664b8de7e6b126	country	Faroe Islands	FO	true	Faroe Islands	Denmark	true		Faroe Islands				Europe	Northern Europe					jhu/daily, jhu/series
 6f2b79b9aa7fa12b91ca0291c98d889c	7a23d19dfc3e57dd77720b5b3cab0d91	country	Faroe Islands	FO	true	Faroe Islands	Faroe_Islands							Europe	Northern Europe					ecdc/worldwide
@@ -428,16 +429,17 @@ f5fdaffa44f92e44cd4770dfe2ff75df	dac92bbac9cb9036c6886ea91d80d6d1	country	Turks 
 0ea72e86920a7b09107a3bdb371d2fe6	48400fe25abe4a25b7e5df3d4086785f	country	Ukraine	UA		Ukraine	Ukraine							Europe	Eastern Europe					ecdc/worldwide, jhu/daily, jhu/series
 5bd9448b11757156805a6398093e64f2	bfbf5e1e6c75ff0eabe34ab6fd5109ed	country	United Arab Emirates	AE		United Arab Emirates	United Arab Emirates							Asia	Western Asia					jhu/daily, jhu/series
 5bd9448b11757156805a6398093e64f2	e88f99b0c0c4164d0ea78de321702fa2	country	United Arab Emirates	AE	true	United Arab Emirates	United_Arab_Emirates							Asia	Western Asia					ecdc/worldwide
+42d2003b3d94c131d690b9f9e61692de	4117e65c282e96adb4c4962f0bf05a37	country	United Kingdom	GB		United Kingdom	United Kingdom	true		Channel Islands				Europe	Northern Europe					jhu/series
 42d2003b3d94c131d690b9f9e61692de	4eccccfd207d58713e3132cf5d7204d2	country	United Kingdom	GB	true	United Kingdom	United_Kingdom							Europe	Northern Europe					ecdc/worldwide
+42d2003b3d94c131d690b9f9e61692de	52ab989341da5897b1af1821783a8763	country	United Kingdom	GB		United Kingdom	United Kingdom							Europe	Northern Europe					jhu/series
 8b548c6cf53b9ada430de6b2c4be21f4	0146da535810bd9e5509931e9743e392	province	United Kingdom / (mainland)	GB	true	United Kingdom	North Ireland	true	(mainland)					Europe	Northern Europe					jhu/daily
 8b548c6cf53b9ada430de6b2c4be21f4	2cc8f4dbc2b543d1f7fc38dfa5754f55	province	United Kingdom / (mainland)	GB	true	United Kingdom	Channel Islands	true	(mainland)					Europe	Northern Europe					jhu/daily
-8b548c6cf53b9ada430de6b2c4be21f4	4117e65c282e96adb4c4962f0bf05a37	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)	Channel Islands				Europe	Northern Europe					jhu/daily, jhu/series
+8b548c6cf53b9ada430de6b2c4be21f4	4117e65c282e96adb4c4962f0bf05a37	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)	Channel Islands				Europe	Northern Europe					jhu/daily
 8b548c6cf53b9ada430de6b2c4be21f4	50819b265a3b9596f10db88cfe926525	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)	UK				Europe	Northern Europe					jhu/daily
-8b548c6cf53b9ada430de6b2c4be21f4	52ab989341da5897b1af1821783a8763	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)					Europe	Northern Europe					jhu/daily, jhu/series
+8b548c6cf53b9ada430de6b2c4be21f4	52ab989341da5897b1af1821783a8763	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)					Europe	Northern Europe					jhu/daily
 8b548c6cf53b9ada430de6b2c4be21f4	586b55628d8489a6466eadea674d9533	province	United Kingdom / (mainland)	GB		United Kingdom	United Kingdom	true	(mainland)	United Kingdom				Europe	Northern Europe					jhu/daily
 8b548c6cf53b9ada430de6b2c4be21f4	8eba37fbd7f4bae8c62fa9dc4f5698f9	province	United Kingdom / (mainland)	GB	true	United Kingdom	UK	true	(mainland)					Europe	Northern Europe					jhu/daily
 b7e0bbba319f2cac67f6192fff5ebb03	3476348ed1d8b03bfa7748b120ccc2dd	province	United Kingdom / Falkland Islands (Islas Malvinas)	GB		United Kingdom	United Kingdom		Falkland Islands (Islas Malvinas)	Falkland Islands (Islas Malvinas)				Europe	Northern Europe					jhu/daily
-ae02beaf6f70ccc131d852f65cd8cd22	0ce96207a24ba784d8248b65e2132fe9	province	United Kingdom / Falkland Islands (Malvinas)	GB		United Kingdom	United Kingdom		Falkland Islands (Malvinas)	Falkland Islands (Malvinas)				Europe	Northern Europe					jhu/daily, jhu/series
 51c151610f90450ff1a4bffccaf6825a	085312673a7066c70d3b607fb1813dc6	administrative	United States / Alabama / Autauga	US		United States	United States		Alabama	Alabama		Autauga	Autauga	Americas	North America	AL	Alabama	01001	Autauga	nytimes/us-counties
 51c151610f90450ff1a4bffccaf6825a	2bb7dce68b78b84bec624b93e5371b07	administrative	United States / Alabama / Autauga	US	true	United States	US		Alabama	Alabama		Autauga	Autauga	Americas	North America	AL	Alabama	01001	Autauga	jhu/daily
 51c151610f90450ff1a4bffccaf6825a	3b9e12968d450cb9505ae25c14a06d41	administrative	United States / Alabama / Autauga	US	true	United States	US		Alabama	Alabama		Autauga	Autauga	Americas	North America	AL	Alabama	01001	Autauga	jhu/daily

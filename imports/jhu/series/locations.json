@@ -3263,6 +3263,33 @@
     ],
     "key": "052dfe14261e2f40fbdcdbe05467328f"
   },
+  "0ce96207a24ba784d8248b65e2132fe9": {
+    "dataset": "jhu/series",
+    "country": "Falkland Islands",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "0ce96207a24ba784d8248b65e2132fe9",
+    "country_original": "United Kingdom",
+    "province_original": "Falkland Islands (Malvinas)",
+    "administrative_original": null,
+    "country_code": "FK",
+    "country_latlong": [
+      -51.75,
+      -59
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "label": "Falkland Islands",
+    "type": "country",
+    "latlong": [
+      -51.75,
+      -59
+    ],
+    "key": "ff0dba53a7d455a2b9c3f09a61c69bc0"
+  },
   "5f7e86996d6346d240664b8de7e6b126": {
     "dataset": "jhu/series",
     "country": "Faroe Islands",
@@ -6938,7 +6965,7 @@
   "4117e65c282e96adb4c4962f0bf05a37": {
     "dataset": "jhu/series",
     "country": "United Kingdom",
-    "province": "(mainland)",
+    "province": null,
     "administrative": null,
     "province_latlong": null,
     "administrative_latlong": null,
@@ -6954,23 +6981,20 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "type": "province",
+    "label": "United Kingdom",
+    "type": "country",
     "latlong": [
       54,
       -2
     ],
-    "label": "United Kingdom / (mainland)",
-    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
+    "key": "42d2003b3d94c131d690b9f9e61692de"
   },
   "52ab989341da5897b1af1821783a8763": {
     "dataset": "jhu/series",
     "country": "United Kingdom",
-    "province": "(mainland)",
+    "province": null,
     "administrative": null,
-    "province_latlong": [
-      55.3781,
-      -3.4360000000000004
-    ],
+    "province_latlong": null,
     "administrative_latlong": null,
     "administrative_fips": null,
     "key_original": "52ab989341da5897b1af1821783a8763",
@@ -6984,43 +7008,13 @@
     ],
     "region": "Europe",
     "subregion": "Northern Europe",
-    "type": "province",
+    "label": "United Kingdom",
+    "type": "country",
     "latlong": [
-      55.3781,
-      -3.4360000000000004
-    ],
-    "label": "United Kingdom / (mainland)",
-    "key": "8b548c6cf53b9ada430de6b2c4be21f4"
-  },
-  "0ce96207a24ba784d8248b65e2132fe9": {
-    "dataset": "jhu/series",
-    "country": "United Kingdom",
-    "province": "Falkland Islands (Malvinas)",
-    "administrative": null,
-    "province_latlong": [
-      -51.7963,
-      -59.5236
-    ],
-    "administrative_latlong": null,
-    "administrative_fips": null,
-    "key_original": "0ce96207a24ba784d8248b65e2132fe9",
-    "country_original": "United Kingdom",
-    "province_original": "Falkland Islands (Malvinas)",
-    "administrative_original": null,
-    "country_code": "GB",
-    "country_latlong": [
       54,
       -2
     ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "type": "province",
-    "latlong": [
-      -51.7963,
-      -59.5236
-    ],
-    "label": "United Kingdom / Falkland Islands (Malvinas)",
-    "key": "ae02beaf6f70ccc131d852f65cd8cd22"
+    "key": "42d2003b3d94c131d690b9f9e61692de"
   },
   "3b9cfc7c19d1c5a85c26b90a54b95d28": {
     "dataset": "jhu/series",

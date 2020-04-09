@@ -38,8 +38,8 @@
         "infected": 1
       },
       "peak_pct": {
-        "confirmed": 75,
-        "infected": 75
+        "confirmed": 80,
+        "infected": 80
       },
       "relative": {
         "infected": 100
@@ -65,9 +65,9 @@
     },
     "data_key": "b654f6abca4f64cf27ee7b2195589baf",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -1,
+    "day_index_peak_confirmed": -3,
     "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak": -3
   },
   {
     "dataset": "jhu/daily",
@@ -112,8 +112,8 @@
         "infected": 100
       },
       "peak_pct": {
-        "confirmed": 75,
-        "infected": 75
+        "confirmed": 80,
+        "infected": 80
       },
       "relative": {
         "infected": 100
@@ -139,9 +139,9 @@
     },
     "data_key": "ec7d72d9022cb01b2c2186ebe44ce0ab",
     "day_index_1": 2,
-    "day_index_peak_confirmed": 0,
+    "day_index_peak_confirmed": -2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 0
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/daily",
@@ -186,8 +186,8 @@
         "infected": 100
       },
       "peak_pct": {
-        "confirmed": 150,
-        "infected": 150
+        "confirmed": 160,
+        "infected": 160
       },
       "relative": {
         "infected": 100
@@ -213,9 +213,9 @@
     },
     "data_key": "03bd851bcd645eaff5b8015e0e063de8",
     "day_index_1": 5,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 1
   },
   {
     "dataset": "jhu/daily",
@@ -260,8 +260,8 @@
         "infected": 50
       },
       "peak_pct": {
-        "confirmed": 150,
-        "infected": 150
+        "confirmed": 160,
+        "infected": 160
       },
       "relative": {
         "infected": 100
@@ -287,8 +287,82 @@
     },
     "data_key": "e7d4cced2ec281cbe67aa80efce32dac",
     "day_index_1": 6,
-    "day_index_peak_confirmed": 4,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 4
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "c6a228e3ac8703fd37a56bf6134751f0",
+      "type": "total-country",
+      "label": "Sierra Leone",
+      "country": "Sierra Leone",
+      "country_code": "SL",
+      "country_latlong": [
+        8.5,
+        -11.5
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        8.5,
+        -11.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 16.666666666666668,
+        "infected": 16.666666666666668
+      },
+      "peak_pct": {
+        "confirmed": 80,
+        "infected": 80
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0010566144593462303,
+        "infected": 0.0010566144593462303
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.010566144593462303,
+        "infected": 0.010566144593462303
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.10566144593462304,
+        "infected": 0.10566144593462304
+      }
+    },
+    "factbook": {
+      "population": 6624933,
+      "median_age": 19.1,
+      "death_rate": 9.8,
+      "area": 71740
+    },
+    "data_key": "65e2747d7561c74d067b926c00cc435f",
+    "day_index_1": 9,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
   }
 ]

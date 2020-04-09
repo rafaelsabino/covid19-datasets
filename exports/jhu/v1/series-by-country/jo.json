@@ -2097,5 +2097,94 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 7,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 358,
+        "deaths": 6,
+        "recovered": 150,
+        "infected": 202
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 12,
+        "infected": -7
+      },
+      "delta_pct": {
+        "confirmed": 1.4164305949008498,
+        "recovered": 8.695652173913043,
+        "infected": -3.349282296650718
+      },
+      "peak_pct": {
+        "confirmed": 20.833333333333336,
+        "recovered": 81.08108108108108,
+        "infected": -32.71028037383178
+      },
+      "relative": {
+        "deaths": 1.675977653631285,
+        "recovered": 41.899441340782126,
+        "infected": 56.424581005586596
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.033084906961175324,
+        "recovered": 0.013862391184849996,
+        "deaths": 0.0005544956473939999,
+        "infected": 0.018668020128931328
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.33084906961175325,
+        "recovered": 0.13862391184849995,
+        "deaths": 0.0055449564739399985,
+        "infected": 0.18668020128931329
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.3084906961175324,
+        "recovered": 1.3862391184849996,
+        "deaths": 0.055449564739399985,
+        "infected": 1.8668020128931329
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "ab0b2d99000b13153ff070db977ecfbe",
+    "day_index_1": 37,
+    "day_index_10": 24,
+    "day_index_100": 18,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 9
   }
 ]

@@ -7215,6 +7215,100 @@
   {
     "dataset": "jhu/daily",
     "location": {
+      "key": "7f65b40cf52df9cc5e1143cd5878213c",
+      "type": "total-country",
+      "label": "China",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        35,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 81804,
+        "deaths": 3333,
+        "recovered": 77293,
+        "infected": 1178
+      },
+      "delta": {
+        "confirmed": 65,
+        "recovered": 109,
+        "deaths": 2,
+        "infected": -46
+      },
+      "delta_pct": {
+        "confirmed": 0.07952140349160132,
+        "recovered": 0.1412209784411277,
+        "infected": -3.758169934640523,
+        "deaths": 0.06004202942059442
+      },
+      "peak_pct": {
+        "confirmed": 1.4486939466880626,
+        "recovered": 3.693162566917395,
+        "deaths": 1.2690355329949239,
+        "infected": -1.2113551377258125
+      },
+      "relative": {
+        "deaths": 4.074372891301159,
+        "recovered": 94.48559972617477,
+        "infected": 1.440027382524082
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.05868225425654501,
+        "recovered": 0.05544627986713527,
+        "deaths": 0.0023909338594330903,
+        "infected": 0.0008450405299766518
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.5868225425654501,
+        "recovered": 0.5544627986713526,
+        "deaths": 0.023909338594330903,
+        "infected": 0.008450405299766518
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.868225425654501,
+        "recovered": 5.544627986713527,
+        "deaths": 0.23909338594330903,
+        "infected": 0.08450405299766518
+      }
+    },
+    "factbook": {
+      "population": 1394015977,
+      "median_age": 38.4,
+      "death_rate": 8.2,
+      "area": 9596960
+    },
+    "data_key": "03beefa8a8fe843f92b1c7118aedf9d7",
+    "day_index_1": 78,
+    "day_index_10": 78,
+    "day_index_100": 78,
+    "day_index_1k": 75,
+    "day_index_10k": 68,
+    "day_index_peak_confirmed": 62,
+    "day_index_peak_deaths": 50,
+    "day_index_peak": 56
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
       "key": "c428c34c73719c1250e9b047f34750a4",
       "type": "total-province",
       "label": "China / Anhui",
@@ -14897,6 +14991,71 @@
   {
     "dataset": "jhu/daily",
     "location": {
+      "key": "4e4c7eb9591a598a10da2596977955e0",
+      "type": "total-province",
+      "label": "China / Beijing",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Beijing",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        40.1824,
+        116.4142
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 588,
+        "deaths": 8,
+        "recovered": 455,
+        "infected": 125
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 7,
+        "infected": -6
+      },
+      "delta_pct": {
+        "confirmed": 0.17035775127768313,
+        "recovered": 1.5625,
+        "infected": -4.580152671755725
+      },
+      "peak_pct": {
+        "confirmed": 4.0650406504065035,
+        "recovered": 41.17647058823529,
+        "infected": -25.423728813559322
+      },
+      "relative": {
+        "deaths": 1.3605442176870748,
+        "recovered": 77.38095238095238,
+        "infected": 21.258503401360542
+      }
+    },
+    "data_key": "fcfc1a45ede48f6412ecf9b3b9be3f1a",
+    "day_index_1": 78,
+    "day_index_10": 78,
+    "day_index_100": 71,
+    "day_index_peak_confirmed": 57,
+    "day_index_peak_deaths": 50,
+    "day_index_peak": 53
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
       "key": "7bb58da1562fe93a0d3e5ce8930eb9bc",
       "type": "total-province",
       "label": "China / Chongqing",
@@ -22459,6 +22618,68 @@
   {
     "dataset": "jhu/daily",
     "location": {
+      "key": "f1a9dd0a0102d9b51d8a7ffaf242d290",
+      "type": "total-province",
+      "label": "China / Fujian",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Fujian",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        26.0789,
+        117.9874
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 351,
+        "deaths": 1,
+        "recovered": 308,
+        "infected": 42
+      },
+      "delta": {
+        "recovered": 3,
+        "infected": -3
+      },
+      "delta_pct": {
+        "recovered": 0.9836065573770492,
+        "infected": -6.666666666666667
+      },
+      "peak_pct": {
+        "recovered": 18.51851851851852,
+        "infected": -15
+      },
+      "relative": {
+        "deaths": 0.2849002849002849,
+        "recovered": 87.74928774928775,
+        "infected": 11.965811965811966
+      }
+    },
+    "data_key": "0f129f7c9aa139645f7ad8bc011e6312",
+    "day_index_1": 78,
+    "day_index_10": 76,
+    "day_index_100": 70,
+    "day_index_peak_confirmed": 69,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 69
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
       "key": "1788d93b4c3277bf8a7e7f5ebe2ad92b",
       "type": "total-province",
       "label": "China / Gansu",
@@ -25882,6 +26103,68 @@
     "day_index_peak_confirmed": 58,
     "day_index_peak_deaths": 58,
     "day_index_peak": 58
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "1788d93b4c3277bf8a7e7f5ebe2ad92b",
+      "type": "total-province",
+      "label": "China / Gansu",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Gansu",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        37.8099,
+        101.0583
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 139,
+        "deaths": 2,
+        "recovered": 133,
+        "infected": 4
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 0.7575757575757576,
+        "infected": -20
+      },
+      "peak_pct": {
+        "recovered": 12.820512820512823,
+        "infected": -11.11111111111111
+      },
+      "relative": {
+        "deaths": 1.4388489208633095,
+        "recovered": 95.68345323741008,
+        "infected": 2.877697841726619
+      }
+    },
+    "data_key": "96630c81ef0afe124d07263ee738d9f8",
+    "day_index_1": 77,
+    "day_index_10": 73,
+    "day_index_100": 35,
+    "day_index_peak_confirmed": 60,
+    "day_index_peak_deaths": 60,
+    "day_index_peak": 60
   },
   {
     "dataset": "jhu/daily",
@@ -30865,6 +31148,72 @@
     "day_index_peak_confirmed": 65,
     "day_index_peak_deaths": 44,
     "day_index_peak": 54
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "874f72c26e26e00285f81be2e57608de",
+      "type": "total-province",
+      "label": "China / Guangdong",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Guangdong",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.3417,
+        113.4244
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1536,
+        "deaths": 8,
+        "recovered": 1411,
+        "infected": 117
+      },
+      "delta": {
+        "confirmed": 3,
+        "recovered": 10,
+        "infected": -7
+      },
+      "delta_pct": {
+        "confirmed": 0.19569471624266144,
+        "recovered": 0.7137758743754461,
+        "infected": -5.645161290322581
+      },
+      "peak_pct": {
+        "confirmed": 3.3936651583710407,
+        "recovered": 19.37984496124031,
+        "infected": -8.433734939759036
+      },
+      "relative": {
+        "deaths": 0.5208333333333333,
+        "recovered": 91.86197916666666,
+        "infected": 7.6171875
+      }
+    },
+    "data_key": "a1a74bc1cffc25af63871d8041aaf60a",
+    "day_index_1": 78,
+    "day_index_10": 78,
+    "day_index_100": 74,
+    "day_index_1k": 62,
+    "day_index_peak_confirmed": 66,
+    "day_index_peak_deaths": 45,
+    "day_index_peak": 55
   },
   {
     "dataset": "jhu/daily",
@@ -47869,6 +48218,71 @@
   {
     "dataset": "jhu/daily",
     "location": {
+      "key": "79f3b3a5c9a0c63e6eb4fdb0a473a121",
+      "type": "total-province",
+      "label": "China / Heilongjiang",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Heilongjiang",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        47.862,
+        127.7615
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 569,
+        "deaths": 13,
+        "recovered": 470,
+        "infected": 86
+      },
+      "delta": {
+        "confirmed": 25,
+        "recovered": 1,
+        "infected": 24
+      },
+      "delta_pct": {
+        "confirmed": 4.595588235294118,
+        "recovered": 0.21321961620469082,
+        "infected": 38.70967741935484
+      },
+      "peak_pct": {
+        "confirmed": 77.63975155279502,
+        "recovered": 3.6764705882352944,
+        "infected": 77.41935483870968
+      },
+      "relative": {
+        "deaths": 2.2847100175746924,
+        "recovered": 82.60105448154658,
+        "infected": 15.114235500878733
+      }
+    },
+    "data_key": "cc1c10a7444ae11f949ed6023754e58a",
+    "day_index_1": 77,
+    "day_index_10": 74,
+    "day_index_100": 66,
+    "day_index_peak_confirmed": 63,
+    "day_index_peak_deaths": 53,
+    "day_index_peak": 58
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
       "key": "8db158653f48ef3c5e139da3ff402f9f",
       "type": "total-province",
       "label": "China / Henan",
@@ -56450,6 +56864,73 @@
   {
     "dataset": "jhu/daily",
     "location": {
+      "key": "e147f21dee8c1b4abc75b5c250d99c09",
+      "type": "total-province",
+      "label": "China / Hubei",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Hubei",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        30.9756,
+        112.2707
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 67803,
+        "deaths": 3213,
+        "recovered": 64142,
+        "infected": 448
+      },
+      "delta": {
+        "recovered": 69,
+        "deaths": 1,
+        "infected": -70
+      },
+      "delta_pct": {
+        "recovered": 0.1076896664741779,
+        "infected": -13.513513513513514,
+        "deaths": 0.031133250311332503
+      },
+      "peak_pct": {
+        "recovered": 2.661010412649441,
+        "deaths": 0.6501950585175552,
+        "infected": -2.088679357880289
+      },
+      "relative": {
+        "deaths": 4.7387283748506706,
+        "recovered": 94.60053389967995,
+        "infected": 0.6607377254693746
+      }
+    },
+    "data_key": "7bd8fa071b47e971f34fb1720359b600",
+    "day_index_1": 78,
+    "day_index_10": 78,
+    "day_index_100": 78,
+    "day_index_1k": 74,
+    "day_index_10k": 67,
+    "day_index_peak_confirmed": 62,
+    "day_index_peak_deaths": 50,
+    "day_index_peak": 56
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
       "key": "faf2b82dae98297c5738943f082c3080",
       "type": "total-province",
       "label": "China / Hunan",
@@ -63192,6 +63673,68 @@
     "day_index_peak_confirmed": 43,
     "day_index_peak_deaths": null,
     "day_index_peak": 43
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "c5be1a119614bc1a2cde56554f3490de",
+      "type": "total-province",
+      "label": "China / Inner Mongolia",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Inner Mongolia",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        44.0935,
+        113.9448
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 124,
+        "deaths": 1,
+        "recovered": 74,
+        "infected": 49
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 2.479338842975207,
+        "infected": 6.521739130434782
+      },
+      "peak_pct": {
+        "confirmed": 41.666666666666664,
+        "infected": 44.11764705882353
+      },
+      "relative": {
+        "deaths": 0.8064516129032258,
+        "recovered": 59.67741935483871,
+        "infected": 39.516129032258064
+      }
+    },
+    "data_key": "17d6d0c9c1c1a048d707b2646e600d47",
+    "day_index_1": 76,
+    "day_index_10": 73,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 44,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 44
   },
   {
     "dataset": "jhu/daily",
@@ -73112,6 +73655,67 @@
   {
     "dataset": "jhu/daily",
     "location": {
+      "key": "4248d692489628bff1d457b6bc47000b",
+      "type": "total-province",
+      "label": "China / Jilin",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Jilin",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        43.6661,
+        126.1923
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 98,
+        "deaths": 1,
+        "recovered": 93,
+        "infected": 4
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 1.0869565217391304,
+        "infected": -20
+      },
+      "peak_pct": {
+        "recovered": 16.666666666666664,
+        "infected": -14.705882352941178
+      },
+      "relative": {
+        "deaths": 1.0204081632653061,
+        "recovered": 94.89795918367348,
+        "infected": 4.081632653061225
+      }
+    },
+    "data_key": "fe1ef18a115ec530dadd381753e1243c",
+    "day_index_1": 77,
+    "day_index_10": 70,
+    "day_index_peak_confirmed": 63,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 63
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
       "key": "509a59d2760416f7e75158254ab906e0",
       "type": "total-province",
       "label": "China / Liaoning",
@@ -76971,6 +77575,68 @@
     "day_index_peak_confirmed": 67,
     "day_index_peak_deaths": 55,
     "day_index_peak": 61
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "509a59d2760416f7e75158254ab906e0",
+      "type": "total-province",
+      "label": "China / Liaoning",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Liaoning",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        41.2956,
+        122.6085
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 144,
+        "deaths": 2,
+        "recovered": 131,
+        "infected": 11
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 0.7692307692307693,
+        "infected": -8.333333333333334
+      },
+      "peak_pct": {
+        "recovered": 13.513513513513512,
+        "infected": -12.820512820512823
+      },
+      "relative": {
+        "deaths": 1.3888888888888888,
+        "recovered": 90.97222222222221,
+        "infected": 7.638888888888889
+      }
+    },
+    "data_key": "f8d32a87e720dd35c2dcc996c11b3442",
+    "day_index_1": 78,
+    "day_index_10": 75,
+    "day_index_100": 61,
+    "day_index_peak_confirmed": 68,
+    "day_index_peak_deaths": 56,
+    "day_index_peak": 62
   },
   {
     "dataset": "jhu/daily",
@@ -88257,6 +88923,68 @@
   {
     "dataset": "jhu/daily",
     "location": {
+      "key": "66c7ebd421f6f99d7e11acf623551b7f",
+      "type": "total-province",
+      "label": "China / Shandong",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Shandong",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        36.3427,
+        118.1498
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 783,
+        "deaths": 7,
+        "recovered": 755,
+        "infected": 21
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 0.2560819462227913,
+        "infected": 10.526315789473685
+      },
+      "peak_pct": {
+        "confirmed": 5.681818181818182,
+        "infected": 6.756756756756756
+      },
+      "relative": {
+        "deaths": 0.8939974457215836,
+        "recovered": 96.42401021711366,
+        "infected": 2.681992337164751
+      }
+    },
+    "data_key": "3b5a182e3741844729c799acf45d801d",
+    "day_index_1": 78,
+    "day_index_10": 76,
+    "day_index_100": 71,
+    "day_index_peak_confirmed": 64,
+    "day_index_peak_deaths": 49,
+    "day_index_peak": 56
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
       "key": "9088980428dbfe7842886058cfeb3abc",
       "type": "total-province",
       "label": "China / Shanghai",
@@ -88303,8 +89031,8 @@
     "data_key": "3986dd90fa2799fe237f06bc03e3f7ff",
     "day_index_1": 1,
     "day_index_peak_confirmed": -11,
-    "day_index_peak_deaths": -37,
-    "day_index_peak": -24
+    "day_index_peak_deaths": -50,
+    "day_index_peak": -30
   },
   {
     "dataset": "jhu/daily",
@@ -88360,8 +89088,8 @@
     "day_index_1": 2,
     "day_index_10": 1,
     "day_index_peak_confirmed": -10,
-    "day_index_peak_deaths": -36,
-    "day_index_peak": -23
+    "day_index_peak_deaths": -49,
+    "day_index_peak": -29
   },
   {
     "dataset": "jhu/daily",
@@ -88421,8 +89149,8 @@
     "day_index_1": 3,
     "day_index_10": 2,
     "day_index_peak_confirmed": -9,
-    "day_index_peak_deaths": -35,
-    "day_index_peak": -22
+    "day_index_peak_deaths": -48,
+    "day_index_peak": -28
   },
   {
     "dataset": "jhu/daily",
@@ -88480,8 +89208,8 @@
     "day_index_1": 4,
     "day_index_10": 3,
     "day_index_peak_confirmed": -8,
-    "day_index_peak_deaths": -34,
-    "day_index_peak": -21
+    "day_index_peak_deaths": -47,
+    "day_index_peak": -27
   },
   {
     "dataset": "jhu/daily",
@@ -88543,8 +89271,8 @@
     "day_index_1": 5,
     "day_index_10": 4,
     "day_index_peak_confirmed": -7,
-    "day_index_peak_deaths": -33,
-    "day_index_peak": -20
+    "day_index_peak_deaths": -46,
+    "day_index_peak": -26
   },
   {
     "dataset": "jhu/daily",
@@ -88607,8 +89335,8 @@
     "day_index_1": 6,
     "day_index_10": 5,
     "day_index_peak_confirmed": -6,
-    "day_index_peak_deaths": -32,
-    "day_index_peak": -19
+    "day_index_peak_deaths": -45,
+    "day_index_peak": -25
   },
   {
     "dataset": "jhu/daily",
@@ -88671,8 +89399,8 @@
     "day_index_1": 7,
     "day_index_10": 6,
     "day_index_peak_confirmed": -5,
-    "day_index_peak_deaths": -31,
-    "day_index_peak": -18
+    "day_index_peak_deaths": -44,
+    "day_index_peak": -24
   },
   {
     "dataset": "jhu/daily",
@@ -88735,8 +89463,8 @@
     "day_index_1": 8,
     "day_index_10": 7,
     "day_index_peak_confirmed": -4,
-    "day_index_peak_deaths": -30,
-    "day_index_peak": -17
+    "day_index_peak_deaths": -43,
+    "day_index_peak": -23
   },
   {
     "dataset": "jhu/daily",
@@ -88797,8 +89525,8 @@
     "day_index_10": 8,
     "day_index_100": 1,
     "day_index_peak_confirmed": -3,
-    "day_index_peak_deaths": -29,
-    "day_index_peak": -16
+    "day_index_peak_deaths": -42,
+    "day_index_peak": -22
   },
   {
     "dataset": "jhu/daily",
@@ -88862,8 +89590,8 @@
     "day_index_10": 9,
     "day_index_100": 2,
     "day_index_peak_confirmed": -2,
-    "day_index_peak_deaths": -28,
-    "day_index_peak": -15
+    "day_index_peak_deaths": -41,
+    "day_index_peak": -21
   },
   {
     "dataset": "jhu/daily",
@@ -88927,8 +89655,8 @@
     "day_index_10": 10,
     "day_index_100": 3,
     "day_index_peak_confirmed": -1,
-    "day_index_peak_deaths": -27,
-    "day_index_peak": -14
+    "day_index_peak_deaths": -40,
+    "day_index_peak": -20
   },
   {
     "dataset": "jhu/daily",
@@ -88989,8 +89717,8 @@
     "day_index_10": 11,
     "day_index_100": 4,
     "day_index_peak_confirmed": 0,
-    "day_index_peak_deaths": -26,
-    "day_index_peak": -13
+    "day_index_peak_deaths": -39,
+    "day_index_peak": -19
   },
   {
     "dataset": "jhu/daily",
@@ -89051,8 +89779,8 @@
     "day_index_10": 12,
     "day_index_100": 5,
     "day_index_peak_confirmed": 1,
-    "day_index_peak_deaths": -25,
-    "day_index_peak": -12
+    "day_index_peak_deaths": -38,
+    "day_index_peak": -18
   },
   {
     "dataset": "jhu/daily",
@@ -89116,8 +89844,8 @@
     "day_index_10": 13,
     "day_index_100": 6,
     "day_index_peak_confirmed": 2,
-    "day_index_peak_deaths": -24,
-    "day_index_peak": -11
+    "day_index_peak_deaths": -37,
+    "day_index_peak": -17
   },
   {
     "dataset": "jhu/daily",
@@ -89181,8 +89909,8 @@
     "day_index_10": 14,
     "day_index_100": 7,
     "day_index_peak_confirmed": 3,
-    "day_index_peak_deaths": -23,
-    "day_index_peak": -10
+    "day_index_peak_deaths": -36,
+    "day_index_peak": -16
   },
   {
     "dataset": "jhu/daily",
@@ -89246,8 +89974,8 @@
     "day_index_10": 15,
     "day_index_100": 8,
     "day_index_peak_confirmed": 4,
-    "day_index_peak_deaths": -22,
-    "day_index_peak": -9
+    "day_index_peak_deaths": -35,
+    "day_index_peak": -15
   },
   {
     "dataset": "jhu/daily",
@@ -89311,8 +90039,8 @@
     "day_index_10": 16,
     "day_index_100": 9,
     "day_index_peak_confirmed": 5,
-    "day_index_peak_deaths": -21,
-    "day_index_peak": -8
+    "day_index_peak_deaths": -34,
+    "day_index_peak": -14
   },
   {
     "dataset": "jhu/daily",
@@ -89376,8 +90104,8 @@
     "day_index_10": 17,
     "day_index_100": 10,
     "day_index_peak_confirmed": 6,
-    "day_index_peak_deaths": -20,
-    "day_index_peak": -7
+    "day_index_peak_deaths": -33,
+    "day_index_peak": -13
   },
   {
     "dataset": "jhu/daily",
@@ -89441,8 +90169,8 @@
     "day_index_10": 18,
     "day_index_100": 11,
     "day_index_peak_confirmed": 7,
-    "day_index_peak_deaths": -19,
-    "day_index_peak": -6
+    "day_index_peak_deaths": -32,
+    "day_index_peak": -12
   },
   {
     "dataset": "jhu/daily",
@@ -89506,8 +90234,8 @@
     "day_index_10": 19,
     "day_index_100": 12,
     "day_index_peak_confirmed": 8,
-    "day_index_peak_deaths": -18,
-    "day_index_peak": -5
+    "day_index_peak_deaths": -31,
+    "day_index_peak": -11
   },
   {
     "dataset": "jhu/daily",
@@ -89568,8 +90296,8 @@
     "day_index_10": 20,
     "day_index_100": 13,
     "day_index_peak_confirmed": 9,
-    "day_index_peak_deaths": -17,
-    "day_index_peak": -4
+    "day_index_peak_deaths": -30,
+    "day_index_peak": -10
   },
   {
     "dataset": "jhu/daily",
@@ -89633,8 +90361,8 @@
     "day_index_10": 21,
     "day_index_100": 14,
     "day_index_peak_confirmed": 10,
-    "day_index_peak_deaths": -16,
-    "day_index_peak": -3
+    "day_index_peak_deaths": -29,
+    "day_index_peak": -9
   },
   {
     "dataset": "jhu/daily",
@@ -89698,8 +90426,8 @@
     "day_index_10": 22,
     "day_index_100": 15,
     "day_index_peak_confirmed": 11,
-    "day_index_peak_deaths": -15,
-    "day_index_peak": -2
+    "day_index_peak_deaths": -28,
+    "day_index_peak": -8
   },
   {
     "dataset": "jhu/daily",
@@ -89763,8 +90491,8 @@
     "day_index_10": 23,
     "day_index_100": 16,
     "day_index_peak_confirmed": 12,
-    "day_index_peak_deaths": -14,
-    "day_index_peak": -1
+    "day_index_peak_deaths": -27,
+    "day_index_peak": -7
   },
   {
     "dataset": "jhu/daily",
@@ -89828,8 +90556,8 @@
     "day_index_10": 24,
     "day_index_100": 17,
     "day_index_peak_confirmed": 13,
-    "day_index_peak_deaths": -13,
-    "day_index_peak": 0
+    "day_index_peak_deaths": -26,
+    "day_index_peak": -6
   },
   {
     "dataset": "jhu/daily",
@@ -89893,8 +90621,8 @@
     "day_index_10": 25,
     "day_index_100": 18,
     "day_index_peak_confirmed": 14,
-    "day_index_peak_deaths": -12,
-    "day_index_peak": 1
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -5
   },
   {
     "dataset": "jhu/daily",
@@ -89958,8 +90686,8 @@
     "day_index_10": 26,
     "day_index_100": 19,
     "day_index_peak_confirmed": 15,
-    "day_index_peak_deaths": -11,
-    "day_index_peak": 2
+    "day_index_peak_deaths": -24,
+    "day_index_peak": -4
   },
   {
     "dataset": "jhu/daily",
@@ -90020,8 +90748,8 @@
     "day_index_10": 27,
     "day_index_100": 20,
     "day_index_peak_confirmed": 16,
-    "day_index_peak_deaths": -10,
-    "day_index_peak": 3
+    "day_index_peak_deaths": -23,
+    "day_index_peak": -3
   },
   {
     "dataset": "jhu/daily",
@@ -90085,8 +90813,8 @@
     "day_index_10": 28,
     "day_index_100": 21,
     "day_index_peak_confirmed": 17,
-    "day_index_peak_deaths": -9,
-    "day_index_peak": 4
+    "day_index_peak_deaths": -22,
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/daily",
@@ -90150,8 +90878,8 @@
     "day_index_10": 29,
     "day_index_100": 22,
     "day_index_peak_confirmed": 18,
-    "day_index_peak_deaths": -8,
-    "day_index_peak": 5
+    "day_index_peak_deaths": -21,
+    "day_index_peak": -1
   },
   {
     "dataset": "jhu/daily",
@@ -90212,8 +90940,8 @@
     "day_index_10": 30,
     "day_index_100": 23,
     "day_index_peak_confirmed": 19,
-    "day_index_peak_deaths": -7,
-    "day_index_peak": 6
+    "day_index_peak_deaths": -20,
+    "day_index_peak": -0
   },
   {
     "dataset": "jhu/daily",
@@ -90280,8 +91008,8 @@
     "day_index_10": 31,
     "day_index_100": 24,
     "day_index_peak_confirmed": 20,
-    "day_index_peak_deaths": -6,
-    "day_index_peak": 7
+    "day_index_peak_deaths": -19,
+    "day_index_peak": 0
   },
   {
     "dataset": "jhu/daily",
@@ -90342,8 +91070,8 @@
     "day_index_10": 32,
     "day_index_100": 25,
     "day_index_peak_confirmed": 21,
-    "day_index_peak_deaths": -5,
-    "day_index_peak": 8
+    "day_index_peak_deaths": -18,
+    "day_index_peak": 1
   },
   {
     "dataset": "jhu/daily",
@@ -90404,8 +91132,8 @@
     "day_index_10": 33,
     "day_index_100": 26,
     "day_index_peak_confirmed": 22,
-    "day_index_peak_deaths": -4,
-    "day_index_peak": 9
+    "day_index_peak_deaths": -17,
+    "day_index_peak": 2
   },
   {
     "dataset": "jhu/daily",
@@ -90469,8 +91197,8 @@
     "day_index_10": 34,
     "day_index_100": 27,
     "day_index_peak_confirmed": 23,
-    "day_index_peak_deaths": -3,
-    "day_index_peak": 10
+    "day_index_peak_deaths": -16,
+    "day_index_peak": 3
   },
   {
     "dataset": "jhu/daily",
@@ -90534,8 +91262,8 @@
     "day_index_10": 35,
     "day_index_100": 28,
     "day_index_peak_confirmed": 24,
-    "day_index_peak_deaths": -2,
-    "day_index_peak": 11
+    "day_index_peak_deaths": -15,
+    "day_index_peak": 4
   },
   {
     "dataset": "jhu/daily",
@@ -90596,8 +91324,8 @@
     "day_index_10": 36,
     "day_index_100": 29,
     "day_index_peak_confirmed": 25,
-    "day_index_peak_deaths": -1,
-    "day_index_peak": 12
+    "day_index_peak_deaths": -14,
+    "day_index_peak": 5
   },
   {
     "dataset": "jhu/daily",
@@ -90658,8 +91386,8 @@
     "day_index_10": 37,
     "day_index_100": 30,
     "day_index_peak_confirmed": 26,
-    "day_index_peak_deaths": 0,
-    "day_index_peak": 13
+    "day_index_peak_deaths": -13,
+    "day_index_peak": 6
   },
   {
     "dataset": "jhu/daily",
@@ -90720,8 +91448,8 @@
     "day_index_10": 38,
     "day_index_100": 31,
     "day_index_peak_confirmed": 27,
-    "day_index_peak_deaths": 1,
-    "day_index_peak": 14
+    "day_index_peak_deaths": -12,
+    "day_index_peak": 7
   },
   {
     "dataset": "jhu/daily",
@@ -90782,8 +91510,8 @@
     "day_index_10": 39,
     "day_index_100": 32,
     "day_index_peak_confirmed": 28,
-    "day_index_peak_deaths": 2,
-    "day_index_peak": 15
+    "day_index_peak_deaths": -11,
+    "day_index_peak": 8
   },
   {
     "dataset": "jhu/daily",
@@ -90844,8 +91572,8 @@
     "day_index_10": 40,
     "day_index_100": 33,
     "day_index_peak_confirmed": 29,
-    "day_index_peak_deaths": 3,
-    "day_index_peak": 16
+    "day_index_peak_deaths": -10,
+    "day_index_peak": 9
   },
   {
     "dataset": "jhu/daily",
@@ -90909,8 +91637,8 @@
     "day_index_10": 41,
     "day_index_100": 34,
     "day_index_peak_confirmed": 30,
-    "day_index_peak_deaths": 4,
-    "day_index_peak": 17
+    "day_index_peak_deaths": -9,
+    "day_index_peak": 10
   },
   {
     "dataset": "jhu/daily",
@@ -90971,8 +91699,8 @@
     "day_index_10": 42,
     "day_index_100": 35,
     "day_index_peak_confirmed": 31,
-    "day_index_peak_deaths": 5,
-    "day_index_peak": 18
+    "day_index_peak_deaths": -8,
+    "day_index_peak": 11
   },
   {
     "dataset": "jhu/daily",
@@ -91036,8 +91764,8 @@
     "day_index_10": 43,
     "day_index_100": 36,
     "day_index_peak_confirmed": 32,
-    "day_index_peak_deaths": 6,
-    "day_index_peak": 19
+    "day_index_peak_deaths": -7,
+    "day_index_peak": 12
   },
   {
     "dataset": "jhu/daily",
@@ -91098,8 +91826,8 @@
     "day_index_10": 44,
     "day_index_100": 37,
     "day_index_peak_confirmed": 33,
-    "day_index_peak_deaths": 7,
-    "day_index_peak": 20
+    "day_index_peak_deaths": -6,
+    "day_index_peak": 13
   },
   {
     "dataset": "jhu/daily",
@@ -91160,8 +91888,8 @@
     "day_index_10": 45,
     "day_index_100": 38,
     "day_index_peak_confirmed": 34,
-    "day_index_peak_deaths": 8,
-    "day_index_peak": 21
+    "day_index_peak_deaths": -5,
+    "day_index_peak": 14
   },
   {
     "dataset": "jhu/daily",
@@ -91222,8 +91950,8 @@
     "day_index_10": 46,
     "day_index_100": 39,
     "day_index_peak_confirmed": 35,
-    "day_index_peak_deaths": 9,
-    "day_index_peak": 22
+    "day_index_peak_deaths": -4,
+    "day_index_peak": 15
   },
   {
     "dataset": "jhu/daily",
@@ -91284,8 +92012,8 @@
     "day_index_10": 47,
     "day_index_100": 40,
     "day_index_peak_confirmed": 36,
-    "day_index_peak_deaths": 10,
-    "day_index_peak": 23
+    "day_index_peak_deaths": -3,
+    "day_index_peak": 16
   },
   {
     "dataset": "jhu/daily",
@@ -91349,8 +92077,8 @@
     "day_index_10": 48,
     "day_index_100": 41,
     "day_index_peak_confirmed": 37,
-    "day_index_peak_deaths": 11,
-    "day_index_peak": 24
+    "day_index_peak_deaths": -2,
+    "day_index_peak": 17
   },
   {
     "dataset": "jhu/daily",
@@ -91411,8 +92139,8 @@
     "day_index_10": 49,
     "day_index_100": 42,
     "day_index_peak_confirmed": 38,
-    "day_index_peak_deaths": 12,
-    "day_index_peak": 25
+    "day_index_peak_deaths": -1,
+    "day_index_peak": 18
   },
   {
     "dataset": "jhu/daily",
@@ -91473,8 +92201,8 @@
     "day_index_10": 50,
     "day_index_100": 43,
     "day_index_peak_confirmed": 39,
-    "day_index_peak_deaths": 13,
-    "day_index_peak": 26
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 19
   },
   {
     "dataset": "jhu/daily",
@@ -91538,8 +92266,8 @@
     "day_index_10": 51,
     "day_index_100": 44,
     "day_index_peak_confirmed": 40,
-    "day_index_peak_deaths": 14,
-    "day_index_peak": 27
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 20
   },
   {
     "dataset": "jhu/daily",
@@ -91600,8 +92328,8 @@
     "day_index_10": 52,
     "day_index_100": 45,
     "day_index_peak_confirmed": 41,
-    "day_index_peak_deaths": 15,
-    "day_index_peak": 28
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 21
   },
   {
     "dataset": "jhu/daily",
@@ -91665,8 +92393,8 @@
     "day_index_10": 54,
     "day_index_100": 47,
     "day_index_peak_confirmed": 43,
-    "day_index_peak_deaths": 17,
-    "day_index_peak": 30
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 23
   },
   {
     "dataset": "jhu/daily",
@@ -91727,8 +92455,8 @@
     "day_index_10": 55,
     "day_index_100": 48,
     "day_index_peak_confirmed": 44,
-    "day_index_peak_deaths": 18,
-    "day_index_peak": 31
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 24
   },
   {
     "dataset": "jhu/daily",
@@ -91792,8 +92520,8 @@
     "day_index_10": 56,
     "day_index_100": 49,
     "day_index_peak_confirmed": 45,
-    "day_index_peak_deaths": 19,
-    "day_index_peak": 32
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 25
   },
   {
     "dataset": "jhu/daily",
@@ -91854,8 +92582,8 @@
     "day_index_10": 57,
     "day_index_100": 50,
     "day_index_peak_confirmed": 46,
-    "day_index_peak_deaths": 20,
-    "day_index_peak": 33
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 26
   },
   {
     "dataset": "jhu/daily",
@@ -91916,8 +92644,8 @@
     "day_index_10": 58,
     "day_index_100": 51,
     "day_index_peak_confirmed": 47,
-    "day_index_peak_deaths": 21,
-    "day_index_peak": 34
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 27
   },
   {
     "dataset": "jhu/daily",
@@ -91981,8 +92709,8 @@
     "day_index_10": 59,
     "day_index_100": 52,
     "day_index_peak_confirmed": 48,
-    "day_index_peak_deaths": 22,
-    "day_index_peak": 35
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 28
   },
   {
     "dataset": "jhu/daily",
@@ -92049,8 +92777,8 @@
     "day_index_10": 60,
     "day_index_100": 53,
     "day_index_peak_confirmed": 49,
-    "day_index_peak_deaths": 23,
-    "day_index_peak": 36
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 29
   },
   {
     "dataset": "jhu/daily",
@@ -92114,8 +92842,8 @@
     "day_index_10": 61,
     "day_index_100": 54,
     "day_index_peak_confirmed": 50,
-    "day_index_peak_deaths": 24,
-    "day_index_peak": 37
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 30
   },
   {
     "dataset": "jhu/daily",
@@ -92179,8 +92907,8 @@
     "day_index_10": 62,
     "day_index_100": 55,
     "day_index_peak_confirmed": 51,
-    "day_index_peak_deaths": 25,
-    "day_index_peak": 38
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 31
   },
   {
     "dataset": "jhu/daily",
@@ -92244,8 +92972,8 @@
     "day_index_10": 63,
     "day_index_100": 56,
     "day_index_peak_confirmed": 52,
-    "day_index_peak_deaths": 26,
-    "day_index_peak": 39
+    "day_index_peak_deaths": 13,
+    "day_index_peak": 32
   },
   {
     "dataset": "jhu/daily",
@@ -92309,8 +93037,8 @@
     "day_index_10": 64,
     "day_index_100": 57,
     "day_index_peak_confirmed": 53,
-    "day_index_peak_deaths": 27,
-    "day_index_peak": 40
+    "day_index_peak_deaths": 14,
+    "day_index_peak": 33
   },
   {
     "dataset": "jhu/daily",
@@ -92374,8 +93102,8 @@
     "day_index_10": 65,
     "day_index_100": 58,
     "day_index_peak_confirmed": 54,
-    "day_index_peak_deaths": 28,
-    "day_index_peak": 41
+    "day_index_peak_deaths": 15,
+    "day_index_peak": 34
   },
   {
     "dataset": "jhu/daily",
@@ -92436,8 +93164,8 @@
     "day_index_10": 66,
     "day_index_100": 59,
     "day_index_peak_confirmed": 55,
-    "day_index_peak_deaths": 29,
-    "day_index_peak": 42
+    "day_index_peak_deaths": 16,
+    "day_index_peak": 35
   },
   {
     "dataset": "jhu/daily",
@@ -92498,8 +93226,8 @@
     "day_index_10": 67,
     "day_index_100": 60,
     "day_index_peak_confirmed": 56,
-    "day_index_peak_deaths": 30,
-    "day_index_peak": 43
+    "day_index_peak_deaths": 17,
+    "day_index_peak": 36
   },
   {
     "dataset": "jhu/daily",
@@ -92563,8 +93291,8 @@
     "day_index_10": 68,
     "day_index_100": 61,
     "day_index_peak_confirmed": 57,
-    "day_index_peak_deaths": 31,
-    "day_index_peak": 44
+    "day_index_peak_deaths": 18,
+    "day_index_peak": 37
   },
   {
     "dataset": "jhu/daily",
@@ -92628,8 +93356,8 @@
     "day_index_10": 69,
     "day_index_100": 62,
     "day_index_peak_confirmed": 58,
-    "day_index_peak_deaths": 32,
-    "day_index_peak": 45
+    "day_index_peak_deaths": 19,
+    "day_index_peak": 38
   },
   {
     "dataset": "jhu/daily",
@@ -92693,8 +93421,8 @@
     "day_index_10": 70,
     "day_index_100": 63,
     "day_index_peak_confirmed": 59,
-    "day_index_peak_deaths": 33,
-    "day_index_peak": 46
+    "day_index_peak_deaths": 20,
+    "day_index_peak": 39
   },
   {
     "dataset": "jhu/daily",
@@ -92758,8 +93486,8 @@
     "day_index_10": 71,
     "day_index_100": 64,
     "day_index_peak_confirmed": 60,
-    "day_index_peak_deaths": 34,
-    "day_index_peak": 47
+    "day_index_peak_deaths": 21,
+    "day_index_peak": 40
   },
   {
     "dataset": "jhu/daily",
@@ -92823,8 +93551,8 @@
     "day_index_10": 72,
     "day_index_100": 65,
     "day_index_peak_confirmed": 61,
-    "day_index_peak_deaths": 35,
-    "day_index_peak": 48
+    "day_index_peak_deaths": 22,
+    "day_index_peak": 41
   },
   {
     "dataset": "jhu/daily",
@@ -92888,8 +93616,8 @@
     "day_index_10": 73,
     "day_index_100": 66,
     "day_index_peak_confirmed": 62,
-    "day_index_peak_deaths": 36,
-    "day_index_peak": 49
+    "day_index_peak_deaths": 23,
+    "day_index_peak": 42
   },
   {
     "dataset": "jhu/daily",
@@ -92953,8 +93681,8 @@
     "day_index_10": 74,
     "day_index_100": 67,
     "day_index_peak_confirmed": 63,
-    "day_index_peak_deaths": 37,
-    "day_index_peak": 50
+    "day_index_peak_deaths": 24,
+    "day_index_peak": 43
   },
   {
     "dataset": "jhu/daily",
@@ -93018,8 +93746,8 @@
     "day_index_10": 75,
     "day_index_100": 68,
     "day_index_peak_confirmed": 64,
-    "day_index_peak_deaths": 38,
-    "day_index_peak": 51
+    "day_index_peak_deaths": 25,
+    "day_index_peak": 44
   },
   {
     "dataset": "jhu/daily",
@@ -93083,8 +93811,76 @@
     "day_index_10": 76,
     "day_index_100": 69,
     "day_index_peak_confirmed": 65,
-    "day_index_peak_deaths": 39,
-    "day_index_peak": 52
+    "day_index_peak_deaths": 26,
+    "day_index_peak": 45
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "9088980428dbfe7842886058cfeb3abc",
+      "type": "total-province",
+      "label": "China / Shanghai",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Shanghai",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        31.202,
+        121.4491
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 543,
+        "deaths": 7,
+        "recovered": 418,
+        "infected": 118
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 12,
+        "deaths": 1,
+        "infected": -8
+      },
+      "delta_pct": {
+        "confirmed": 0.929368029739777,
+        "recovered": 2.955665024630542,
+        "infected": -6.349206349206349,
+        "deaths": 16.666666666666668
+      },
+      "peak_pct": {
+        "confirmed": 21.1864406779661,
+        "recovered": 52.17391304347826,
+        "deaths": 100,
+        "infected": -37.03703703703704
+      },
+      "relative": {
+        "deaths": 1.289134438305709,
+        "recovered": 76.97974217311234,
+        "infected": 21.731123388581953
+      }
+    },
+    "data_key": "d041e1f3166ed9d46014ceb6d1018996",
+    "day_index_1": 78,
+    "day_index_10": 77,
+    "day_index_100": 70,
+    "day_index_peak_confirmed": 66,
+    "day_index_peak_deaths": 27,
+    "day_index_peak": 46
   },
   {
     "dataset": "jhu/daily",
@@ -93125,8 +93921,8 @@
         "infected": 1
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
-        "infected": 10.638297872340425
+        "confirmed": 7.462686567164178,
+        "infected": 8.928571428571429
       },
       "relative": {
         "infected": 100
@@ -93181,8 +93977,8 @@
         "infected": 500
       },
       "peak_pct": {
-        "confirmed": 44.642857142857146,
-        "infected": 53.191489361702125
+        "confirmed": 37.31343283582089,
+        "infected": 44.642857142857146
       },
       "relative": {
         "infected": 100
@@ -93237,8 +94033,8 @@
         "infected": 50
       },
       "peak_pct": {
-        "confirmed": 26.785714285714285,
-        "infected": 31.914893617021274
+        "confirmed": 22.388059701492537,
+        "infected": 26.785714285714285
       },
       "relative": {
         "infected": 100
@@ -93293,8 +94089,8 @@
         "infected": 44.44444444444444
       },
       "peak_pct": {
-        "confirmed": 35.714285714285715,
-        "infected": 42.5531914893617
+        "confirmed": 29.850746268656714,
+        "infected": 35.714285714285715
       },
       "relative": {
         "infected": 100
@@ -93350,8 +94146,8 @@
         "infected": 107.6923076923077
       },
       "peak_pct": {
-        "confirmed": 125,
-        "infected": 148.93617021276594
+        "confirmed": 104.4776119402985,
+        "infected": 125
       },
       "relative": {
         "infected": 100
@@ -93408,7 +94204,7 @@
       },
       "peak_pct": {
         "recovered": 13.513513513513512,
-        "infected": -10.638297872340425
+        "infected": -8.928571428571429
       },
       "relative": {
         "recovered": 3.7037037037037033,
@@ -93466,8 +94262,8 @@
         "infected": 30.76923076923077
       },
       "peak_pct": {
-        "confirmed": 71.42857142857143,
-        "infected": 85.1063829787234
+        "confirmed": 59.70149253731343,
+        "infected": 71.42857142857143
       },
       "relative": {
         "recovered": 2.857142857142857,
@@ -93525,8 +94321,8 @@
         "infected": 11.764705882352942
       },
       "peak_pct": {
-        "confirmed": 35.714285714285715,
-        "infected": 42.5531914893617
+        "confirmed": 29.850746268656714,
+        "infected": 35.714285714285715
       },
       "relative": {
         "recovered": 2.564102564102564,
@@ -93584,8 +94380,8 @@
         "infected": 21.05263157894737
       },
       "peak_pct": {
-        "confirmed": 71.42857142857143,
-        "infected": 85.1063829787234
+        "confirmed": 59.70149253731343,
+        "infected": 71.42857142857143
       },
       "relative": {
         "recovered": 2.127659574468085,
@@ -93645,9 +94441,9 @@
         "infected": 36.95652173913044
       },
       "peak_pct": {
-        "confirmed": 169.64285714285717,
+        "confirmed": 141.79104477611938,
         "recovered": 27.027027027027025,
-        "infected": 180.85106382978722
+        "infected": 151.7857142857143
       },
       "relative": {
         "recovered": 4.545454545454546,
@@ -93707,9 +94503,9 @@
         "infected": 14.285714285714286
       },
       "peak_pct": {
-        "confirmed": 71.42857142857143,
+        "confirmed": 59.70149253731343,
         "recovered": -13.513513513513512,
-        "infected": 95.74468085106382
+        "infected": 80.35714285714286
       },
       "relative": {
         "recovered": 2.7027027027027026,
@@ -93769,9 +94565,9 @@
         "infected": 6.944444444444445
       },
       "peak_pct": {
-        "confirmed": 62.5,
+        "confirmed": 52.23880597014925,
         "recovered": 27.027027027027025,
-        "infected": 53.191489361702125
+        "infected": 44.642857142857146
       },
       "relative": {
         "recovered": 4.938271604938271,
@@ -93830,7 +94626,7 @@
       },
       "peak_pct": {
         "recovered": 13.513513513513512,
-        "infected": -10.638297872340425
+        "infected": -8.928571428571429
       },
       "relative": {
         "recovered": 6.172839506172839,
@@ -93890,9 +94686,9 @@
         "infected": 10.526315789473685
       },
       "peak_pct": {
-        "confirmed": 133.92857142857144,
+        "confirmed": 111.94029850746267,
         "recovered": 94.5945945945946,
-        "infected": 85.1063829787234
+        "infected": 71.42857142857143
       },
       "relative": {
         "recovered": 12.5,
@@ -93952,9 +94748,9 @@
         "infected": 5.9523809523809526
       },
       "peak_pct": {
-        "confirmed": 71.42857142857143,
+        "confirmed": 59.70149253731343,
         "recovered": 40.54054054054054,
-        "infected": 53.191489361702125
+        "infected": 44.642857142857146
       },
       "relative": {
         "recovered": 14.423076923076922,
@@ -94015,9 +94811,9 @@
         "infected": 5.617977528089888
       },
       "peak_pct": {
-        "confirmed": 98.21428571428572,
+        "confirmed": 82.08955223880596,
         "recovered": 81.08108108108108,
-        "infected": 53.191489361702125
+        "infected": 44.642857142857146
       },
       "relative": {
         "recovered": 18.26086956521739,
@@ -94076,7 +94872,7 @@
         "recovered": 19.047619047619047
       },
       "peak_pct": {
-        "confirmed": 35.714285714285715,
+        "confirmed": 29.850746268656714,
         "recovered": 54.05405405405405
       },
       "relative": {
@@ -94136,7 +94932,7 @@
         "recovered": 20
       },
       "peak_pct": {
-        "confirmed": 44.642857142857146,
+        "confirmed": 37.31343283582089,
         "recovered": 67.56756756756756
       },
       "relative": {
@@ -94198,9 +94994,9 @@
         "infected": -1.0638297872340425
       },
       "peak_pct": {
-        "confirmed": 17.857142857142858,
+        "confirmed": 14.925373134328357,
         "recovered": 40.54054054054054,
-        "infected": -10.638297872340425
+        "infected": -8.928571428571429
       },
       "relative": {
         "recovered": 26.190476190476193,
@@ -94260,7 +95056,7 @@
       },
       "peak_pct": {
         "recovered": 40.54054054054054,
-        "infected": -31.914893617021274
+        "infected": -26.785714285714285
       },
       "relative": {
         "recovered": 28.57142857142857,
@@ -94321,9 +95117,9 @@
         "infected": -1.1111111111111112
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
+        "confirmed": 7.462686567164178,
         "recovered": 27.027027027027025,
-        "infected": -10.638297872340425
+        "infected": -8.928571428571429
       },
       "relative": {
         "recovered": 29.92125984251969,
@@ -94384,9 +95180,9 @@
         "infected": -7.865168539325842
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
+        "confirmed": 7.462686567164178,
         "recovered": 108.1081081081081,
-        "infected": -74.46808510638297
+        "infected": -62.5
       },
       "relative": {
         "recovered": 35.9375,
@@ -94447,9 +95243,9 @@
         "infected": -3.658536585365854
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
+        "confirmed": 7.462686567164178,
         "recovered": 54.05405405405405,
-        "infected": -31.914893617021274
+        "infected": -26.785714285714285
       },
       "relative": {
         "recovered": 38.759689922480625,
@@ -94510,9 +95306,9 @@
         "infected": -2.5316455696202533
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
+        "confirmed": 7.462686567164178,
         "recovered": 40.54054054054054,
-        "infected": -21.27659574468085
+        "infected": -17.857142857142858
       },
       "relative": {
         "recovered": 40.76923076923077,
@@ -94573,9 +95369,9 @@
         "infected": -9.090909090909092
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
+        "confirmed": 7.462686567164178,
         "recovered": 108.1081081081081,
-        "infected": -74.46808510638297
+        "infected": -62.5
       },
       "relative": {
         "recovered": 46.56488549618321,
@@ -94635,7 +95431,7 @@
       },
       "peak_pct": {
         "recovered": 94.5945945945946,
-        "infected": -74.46808510638297
+        "infected": -62.5
       },
       "relative": {
         "recovered": 51.908396946564885,
@@ -94696,9 +95492,9 @@
         "infected": -11.11111111111111
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
+        "confirmed": 7.462686567164178,
         "recovered": 108.1081081081081,
-        "infected": -74.46808510638297
+        "infected": -62.5
       },
       "relative": {
         "recovered": 57.57575757575758,
@@ -94758,7 +95554,7 @@
       },
       "peak_pct": {
         "recovered": 27.027027027027025,
-        "infected": -21.27659574468085
+        "infected": -17.857142857142858
       },
       "relative": {
         "recovered": 59.09090909090909,
@@ -94818,7 +95614,7 @@
       },
       "peak_pct": {
         "recovered": 40.54054054054054,
-        "infected": -31.914893617021274
+        "infected": -26.785714285714285
       },
       "relative": {
         "recovered": 61.36363636363637,
@@ -94878,7 +95674,7 @@
       },
       "peak_pct": {
         "recovered": 94.5945945945946,
-        "infected": -74.46808510638297
+        "infected": -62.5
       },
       "relative": {
         "recovered": 66.66666666666666,
@@ -94939,9 +95735,9 @@
         "infected": -11.363636363636363
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
+        "confirmed": 7.462686567164178,
         "recovered": 81.08108108108108,
-        "infected": -53.191489361702125
+        "infected": -44.642857142857146
       },
       "relative": {
         "recovered": 70.67669172932331,
@@ -95001,7 +95797,7 @@
       },
       "peak_pct": {
         "recovered": 54.05405405405405,
-        "infected": -42.5531914893617
+        "infected": -35.714285714285715
       },
       "relative": {
         "recovered": 73.68421052631578,
@@ -95061,7 +95857,7 @@
       },
       "peak_pct": {
         "recovered": 81.08108108108108,
-        "infected": -63.82978723404255
+        "infected": -53.57142857142857
       },
       "relative": {
         "recovered": 78.19548872180451,
@@ -95121,7 +95917,7 @@
       },
       "peak_pct": {
         "recovered": 40.54054054054054,
-        "infected": -31.914893617021274
+        "infected": -26.785714285714285
       },
       "relative": {
         "recovered": 80.45112781954887,
@@ -95181,7 +95977,7 @@
       },
       "peak_pct": {
         "recovered": 67.56756756756756,
-        "infected": -53.191489361702125
+        "infected": -44.642857142857146
       },
       "relative": {
         "recovered": 84.21052631578947,
@@ -95241,7 +96037,7 @@
       },
       "peak_pct": {
         "recovered": 27.027027027027025,
-        "infected": -21.27659574468085
+        "infected": -17.857142857142858
       },
       "relative": {
         "recovered": 85.71428571428571,
@@ -95301,7 +96097,7 @@
       },
       "peak_pct": {
         "recovered": 27.027027027027025,
-        "infected": -21.27659574468085
+        "infected": -17.857142857142858
       },
       "relative": {
         "recovered": 87.21804511278195,
@@ -95361,7 +96157,7 @@
       },
       "peak_pct": {
         "recovered": 40.54054054054054,
-        "infected": -31.914893617021274
+        "infected": -26.785714285714285
       },
       "relative": {
         "recovered": 89.47368421052632,
@@ -95421,7 +96217,7 @@
       },
       "peak_pct": {
         "recovered": 67.56756756756756,
-        "infected": -53.191489361702125
+        "infected": -44.642857142857146
       },
       "relative": {
         "recovered": 93.23308270676691,
@@ -95481,7 +96277,7 @@
       },
       "peak_pct": {
         "recovered": 27.027027027027025,
-        "infected": -21.27659574468085
+        "infected": -17.857142857142858
       },
       "relative": {
         "recovered": 94.73684210526315,
@@ -95541,7 +96337,7 @@
       },
       "peak_pct": {
         "recovered": 13.513513513513512,
-        "infected": -10.638297872340425
+        "infected": -8.928571428571429
       },
       "relative": {
         "recovered": 95.48872180451127,
@@ -95601,7 +96397,7 @@
       },
       "peak_pct": {
         "recovered": 54.05405405405405,
-        "infected": -42.5531914893617
+        "infected": -35.714285714285715
       },
       "relative": {
         "recovered": 98.49624060150376,
@@ -95661,7 +96457,7 @@
       },
       "peak_pct": {
         "recovered": 13.513513513513512,
-        "infected": -10.638297872340425
+        "infected": -8.928571428571429
       },
       "relative": {
         "recovered": 99.24812030075188,
@@ -95720,7 +96516,7 @@
       },
       "peak_pct": {
         "recovered": 13.513513513513512,
-        "infected": -10.638297872340425
+        "infected": -8.928571428571429
       },
       "relative": {
         "recovered": 100
@@ -95777,8 +96573,8 @@
         "confirmed": 0.7518796992481203
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
-        "infected": 10.638297872340425
+        "confirmed": 7.462686567164178,
+        "infected": 8.928571428571429
       },
       "relative": {
         "recovered": 99.25373134328358,
@@ -95837,8 +96633,8 @@
         "infected": 100
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
-        "infected": 10.638297872340425
+        "confirmed": 7.462686567164178,
+        "infected": 8.928571428571429
       },
       "relative": {
         "recovered": 98.51851851851852,
@@ -95897,8 +96693,8 @@
         "infected": 50
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
-        "infected": 10.638297872340425
+        "confirmed": 7.462686567164178,
+        "infected": 8.928571428571429
       },
       "relative": {
         "recovered": 97.79411764705883,
@@ -95957,8 +96753,8 @@
         "infected": 33.333333333333336
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
-        "infected": 10.638297872340425
+        "confirmed": 7.462686567164178,
+        "infected": 8.928571428571429
       },
       "relative": {
         "recovered": 97.08029197080292,
@@ -96017,8 +96813,8 @@
         "infected": 25
       },
       "peak_pct": {
-        "confirmed": 8.928571428571429,
-        "infected": 10.638297872340425
+        "confirmed": 7.462686567164178,
+        "infected": 8.928571428571429
       },
       "relative": {
         "recovered": 96.37681159420289,
@@ -96032,6 +96828,69 @@
     "day_index_peak_confirmed": 61,
     "day_index_peak_deaths": null,
     "day_index_peak": 61
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "81feaf0884c9b75518fc9cd1f6c3042f",
+      "type": "total-province",
+      "label": "China / Shanxi",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Shanxi",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        37.5777,
+        112.2922
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 163,
+        "recovered": 134,
+        "infected": 29
+      },
+      "delta": {
+        "confirmed": 25,
+        "recovered": 1,
+        "infected": 24
+      },
+      "delta_pct": {
+        "confirmed": 18.115942028985508,
+        "recovered": 0.7518796992481203,
+        "infected": 480
+      },
+      "peak_pct": {
+        "confirmed": 186.56716417910448,
+        "recovered": 13.513513513513512,
+        "infected": 214.28571428571428
+      },
+      "relative": {
+        "recovered": 82.20858895705521,
+        "infected": 17.791411042944784
+      }
+    },
+    "data_key": "e5432c42afcd04cb4635929d9ea1536e",
+    "day_index_1": 78,
+    "day_index_10": 73,
+    "day_index_100": 62,
+    "day_index_peak_confirmed": 64,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 64
   },
   {
     "dataset": "jhu/daily",
@@ -103999,6 +104858,68 @@
     "day_index_peak_confirmed": 53,
     "day_index_peak_deaths": 59,
     "day_index_peak": 56
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "437416630e20b879ec850da1ceeb70aa",
+      "type": "total-province",
+      "label": "China / Tianjin",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Tianjin",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        39.3054,
+        117.323
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 180,
+        "deaths": 3,
+        "recovered": 152,
+        "infected": 25
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 0.6622516556291391,
+        "infected": -3.8461538461538463
+      },
+      "peak_pct": {
+        "recovered": 10.416666666666668,
+        "infected": -11.363636363636363
+      },
+      "relative": {
+        "deaths": 1.6666666666666667,
+        "recovered": 84.44444444444444,
+        "infected": 13.88888888888889
+      }
+    },
+    "data_key": "816147100975e7af07aed2ea8af027b2",
+    "day_index_1": 78,
+    "day_index_10": 75,
+    "day_index_100": 58,
+    "day_index_peak_confirmed": 54,
+    "day_index_peak_deaths": 60,
+    "day_index_peak": 57
   },
   {
     "dataset": "jhu/daily",
@@ -114509,5 +115430,71 @@
     "day_index_peak_confirmed": 65,
     "day_index_peak_deaths": null,
     "day_index_peak": 65
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "30685998f6b3bcd6e30ebb3c601305a5",
+      "type": "total-province",
+      "label": "China / Zhejiang",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": "Zhejiang",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        29.1832,
+        120.0934
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1266,
+        "deaths": 1,
+        "recovered": 1232,
+        "infected": 33
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 2,
+        "infected": -1
+      },
+      "delta_pct": {
+        "confirmed": 0.07905138339920949,
+        "recovered": 0.16260162601626016,
+        "infected": -2.9411764705882355
+      },
+      "peak_pct": {
+        "confirmed": 1.070663811563169,
+        "recovered": 3.597122302158273,
+        "infected": -1.2048192771084338
+      },
+      "relative": {
+        "deaths": 0.07898894154818326,
+        "recovered": 97.31437598736177,
+        "infected": 2.6066350710900474
+      }
+    },
+    "data_key": "c7cfeda2f89d32037f82dc01d1bc102c",
+    "day_index_1": 78,
+    "day_index_10": 78,
+    "day_index_100": 74,
+    "day_index_1k": 62,
+    "day_index_peak_confirmed": 66,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 66
   }
 ]

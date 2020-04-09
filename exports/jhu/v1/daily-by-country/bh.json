@@ -3376,5 +3376,94 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": 17,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "424bee30750e28e1b7ad9261723c87dd",
+      "type": "total-country",
+      "label": "Bahrain",
+      "country": "Bahrain",
+      "country_code": "BH",
+      "country_latlong": [
+        26,
+        50.55
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        26,
+        50.55
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 823,
+        "deaths": 5,
+        "recovered": 477,
+        "infected": 341
+      },
+      "delta": {
+        "confirmed": 12,
+        "recovered": 19,
+        "infected": -7
+      },
+      "delta_pct": {
+        "confirmed": 1.4796547472256474,
+        "recovered": 4.148471615720524,
+        "infected": -2.0114942528735633
+      },
+      "peak_pct": {
+        "confirmed": 21.428571428571427,
+        "recovered": 54.285714285714285,
+        "infected": -19.774011299435028
+      },
+      "relative": {
+        "deaths": 0.6075334143377886,
+        "recovered": 57.95868772782503,
+        "infected": 41.43377885783718
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.5468427637685772,
+        "recovered": 0.3169428898148376,
+        "deaths": 0.0033222525137823647,
+        "infected": 0.22657762143995727
+      },
+      "absolute_pop10k": {
+        "confirmed": 5.468427637685772,
+        "recovered": 3.169428898148376,
+        "deaths": 0.033222525137823644,
+        "infected": 2.2657762143995726
+      },
+      "absolute_pop100k": {
+        "confirmed": 54.684276376857724,
+        "recovered": 31.69428898148376,
+        "deaths": 0.33222525137823644,
+        "infected": 22.657762143995726
+      }
+    },
+    "factbook": {
+      "population": 1505003,
+      "median_age": 32.9,
+      "death_rate": 2.8,
+      "area": 760
+    },
+    "data_key": "892e530e7f7da55b6306f4561a47d3ac",
+    "day_index_1": 45,
+    "day_index_10": 44,
+    "day_index_100": 30,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 18,
+    "day_index_peak": 12
   }
 ]

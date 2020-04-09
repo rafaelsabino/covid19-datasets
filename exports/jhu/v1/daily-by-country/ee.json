@@ -1461,7 +1461,7 @@
       "peak_pct": {
         "confirmed": 44.529262086513995,
         "recovered": 12.5,
-        "deaths": 45.45454545454545,
+        "deaths": 38.46153846153846,
         "infected": 47.14285714285714
       },
       "relative": {
@@ -1814,7 +1814,7 @@
       },
       "peak_pct": {
         "confirmed": 43.25699745547074,
-        "deaths": 90.9090909090909,
+        "deaths": 76.92307692307692,
         "infected": 45.714285714285715
       },
       "relative": {
@@ -1992,7 +1992,7 @@
       "peak_pct": {
         "confirmed": 38.16793893129771,
         "recovered": 75,
-        "deaths": 45.45454545454545,
+        "deaths": 38.46153846153846,
         "infected": 32.857142857142854
       },
       "relative": {
@@ -2084,7 +2084,7 @@
       "peak_pct": {
         "confirmed": 43.25699745547074,
         "recovered": 87.5,
-        "deaths": 45.45454545454545,
+        "deaths": 38.46153846153846,
         "infected": 37.142857142857146
       },
       "relative": {
@@ -2176,7 +2176,7 @@
       "peak_pct": {
         "confirmed": 100.50890585241731,
         "recovered": 150,
-        "deaths": 272.7272727272727,
+        "deaths": 230.76923076923075,
         "infected": 87.14285714285714
       },
       "relative": {
@@ -2268,7 +2268,7 @@
       "peak_pct": {
         "confirmed": 131.04325699745547,
         "recovered": 37.5,
-        "deaths": 45.45454545454545,
+        "deaths": 38.46153846153846,
         "infected": 141.42857142857144
       },
       "relative": {
@@ -2360,7 +2360,7 @@
       "peak_pct": {
         "confirmed": 99.23664122137406,
         "recovered": 137.5,
-        "deaths": 45.45454545454545,
+        "deaths": 38.46153846153846,
         "infected": 94.28571428571428
       },
       "relative": {
@@ -2453,7 +2453,7 @@
       "peak_pct": {
         "confirmed": 73.79134860050891,
         "recovered": 37.5,
-        "deaths": 90.9090909090909,
+        "deaths": 76.92307692307692,
         "infected": 75.71428571428571
       },
       "relative": {
@@ -2543,7 +2543,7 @@
       },
       "peak_pct": {
         "confirmed": 13.994910941475828,
-        "deaths": 181.8181818181818,
+        "deaths": 153.84615384615384,
         "infected": 10
       },
       "relative": {
@@ -2636,7 +2636,7 @@
       "peak_pct": {
         "confirmed": 52.16284987277354,
         "recovered": 87.5,
-        "deaths": 90.9090909090909,
+        "deaths": 76.92307692307692,
         "infected": 45.714285714285715
       },
       "relative": {
@@ -2677,5 +2677,98 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 3,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "16126d44257223a4a3ebba34425fe933",
+      "type": "total-country",
+      "label": "Estonia",
+      "country": "Estonia",
+      "country_code": "EE",
+      "country_latlong": [
+        59,
+        26
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        59,
+        26
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1185,
+        "deaths": 24,
+        "recovered": 72,
+        "infected": 1089
+      },
+      "delta": {
+        "confirmed": 36,
+        "recovered": 3,
+        "deaths": 3,
+        "infected": 30
+      },
+      "delta_pct": {
+        "confirmed": 3.133159268929504,
+        "recovered": 4.3478260869565215,
+        "infected": 2.8328611898016995,
+        "deaths": 14.285714285714286
+      },
+      "peak_pct": {
+        "confirmed": 45.80152671755726,
+        "recovered": 37.5,
+        "deaths": 115.38461538461537,
+        "infected": 42.857142857142854
+      },
+      "relative": {
+        "deaths": 2.0253164556962027,
+        "recovered": 6.075949367088607,
+        "infected": 91.89873417721519
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.9644936123663546,
+        "recovered": 0.058602143536183565,
+        "deaths": 0.01953404784539452,
+        "infected": 0.8863574209847764
+      },
+      "absolute_pop10k": {
+        "confirmed": 9.644936123663545,
+        "recovered": 0.5860214353618356,
+        "deaths": 0.1953404784539452,
+        "infected": 8.863574209847764
+      },
+      "absolute_pop100k": {
+        "confirmed": 96.44936123663545,
+        "recovered": 5.860214353618357,
+        "deaths": 1.953404784539452,
+        "infected": 88.63574209847765
+      }
+    },
+    "factbook": {
+      "population": 1228624,
+      "median_age": 43.7,
+      "death_rate": 12.9,
+      "area": 45228
+    },
+    "data_key": "c5f7e50c8e1021fbae74d924e9246fba",
+    "day_index_1": 42,
+    "day_index_10": 34,
+    "day_index_100": 26,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 7
   }
 ]

@@ -1335,7 +1335,7 @@
       },
       "peak_pct": {
         "confirmed": 45.04504504504504,
-        "recovered": 700,
+        "recovered": 175,
         "infected": 13.761467889908257
       },
       "relative": {
@@ -1596,7 +1596,7 @@
       },
       "peak_pct": {
         "confirmed": 108.10810810810811,
-        "recovered": 100,
+        "recovered": 25,
         "infected": 105.50458715596329
       },
       "relative": {
@@ -1636,5 +1636,94 @@
     "day_index_peak_confirmed": 4,
     "day_index_peak_deaths": 11,
     "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "66fcc8b48a420b96dcb7a4ba0207518e",
+      "type": "total-country",
+      "label": "Mauritius",
+      "country": "Mauritius",
+      "country_code": "MU",
+      "country_latlong": [
+        -20.28333333,
+        57.55
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -20.28333333,
+        57.55
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 273,
+        "deaths": 7,
+        "recovered": 19,
+        "infected": 247
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 11,
+        "infected": -6
+      },
+      "delta_pct": {
+        "confirmed": 1.8656716417910448,
+        "recovered": 137.5,
+        "infected": -2.3715415019762847
+      },
+      "peak_pct": {
+        "confirmed": 22.52252252252252,
+        "recovered": 275,
+        "infected": -27.522935779816514
+      },
+      "relative": {
+        "deaths": 2.564102564102564,
+        "recovered": 6.95970695970696,
+        "infected": 90.47619047619048
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.19791715753263278,
+        "recovered": 0.01377445418725283,
+        "deaths": 0.005074798911093148,
+        "infected": 0.1790679044342868
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.979171575326328,
+        "recovered": 0.1377445418725283,
+        "deaths": 0.05074798911093148,
+        "infected": 1.790679044342868
+      },
+      "absolute_pop100k": {
+        "confirmed": 19.79171575326328,
+        "recovered": 1.377445418725283,
+        "deaths": 0.5074798911093148,
+        "infected": 17.90679044342868
+      }
+    },
+    "factbook": {
+      "population": 1379365,
+      "median_age": 36.3,
+      "death_rate": 7.3,
+      "area": 2040
+    },
+    "data_key": "75bbda01c9ef19c3aac0c455c29edad7",
+    "day_index_1": 22,
+    "day_index_10": 20,
+    "day_index_100": 12,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 8
   }
 ]

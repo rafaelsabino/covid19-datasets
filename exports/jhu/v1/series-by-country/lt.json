@@ -2354,5 +2354,91 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": 7,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "b580d5dc7d6b597440be74bc898ce295",
+      "type": "total-country",
+      "label": "Lithuania",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "country_latlong": [
+        56,
+        24
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        56,
+        24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 912,
+        "deaths": 15,
+        "recovered": 8,
+        "infected": 889
+      },
+      "delta": {
+        "confirmed": 32,
+        "infected": 32
+      },
+      "delta_pct": {
+        "confirmed": 3.6363636363636362,
+        "infected": 3.733955659276546
+      },
+      "peak_pct": {
+        "confirmed": 50.314465408805034,
+        "infected": 50.955414012738856
+      },
+      "relative": {
+        "deaths": 1.644736842105263,
+        "recovered": 0.8771929824561403,
+        "infected": 97.47807017543859
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.33388688263876076,
+        "recovered": 0.0029288323038487787,
+        "deaths": 0.00549156056971646,
+        "infected": 0.32546648976519554
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.338868826387608,
+        "recovered": 0.029288323038487787,
+        "deaths": 0.0549156056971646,
+        "infected": 3.2546648976519554
+      },
+      "absolute_pop100k": {
+        "confirmed": 33.38868826387608,
+        "recovered": 0.29288323038487785,
+        "deaths": 0.549156056971646,
+        "infected": 32.546648976519556
+      }
+    },
+    "factbook": {
+      "population": 2731464,
+      "median_age": 44.5,
+      "death_rate": 15,
+      "area": 65300
+    },
+    "data_key": "7566b45f9cd44cb5f0b37c93afe3045b",
+    "day_index_1": 41,
+    "day_index_10": 25,
+    "day_index_100": 18,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 10
   }
 ]

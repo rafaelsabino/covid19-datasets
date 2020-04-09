@@ -1962,5 +1962,91 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": 15,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "8ea3d17dfa2fded3fdc80b369e7b07eb",
+      "type": "total-country",
+      "label": "Paraguay",
+      "country": "Paraguay",
+      "country_code": "PY",
+      "country_latlong": [
+        -23,
+        -58
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        -23,
+        -58
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 119,
+        "deaths": 5,
+        "recovered": 15,
+        "infected": 99
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 3.4782608695652173,
+        "infected": 4.2105263157894735
+      },
+      "peak_pct": {
+        "confirmed": 43.47826086956522,
+        "infected": 48.78048780487806
+      },
+      "relative": {
+        "deaths": 4.201680672268908,
+        "recovered": 12.605042016806722,
+        "infected": 83.19327731092437
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.016546887134239054,
+        "recovered": 0.002085742075744419,
+        "deaths": 0.0006952473585814729,
+        "infected": 0.013765897699913163
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.16546887134239052,
+        "recovered": 0.02085742075744419,
+        "deaths": 0.006952473585814729,
+        "infected": 0.13765897699913163
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.6546887134239054,
+        "recovered": 0.20857420757444187,
+        "deaths": 0.06952473585814728,
+        "infected": 1.3765897699913163
+      }
+    },
+    "factbook": {
+      "population": 7191685,
+      "median_age": 29.7,
+      "death_rate": 4.9,
+      "area": 406752
+    },
+    "data_key": "9313c27af5cdd3bf2d5d43874e1c4d21",
+    "day_index_1": 32,
+    "day_index_10": 22,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 16,
+    "day_index_peak": 12
   }
 ]

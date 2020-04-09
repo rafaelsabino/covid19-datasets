@@ -1337,5 +1337,85 @@
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": null,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "cc547fbd7c0f36d79fecce1546fc49df",
+      "type": "total-country",
+      "label": "Aruba",
+      "country": "Aruba",
+      "country_code": "AW",
+      "country_latlong": [
+        12.5,
+        -69.96666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.5,
+        -69.96666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 77,
+        "recovered": 14,
+        "infected": 63
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 4.054054054054054,
+        "infected": 5
+      },
+      "peak_pct": {
+        "confirmed": 45.45454545454546,
+        "infected": 46.875
+      },
+      "relative": {
+        "recovered": 18.181818181818183,
+        "infected": 81.81818181818183
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6447399269852966,
+        "recovered": 0.11722544127005392,
+        "infected": 0.5275144857152426
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.447399269852966,
+        "recovered": 1.1722544127005392,
+        "infected": 5.275144857152426
+      },
+      "absolute_pop100k": {
+        "confirmed": 64.47399269852966,
+        "recovered": 11.722544127005392,
+        "infected": 52.751448571524264
+      }
+    },
+    "factbook": {
+      "population": 119428,
+      "median_age": 39.9,
+      "death_rate": 8.7,
+      "area": 180
+    },
+    "data_key": "b197c76078c73adaace8d375425e2559",
+    "day_index_1": 27,
+    "day_index_10": 16,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 9
   }
 ]

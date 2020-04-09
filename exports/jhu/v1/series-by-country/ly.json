@@ -65,9 +65,9 @@
     },
     "data_key": "9583335c6e2af20cd82277fea5d00a3f",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -8,
+    "day_index_peak_confirmed": -9,
     "day_index_peak_deaths": null,
-    "day_index_peak": -8
+    "day_index_peak": -9
   },
   {
     "dataset": "jhu/series",
@@ -139,9 +139,9 @@
     },
     "data_key": "b320d516ba779200a1fa871efae1acf3",
     "day_index_1": 5,
-    "day_index_peak_confirmed": -4,
+    "day_index_peak_confirmed": -5,
     "day_index_peak_deaths": null,
-    "day_index_peak": -4
+    "day_index_peak": -5
   },
   {
     "dataset": "jhu/series",
@@ -213,9 +213,9 @@
     },
     "data_key": "fd4f8bd868687413c866d8431ebf60c0",
     "day_index_1": 6,
-    "day_index_peak_confirmed": -3,
+    "day_index_peak_confirmed": -4,
     "day_index_peak_deaths": null,
-    "day_index_peak": -3
+    "day_index_peak": -4
   },
   {
     "dataset": "jhu/series",
@@ -295,9 +295,9 @@
     "data_key": "a2047a8be1f57bb9b39b26b2b8c19ce4",
     "day_index_1": 8,
     "day_index_10": 1,
-    "day_index_peak_confirmed": -1,
+    "day_index_peak_confirmed": -2,
     "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/series",
@@ -370,9 +370,9 @@
     "data_key": "2174cbe0109b11e8f05adb1d2f813946",
     "day_index_1": 9,
     "day_index_10": 2,
-    "day_index_peak_confirmed": 0,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 0
+    "day_index_peak": -1
   },
   {
     "dataset": "jhu/series",
@@ -448,9 +448,9 @@
     "data_key": "1c24e5ae7bd885b73156aa648ec769a2",
     "day_index_1": 10,
     "day_index_10": 3,
-    "day_index_peak_confirmed": 1,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 1
+    "day_index_peak": 0
   },
   {
     "dataset": "jhu/series",
@@ -528,9 +528,9 @@
     "data_key": "4de5b26f4dc3e242de678648c9ff5d27",
     "day_index_1": 12,
     "day_index_10": 5,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 2
   },
   {
     "dataset": "jhu/series",
@@ -612,9 +612,9 @@
     "data_key": "1b96042a19b5ce7211a93fe2c5a37e2e",
     "day_index_1": 14,
     "day_index_10": 7,
-    "day_index_peak_confirmed": 5,
+    "day_index_peak_confirmed": 4,
     "day_index_peak_deaths": null,
-    "day_index_peak": 5
+    "day_index_peak": 4
   },
   {
     "dataset": "jhu/series",
@@ -697,6 +697,94 @@
     "data_key": "7c46ab52c3d37850fd732d257c3053b3",
     "day_index_1": 15,
     "day_index_10": 8,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "ebb61746eeb18770b1e04280ea25f448",
+      "type": "total-country",
+      "label": "Libya",
+      "country": "Libya",
+      "country_code": "LY",
+      "country_latlong": [
+        25,
+        17
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        25,
+        17
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 21,
+        "deaths": 1,
+        "recovered": 8,
+        "infected": 12
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 7,
+        "infected": -6
+      },
+      "delta_pct": {
+        "confirmed": 5,
+        "recovered": 700,
+        "infected": -33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 45.45454545454545,
+        "recovered": 700,
+        "infected": -300
+      },
+      "relative": {
+        "deaths": 4.761904761904762,
+        "recovered": 38.095238095238095,
+        "infected": 57.14285714285714
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.003047658853775505,
+        "recovered": 0.001161012896676383,
+        "deaths": 0.00014512661208454787,
+        "infected": 0.0017415193450145744
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.03047658853775505,
+        "recovered": 0.01161012896676383,
+        "deaths": 0.0014512661208454787,
+        "infected": 0.017415193450145743
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.3047658853775505,
+        "recovered": 0.1161012896676383,
+        "deaths": 0.014512661208454788,
+        "infected": 0.17415193450145744
+      }
+    },
+    "factbook": {
+      "population": 6890535,
+      "median_age": 25.8,
+      "death_rate": 3.5,
+      "area": 1759540
+    },
+    "data_key": "05f0cfcc7dd7b76fac8bf4e40c660001",
+    "day_index_1": 16,
+    "day_index_10": 9,
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
     "day_index_peak": 6

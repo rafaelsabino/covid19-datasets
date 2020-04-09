@@ -1194,7 +1194,7 @@
       },
       "peak_pct": {
         "confirmed": 92.3076923076923,
-        "recovered": 305.55555555555554,
+        "recovered": 407.40740740740745,
         "infected": -346.7741935483871
       },
       "relative": {
@@ -1283,7 +1283,7 @@
       },
       "peak_pct": {
         "confirmed": 84.61538461538461,
-        "recovered": 100,
+        "recovered": 133.33333333333331,
         "infected": -56.4516129032258
       },
       "relative": {
@@ -1323,5 +1323,94 @@
     "day_index_peak_confirmed": 3,
     "day_index_peak_deaths": null,
     "day_index_peak": 3
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "dd260e6857a3491564bbd6c2c287399c",
+      "type": "total-country",
+      "label": "Isle of Man",
+      "country": "Isle of Man",
+      "country_code": "IM",
+      "country_latlong": [
+        54.25,
+        -4.5
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        54.25,
+        -4.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 158,
+        "deaths": 1,
+        "recovered": 82,
+        "infected": 75
+      },
+      "delta": {
+        "confirmed": 8,
+        "recovered": 9,
+        "infected": -1
+      },
+      "delta_pct": {
+        "confirmed": 5.333333333333333,
+        "recovered": 12.32876712328767,
+        "infected": -1.3157894736842106
+      },
+      "peak_pct": {
+        "confirmed": 61.53846153846154,
+        "recovered": 66.66666666666666,
+        "infected": -8.064516129032258
+      },
+      "relative": {
+        "deaths": 0.6329113924050633,
+        "recovered": 51.89873417721519,
+        "infected": 47.46835443037975
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.745875645034752,
+        "recovered": 0.906087360081327,
+        "deaths": 0.011049845854650329,
+        "infected": 0.8287384390987746
+      },
+      "absolute_pop10k": {
+        "confirmed": 17.45875645034752,
+        "recovered": 9.06087360081327,
+        "deaths": 0.11049845854650328,
+        "infected": 8.287384390987746
+      },
+      "absolute_pop100k": {
+        "confirmed": 174.5875645034752,
+        "recovered": 90.6087360081327,
+        "deaths": 1.1049845854650329,
+        "infected": 82.87384390987746
+      }
+    },
+    "factbook": {
+      "population": 90499,
+      "median_age": 44.6,
+      "death_rate": 10.4,
+      "area": 572
+    },
+    "data_key": "ce1a77aacd00090770bac99dc476deff",
+    "day_index_1": 20,
+    "day_index_10": 17,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
   }
 ]

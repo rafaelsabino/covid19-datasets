@@ -2426,5 +2426,85 @@
     "day_index_peak_confirmed": 23,
     "day_index_peak_deaths": null,
     "day_index_peak": 23
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "528507a5cf1830c6d894a6c608b6056e",
+      "type": "total-country",
+      "label": "Macau",
+      "country": "Macau",
+      "country_code": "MO",
+      "country_latlong": [
+        22.16666666,
+        113.55
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        22.16666666,
+        113.55
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 45,
+        "recovered": 10,
+        "infected": 35
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2.272727272727273,
+        "infected": 2.9411764705882355
+      },
+      "peak_pct": {
+        "confirmed": 27.77777777777778,
+        "infected": 27.77777777777778
+      },
+      "relative": {
+        "recovered": 22.22222222222222,
+        "infected": 77.77777777777779
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.07323527401384636,
+        "recovered": 0.0162745053364103,
+        "infected": 0.056960768677436054
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.7323527401384635,
+        "recovered": 0.162745053364103,
+        "infected": 0.5696076867743606
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.323527401384636,
+        "recovered": 1.62745053364103,
+        "infected": 5.6960768677436056
+      }
+    },
+    "factbook": {
+      "population": 614458,
+      "median_age": 40.8,
+      "death_rate": 4.9,
+      "area": 28.2
+    },
+    "data_key": "860b9bf1cc8c963b532259ef12bbee3f",
+    "day_index_1": 78,
+    "day_index_10": 65,
+    "day_index_peak_confirmed": 26,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 26
   }
 ]

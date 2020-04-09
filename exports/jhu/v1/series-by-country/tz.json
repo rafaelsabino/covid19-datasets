@@ -1198,5 +1198,90 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": null,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "14ab6c7c88ff8588201b51da23cb14e9",
+      "type": "total-country",
+      "label": "Tanzania",
+      "country": "Tanzania",
+      "country_code": "TZ",
+      "country_latlong": [
+        -6,
+        35
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -6,
+        35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 25,
+        "deaths": 1,
+        "recovered": 5,
+        "infected": 19
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 4.166666666666667,
+        "infected": 5.555555555555555
+      },
+      "peak_pct": {
+        "confirmed": 35.714285714285715,
+        "infected": 35.714285714285715
+      },
+      "relative": {
+        "deaths": 4,
+        "recovered": 20,
+        "infected": 76
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.000426964735872356,
+        "recovered": 8.539294717447119e-05,
+        "deaths": 1.707858943489424e-05,
+        "infected": 0.0003244931992629905
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00426964735872356,
+        "recovered": 0.0008539294717447119,
+        "deaths": 0.0001707858943489424,
+        "infected": 0.0032449319926299053
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0426964735872356,
+        "recovered": 0.008539294717447118,
+        "deaths": 0.001707858943489424,
+        "infected": 0.03244931992629905
+      }
+    },
+    "factbook": {
+      "population": 58552845,
+      "median_age": 18.2,
+      "death_rate": 7.1,
+      "area": 947300
+    },
+    "data_key": "77a47190c343648de701faf269a9e87b",
+    "day_index_1": 24,
+    "day_index_10": 18,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
   }
 ]

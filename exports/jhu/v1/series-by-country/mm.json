@@ -66,8 +66,8 @@
     "data_key": "5261c8d88b68886c3a3cad871798a6cf",
     "day_index_1": 1,
     "day_index_peak_confirmed": -5,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -5
+    "day_index_peak_deaths": -4,
+    "day_index_peak": -4
   },
   {
     "dataset": "jhu/series",
@@ -141,8 +141,8 @@
     "day_index_1": 3,
     "day_index_10": 1,
     "day_index_peak_confirmed": -3,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -3
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/series",
@@ -216,8 +216,8 @@
     "day_index_1": 4,
     "day_index_10": 2,
     "day_index_peak_confirmed": -2,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -2
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -1
   },
   {
     "dataset": "jhu/series",
@@ -262,7 +262,8 @@
         "confirmed": 7.142857142857143
       },
       "peak_pct": {
-        "confirmed": 38.46153846153846
+        "confirmed": 38.46153846153846,
+        "deaths": 100
       },
       "relative": {
         "deaths": 6.666666666666667,
@@ -294,8 +295,8 @@
     "day_index_1": 5,
     "day_index_10": 3,
     "day_index_peak_confirmed": -1,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -0
   },
   {
     "dataset": "jhu/series",
@@ -374,7 +375,7 @@
     "day_index_1": 7,
     "day_index_10": 5,
     "day_index_peak_confirmed": 1,
-    "day_index_peak_deaths": null,
+    "day_index_peak_deaths": 2,
     "day_index_peak": 1
   },
   {
@@ -454,7 +455,7 @@
     "day_index_1": 9,
     "day_index_10": 7,
     "day_index_peak_confirmed": 3,
-    "day_index_peak_deaths": null,
+    "day_index_peak_deaths": 4,
     "day_index_peak": 3
   },
   {
@@ -534,7 +535,87 @@
     "day_index_1": 11,
     "day_index_10": 9,
     "day_index_peak_confirmed": 5,
-    "day_index_peak_deaths": null,
+    "day_index_peak_deaths": 6,
     "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "197bd71c3e391926a39f738b96f5c251",
+      "type": "total-country",
+      "label": "Myanmar",
+      "country": "Myanmar",
+      "country_code": "MM",
+      "country_latlong": [
+        22,
+        98
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        22,
+        98
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 22,
+        "deaths": 3,
+        "infected": 19
+      },
+      "delta": {
+        "deaths": 2,
+        "infected": -2
+      },
+      "delta_pct": {
+        "infected": -9.523809523809524,
+        "deaths": 200
+      },
+      "peak_pct": {
+        "deaths": 200,
+        "infected": -76.92307692307692
+      },
+      "relative": {
+        "deaths": 13.636363636363635,
+        "infected": 86.36363636363636
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0003887607774869199,
+        "deaths": 5.3012833293670895e-05,
+        "infected": 0.000335747944193249
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0038876077748691987,
+        "deaths": 0.000530128332936709,
+        "infected": 0.0033574794419324898
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.038876077748691985,
+        "deaths": 0.0053012833293670895,
+        "infected": 0.0335747944193249
+      }
+    },
+    "factbook": {
+      "population": 56590071,
+      "median_age": 29.2,
+      "death_rate": 7.2,
+      "area": 676578
+    },
+    "data_key": "df7baa3510a4cc0b9fce918c04ac4671",
+    "day_index_1": 13,
+    "day_index_10": 11,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 7
   }
 ]

@@ -66,8 +66,8 @@
     "data_key": "488862514f345aed9375bcd15031c09b",
     "day_index_1": 1,
     "day_index_peak_confirmed": -13,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -13
+    "day_index_peak_deaths": -25,
+    "day_index_peak": -19
   },
   {
     "dataset": "jhu/series",
@@ -140,8 +140,8 @@
     "data_key": "d5903385ae304f52216cc22bd02bdca8",
     "day_index_1": 11,
     "day_index_peak_confirmed": -3,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -3
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -9
   },
   {
     "dataset": "jhu/series",
@@ -214,8 +214,8 @@
     "data_key": "d3e65538e92c056955b8ea1c6808666a",
     "day_index_1": 14,
     "day_index_peak_confirmed": 0,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 0
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -6
   },
   {
     "dataset": "jhu/series",
@@ -288,8 +288,8 @@
     "data_key": "279b4e9a831ad5712a4b4dca05b50b8c",
     "day_index_1": 21,
     "day_index_peak_confirmed": 7,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 7
+    "day_index_peak_deaths": -5,
+    "day_index_peak": 1
   },
   {
     "dataset": "jhu/series",
@@ -363,8 +363,8 @@
     "day_index_1": 22,
     "day_index_10": 1,
     "day_index_peak_confirmed": 8,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 8
+    "day_index_peak_deaths": -4,
+    "day_index_peak": 2
   },
   {
     "dataset": "jhu/series",
@@ -412,6 +412,7 @@
       },
       "peak_pct": {
         "confirmed": 153.84615384615384,
+        "deaths": 100,
         "infected": 125
       },
       "relative": {
@@ -444,7 +445,87 @@
     "day_index_1": 26,
     "day_index_10": 5,
     "day_index_peak_confirmed": 12,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 12
+    "day_index_peak_deaths": 0,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "0dcb1f68544749f3f3f85c5471fc871f",
+      "type": "total-country",
+      "label": "Antigua and Barbuda",
+      "country": "Antigua and Barbuda",
+      "country_code": "AG",
+      "country_latlong": [
+        17.05,
+        -61.8
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        17.05,
+        -61.8
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 19,
+        "deaths": 2,
+        "infected": 17
+      },
+      "delta": {
+        "deaths": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "infected": -5.555555555555555,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "deaths": 100,
+        "infected": -41.66666666666667
+      },
+      "relative": {
+        "deaths": 10.526315789473683,
+        "infected": 89.47368421052632
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.19352407337618024,
+        "deaths": 0.020370955092229498,
+        "infected": 0.17315311828395075
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.9352407337618025,
+        "deaths": 0.20370955092229498,
+        "infected": 1.7315311828395075
+      },
+      "absolute_pop100k": {
+        "confirmed": 19.352407337618025,
+        "deaths": 2.03709550922295,
+        "infected": 17.315311828395075
+      }
+    },
+    "factbook": {
+      "population": 98179,
+      "median_age": 32.7,
+      "death_rate": 5.8,
+      "area": 442.6
+    },
+    "data_key": "ffb7ab40815e645f0515355980c95eda",
+    "day_index_1": 27,
+    "day_index_10": 6,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 7
   }
 ]

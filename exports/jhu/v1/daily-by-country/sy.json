@@ -637,5 +637,90 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 9,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "27e6d4d9e657cff7e1aa8326d3cfeffd",
+      "type": "total-country",
+      "label": "Syria",
+      "country": "Syria",
+      "country_code": "SY",
+      "country_latlong": [
+        35,
+        38
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        35,
+        38
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 19,
+        "deaths": 2,
+        "recovered": 4,
+        "infected": 13
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 33.333333333333336,
+        "infected": -7.142857142857143
+      },
+      "peak_pct": {
+        "recovered": 100,
+        "infected": -36.36363636363637
+      },
+      "relative": {
+        "deaths": 10.526315789473683,
+        "recovered": 21.052631578947366,
+        "infected": 68.42105263157895
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0009794598000829758,
+        "recovered": 0.0002062020631753633,
+        "deaths": 0.00010310103158768165,
+        "infected": 0.0006701567053199307
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.009794598000829758,
+        "recovered": 0.002062020631753633,
+        "deaths": 0.0010310103158768164,
+        "infected": 0.006701567053199307
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.09794598000829757,
+        "recovered": 0.02062020631753633,
+        "deaths": 0.010310103158768165,
+        "infected": 0.06701567053199307
+      }
+    },
+    "factbook": {
+      "population": 19398448,
+      "median_age": 23.5,
+      "death_rate": 4.5,
+      "area": 187437
+    },
+    "data_key": "50cc1d1230410256650328b200e052d6",
+    "day_index_1": 18,
+    "day_index_10": 10,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 10
   }
 ]

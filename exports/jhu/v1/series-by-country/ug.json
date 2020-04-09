@@ -742,5 +742,80 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "cb0cfcb7d380baa97d1fa325be5c11fb",
+      "type": "total-country",
+      "label": "Uganda",
+      "country": "Uganda",
+      "country_code": "UG",
+      "country_latlong": [
+        1,
+        32
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        1,
+        32
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 53,
+        "infected": 53
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 1.9230769230769231,
+        "infected": 1.9230769230769231
+      },
+      "peak_pct": {
+        "confirmed": 15.151515151515152,
+        "infected": 15.151515151515152
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001225349493951467,
+        "infected": 0.001225349493951467
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.01225349493951467,
+        "infected": 0.01225349493951467
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.12253494939514668,
+        "infected": 0.12253494939514668
+      }
+    },
+    "factbook": {
+      "population": 43252966,
+      "median_age": 15.7,
+      "death_rate": 5.3,
+      "area": 241038
+    },
+    "data_key": "12ccc7164eb2d4e0e5130ca604f3411f",
+    "day_index_1": 19,
+    "day_index_10": 15,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
   }
 ]

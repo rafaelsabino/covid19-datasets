@@ -263,7 +263,7 @@
       },
       "peak_pct": {
         "confirmed": 83.33333333333334,
-        "recovered": 150,
+        "recovered": 160,
         "infected": -83.33333333333334
       },
       "relative": {
@@ -501,7 +501,7 @@
         "infected": -12.5
       },
       "peak_pct": {
-        "recovered": 75,
+        "recovered": 80,
         "infected": -83.33333333333334
       },
       "relative": {
@@ -661,7 +661,7 @@
         "infected": -12.5
       },
       "peak_pct": {
-        "recovered": 75,
+        "recovered": 80,
         "infected": -83.33333333333334
       },
       "relative": {
@@ -741,7 +741,7 @@
         "infected": -85.71428571428571
       },
       "peak_pct": {
-        "recovered": 450,
+        "recovered": 480,
         "infected": -500
       },
       "relative": {
@@ -776,5 +776,80 @@
     "day_index_peak_confirmed": 13,
     "day_index_peak_deaths": null,
     "day_index_peak": 13
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "70a73b017592d7e140c242cf0813d691",
+      "type": "total-country",
+      "label": "Greenland",
+      "country": "Greenland",
+      "country_code": "GL",
+      "country_latlong": [
+        72,
+        -40
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        72,
+        -40
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11,
+        "recovered": 11
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 10,
+        "infected": -100
+      },
+      "peak_pct": {
+        "recovered": 80,
+        "infected": -83.33333333333334
+      },
+      "relative": {
+        "recovered": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.19091918911413497,
+        "recovered": 0.19091918911413497
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.9091918911413497,
+        "recovered": 1.9091918911413497
+      },
+      "absolute_pop100k": {
+        "confirmed": 19.091918911413497,
+        "recovered": 19.091918911413497
+      }
+    },
+    "factbook": {
+      "population": 57616,
+      "median_age": 34.3,
+      "death_rate": 9,
+      "area": 2166086
+    },
+    "data_key": "047affb039589c8fb2cc7fd6355f81e6",
+    "day_index_1": 24,
+    "day_index_10": 13,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 14
   }
 ]

@@ -1944,5 +1944,91 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": 7,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "47650f07e13b36318c95c642319f4d11",
+      "type": "total-country",
+      "label": "Honduras",
+      "country": "Honduras",
+      "country_code": "HN",
+      "country_latlong": [
+        15,
+        -86.5
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        15,
+        -86.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 312,
+        "deaths": 22,
+        "recovered": 6,
+        "infected": 284
+      },
+      "delta": {
+        "confirmed": 7,
+        "infected": 7
+      },
+      "delta_pct": {
+        "confirmed": 2.2950819672131146,
+        "infected": 2.527075812274368
+      },
+      "peak_pct": {
+        "confirmed": 22.0125786163522,
+        "infected": 23.48993288590604
+      },
+      "relative": {
+        "deaths": 7.051282051282051,
+        "recovered": 1.9230769230769231,
+        "infected": 91.02564102564102
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.033783271649987984,
+        "recovered": 0.0006496783009613073,
+        "deaths": 0.0023821537701914602,
+        "infected": 0.030751439578835214
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.33783271649987984,
+        "recovered": 0.006496783009613073,
+        "deaths": 0.023821537701914603,
+        "infected": 0.30751439578835216
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.3783271649987983,
+        "recovered": 0.06496783009613073,
+        "deaths": 0.23821537701914602,
+        "infected": 3.0751439578835216
+      }
+    },
+    "factbook": {
+      "population": 9235340,
+      "median_age": 24.4,
+      "death_rate": 4.7,
+      "area": 112090
+    },
+    "data_key": "9c260ae6ba28050c68b57177bcfc423c",
+    "day_index_1": 29,
+    "day_index_10": 21,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 7
   }
 ]

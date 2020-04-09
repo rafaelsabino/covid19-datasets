@@ -936,7 +936,7 @@
       },
       "peak_pct": {
         "confirmed": 63.54916067146282,
-        "recovered": 61.22448979591836,
+        "recovered": 47.24409448818898,
         "infected": 59.2485549132948
       },
       "relative": {
@@ -1020,7 +1020,7 @@
       },
       "peak_pct": {
         "confirmed": 59.95203836930455,
-        "recovered": 51.02040816326531,
+        "recovered": 39.37007874015748,
         "infected": 57.80346820809248
       },
       "relative": {
@@ -1104,7 +1104,7 @@
       },
       "peak_pct": {
         "confirmed": 93.5251798561151,
-        "recovered": 25.510204081632654,
+        "recovered": 19.68503937007874,
         "infected": 105.49132947976878
       },
       "relative": {
@@ -1188,7 +1188,7 @@
       },
       "peak_pct": {
         "confirmed": 101.91846522781773,
-        "recovered": 51.02040816326531,
+        "recovered": 39.37007874015748,
         "infected": 108.38150289017341
       },
       "relative": {
@@ -1272,7 +1272,7 @@
       },
       "peak_pct": {
         "confirmed": 99.52038369304556,
-        "recovered": 66.3265306122449,
+        "recovered": 51.181102362204726,
         "infected": 101.15606936416184
       },
       "relative": {
@@ -1358,7 +1358,7 @@
       },
       "peak_pct": {
         "confirmed": 75.53956834532374,
-        "recovered": 30.61224489795918,
+        "recovered": 23.62204724409449,
         "infected": 80.92485549132947
       },
       "relative": {
@@ -1447,7 +1447,7 @@
       },
       "peak_pct": {
         "confirmed": 89.92805755395683,
-        "recovered": 35.71428571428571,
+        "recovered": 27.559055118110237,
         "infected": 98.26589595375722
       },
       "relative": {
@@ -1536,7 +1536,7 @@
       },
       "peak_pct": {
         "confirmed": 69.54436450839329,
-        "recovered": 56.12244897959183,
+        "recovered": 43.30708661417323,
         "infected": 67.91907514450867
       },
       "relative": {
@@ -1625,7 +1625,7 @@
       },
       "peak_pct": {
         "confirmed": 73.14148681055156,
-        "recovered": 45.91836734693877,
+        "recovered": 35.43307086614173,
         "infected": 75.14450867052022
       },
       "relative": {
@@ -1714,7 +1714,7 @@
       },
       "peak_pct": {
         "confirmed": 106.71462829736211,
-        "recovered": 45.91836734693877,
+        "recovered": 35.43307086614173,
         "infected": 115.60693641618496
       },
       "relative": {
@@ -1803,7 +1803,7 @@
       },
       "peak_pct": {
         "confirmed": 85.13189448441246,
-        "recovered": 56.12244897959183,
+        "recovered": 43.30708661417323,
         "infected": 86.70520231213872
       },
       "relative": {
@@ -1892,7 +1892,7 @@
       },
       "peak_pct": {
         "confirmed": 98.32134292565947,
-        "recovered": 122.44897959183672,
+        "recovered": 94.48818897637796,
         "infected": 83.8150289017341
       },
       "relative": {
@@ -1981,7 +1981,7 @@
       },
       "peak_pct": {
         "confirmed": 106.71462829736211,
-        "recovered": 147.9591836734694,
+        "recovered": 114.1732283464567,
         "infected": 86.70520231213872
       },
       "relative": {
@@ -2071,7 +2071,7 @@
       },
       "peak_pct": {
         "confirmed": 80.33573141486809,
-        "recovered": 102.04081632653062,
+        "recovered": 78.74015748031496,
         "infected": 67.91907514450867
       },
       "relative": {
@@ -2161,7 +2161,7 @@
       },
       "peak_pct": {
         "confirmed": 64.74820143884892,
-        "recovered": 331.63265306122446,
+        "recovered": 255.90551181102364,
         "infected": -15.895953757225435
       },
       "relative": {
@@ -2202,5 +2202,95 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "f33865cccca28106a647873a1a25c1f3",
+      "type": "total-country",
+      "label": "New Zealand",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "country_latlong": [
+        -41,
+        174
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "administrative": null,
+      "latlong": [
+        -41,
+        174
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1210,
+        "deaths": 1,
+        "recovered": 282,
+        "infected": 927
+      },
+      "delta": {
+        "confirmed": 50,
+        "recovered": 41,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 4.310344827586207,
+        "recovered": 17.012448132780083,
+        "infected": 0.9803921568627451
+      },
+      "peak_pct": {
+        "confirmed": 59.95203836930455,
+        "recovered": 161.41732283464566,
+        "infected": 13.005780346820808
+      },
+      "relative": {
+        "deaths": 0.08264462809917356,
+        "recovered": 23.305785123966942,
+        "infected": 76.61157024793388
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2456614861870231,
+        "recovered": 0.057253338103091335,
+        "deaths": 0.00020302602164216785,
+        "infected": 0.18820512206228962
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.4566148618702313,
+        "recovered": 0.5725333810309133,
+        "deaths": 0.0020302602164216786,
+        "infected": 1.882051220622896
+      },
+      "absolute_pop100k": {
+        "confirmed": 24.56614861870231,
+        "recovered": 5.725333810309134,
+        "deaths": 0.020302602164216785,
+        "infected": 18.820512206228962
+      }
+    },
+    "factbook": {
+      "population": 4925477,
+      "median_age": 37.2,
+      "death_rate": 6.9,
+      "area": 268838
+    },
+    "data_key": "b8cff7e541b2dba15566c890716502a8",
+    "day_index_1": 41,
+    "day_index_10": 23,
+    "day_index_100": 18,
+    "day_index_1k": 4,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
   }
 ]

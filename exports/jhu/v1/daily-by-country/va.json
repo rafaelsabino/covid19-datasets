@@ -38,7 +38,7 @@
         "infected": 1
       },
       "peak_pct": {
-        "confirmed": 75,
+        "confirmed": 80,
         "infected": 75
       },
       "relative": {
@@ -63,9 +63,9 @@
     },
     "data_key": "4d74e8cb1d3bc71a4f592b65b10a3a78",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -16,
+    "day_index_peak_confirmed": -20,
     "day_index_peak_deaths": null,
-    "day_index_peak": -16
+    "day_index_peak": -20
   },
   {
     "dataset": "jhu/daily",
@@ -110,7 +110,7 @@
         "infected": 300
       },
       "peak_pct": {
-        "confirmed": 225,
+        "confirmed": 240,
         "infected": 225
       },
       "relative": {
@@ -135,9 +135,9 @@
     },
     "data_key": "b84b9cff4c323da79aa94b2ad332a1e7",
     "day_index_1": 19,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": -2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/daily",
@@ -182,7 +182,7 @@
         "infected": 50
       },
       "peak_pct": {
-        "confirmed": 150,
+        "confirmed": 160,
         "infected": 150
       },
       "relative": {
@@ -207,9 +207,9 @@
     },
     "data_key": "a9b7647f74c1584f3d055abfdfc2815f",
     "day_index_1": 23,
-    "day_index_peak_confirmed": 6,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 6
+    "day_index_peak": 2
   },
   {
     "dataset": "jhu/daily",
@@ -254,7 +254,7 @@
         "infected": 16.666666666666668
       },
       "peak_pct": {
-        "confirmed": 75,
+        "confirmed": 80,
         "infected": 75
       },
       "relative": {
@@ -279,8 +279,86 @@
     },
     "data_key": "ec12358d0a99342e3971570b134db56c",
     "day_index_1": 28,
-    "day_index_peak_confirmed": 11,
+    "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": null,
-    "day_index_peak": 11
+    "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "35e24486e26327327a0088cda884d220",
+      "type": "total-country",
+      "label": "Vatican City",
+      "country": "Vatican City",
+      "country_code": "VA",
+      "country_latlong": [
+        41.9,
+        12.45
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        41.9,
+        12.45
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "recovered": 2,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 2,
+        "infected": -1
+      },
+      "delta_pct": {
+        "confirmed": 14.285714285714286,
+        "infected": -14.285714285714286
+      },
+      "peak_pct": {
+        "confirmed": 80,
+        "infected": -75
+      },
+      "relative": {
+        "recovered": 25,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 8,
+        "recovered": 2,
+        "infected": 6
+      },
+      "absolute_pop10k": {
+        "confirmed": 80,
+        "recovered": 20,
+        "infected": 60
+      },
+      "absolute_pop100k": {
+        "confirmed": 800,
+        "recovered": 200,
+        "infected": 600
+      }
+    },
+    "factbook": {
+      "population": 1000,
+      "area": 0.44
+    },
+    "data_key": "fe7d26cb7de2f708902bd1769a44ead2",
+    "day_index_1": 34,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 13
   }
 ]

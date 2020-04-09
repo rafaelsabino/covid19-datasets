@@ -591,5 +591,80 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "f49fbd3254fcdddc452710b512c352ac",
+      "type": "total-country",
+      "label": "Eritrea",
+      "country": "Eritrea",
+      "country_code": "ER",
+      "country_latlong": [
+        15,
+        39
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        39
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 33,
+        "infected": 33
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 6.451612903225806,
+        "infected": 6.451612903225806
+      },
+      "peak_pct": {
+        "confirmed": 47.61904761904761,
+        "infected": 47.61904761904761
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.005426564116663893,
+        "infected": 0.005426564116663893
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.05426564116663893,
+        "infected": 0.05426564116663893
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.5426564116663893,
+        "infected": 0.5426564116663893
+      }
+    },
+    "factbook": {
+      "population": 6081196,
+      "median_age": 20.3,
+      "death_rate": 6.9,
+      "area": 117600
+    },
+    "data_key": "31afd59d8bb840407d14ff63b03143d5",
+    "day_index_1": 19,
+    "day_index_10": 11,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
   }
 ]

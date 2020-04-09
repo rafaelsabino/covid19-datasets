@@ -591,5 +591,88 @@
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": null,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "ad647895b9b6e36a05921cb045cd3e8c",
+      "type": "total-country",
+      "label": "Suriname",
+      "country": "Suriname",
+      "country_code": "SR",
+      "country_latlong": [
+        4,
+        -56
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        4,
+        -56
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "deaths": 1,
+        "recovered": 3,
+        "infected": 6
+      },
+      "delta": {
+        "recovered": 3,
+        "infected": -3
+      },
+      "delta_pct": {
+        "infected": -33.333333333333336
+      },
+      "peak_pct": {
+        "infected": -250
+      },
+      "relative": {
+        "deaths": 10,
+        "recovered": 30,
+        "infected": 60
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.016405033720546813,
+        "recovered": 0.004921510116164044,
+        "deaths": 0.0016405033720546813,
+        "infected": 0.009843020232328088
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.16405033720546813,
+        "recovered": 0.04921510116164044,
+        "deaths": 0.016405033720546813,
+        "infected": 0.09843020232328088
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.6405033720546813,
+        "recovered": 0.4921510116164044,
+        "deaths": 0.16405033720546813,
+        "infected": 0.9843020232328088
+      }
+    },
+    "factbook": {
+      "population": 609569,
+      "median_age": 31,
+      "death_rate": 6.2,
+      "area": 163820
+    },
+    "data_key": "1897569ed1892e1bdcb98757f1de6e0b",
+    "day_index_1": 26,
+    "day_index_10": 8,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 13
   }
 ]

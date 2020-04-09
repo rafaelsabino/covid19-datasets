@@ -864,5 +864,65 @@
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": null,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "a2580f89a7720903fd9ee9514c70828e",
+      "type": "total-country",
+      "label": "British Virgin Islands",
+      "country": "British Virgin Islands",
+      "country_code": "VG",
+      "country_latlong": [
+        18.431383,
+        -64.62305
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.431383,
+        -64.62305
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 48,
+        "deaths": 1,
+        "infected": 47
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 4.3478260869565215,
+        "infected": 4.444444444444445
+      },
+      "peak_pct": {
+        "confirmed": 40,
+        "infected": 40
+      },
+      "relative": {
+        "deaths": 2.083333333333333,
+        "infected": 97.91666666666666
+      }
+    },
+    "factbook": null,
+    "data_key": "5999509e25ac695a435d8fd880f87d72",
+    "day_index_1": 24,
+    "day_index_10": 16,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
   }
 ]

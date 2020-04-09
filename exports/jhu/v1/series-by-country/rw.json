@@ -1586,5 +1586,86 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": null,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "5a7fe5956e099e494c1a963299810219",
+      "type": "total-country",
+      "label": "Rwanda",
+      "country": "Rwanda",
+      "country_code": "RW",
+      "country_latlong": [
+        -2,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -2,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "date": "2020-04-08",
+      "timestamp": 1586307600,
+      "index": 78
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 110,
+        "recovered": 7,
+        "infected": 103
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 4.761904761904762,
+        "infected": 5.1020408163265305
+      },
+      "peak_pct": {
+        "confirmed": 52.083333333333336,
+        "infected": 52.083333333333336
+      },
+      "relative": {
+        "recovered": 6.363636363636363,
+        "infected": 93.63636363636364
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.008652947654150492,
+        "recovered": 0.0005506421234459404,
+        "infected": 0.008102305530704552
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.08652947654150492,
+        "recovered": 0.005506421234459404,
+        "infected": 0.08102305530704552
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8652947654150491,
+        "recovered": 0.055064212344594035,
+        "infected": 0.8102305530704552
+      }
+    },
+    "factbook": {
+      "population": 12712431,
+      "median_age": 19.7,
+      "death_rate": 6.1,
+      "area": 26338
+    },
+    "data_key": "52a2d32c74bff404939c4e982c86101c",
+    "day_index_1": 26,
+    "day_index_10": 20,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
   }
 ]

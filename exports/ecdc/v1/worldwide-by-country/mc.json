@@ -1733,5 +1733,85 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "3a16c48748865b2821661bea3fee2d76",
+      "type": "total-country",
+      "label": "Monaco",
+      "country": "Monaco",
+      "country_code": "MC",
+      "country_latlong": [
+        43.73333333,
+        7.4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        43.73333333,
+        7.4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 81,
+        "deaths": 2,
+        "infected": 79
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 2.5316455696202533,
+        "infected": 2.5974025974025974
+      },
+      "peak_pct": {
+        "confirmed": 37.03703703703704,
+        "infected": 37.03703703703704
+      },
+      "relative": {
+        "deaths": 2.4691358024691357,
+        "infected": 97.53086419753086
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.076923076923077,
+        "deaths": 0.05128205128205128,
+        "infected": 2.0256410256410255
+      },
+      "absolute_pop10k": {
+        "confirmed": 20.76923076923077,
+        "deaths": 0.5128205128205128,
+        "infected": 20.256410256410255
+      },
+      "absolute_pop100k": {
+        "confirmed": 207.6923076923077,
+        "deaths": 5.128205128205128,
+        "infected": 202.56410256410254
+      }
+    },
+    "factbook": {
+      "population": 39000,
+      "median_age": 55.4,
+      "death_rate": 10.8,
+      "area": 2
+    },
+    "data_key": "785b5da2ff66d2f742d15d4552ff5c01",
+    "day_index_1": 41,
+    "day_index_10": 21,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
   }
 ]

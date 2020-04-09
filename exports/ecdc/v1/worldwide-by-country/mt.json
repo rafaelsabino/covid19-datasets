@@ -2256,5 +2256,87 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": null,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a063888454aed178c9a45290a7ceb587",
+      "type": "total-country",
+      "label": "Malta",
+      "country": "Malta",
+      "country_code": "MT",
+      "country_latlong": [
+        35.83333333,
+        14.58333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        35.83333333,
+        14.58333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 299,
+        "deaths": 1,
+        "infected": 298
+      },
+      "delta": {
+        "confirmed": 6,
+        "deaths": 1,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 2.04778156996587,
+        "infected": 1.7064846416382253
+      },
+      "peak_pct": {
+        "confirmed": 33.70786516853933,
+        "infected": 28.089887640449433
+      },
+      "relative": {
+        "deaths": 0.33444816053511706,
+        "infected": 99.66555183946488
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6538849293738669,
+        "deaths": 0.002186906118307247,
+        "infected": 0.6516980232555597
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.538849293738669,
+        "deaths": 0.02186906118307247,
+        "infected": 6.516980232555597
+      },
+      "absolute_pop100k": {
+        "confirmed": 65.38849293738669,
+        "deaths": 0.2186906118307247,
+        "infected": 65.16980232555596
+      }
+    },
+    "factbook": {
+      "population": 457267,
+      "median_age": 42.3,
+      "death_rate": 8.3,
+      "area": 316
+    },
+    "data_key": "4be58a5851d6c4f840968583a9b81c0f",
+    "day_index_1": 33,
+    "day_index_10": 27,
+    "day_index_100": 17,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
   }
 ]

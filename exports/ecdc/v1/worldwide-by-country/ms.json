@@ -38,8 +38,8 @@
         "infected": 1
       },
       "peak_pct": {
-        "confirmed": 100,
-        "infected": 100
+        "confirmed": 60,
+        "infected": 60
       },
       "relative": {
         "infected": 100
@@ -65,9 +65,9 @@
     },
     "data_key": "cfc5ab689fe4a41b559548d627a1dece",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -7,
+    "day_index_peak_confirmed": -11,
     "day_index_peak_deaths": null,
-    "day_index_peak": -7
+    "day_index_peak": -11
   },
   {
     "dataset": "ecdc/worldwide",
@@ -112,8 +112,8 @@
         "infected": 400
       },
       "peak_pct": {
-        "confirmed": 400,
-        "infected": 400
+        "confirmed": 240,
+        "infected": 240
       },
       "relative": {
         "infected": 100
@@ -139,9 +139,9 @@
     },
     "data_key": "f75065079c255d02d7c94b848a9bb7ae",
     "day_index_1": 7,
-    "day_index_peak_confirmed": -1,
+    "day_index_peak_confirmed": -5,
     "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak": -5
   },
   {
     "dataset": "ecdc/worldwide",
@@ -186,8 +186,8 @@
         "infected": 20
       },
       "peak_pct": {
-        "confirmed": 100,
-        "infected": 100
+        "confirmed": 60,
+        "infected": 60
       },
       "relative": {
         "infected": 100
@@ -213,6 +213,80 @@
     },
     "data_key": "8c6e9cbf6a5ef1f546273b4985e7427a",
     "day_index_1": 16,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a76f799c65f64f54fcf821f360d346f6",
+      "type": "total-country",
+      "label": "Montserrat",
+      "country": "Montserrat",
+      "country_code": "MS",
+      "country_latlong": [
+        16.75,
+        -62.2
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        16.75,
+        -62.2
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 179.99999999999997,
+        "infected": 179.99999999999997
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.675041876046901,
+        "infected": 1.675041876046901
+      },
+      "absolute_pop10k": {
+        "confirmed": 16.75041876046901,
+        "infected": 16.75041876046901
+      },
+      "absolute_pop100k": {
+        "confirmed": 167.50418760469012,
+        "infected": 167.50418760469012
+      }
+    },
+    "factbook": {
+      "population": 5373,
+      "median_age": 34.8,
+      "death_rate": 6,
+      "area": 102
+    },
+    "data_key": "2223e9d025c5f94d4ee98417399a7359",
+    "day_index_1": 20,
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": null,
     "day_index_peak": 8

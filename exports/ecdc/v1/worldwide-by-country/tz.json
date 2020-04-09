@@ -65,9 +65,9 @@
     },
     "data_key": "f7c1994e75cbebad8650b8d07e57ad49",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -12,
+    "day_index_peak_confirmed": -13,
     "day_index_peak_deaths": null,
-    "day_index_peak": -12
+    "day_index_peak": -13
   },
   {
     "dataset": "ecdc/worldwide",
@@ -139,9 +139,9 @@
     },
     "data_key": "985b4ac70d8bf704a689ce07060e1773",
     "day_index_1": 3,
-    "day_index_peak_confirmed": -10,
+    "day_index_peak_confirmed": -11,
     "day_index_peak_deaths": null,
-    "day_index_peak": -10
+    "day_index_peak": -11
   },
   {
     "dataset": "ecdc/worldwide",
@@ -213,9 +213,9 @@
     },
     "data_key": "8e435902243f2048c79a64d68e7c23f5",
     "day_index_1": 6,
-    "day_index_peak_confirmed": -7,
+    "day_index_peak_confirmed": -8,
     "day_index_peak_deaths": null,
-    "day_index_peak": -7
+    "day_index_peak": -8
   },
   {
     "dataset": "ecdc/worldwide",
@@ -288,9 +288,9 @@
     "data_key": "4db2ff41ae61e43636106d0cbe3f54c0",
     "day_index_1": 7,
     "day_index_10": 1,
-    "day_index_peak_confirmed": -6,
+    "day_index_peak_confirmed": -7,
     "day_index_peak_deaths": null,
-    "day_index_peak": -6
+    "day_index_peak": -7
   },
   {
     "dataset": "ecdc/worldwide",
@@ -363,9 +363,9 @@
     "data_key": "c8181a280ee2454714686253fa9c68ba",
     "day_index_1": 11,
     "day_index_10": 5,
-    "day_index_peak_confirmed": -2,
+    "day_index_peak_confirmed": -3,
     "day_index_peak_deaths": null,
-    "day_index_peak": -2
+    "day_index_peak": -3
   },
   {
     "dataset": "ecdc/worldwide",
@@ -441,9 +441,9 @@
     "data_key": "7d20aad4aa1d1be176c77e2a589d4e3c",
     "day_index_1": 13,
     "day_index_10": 7,
-    "day_index_peak_confirmed": 0,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 0
+    "day_index_peak": -1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -521,9 +521,9 @@
     "data_key": "e941c0a13e5d0a0a0165de56b0f93789",
     "day_index_1": 14,
     "day_index_10": 8,
-    "day_index_peak_confirmed": 1,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 1
+    "day_index_peak": 0
   },
   {
     "dataset": "ecdc/worldwide",
@@ -601,9 +601,9 @@
     "data_key": "e5da05df65afbfa8132b541f2a1244f6",
     "day_index_1": 15,
     "day_index_10": 9,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak": 1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -681,9 +681,9 @@
     "data_key": "e250b484639b527f6283ce665b2fe449",
     "day_index_1": 17,
     "day_index_10": 11,
-    "day_index_peak_confirmed": 4,
+    "day_index_peak_confirmed": 3,
     "day_index_peak_deaths": null,
-    "day_index_peak": 4
+    "day_index_peak": 3
   },
   {
     "dataset": "ecdc/worldwide",
@@ -761,9 +761,9 @@
     "data_key": "134f4d58b60cf332258e138f0827325e",
     "day_index_1": 18,
     "day_index_10": 12,
-    "day_index_peak_confirmed": 5,
+    "day_index_peak_confirmed": 4,
     "day_index_peak_deaths": null,
-    "day_index_peak": 5
+    "day_index_peak": 4
   },
   {
     "dataset": "ecdc/worldwide",
@@ -841,9 +841,9 @@
     "data_key": "5e2307b1e9056fb42fd35754520dfe48",
     "day_index_1": 21,
     "day_index_10": 15,
-    "day_index_peak_confirmed": 8,
+    "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": null,
-    "day_index_peak": 8
+    "day_index_peak": 7
   },
   {
     "dataset": "ecdc/worldwide",
@@ -921,8 +921,88 @@
     "data_key": "2247c73e4477e84a62a6935a63ef5270",
     "day_index_1": 22,
     "day_index_10": 16,
-    "day_index_peak_confirmed": 9,
+    "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": null,
-    "day_index_peak": 9
+    "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "14ab6c7c88ff8588201b51da23cb14e9",
+      "type": "total-country",
+      "label": "Tanzania",
+      "country": "Tanzania",
+      "country_code": "TZ",
+      "country_latlong": [
+        -6,
+        35
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -6,
+        35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 25,
+        "deaths": 1,
+        "infected": 24
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 4.166666666666667,
+        "infected": 4.3478260869565215
+      },
+      "peak_pct": {
+        "confirmed": 38.46153846153846,
+        "infected": 38.46153846153846
+      },
+      "relative": {
+        "deaths": 4,
+        "infected": 96
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.000426964735872356,
+        "deaths": 1.707858943489424e-05,
+        "infected": 0.00040988614643746175
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00426964735872356,
+        "deaths": 0.0001707858943489424,
+        "infected": 0.004098861464374617
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0426964735872356,
+        "deaths": 0.001707858943489424,
+        "infected": 0.040988614643746174
+      }
+    },
+    "factbook": {
+      "population": 58552845,
+      "median_age": 18.2,
+      "death_rate": 7.1,
+      "area": 947300
+    },
+    "data_key": "288593498881a89a31f22990b19e6456",
+    "day_index_1": 24,
+    "day_index_10": 18,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
   }
 ]

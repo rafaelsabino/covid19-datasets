@@ -3878,5 +3878,86 @@
     "day_index_peak_confirmed": 14,
     "day_index_peak_deaths": 35,
     "day_index_peak": 24
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "25f5ba77f2c8475dc5d1a891c49f9a19",
+      "type": "total-country",
+      "label": "Taiwan",
+      "country": "Taiwan",
+      "country_code": "TW",
+      "country_latlong": [
+        23.5,
+        121
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        23.5,
+        121
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 379,
+        "deaths": 5,
+        "infected": 374
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 0.7978723404255319,
+        "infected": 0.8086253369272237
+      },
+      "peak_pct": {
+        "confirmed": 12.5,
+        "infected": 12.931034482758621
+      },
+      "relative": {
+        "deaths": 1.3192612137203166,
+        "infected": 98.68073878627969
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01605724751916585,
+        "deaths": 0.00021183703851142282,
+        "infected": 0.015845410480654427
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1605724751916585,
+        "deaths": 0.0021183703851142283,
+        "infected": 0.15845410480654426
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.605724751916585,
+        "deaths": 0.021183703851142283,
+        "infected": 1.5845410480654427
+      }
+    },
+    "factbook": {
+      "population": 23603049,
+      "median_age": 42.3,
+      "death_rate": 7.9,
+      "area": 35980
+    },
+    "data_key": "b386ce759cbbb7db793a4f96b0e3907e",
+    "day_index_1": 80,
+    "day_index_10": 69,
+    "day_index_100": 22,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": 36,
+    "day_index_peak": 25
   }
 ]

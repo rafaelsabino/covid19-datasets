@@ -1666,5 +1666,86 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": 11,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "25da86b59ddddafe2d474111d6515b8c",
+      "type": "total-country",
+      "label": "Guam",
+      "country": "Guam",
+      "country_code": "GU",
+      "country_latlong": [
+        13.46666666,
+        144.78333333
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "administrative": null,
+      "latlong": [
+        13.46666666,
+        144.78333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 125,
+        "deaths": 4,
+        "infected": 121
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 3.3057851239669422,
+        "infected": 3.4188034188034186
+      },
+      "peak_pct": {
+        "confirmed": 39.21568627450981,
+        "infected": 40
+      },
+      "relative": {
+        "deaths": 3.2,
+        "infected": 96.8
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.7419058076386621,
+        "deaths": 0.02374098584443719,
+        "infected": 0.7181648217942249
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.419058076386621,
+        "deaths": 0.2374098584443719,
+        "infected": 7.181648217942249
+      },
+      "absolute_pop100k": {
+        "confirmed": 74.19058076386621,
+        "deaths": 2.374098584443719,
+        "infected": 71.8164821794225
+      }
+    },
+    "factbook": {
+      "population": 168485,
+      "median_age": 29.4,
+      "death_rate": 6,
+      "area": 544
+    },
+    "data_key": "fdac02ecc675b0beabdeda2c9d13a693",
+    "day_index_1": 22,
+    "day_index_10": 21,
+    "day_index_100": 4,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 12
   }
 ]

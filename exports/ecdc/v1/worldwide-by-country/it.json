@@ -4070,5 +4070,91 @@
     "day_index_peak_confirmed": 14,
     "day_index_peak_deaths": 10,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "fb583ceb1834efe5f595d1d7ac84a7f1",
+      "type": "total-country",
+      "label": "Italy",
+      "country": "Italy",
+      "country_code": "IT",
+      "country_latlong": [
+        42.83333333,
+        12.83333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.83333333,
+        12.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 139422,
+        "deaths": 17669,
+        "infected": 121753
+      },
+      "delta": {
+        "confirmed": 3836,
+        "deaths": 540,
+        "infected": 3296
+      },
+      "delta_pct": {
+        "confirmed": 2.8292006549348754,
+        "infected": 2.782444262474991,
+        "deaths": 3.152548309883823
+      },
+      "peak_pct": {
+        "confirmed": 64.72732181425486,
+        "deaths": 65.93406593406593,
+        "infected": 63.77708978328174
+      },
+      "relative": {
+        "deaths": 12.673035819311156,
+        "infected": 87.32696418068885
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.234231717593957,
+        "deaths": 0.283144985857093,
+        "infected": 1.951086731736864
+      },
+      "absolute_pop10k": {
+        "confirmed": 22.34231717593957,
+        "deaths": 2.83144985857093,
+        "infected": 19.510867317368643
+      },
+      "absolute_pop100k": {
+        "confirmed": 223.4231717593957,
+        "deaths": 28.314498585709302,
+        "infected": 195.1086731736864
+      }
+    },
+    "factbook": {
+      "population": 62402659,
+      "median_age": 46.5,
+      "death_rate": 10.7,
+      "area": 301340
+    },
+    "data_key": "f0341ab48b5d7df6b062f518760d7cac",
+    "day_index_1": 70,
+    "day_index_10": 48,
+    "day_index_100": 46,
+    "day_index_1k": 40,
+    "day_index_10k": 30,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 13
   }
 ]

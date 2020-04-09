@@ -2431,5 +2431,86 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": 8,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "5a1e867022db37142aa8d91e69b1e2a7",
+      "type": "total-country",
+      "label": "Albania",
+      "country": "Albania",
+      "country_code": "AL",
+      "country_latlong": [
+        41,
+        20
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        41,
+        20
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 400,
+        "deaths": 22,
+        "infected": 378
+      },
+      "delta": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 4.438642297650131,
+        "infected": 4.7091412742382275
+      },
+      "peak_pct": {
+        "confirmed": 65.89147286821705,
+        "infected": 68.54838709677419
+      },
+      "relative": {
+        "deaths": 5.5,
+        "infected": 94.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.13009911275657576,
+        "deaths": 0.007155451201611668,
+        "infected": 0.1229436615549641
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.3009911275657577,
+        "deaths": 0.07155451201611668,
+        "infected": 1.229436615549641
+      },
+      "absolute_pop100k": {
+        "confirmed": 13.009911275657576,
+        "deaths": 0.7155451201611668,
+        "infected": 12.29436615549641
+      }
+    },
+    "factbook": {
+      "population": 3074579,
+      "median_age": 34.3,
+      "death_rate": 7.1,
+      "area": 28748
+    },
+    "data_key": "b35866946c7df7657df22105656cf841",
+    "day_index_1": 32,
+    "day_index_10": 30,
+    "day_index_100": 17,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 9
   }
 ]

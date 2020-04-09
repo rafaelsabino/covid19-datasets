@@ -5406,5 +5406,91 @@
     "day_index_peak_confirmed": 36,
     "day_index_peak_deaths": 12,
     "day_index_peak": 24
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "1a0717396cfb726d3854dad10b5f76d5",
+      "type": "total-country",
+      "label": "South Korea",
+      "country": "South Korea",
+      "country_code": "KR",
+      "country_latlong": [
+        37,
+        127.5
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        37,
+        127.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10423,
+        "deaths": 204,
+        "infected": 10219
+      },
+      "delta": {
+        "confirmed": 39,
+        "deaths": 4,
+        "infected": 35
+      },
+      "delta_pct": {
+        "confirmed": 0.37557781201849,
+        "infected": 0.3436763550667714,
+        "deaths": 2
+      },
+      "peak_pct": {
+        "confirmed": 6.689536878216123,
+        "deaths": 50,
+        "infected": 6.051175656984785
+      },
+      "relative": {
+        "deaths": 1.9572100163100834,
+        "infected": 98.04278998368991
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.20107992439873282,
+        "deaths": 0.003935556421120742,
+        "infected": 0.1971443679776121
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.010799243987328,
+        "deaths": 0.03935556421120742,
+        "infected": 1.971443679776121
+      },
+      "absolute_pop100k": {
+        "confirmed": 20.107992439873282,
+        "deaths": 0.3935556421120742,
+        "infected": 19.71443679776121
+      }
+    },
+    "factbook": {
+      "population": 51835110,
+      "median_age": 43.2,
+      "death_rate": 6.8,
+      "area": 99720
+    },
+    "data_key": "3a2274deed9a8c0e338648befb68eb7a",
+    "day_index_1": 81,
+    "day_index_10": 69,
+    "day_index_100": 49,
+    "day_index_1k": 44,
+    "day_index_10k": 7,
+    "day_index_peak_confirmed": 37,
+    "day_index_peak_deaths": 13,
+    "day_index_peak": 25
   }
 ]

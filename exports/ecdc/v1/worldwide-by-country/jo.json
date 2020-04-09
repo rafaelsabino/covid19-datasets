@@ -1785,5 +1785,86 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": 5,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "9369de8c5548ab847afa8f752d7f5af7",
+      "type": "total-country",
+      "label": "Jordan",
+      "country": "Jordan",
+      "country_code": "JO",
+      "country_latlong": [
+        31,
+        36
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31,
+        36
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 358,
+        "deaths": 6,
+        "infected": 352
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 2.5787965616045847,
+        "infected": 2.623906705539359
+      },
+      "peak_pct": {
+        "confirmed": 37.81512605042017,
+        "infected": 38.13559322033898
+      },
+      "relative": {
+        "deaths": 1.675977653631285,
+        "infected": 98.32402234636871
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.033084906961175324,
+        "deaths": 0.0005544956473939999,
+        "infected": 0.03253041131378132
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.33084906961175325,
+        "deaths": 0.0055449564739399985,
+        "infected": 0.3253041131378132
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.3084906961175324,
+        "deaths": 0.055449564739399985,
+        "infected": 3.2530411313781324
+      }
+    },
+    "factbook": {
+      "population": 10820644,
+      "median_age": 23.5,
+      "death_rate": 3.4,
+      "area": 89342
+    },
+    "data_key": "8e0bcafe2c280e1d7538f124446c786a",
+    "day_index_1": 38,
+    "day_index_10": 25,
+    "day_index_100": 17,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 8
   }
 ]

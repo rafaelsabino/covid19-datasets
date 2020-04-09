@@ -2452,5 +2452,90 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": 5,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "b7264dac5c193d19a9bbf0ffb09203d4",
+      "type": "total-country",
+      "label": "Luxembourg",
+      "country": "Luxembourg",
+      "country_code": "LU",
+      "country_latlong": [
+        49.75,
+        6.16666666
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        49.75,
+        6.16666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3034,
+        "deaths": 46,
+        "infected": 2988
+      },
+      "delta": {
+        "confirmed": 64,
+        "deaths": 2,
+        "infected": 62
+      },
+      "delta_pct": {
+        "confirmed": 2.154882154882155,
+        "infected": 2.1189336978810664,
+        "deaths": 4.545454545454546
+      },
+      "peak_pct": {
+        "confirmed": 32.19315895372233,
+        "deaths": 45.45454545454545,
+        "infected": 31.440162271805278
+      },
+      "relative": {
+        "deaths": 1.5161502966381015,
+        "infected": 98.4838497033619
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.828280931473103,
+        "deaths": 0.07320399566505034,
+        "infected": 4.755076935808053
+      },
+      "absolute_pop10k": {
+        "confirmed": 48.28280931473103,
+        "deaths": 0.7320399566505034,
+        "infected": 47.55076935808053
+      },
+      "absolute_pop100k": {
+        "confirmed": 482.82809314731037,
+        "deaths": 7.320399566505034,
+        "infected": 475.5076935808053
+      }
+    },
+    "factbook": {
+      "population": 628381,
+      "median_age": 39.5,
+      "death_rate": 7.3,
+      "area": 2586
+    },
+    "data_key": "0f86f71168298126d65b9f466b42b9e3",
+    "day_index_1": 40,
+    "day_index_10": 28,
+    "day_index_100": 23,
+    "day_index_1k": 16,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 9
   }
 ]

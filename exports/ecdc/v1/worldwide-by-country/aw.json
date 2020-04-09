@@ -967,5 +967,80 @@
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": null,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "cc547fbd7c0f36d79fecce1546fc49df",
+      "type": "total-country",
+      "label": "Aruba",
+      "country": "Aruba",
+      "country_code": "AW",
+      "country_latlong": [
+        12.5,
+        -69.96666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.5,
+        -69.96666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 77,
+        "infected": 77
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 4.054054054054054,
+        "infected": 4.054054054054054
+      },
+      "peak_pct": {
+        "confirmed": 44.11764705882353,
+        "infected": 44.11764705882353
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.6447399269852966,
+        "infected": 0.6447399269852966
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.447399269852966,
+        "infected": 6.447399269852966
+      },
+      "absolute_pop100k": {
+        "confirmed": 64.47399269852966,
+        "infected": 64.47399269852966
+      }
+    },
+    "factbook": {
+      "population": 119428,
+      "median_age": 39.9,
+      "death_rate": 8.7,
+      "area": 180
+    },
+    "data_key": "29fdafd10289a26cb5ffb4ce8baeffeb",
+    "day_index_1": 28,
+    "day_index_10": 17,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 9
   }
 ]

@@ -1419,5 +1419,81 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "5a7fe5956e099e494c1a963299810219",
+      "type": "total-country",
+      "label": "Rwanda",
+      "country": "Rwanda",
+      "country_code": "RW",
+      "country_latlong": [
+        -2,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -2,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 110,
+        "infected": 110
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 4.761904761904762,
+        "infected": 4.761904761904762
+      },
+      "peak_pct": {
+        "confirmed": 54.34782608695653,
+        "infected": 54.34782608695653
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.008652947654150492,
+        "infected": 0.008652947654150492
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.08652947654150492,
+        "infected": 0.08652947654150492
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.8652947654150491,
+        "infected": 0.8652947654150491
+      }
+    },
+    "factbook": {
+      "population": 12712431,
+      "median_age": 19.7,
+      "death_rate": 6.1,
+      "area": 26338
+    },
+    "data_key": "07e4b47b482c5570a3495d700798d332",
+    "day_index_1": 26,
+    "day_index_10": 22,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
   }
 ]

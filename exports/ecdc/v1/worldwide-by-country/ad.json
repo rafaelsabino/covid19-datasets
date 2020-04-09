@@ -1908,5 +1908,89 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": 8,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "cb689a744dfb512507b99330c3684f2a",
+      "type": "total-country",
+      "label": "Andorra",
+      "country": "Andorra",
+      "country_code": "AD",
+      "country_latlong": [
+        42.5,
+        1.5
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.5,
+        1.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 564,
+        "deaths": 23,
+        "infected": 541
+      },
+      "delta": {
+        "confirmed": 19,
+        "deaths": 1,
+        "infected": 18
+      },
+      "delta_pct": {
+        "confirmed": 3.4862385321100917,
+        "infected": 3.4416826003824093,
+        "deaths": 4.545454545454546
+      },
+      "peak_pct": {
+        "confirmed": 50,
+        "deaths": 41.66666666666667,
+        "infected": 48.913043478260875
+      },
+      "relative": {
+        "deaths": 4.078014184397164,
+        "infected": 95.92198581560284
+      },
+      "absolute_pop1k": {
+        "confirmed": 7.324675324675325,
+        "deaths": 0.2987012987012987,
+        "infected": 7.025974025974026
+      },
+      "absolute_pop10k": {
+        "confirmed": 73.24675324675324,
+        "deaths": 2.987012987012987,
+        "infected": 70.25974025974025
+      },
+      "absolute_pop100k": {
+        "confirmed": 732.4675324675325,
+        "deaths": 29.87012987012987,
+        "infected": 702.5974025974026
+      }
+    },
+    "factbook": {
+      "population": 77000,
+      "median_age": 46.2,
+      "death_rate": 7.7,
+      "area": 468
+    },
+    "data_key": "28995c83830717f82315e1e3211a9161",
+    "day_index_1": 38,
+    "day_index_10": 24,
+    "day_index_100": 18,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 10
   }
 ]

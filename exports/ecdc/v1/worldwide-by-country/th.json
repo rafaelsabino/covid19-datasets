@@ -3338,5 +3338,90 @@
     "day_index_peak_confirmed": 13,
     "day_index_peak_deaths": 5,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "ed88c597a95c76287264f8a624544231",
+      "type": "total-country",
+      "label": "Thailand",
+      "country": "Thailand",
+      "country_code": "TH",
+      "country_latlong": [
+        15,
+        100
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        15,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2423,
+        "deaths": 32,
+        "infected": 2391
+      },
+      "delta": {
+        "confirmed": 54,
+        "deaths": 2,
+        "infected": 52
+      },
+      "delta_pct": {
+        "confirmed": 2.2794428028704092,
+        "infected": 2.2231722958529287,
+        "deaths": 6.666666666666667
+      },
+      "peak_pct": {
+        "confirmed": 32.028469750889684,
+        "deaths": 58.82352941176471,
+        "infected": 31.026252983293556
+      },
+      "relative": {
+        "deaths": 1.3206768468840282,
+        "infected": 98.67932315311597
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.035127447540788725,
+        "deaths": 0.0004639200665725296,
+        "infected": 0.034663527474216194
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.35127447540788725,
+        "deaths": 0.004639200665725296,
+        "infected": 0.34663527474216194
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.5127447540788728,
+        "deaths": 0.04639200665725296,
+        "infected": 3.4663527474216194
+      }
+    },
+    "factbook": {
+      "population": 68977400,
+      "median_age": 39,
+      "death_rate": 8.3,
+      "area": 513120
+    },
+    "data_key": "874a382d4dc846d36ec379adc7858a5e",
+    "day_index_1": 88,
+    "day_index_10": 73,
+    "day_index_100": 25,
+    "day_index_1k": 15,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 10
   }
 ]

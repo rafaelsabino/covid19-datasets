@@ -2520,5 +2520,86 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": 20,
     "day_index_peak": 16
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "734b1aadd3aea1935ac26298d856ec9c",
+      "type": "total-country",
+      "label": "Costa Rica",
+      "country": "Costa Rica",
+      "country_code": "CR",
+      "country_latlong": [
+        10,
+        -84
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        10,
+        -84
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 502,
+        "deaths": 2,
+        "infected": 500
+      },
+      "delta": {
+        "confirmed": 19,
+        "infected": 19
+      },
+      "delta_pct": {
+        "confirmed": 3.9337474120082816,
+        "infected": 3.95010395010395
+      },
+      "peak_pct": {
+        "confirmed": 67.85714285714286,
+        "infected": 68.34532374100719
+      },
+      "relative": {
+        "deaths": 0.398406374501992,
+        "infected": 99.60159362549801
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.09847022001621031,
+        "deaths": 0.0003923116335307184,
+        "infected": 0.09807790838267959
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.9847022001621031,
+        "deaths": 0.003923116335307184,
+        "infected": 0.9807790838267959
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.847022001621031,
+        "deaths": 0.03923116335307184,
+        "infected": 9.807790838267959
+      }
+    },
+    "factbook": {
+      "population": 5097988,
+      "median_age": 32.6,
+      "death_rate": 4.9,
+      "area": 51100
+    },
+    "data_key": "3be7509d86467e96b9d051d63c7adf57",
+    "day_index_1": 34,
+    "day_index_10": 30,
+    "day_index_100": 20,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 21,
+    "day_index_peak": 17
   }
 ]

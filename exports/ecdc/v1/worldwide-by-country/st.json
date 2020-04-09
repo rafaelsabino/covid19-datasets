@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "58ab626c5c6e7931246f60883b16bb87",
+      "type": "total-country",
+      "label": "Sao Tome and Principe",
+      "country": "Sao Tome and Principe",
+      "country_code": "ST",
+      "country_latlong": [
+        1,
+        7
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        1,
+        7
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.01894639118613882,
+        "infected": 0.01894639118613882
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.1894639118613882,
+        "infected": 0.1894639118613882
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.894639118613882,
+        "infected": 1.894639118613882
+      }
+    },
+    "factbook": {
+      "population": 211122,
+      "median_age": 19.3,
+      "death_rate": 6.3,
+      "area": 964
+    },
+    "data_key": "87e91a62c5e13d7ada8e4d7b1cd9ef22",
+    "day_index_1": 1,
+    "day_index_peak_confirmed": null,
+    "day_index_peak_deaths": null,
+    "day_index_peak": null
+  }
+]

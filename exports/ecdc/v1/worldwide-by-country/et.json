@@ -1279,5 +1279,85 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": null,
     "day_index_peak": 7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "128fa67f6f48b88e709e34bfa4703b4d",
+      "type": "total-country",
+      "label": "Ethiopia",
+      "country": "Ethiopia",
+      "country_code": "ET",
+      "country_latlong": [
+        8,
+        38
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        8,
+        38
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 101
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 55,
+        "deaths": 2,
+        "infected": 53
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 5.769230769230769,
+        "infected": 6
+      },
+      "peak_pct": {
+        "confirmed": 57.692307692307686,
+        "infected": 62.5
+      },
+      "relative": {
+        "deaths": 3.6363636363636362,
+        "infected": 96.36363636363636
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0005087262742783834,
+        "deaths": 1.8499137246486667e-05,
+        "infected": 0.0004902271370318967
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.005087262742783833,
+        "deaths": 0.00018499137246486667,
+        "infected": 0.004902271370318966
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.05087262742783834,
+        "deaths": 0.0018499137246486667,
+        "infected": 0.04902271370318967
+      }
+    },
+    "factbook": {
+      "population": 108113150,
+      "median_age": 19.8,
+      "death_rate": 5.9,
+      "area": 1104300
+    },
+    "data_key": "014d9dcbd8220b7a7c101bd1528c6fae",
+    "day_index_1": 27,
+    "day_index_10": 18,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
   }
 ]

@@ -2660,5 +2660,97 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": 9,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "5a1e867022db37142aa8d91e69b1e2a7",
+      "type": "total-country",
+      "label": "Albania",
+      "country": "Albania",
+      "country_code": "AL",
+      "country_latlong": [
+        41,
+        20
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        41,
+        20
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 409,
+        "deaths": 23,
+        "recovered": 165,
+        "infected": 221
+      },
+      "delta": {
+        "confirmed": 9,
+        "recovered": 11,
+        "deaths": 1,
+        "infected": -3
+      },
+      "delta_pct": {
+        "confirmed": 2.25,
+        "recovered": 7.142857142857143,
+        "infected": -1.3392857142857142,
+        "deaths": 4.545454545454546
+      },
+      "peak_pct": {
+        "confirmed": 35.714285714285715,
+        "recovered": 79.71014492753623,
+        "deaths": 50,
+        "infected": -18.51851851851852
+      },
+      "relative": {
+        "deaths": 5.623471882640587,
+        "recovered": 40.34229828850856,
+        "infected": 54.034229828850854
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.13302634279359873,
+        "recovered": 0.05366588401208751,
+        "deaths": 0.007480698983503107,
+        "infected": 0.07187975979800812
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.3302634279359873,
+        "recovered": 0.5366588401208751,
+        "deaths": 0.07480698983503108,
+        "infected": 0.7187975979800811
+      },
+      "absolute_pop100k": {
+        "confirmed": 13.302634279359873,
+        "recovered": 5.366588401208751,
+        "deaths": 0.7480698983503107,
+        "infected": 7.187975979800812
+      }
+    },
+    "factbook": {
+      "population": 3074579,
+      "median_age": 34.3,
+      "death_rate": 7.1,
+      "area": 28748
+    },
+    "data_key": "4a8aa2d0e831f2354f124189372c6543",
+    "day_index_1": 32,
+    "day_index_10": 31,
+    "day_index_100": 18,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 10
   }
 ]

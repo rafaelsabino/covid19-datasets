@@ -1015,7 +1015,7 @@
       },
       "peak_pct": {
         "confirmed": 66.66666666666666,
-        "recovered": 300,
+        "recovered": 240,
         "deaths": 100,
         "infected": -51.724137931034484
       },
@@ -1277,7 +1277,7 @@
         "infected": -3.7037037037037037
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 80,
         "infected": -34.48275862068966
       },
       "relative": {
@@ -1316,5 +1316,90 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 3,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "c102e80d9bf3ea14a619cb1f25c9f785",
+      "type": "total-country",
+      "label": "Barbados",
+      "country": "Barbados",
+      "country_code": "BB",
+      "country_latlong": [
+        13.16666666,
+        -59.53333333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        13.16666666,
+        -59.53333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 66,
+        "deaths": 3,
+        "recovered": 11,
+        "infected": 52
+      },
+      "delta": {
+        "confirmed": 3,
+        "recovered": 3
+      },
+      "delta_pct": {
+        "confirmed": 4.761904761904762,
+        "recovered": 37.5
+      },
+      "peak_pct": {
+        "confirmed": 50,
+        "recovered": 120
+      },
+      "relative": {
+        "deaths": 4.545454545454546,
+        "recovered": 16.666666666666664,
+        "infected": 78.78787878787878
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.2240630092341119,
+        "recovered": 0.03734383487235198,
+        "deaths": 0.010184682237914177,
+        "infected": 0.17653449212384573
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.240630092341119,
+        "recovered": 0.37343834872351983,
+        "deaths": 0.10184682237914176,
+        "infected": 1.7653449212384573
+      },
+      "absolute_pop100k": {
+        "confirmed": 22.40630092341119,
+        "recovered": 3.734383487235198,
+        "deaths": 1.0184682237914178,
+        "infected": 17.653449212384572
+      }
+    },
+    "factbook": {
+      "population": 294560,
+      "median_age": 39.5,
+      "death_rate": 8.8,
+      "area": 430
+    },
+    "data_key": "518eaab3ec6c23a4e7ea12ba17bb36a7",
+    "day_index_1": 24,
+    "day_index_10": 19,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 7
   }
 ]

@@ -639,7 +639,7 @@
       },
       "peak_pct": {
         "confirmed": 40.98360655737705,
-        "recovered": 133.33333333333331,
+        "recovered": 136.36363636363635,
         "infected": 28.925619834710748
       },
       "relative": {
@@ -884,7 +884,7 @@
       },
       "peak_pct": {
         "confirmed": 20.491803278688526,
-        "recovered": 88.88888888888889,
+        "recovered": 90.9090909090909,
         "infected": 12.396694214876034
       },
       "relative": {
@@ -970,7 +970,7 @@
       },
       "peak_pct": {
         "confirmed": 57.37704918032788,
-        "recovered": 44.44444444444444,
+        "recovered": 45.45454545454545,
         "deaths": 100,
         "infected": 49.586776859504134
       },
@@ -1060,7 +1060,7 @@
       },
       "peak_pct": {
         "confirmed": 57.37704918032788,
-        "recovered": 133.33333333333331,
+        "recovered": 136.36363636363635,
         "infected": 45.45454545454546
       },
       "relative": {
@@ -1237,7 +1237,7 @@
       },
       "peak_pct": {
         "confirmed": 282.78688524590166,
-        "recovered": 1066.6666666666665,
+        "recovered": 1090.9090909090908,
         "deaths": 300,
         "infected": 173.55371900826447
       },
@@ -1450,5 +1450,94 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": 5,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "d4ac55d50a469000056f249e301a4f41",
+      "type": "total-country",
+      "label": "Kyrgyzstan",
+      "country": "Kyrgyzstan",
+      "country_code": "KG",
+      "country_latlong": [
+        41,
+        75
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "administrative": null,
+      "latlong": [
+        41,
+        75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 280,
+        "deaths": 4,
+        "recovered": 35,
+        "infected": 241
+      },
+      "delta": {
+        "confirmed": 10,
+        "recovered": 2,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 3.7037037037037037,
+        "recovered": 6.0606060606060606,
+        "infected": 3.4334763948497855
+      },
+      "peak_pct": {
+        "confirmed": 40.98360655737705,
+        "recovered": 90.9090909090909,
+        "infected": 33.057851239669425
+      },
+      "relative": {
+        "deaths": 1.4285714285714286,
+        "recovered": 12.5,
+        "infected": 86.07142857142858
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.04694129672314543,
+        "recovered": 0.005867662090393179,
+        "deaths": 0.0006705899531877918,
+        "infected": 0.04040304467956446
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.4694129672314543,
+        "recovered": 0.05867662090393179,
+        "deaths": 0.006705899531877918,
+        "infected": 0.4040304467956446
+      },
+      "absolute_pop100k": {
+        "confirmed": 4.694129672314543,
+        "recovered": 0.5867662090393179,
+        "deaths": 0.06705899531877918,
+        "infected": 4.040304467956446
+      }
+    },
+    "factbook": {
+      "population": 5964897,
+      "median_age": 27.3,
+      "death_rate": 6.3,
+      "area": 199951
+    },
+    "data_key": "b1b3229d9e7a43e4b397354a2bc4ffbc",
+    "day_index_1": 23,
+    "day_index_10": 20,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 7
   }
 ]

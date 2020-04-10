@@ -3539,5 +3539,99 @@
     "day_index_peak_confirmed": 14,
     "day_index_peak_deaths": 5,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "cac65b2246449c3845b300769be2c8ef",
+      "type": "total-country",
+      "label": "Switzerland",
+      "country": "Switzerland",
+      "country_code": "CH",
+      "country_latlong": [
+        47,
+        8
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        47,
+        8
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 24051,
+        "deaths": 948,
+        "recovered": 10600,
+        "infected": 12503
+      },
+      "delta": {
+        "confirmed": 771,
+        "recovered": 800,
+        "deaths": 53,
+        "infected": -82
+      },
+      "delta_pct": {
+        "confirmed": 3.3118556701030926,
+        "recovered": 8.16326530612245,
+        "infected": -0.6515693285657529,
+        "deaths": 5.921787709497207
+      },
+      "peak_pct": {
+        "confirmed": 65.03036437246963,
+        "recovered": 63.95906619763352,
+        "deaths": 83.33333333333333,
+        "infected": -7.199297629499561
+      },
+      "relative": {
+        "deaths": 3.941624048896096,
+        "recovered": 44.07301151719263,
+        "infected": 51.98536443391127
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.8618535424941998,
+        "recovered": 1.261305041388654,
+        "deaths": 0.11280350747513622,
+        "infected": 1.4877449936304095
+      },
+      "absolute_pop10k": {
+        "confirmed": 28.618535424941996,
+        "recovered": 12.61305041388654,
+        "deaths": 1.128035074751362,
+        "infected": 14.877449936304094
+      },
+      "absolute_pop100k": {
+        "confirmed": 286.18535424941996,
+        "recovered": 126.13050413886539,
+        "deaths": 11.280350747513621,
+        "infected": 148.77449936304095
+      }
+    },
+    "factbook": {
+      "population": 8403994,
+      "median_age": 42.7,
+      "death_rate": 8.5,
+      "area": 41277
+    },
+    "data_key": "9db30de15f048f6533459e380ff968ff",
+    "day_index_1": 45,
+    "day_index_10": 41,
+    "day_index_100": 36,
+    "day_index_1k": 28,
+    "day_index_10k": 16,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 10
   }
 ]

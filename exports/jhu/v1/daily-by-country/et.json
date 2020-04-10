@@ -1504,5 +1504,90 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": null,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "128fa67f6f48b88e709e34bfa4703b4d",
+      "type": "total-country",
+      "label": "Ethiopia",
+      "country": "Ethiopia",
+      "country_code": "ET",
+      "country_latlong": [
+        8,
+        38
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        8,
+        38
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 56,
+        "deaths": 2,
+        "recovered": 4,
+        "infected": 50
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 1.8181818181818181,
+        "infected": 2.0408163265306123
+      },
+      "peak_pct": {
+        "confirmed": 20.833333333333336,
+        "infected": 20.833333333333336
+      },
+      "relative": {
+        "deaths": 3.571428571428571,
+        "recovered": 7.142857142857142,
+        "infected": 89.28571428571429
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0005179758429016267,
+        "recovered": 3.6998274492973335e-05,
+        "deaths": 1.8499137246486667e-05,
+        "infected": 0.0004624784311621667
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.0051797584290162665,
+        "recovered": 0.00036998274492973333,
+        "deaths": 0.00018499137246486667,
+        "infected": 0.004624784311621667
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.05179758429016267,
+        "recovered": 0.0036998274492973334,
+        "deaths": 0.0018499137246486667,
+        "infected": 0.046247843116216665
+      }
+    },
+    "factbook": {
+      "population": 108113150,
+      "median_age": 19.8,
+      "death_rate": 5.9,
+      "area": 1104300
+    },
+    "data_key": "87e1c9343da3dd58f819337ce9c57328",
+    "day_index_1": 28,
+    "day_index_10": 19,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
   }
 ]

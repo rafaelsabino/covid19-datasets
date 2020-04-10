@@ -3402,5 +3402,89 @@
     "day_index_peak_confirmed": 14,
     "day_index_peak_deaths": null,
     "day_index_peak": 14
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 255,
+        "recovered": 128,
+        "infected": 127
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 1.593625498007968,
+        "recovered": 1.5873015873015872,
+        "infected": 1.6
+      },
+      "peak_pct": {
+        "confirmed": 29.411764705882355,
+        "recovered": 16.129032258064516,
+        "infected": 18.867924528301888
+      },
+      "relative": {
+        "recovered": 50.19607843137255,
+        "infected": 49.80392156862745
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0025830298484293282,
+        "recovered": 0.001296579688623349,
+        "infected": 0.0012864501598059792
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.02583029848429328,
+        "recovered": 0.012965796886233491,
+        "infected": 0.012864501598059791
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.25830298484293285,
+        "recovered": 0.1296579688623349,
+        "infected": 0.1286450159805979
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "246d9037bb3a978910f08ee1aa9c60ec",
+    "day_index_1": 78,
+    "day_index_10": 64,
+    "day_index_100": 19,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 15
   }
 ]

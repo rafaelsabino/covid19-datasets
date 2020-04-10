@@ -793,7 +793,7 @@
         "infected": -5.2631578947368425
       },
       "peak_pct": {
-        "recovered": 120,
+        "recovered": 114.28571428571428,
         "infected": -41.66666666666667
       },
       "relative": {
@@ -878,7 +878,7 @@
         "infected": -2.7777777777777777
       },
       "peak_pct": {
-        "recovered": 60,
+        "recovered": 57.14285714285714,
         "infected": -20.833333333333336
       },
       "relative": {
@@ -963,7 +963,7 @@
         "infected": -5.714285714285714
       },
       "peak_pct": {
-        "recovered": 120,
+        "recovered": 114.28571428571428,
         "infected": -41.66666666666667
       },
       "relative": {
@@ -1048,7 +1048,7 @@
         "infected": -6.0606060606060606
       },
       "peak_pct": {
-        "recovered": 120,
+        "recovered": 114.28571428571428,
         "infected": -41.66666666666667
       },
       "relative": {
@@ -1087,5 +1087,90 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": null,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "22459501c66dc8df99a3b7aab5e2c2ab",
+      "type": "total-country",
+      "label": "Zambia",
+      "country": "Zambia",
+      "country_code": "ZM",
+      "country_latlong": [
+        -15,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -15,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 39,
+        "deaths": 1,
+        "recovered": 24,
+        "infected": 14
+      },
+      "delta": {
+        "recovered": 17,
+        "infected": -17
+      },
+      "delta_pct": {
+        "recovered": 242.85714285714286,
+        "infected": -54.83870967741935
+      },
+      "peak_pct": {
+        "recovered": 971.4285714285713,
+        "infected": -354.1666666666667
+      },
+      "relative": {
+        "deaths": 2.564102564102564,
+        "recovered": 61.53846153846154,
+        "infected": 35.8974358974359
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002237955110407794,
+        "recovered": 0.0013772031448663347,
+        "deaths": 5.738346436943061e-05,
+        "infected": 0.0008033685011720286
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.022379551104077938,
+        "recovered": 0.013772031448663347,
+        "deaths": 0.0005738346436943061,
+        "infected": 0.008033685011720287
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.22379551104077938,
+        "recovered": 0.13772031448663347,
+        "deaths": 0.005738346436943062,
+        "infected": 0.08033685011720286
+      }
+    },
+    "factbook": {
+      "population": 17426623,
+      "median_age": 16.9,
+      "death_rate": 11.6,
+      "area": 752618
+    },
+    "data_key": "1fbda273db182270f2784d2269c197a7",
+    "day_index_1": 23,
+    "day_index_10": 16,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
   }
 ]

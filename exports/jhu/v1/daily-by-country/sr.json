@@ -636,6 +636,7 @@
         "infected": -33.333333333333336
       },
       "peak_pct": {
+        "recovered": 300,
         "infected": -250
       },
       "relative": {
@@ -674,5 +675,90 @@
     "day_index_peak_confirmed": 13,
     "day_index_peak_deaths": null,
     "day_index_peak": 13
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "ad647895b9b6e36a05921cb045cd3e8c",
+      "type": "total-country",
+      "label": "Suriname",
+      "country": "Suriname",
+      "country_code": "SR",
+      "country_latlong": [
+        4,
+        -56
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        4,
+        -56
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "deaths": 1,
+        "recovered": 4,
+        "infected": 5
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 33.333333333333336,
+        "infected": -16.666666666666668
+      },
+      "peak_pct": {
+        "recovered": 100,
+        "infected": -83.33333333333334
+      },
+      "relative": {
+        "deaths": 10,
+        "recovered": 40,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.016405033720546813,
+        "recovered": 0.006562013488218725,
+        "deaths": 0.0016405033720546813,
+        "infected": 0.008202516860273406
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.16405033720546813,
+        "recovered": 0.06562013488218725,
+        "deaths": 0.016405033720546813,
+        "infected": 0.08202516860273407
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.6405033720546813,
+        "recovered": 0.6562013488218725,
+        "deaths": 0.16405033720546813,
+        "infected": 0.8202516860273407
+      }
+    },
+    "factbook": {
+      "population": 609569,
+      "median_age": 31,
+      "death_rate": 6.2,
+      "area": 163820
+    },
+    "data_key": "8fc8f31d6f11541950c7a2877d275be4",
+    "day_index_1": 27,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 14
   }
 ]

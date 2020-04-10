@@ -5132,6 +5132,33 @@
     ],
     "key": "6ec92d986ce439bd15cefd27c5ed1619"
   },
+  "fde10eb97b90e76762f6b19f9f49d7ab": {
+    "dataset": "jhu/daily",
+    "country": "France",
+    "province": null,
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "fde10eb97b90e76762f6b19f9f49d7ab",
+    "country_original": "France",
+    "province_original": null,
+    "administrative_original": null,
+    "country_code": "FR",
+    "country_latlong": [
+      46,
+      2
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "label": "France",
+    "type": "country",
+    "latlong": [
+      46,
+      2
+    ],
+    "key": "6ec92d986ce439bd15cefd27c5ed1619"
+  },
   "161eb3b48c1b9583d3747a062050c64d": {
     "dataset": "jhu/daily",
     "country": "French Guiana",
@@ -121642,6 +121669,39 @@
     "latlong": [
       44.572,
       -122.0709
+    ],
+    "us_state": {
+      "code": "OR",
+      "name": "Oregon",
+      "population": 4217737,
+      "area": 254799
+    },
+    "label": "United States / Oregon",
+    "key": "b0c8b471419181755516fa4033cc86f7"
+  },
+  "47144ac0c49b5ddd5c7bbdb1b0beeb41": {
+    "dataset": "jhu/daily",
+    "country": "United States",
+    "province": "Oregon",
+    "administrative": null,
+    "province_latlong": null,
+    "administrative_latlong": null,
+    "administrative_fips": null,
+    "key_original": "47144ac0c49b5ddd5c7bbdb1b0beeb41",
+    "country_original": "US",
+    "province_original": "Oregon",
+    "administrative_original": "Unassigned",
+    "country_code": "US",
+    "country_latlong": [
+      38,
+      -97
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "type": "province",
+    "latlong": [
+      38,
+      -97
     ],
     "us_state": {
       "code": "OR",

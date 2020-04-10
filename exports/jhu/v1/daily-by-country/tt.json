@@ -1874,5 +1874,91 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 6,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "baa184084f6e3be352bfed718f01fb6f",
+      "type": "total-country",
+      "label": "Trinidad and Tobago",
+      "country": "Trinidad and Tobago",
+      "country_code": "TT",
+      "country_latlong": [
+        11,
+        -61
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        11,
+        -61
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 109,
+        "deaths": 8,
+        "recovered": 1,
+        "infected": 100
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 1.8691588785046729,
+        "infected": 2.0408163265306123
+      },
+      "peak_pct": {
+        "confirmed": 34.48275862068966,
+        "infected": 35.714285714285715
+      },
+      "relative": {
+        "deaths": 7.339449541284404,
+        "recovered": 0.9174311926605505,
+        "infected": 91.74311926605505
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.09017289204319365,
+        "recovered": 0.0008272742389283821,
+        "deaths": 0.006618193911427057,
+        "infected": 0.0827274238928382
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.9017289204319365,
+        "recovered": 0.00827274238928382,
+        "deaths": 0.06618193911427056,
+        "infected": 0.827274238928382
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.017289204319365,
+        "recovered": 0.08272742389283821,
+        "deaths": 0.6618193911427057,
+        "infected": 8.27274238928382
+      }
+    },
+    "factbook": {
+      "population": 1208789,
+      "median_age": 37.8,
+      "death_rate": 9.1,
+      "area": 5128
+    },
+    "data_key": "7da72ffbceb6d46d45868564342ef0ce",
+    "day_index_1": 27,
+    "day_index_10": 20,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 10
   }
 ]

@@ -65,9 +65,9 @@
     },
     "data_key": "235f2dc740cd70701c68afd0bd577a64",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -8,
+    "day_index_peak_confirmed": -12,
     "day_index_peak_deaths": null,
-    "day_index_peak": -8
+    "day_index_peak": -12
   },
   {
     "dataset": "jhu/series",
@@ -139,9 +139,9 @@
     },
     "data_key": "dd75c3167bda0ec46dc01e29415c66df",
     "day_index_1": 6,
-    "day_index_peak_confirmed": -3,
+    "day_index_peak_confirmed": -7,
     "day_index_peak_deaths": null,
-    "day_index_peak": -3
+    "day_index_peak": -7
   },
   {
     "dataset": "jhu/series",
@@ -213,9 +213,9 @@
     },
     "data_key": "b77caed0f8dee16e769f69f2be221602",
     "day_index_1": 13,
-    "day_index_peak_confirmed": 4,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 4
+    "day_index_peak": 0
   },
   {
     "dataset": "jhu/series",
@@ -287,9 +287,9 @@
     },
     "data_key": "ae1b0eae7dba7fa713fe26143a081ae7",
     "day_index_1": 15,
-    "day_index_peak_confirmed": 6,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 6
+    "day_index_peak": 2
   },
   {
     "dataset": "jhu/series",
@@ -364,9 +364,9 @@
     },
     "data_key": "6d3f3d59ea18ec18278afdcd7038bec5",
     "day_index_1": 16,
-    "day_index_peak_confirmed": 7,
+    "day_index_peak_confirmed": 3,
     "day_index_peak_deaths": null,
-    "day_index_peak": 7
+    "day_index_peak": 3
   },
   {
     "dataset": "jhu/series",
@@ -446,9 +446,9 @@
     },
     "data_key": "6153d7ee8b0335da5d1868838037a50e",
     "day_index_1": 17,
-    "day_index_peak_confirmed": 8,
+    "day_index_peak_confirmed": 4,
     "day_index_peak_deaths": null,
-    "day_index_peak": 8
+    "day_index_peak": 4
   },
   {
     "dataset": "jhu/series",
@@ -530,8 +530,92 @@
     },
     "data_key": "bd826b8db43c2ce0f09dd2afd04d4897",
     "day_index_1": 18,
-    "day_index_peak_confirmed": 9,
+    "day_index_peak_confirmed": 5,
     "day_index_peak_deaths": null,
-    "day_index_peak": 9
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "2ae103a04b4b5c66177d139e6ecabc40",
+      "type": "total-country",
+      "label": "Mauritania",
+      "country": "Mauritania",
+      "country_code": "MR",
+      "country_latlong": [
+        20,
+        -12
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        20,
+        -12
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 7,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 4
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 16.666666666666668,
+        "infected": 33.333333333333336
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 14.285714285714285,
+        "recovered": 28.57142857142857,
+        "infected": 57.14285714285714
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0017476079616025565,
+        "recovered": 0.0004993165604578733,
+        "deaths": 0.00024965828022893667,
+        "infected": 0.0009986331209157467
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.017476079616025566,
+        "recovered": 0.004993165604578733,
+        "deaths": 0.0024965828022893667,
+        "infected": 0.009986331209157467
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.17476079616025564,
+        "recovered": 0.04993165604578734,
+        "deaths": 0.02496582802289367,
+        "infected": 0.09986331209157467
+      }
+    },
+    "factbook": {
+      "population": 4005475,
+      "median_age": 21,
+      "death_rate": 7.5,
+      "area": 1030700
+    },
+    "data_key": "7a0c46e8771ac31e16e73ce27fae8089",
+    "day_index_1": 27,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 14
   }
 ]

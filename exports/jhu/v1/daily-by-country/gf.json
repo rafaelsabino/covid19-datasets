@@ -38,7 +38,7 @@
         "infected": 5
       },
       "peak_pct": {
-        "confirmed": 64.1025641025641,
+        "confirmed": 62.5,
         "infected": 83.33333333333334
       },
       "relative": {
@@ -95,7 +95,7 @@
         "infected": 100
       },
       "peak_pct": {
-        "confirmed": 64.1025641025641,
+        "confirmed": 62.5,
         "infected": 83.33333333333334
       },
       "relative": {
@@ -153,7 +153,7 @@
         "infected": -30
       },
       "peak_pct": {
-        "confirmed": -38.46153846153847,
+        "confirmed": -37.5,
         "infected": -50
       },
       "relative": {
@@ -211,7 +211,7 @@
         "infected": 128.57142857142858
       },
       "peak_pct": {
-        "confirmed": 115.3846153846154,
+        "confirmed": 112.5,
         "infected": 150
       },
       "relative": {
@@ -269,7 +269,7 @@
         "infected": 12.5
       },
       "peak_pct": {
-        "confirmed": 25.641025641025646,
+        "confirmed": 25,
         "infected": 33.33333333333333
       },
       "relative": {
@@ -327,7 +327,7 @@
         "infected": -38.888888888888886
       },
       "peak_pct": {
-        "confirmed": -89.74358974358975,
+        "confirmed": -87.5,
         "infected": -116.66666666666667
       },
       "relative": {
@@ -385,7 +385,7 @@
         "infected": 36.36363636363637
       },
       "peak_pct": {
-        "confirmed": 51.28205128205129,
+        "confirmed": 50,
         "infected": 66.66666666666666
       },
       "relative": {
@@ -445,8 +445,8 @@
         "infected": -20
       },
       "peak_pct": {
-        "confirmed": 38.46153846153847,
-        "recovered": 85.71428571428571,
+        "confirmed": 37.5,
+        "recovered": 81.08108108108108,
         "infected": -50
       },
       "relative": {
@@ -505,7 +505,7 @@
         "infected": 50
       },
       "peak_pct": {
-        "recovered": -85.71428571428571,
+        "recovered": -81.08108108108108,
         "infected": 100
       },
       "relative": {
@@ -565,8 +565,8 @@
         "infected": -22.22222222222222
       },
       "peak_pct": {
-        "confirmed": 25.641025641025646,
-        "recovered": 85.71428571428571,
+        "confirmed": 25,
+        "recovered": 81.08108108108108,
         "infected": -66.66666666666666
       },
       "relative": {
@@ -626,7 +626,7 @@
         "infected": 21.428571428571427
       },
       "peak_pct": {
-        "confirmed": 38.46153846153847,
+        "confirmed": 37.5,
         "infected": 50
       },
       "relative": {
@@ -686,7 +686,7 @@
         "infected": 29.41176470588235
       },
       "peak_pct": {
-        "confirmed": 64.1025641025641,
+        "confirmed": 62.5,
         "infected": 83.33333333333334
       },
       "relative": {
@@ -746,7 +746,7 @@
         "infected": 68.18181818181819
       },
       "peak_pct": {
-        "confirmed": 192.30769230769232,
+        "confirmed": 187.5,
         "infected": 250
       },
       "relative": {
@@ -808,8 +808,8 @@
         "infected": -2.7027027027027026
       },
       "peak_pct": {
-        "confirmed": 102.56410256410258,
-        "recovered": 128.57142857142858,
+        "confirmed": 100,
+        "recovered": 121.62162162162163,
         "infected": -16.666666666666664
       },
       "relative": {
@@ -871,8 +871,8 @@
         "infected": -2.7777777777777777
       },
       "peak_pct": {
-        "confirmed": 76.92307692307693,
-        "recovered": 100,
+        "confirmed": 75,
+        "recovered": 94.5945945945946,
         "infected": -16.666666666666664
       },
       "relative": {
@@ -932,7 +932,7 @@
         "infected": 11.428571428571429
       },
       "peak_pct": {
-        "confirmed": 51.28205128205129,
+        "confirmed": 50,
         "infected": 66.66666666666666
       },
       "relative": {
@@ -994,8 +994,8 @@
         "infected": -2.5641025641025643
       },
       "peak_pct": {
-        "confirmed": 141.02564102564102,
-        "recovered": 171.42857142857142,
+        "confirmed": 137.5,
+        "recovered": 162.16216216216216,
         "infected": -16.666666666666664
       },
       "relative": {
@@ -1055,7 +1055,7 @@
         "infected": 13.157894736842104
       },
       "peak_pct": {
-        "confirmed": 64.1025641025641,
+        "confirmed": 62.5,
         "infected": 83.33333333333334
       },
       "relative": {
@@ -1070,5 +1070,68 @@
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": null,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "110fe8acfdbad6119f0f709515749cf0",
+      "type": "total-country",
+      "label": "French Guiana",
+      "country": "French Guiana",
+      "country_code": "GF",
+      "country_latlong": [
+        4,
+        -53
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        4,
+        -53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 83,
+        "recovered": 43,
+        "infected": 40
+      },
+      "delta": {
+        "confirmed": 6,
+        "recovered": 9,
+        "infected": -3
+      },
+      "delta_pct": {
+        "confirmed": 7.792207792207792,
+        "recovered": 26.470588235294116,
+        "infected": -6.976744186046512
+      },
+      "peak_pct": {
+        "confirmed": 75,
+        "recovered": 121.62162162162163,
+        "infected": -50
+      },
+      "relative": {
+        "recovered": 51.80722891566265,
+        "infected": 48.19277108433735
+      }
+    },
+    "factbook": null,
+    "data_key": "53c86bf22fca58561bd2b2c7f50f601d",
+    "day_index_1": 34,
+    "day_index_10": 27,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 9
   }
 ]

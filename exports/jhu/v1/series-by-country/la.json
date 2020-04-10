@@ -739,5 +739,80 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "7f47750f1eb83af90d449bda7c2c6fad",
+      "type": "total-country",
+      "label": "Laos",
+      "country": "Laos",
+      "country_code": "LA",
+      "country_latlong": [
+        18,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        18,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16,
+        "infected": 16
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 6.666666666666667,
+        "infected": 6.666666666666667
+      },
+      "peak_pct": {
+        "confirmed": 62.5,
+        "infected": 62.5
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0021484019380733884,
+        "infected": 0.0021484019380733884
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.021484019380733882,
+        "infected": 0.021484019380733882
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.21484019380733885,
+        "infected": 0.21484019380733885
+      }
+    },
+    "factbook": {
+      "population": 7447396,
+      "median_age": 24,
+      "death_rate": 7.2,
+      "area": 236800
+    },
+    "data_key": "545550c5af02e15840629bac0f199476",
+    "day_index_1": 17,
+    "day_index_10": 9,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 7
   }
 ]

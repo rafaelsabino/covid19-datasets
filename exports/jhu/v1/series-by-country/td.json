@@ -65,9 +65,9 @@
     },
     "data_key": "af4ae12b0f8dc69cad8e46463a504274",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -13,
+    "day_index_peak_confirmed": -14,
     "day_index_peak_deaths": null,
-    "day_index_peak": -13
+    "day_index_peak": -14
   },
   {
     "dataset": "jhu/series",
@@ -139,9 +139,9 @@
     },
     "data_key": "fa9a39e4a9462d5d65c7250689267de6",
     "day_index_1": 6,
-    "day_index_peak_confirmed": -8,
+    "day_index_peak_confirmed": -9,
     "day_index_peak_deaths": null,
-    "day_index_peak": -8
+    "day_index_peak": -9
   },
   {
     "dataset": "jhu/series",
@@ -213,9 +213,9 @@
     },
     "data_key": "36d06022dc8289790e7bdf8cbb19a60f",
     "day_index_1": 12,
-    "day_index_peak_confirmed": -2,
+    "day_index_peak_confirmed": -3,
     "day_index_peak_deaths": null,
-    "day_index_peak": -2
+    "day_index_peak": -3
   },
   {
     "dataset": "jhu/series",
@@ -287,9 +287,9 @@
     },
     "data_key": "69f66437039652de563296441a29aed1",
     "day_index_1": 13,
-    "day_index_peak_confirmed": -1,
+    "day_index_peak_confirmed": -2,
     "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/series",
@@ -361,9 +361,9 @@
     },
     "data_key": "ca22f63c9ac503137d8d9cc57e84ef7b",
     "day_index_1": 15,
-    "day_index_peak_confirmed": 1,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 1
+    "day_index_peak": 0
   },
   {
     "dataset": "jhu/series",
@@ -435,9 +435,9 @@
     },
     "data_key": "be78122fb7279c9a6b11ce75a1231cf8",
     "day_index_1": 17,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 2
   },
   {
     "dataset": "jhu/series",
@@ -516,8 +516,88 @@
     "data_key": "cfa156a3e20ae21c609b3a9a2f630e36",
     "day_index_1": 20,
     "day_index_10": 1,
-    "day_index_peak_confirmed": 6,
+    "day_index_peak_confirmed": 5,
     "day_index_peak_deaths": null,
-    "day_index_peak": 6
+    "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "bb3b0458437e9ed52b37031fd93f9458",
+      "type": "total-country",
+      "label": "Chad",
+      "country": "Chad",
+      "country_code": "TD",
+      "country_latlong": [
+        15,
+        19
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        19
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11,
+        "recovered": 2,
+        "infected": 9
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 10,
+        "infected": 12.5
+      },
+      "peak_pct": {
+        "confirmed": 71.42857142857143,
+        "infected": 71.42857142857143
+      },
+      "relative": {
+        "recovered": 18.181818181818183,
+        "infected": 81.81818181818183
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.000651760817763113,
+        "recovered": 0.00011850196686602055,
+        "infected": 0.0005332588508970925
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.00651760817763113,
+        "recovered": 0.0011850196686602056,
+        "infected": 0.0053325885089709245
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.0651760817763113,
+        "recovered": 0.011850196686602055,
+        "infected": 0.05332588508970925
+      }
+    },
+    "factbook": {
+      "population": 16877357,
+      "median_age": 16.1,
+      "death_rate": 10,
+      "area": 1284000
+    },
+    "data_key": "dcc7339b5713ff903a4fd5aeb6450321",
+    "day_index_1": 22,
+    "day_index_10": 3,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 7
   }
 ]

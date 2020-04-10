@@ -2311,5 +2311,86 @@
     "day_index_peak_confirmed": 18,
     "day_index_peak_deaths": null,
     "day_index_peak": 18
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "dd9bb4f2e800bc016af0187b8a684791",
+      "type": "total-country",
+      "label": "Faroe Islands",
+      "country": "Faroe Islands",
+      "country_code": "FO",
+      "country_latlong": [
+        62,
+        -7
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        62,
+        -7
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 184,
+        "recovered": 136,
+        "infected": 48
+      },
+      "delta": {
+        "recovered": 5,
+        "infected": -5
+      },
+      "delta_pct": {
+        "recovered": 3.816793893129771,
+        "infected": -9.433962264150944
+      },
+      "peak_pct": {
+        "recovered": 41.66666666666667,
+        "infected": -36.76470588235294
+      },
+      "relative": {
+        "recovered": 73.91304347826086,
+        "infected": 26.08695652173913
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.5639575424188426,
+        "recovered": 2.6342294878747965,
+        "infected": 0.9297280545440458
+      },
+      "absolute_pop10k": {
+        "confirmed": 35.63957542418842,
+        "recovered": 26.342294878747964,
+        "infected": 9.297280545440458
+      },
+      "absolute_pop100k": {
+        "confirmed": 356.3957542418843,
+        "recovered": 263.42294878747964,
+        "infected": 92.97280545440458
+      }
+    },
+    "factbook": {
+      "population": 51628,
+      "median_age": 37.2,
+      "death_rate": 8.8,
+      "area": 1393
+    },
+    "data_key": "09de51396b17fd755239c26adcaf094b",
+    "day_index_1": 37,
+    "day_index_10": 26,
+    "day_index_100": 19,
+    "day_index_peak_confirmed": 19,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 19
   }
 ]

@@ -2549,5 +2549,92 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": 4,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "b0516adebd031e618d4a9f437c81d468",
+      "type": "total-country",
+      "label": "South Africa",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "country_latlong": [
+        -29,
+        24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "administrative": null,
+      "latlong": [
+        -29,
+        24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 9,
+      "date": "2020-04-09",
+      "timestamp": 1586394000,
+      "index": 79
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1934,
+        "deaths": 18,
+        "recovered": 95,
+        "infected": 1821
+      },
+      "delta": {
+        "confirmed": 89,
+        "infected": 89
+      },
+      "delta_pct": {
+        "confirmed": 4.823848238482385,
+        "infected": 5.138568129330254
+      },
+      "peak_pct": {
+        "confirmed": 59.412550066755664,
+        "infected": 60.544217687074834
+      },
+      "relative": {
+        "deaths": 0.9307135470527405,
+        "recovered": 4.912099276111686,
+        "infected": 94.15718717683558
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.0342521450582948,
+        "recovered": 0.0016824993694612232,
+        "deaths": 0.00031878935421370545,
+        "infected": 0.03225085633461987
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.342521450582948,
+        "recovered": 0.016824993694612232,
+        "deaths": 0.0031878935421370547,
+        "infected": 0.3225085633461987
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.4252145058294796,
+        "recovered": 0.1682499369461223,
+        "deaths": 0.03187893542137055,
+        "infected": 3.225085633461987
+      }
+    },
+    "factbook": {
+      "population": 56463617,
+      "median_age": 28,
+      "death_rate": 9.3,
+      "area": 1219090
+    },
+    "data_key": "3e99d9440f3060f4a8fa6d6776bdf3f5",
+    "day_index_1": 36,
+    "day_index_10": 30,
+    "day_index_100": 23,
+    "day_index_1k": 14,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 9
   }
 ]

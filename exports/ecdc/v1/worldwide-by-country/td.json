@@ -77,9 +77,9 @@
     },
     "data_key": "0d9681499541ecca98fa08170f905850",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -13,
+    "day_index_peak_confirmed": -16,
     "day_index_peak_deaths": null,
-    "day_index_peak": -13
+    "day_index_peak": -16
   },
   {
     "dataset": "ecdc/worldwide",
@@ -163,9 +163,9 @@
     },
     "data_key": "1ca0c6bc5dd774b7b8a0ab181a5085b5",
     "day_index_1": 3,
-    "day_index_peak_confirmed": -11,
+    "day_index_peak_confirmed": -14,
     "day_index_peak_deaths": null,
-    "day_index_peak": -11
+    "day_index_peak": -14
   },
   {
     "dataset": "ecdc/worldwide",
@@ -249,9 +249,9 @@
     },
     "data_key": "d6530031d77715ed92ea9f3e5338e992",
     "day_index_1": 6,
-    "day_index_peak_confirmed": -8,
+    "day_index_peak_confirmed": -11,
     "day_index_peak_deaths": null,
-    "day_index_peak": -8
+    "day_index_peak": -11
   },
   {
     "dataset": "ecdc/worldwide",
@@ -335,9 +335,9 @@
     },
     "data_key": "ae91af5cf88d5b6a54376da916d0fcb6",
     "day_index_1": 8,
-    "day_index_peak_confirmed": -6,
+    "day_index_peak_confirmed": -9,
     "day_index_peak_deaths": null,
-    "day_index_peak": -6
+    "day_index_peak": -9
   },
   {
     "dataset": "ecdc/worldwide",
@@ -421,9 +421,9 @@
     },
     "data_key": "d311db92af88f202880a7dbe9ee6c00d",
     "day_index_1": 12,
-    "day_index_peak_confirmed": -2,
+    "day_index_peak_confirmed": -5,
     "day_index_peak_deaths": null,
-    "day_index_peak": -2
+    "day_index_peak": -5
   },
   {
     "dataset": "ecdc/worldwide",
@@ -507,9 +507,9 @@
     },
     "data_key": "e04dfc6946102ca0376487d342c7f55a",
     "day_index_1": 17,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 0
   },
   {
     "dataset": "ecdc/worldwide",
@@ -593,9 +593,9 @@
     },
     "data_key": "a675b4f444641cfa00966056cf10e215",
     "day_index_1": 18,
-    "day_index_peak_confirmed": 4,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 4
+    "day_index_peak": 1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -680,8 +680,95 @@
     "data_key": "75ef217528b967debe2970cc732b0d47",
     "day_index_1": 21,
     "day_index_10": 1,
-    "day_index_peak_confirmed": 7,
+    "day_index_peak_confirmed": 4,
     "day_index_peak_deaths": null,
-    "day_index_peak": 7
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "bb3b0458437e9ed52b37031fd93f9458",
+      "type": "total-country",
+      "label": "Chad",
+      "country": "Chad",
+      "country_code": "TD",
+      "country_latlong": [
+        15,
+        19
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        15,
+        19
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 11,
+        "infected": 11
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 10,
+        "infected": 10
+      },
+      "peak_pct": {
+        "confirmed": 83.333,
+        "infected": 83.333
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007,
+        "infected": 0.007
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.065,
+        "infected": 0.065
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.006,
+        "infected": 0.006
+      }
+    },
+    "factbook": {
+      "population": 16877357,
+      "median_age": 16.1,
+      "death_rate": 10,
+      "area": 1284000
+    },
+    "data_key": "4b971b40b2334a237f99a6bc29f73df9",
+    "day_index_1": 22,
+    "day_index_10": 2,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
   }
 ]

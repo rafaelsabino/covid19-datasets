@@ -1283,5 +1283,98 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": 11,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "3c18210f99cdfd13cba935ad1d3ac890",
+      "type": "total-country",
+      "label": "Jersey",
+      "country": "Jersey",
+      "country_code": "JE",
+      "country_latlong": [
+        49.25,
+        -2.16666666
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        49.25,
+        -2.16666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 183,
+        "deaths": 3,
+        "infected": 180
+      },
+      "delta": {
+        "confirmed": 13,
+        "infected": 13
+      },
+      "delta_pct": {
+        "confirmed": 7.647,
+        "infected": 7.784
+      },
+      "peak_pct": {
+        "confirmed": 66.327,
+        "infected": 67.01
+      },
+      "relative": {
+        "deaths": 1.639,
+        "infected": 98.361
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.811,
+        "deaths": 0.03,
+        "infected": 1.781
+      },
+      "absolute_pop10k": {
+        "confirmed": 18.106,
+        "deaths": 0.297,
+        "infected": 17.809
+      },
+      "absolute_pop100k": {
+        "confirmed": 181.057,
+        "deaths": 2.968,
+        "infected": 178.089
+      },
+      "delta_pop1k": {
+        "confirmed": 0.129,
+        "infected": 0.129
+      },
+      "delta_pop10k": {
+        "confirmed": 1.286,
+        "infected": 1.286
+      },
+      "delta_pop100k": {
+        "confirmed": 12.862,
+        "infected": 12.862
+      }
+    },
+    "factbook": {
+      "population": 101073,
+      "median_age": 37.5,
+      "death_rate": 7.9,
+      "area": 116
+    },
+    "data_key": "bb808c074c8ca4bb0a15875bfb4fc2de",
+    "day_index_1": 22,
+    "day_index_10": 21,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 13,
+    "day_index_peak": 11
   }
 ]

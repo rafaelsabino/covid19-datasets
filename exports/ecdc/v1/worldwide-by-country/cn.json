@@ -8867,5 +8867,106 @@
     "day_index_peak_confirmed": 62,
     "day_index_peak_deaths": 50,
     "day_index_peak": 56
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "7f65b40cf52df9cc5e1143cd5878213c",
+      "type": "total-country",
+      "label": "China",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        35,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 82925,
+        "deaths": 3340,
+        "infected": 79585
+      },
+      "delta": {
+        "confirmed": 55,
+        "deaths": 1,
+        "infected": 54
+      },
+      "delta_pct": {
+        "confirmed": 0.066,
+        "infected": 0.068,
+        "deaths": 0.03
+      },
+      "peak_pct": {
+        "confirmed": 1.494,
+        "deaths": 0.723,
+        "infected": 1.491
+      },
+      "relative": {
+        "deaths": 4.028,
+        "infected": 95.972
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.059,
+        "deaths": 0.002,
+        "infected": 0.057
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.595,
+        "deaths": 0.024,
+        "infected": 0.571
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.949,
+        "deaths": 0.24,
+        "infected": 5.709
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "deaths": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "deaths": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.004,
+        "deaths": 0,
+        "infected": 0.004
+      }
+    },
+    "factbook": {
+      "population": 1394015977,
+      "median_age": 38.4,
+      "death_rate": 8.2,
+      "area": 9596960
+    },
+    "data_key": "f1fc1224955d4e51340e9d7bb3057697",
+    "day_index_1": 102,
+    "day_index_10": 102,
+    "day_index_100": 83,
+    "day_index_1k": 77,
+    "day_index_10k": 70,
+    "day_index_peak_confirmed": 63,
+    "day_index_peak_deaths": 51,
+    "day_index_peak": 57
   }
 ]

@@ -2083,5 +2083,98 @@
     "day_index_peak_confirmed": 3,
     "day_index_peak_deaths": 10,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "b6bbceb0fa8a2a9207d19135ca135679",
+      "type": "total-country",
+      "label": "Uzbekistan",
+      "country": "Uzbekistan",
+      "country_code": "UZ",
+      "country_latlong": [
+        41,
+        64
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "administrative": null,
+      "latlong": [
+        41,
+        64
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 582,
+        "deaths": 3,
+        "infected": 579
+      },
+      "delta": {
+        "confirmed": 27,
+        "infected": 27
+      },
+      "delta_pct": {
+        "confirmed": 4.865,
+        "infected": 4.891
+      },
+      "peak_pct": {
+        "confirmed": 52.326,
+        "infected": 52.529
+      },
+      "relative": {
+        "deaths": 0.515,
+        "infected": 99.485
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.019,
+        "deaths": 0,
+        "infected": 0.019
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.19,
+        "deaths": 0.001,
+        "infected": 0.189
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.904,
+        "deaths": 0.01,
+        "infected": 1.894
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.009,
+        "infected": 0.009
+      },
+      "delta_pop100k": {
+        "confirmed": 0.088,
+        "infected": 0.088
+      }
+    },
+    "factbook": {
+      "population": 30565411,
+      "median_age": 30.1,
+      "death_rate": 5.4,
+      "area": 447400
+    },
+    "data_key": "eb68805be98dcbcbb61302e167160f5b",
+    "day_index_1": 26,
+    "day_index_10": 24,
+    "day_index_100": 14,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 7
   }
 ]

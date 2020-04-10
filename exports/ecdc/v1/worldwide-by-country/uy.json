@@ -2270,5 +2270,98 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": 5,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "d54b28d43af22b349a67117b235a305a",
+      "type": "total-country",
+      "label": "Uruguay",
+      "country": "Uruguay",
+      "country_code": "UY",
+      "country_latlong": [
+        -33,
+        -56
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        -33,
+        -56
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 473,
+        "deaths": 7,
+        "infected": 466
+      },
+      "delta": {
+        "confirmed": 17,
+        "infected": 17
+      },
+      "delta_pct": {
+        "confirmed": 3.728,
+        "infected": 3.786
+      },
+      "peak_pct": {
+        "confirmed": 57.823,
+        "infected": 58.621
+      },
+      "relative": {
+        "deaths": 1.48,
+        "infected": 98.52
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.14,
+        "deaths": 0.002,
+        "infected": 0.138
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.396,
+        "deaths": 0.021,
+        "infected": 1.376
+      },
+      "absolute_pop100k": {
+        "confirmed": 13.963,
+        "deaths": 0.207,
+        "infected": 13.756
+      },
+      "delta_pop1k": {
+        "confirmed": 0.005,
+        "infected": 0.005
+      },
+      "delta_pop10k": {
+        "confirmed": 0.05,
+        "infected": 0.05
+      },
+      "delta_pop100k": {
+        "confirmed": 0.502,
+        "infected": 0.502
+      }
+    },
+    "factbook": {
+      "population": 3387605,
+      "median_age": 35.5,
+      "death_rate": 9.3,
+      "area": 176215
+    },
+    "data_key": "ae2d70b90acb9c8a607ecd66ac8c5fa0",
+    "day_index_1": 27,
+    "day_index_10": 25,
+    "day_index_100": 21,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 9
   }
 ]

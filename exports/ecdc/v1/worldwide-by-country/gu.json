@@ -2017,5 +2017,98 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": 12,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "25da86b59ddddafe2d474111d6515b8c",
+      "type": "total-country",
+      "label": "Guam",
+      "country": "Guam",
+      "country_code": "GU",
+      "country_latlong": [
+        13.46666666,
+        144.78333333
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "administrative": null,
+      "latlong": [
+        13.46666666,
+        144.78333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 128,
+        "deaths": 4,
+        "infected": 124
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 2.4,
+        "infected": 2.479
+      },
+      "peak_pct": {
+        "confirmed": 29.412,
+        "infected": 30
+      },
+      "relative": {
+        "deaths": 3.125,
+        "infected": 96.875
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.76,
+        "deaths": 0.024,
+        "infected": 0.736
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.597,
+        "deaths": 0.237,
+        "infected": 7.36
+      },
+      "absolute_pop100k": {
+        "confirmed": 75.971,
+        "deaths": 2.374,
+        "infected": 73.597
+      },
+      "delta_pop1k": {
+        "confirmed": 0.018,
+        "infected": 0.018
+      },
+      "delta_pop10k": {
+        "confirmed": 0.178,
+        "infected": 0.178
+      },
+      "delta_pop100k": {
+        "confirmed": 1.781,
+        "infected": 1.781
+      }
+    },
+    "factbook": {
+      "population": 168485,
+      "median_age": 29.4,
+      "death_rate": 6,
+      "area": 544
+    },
+    "data_key": "97f4c765df55c4fbbb8e4ab6198b620e",
+    "day_index_1": 23,
+    "day_index_10": 22,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 13,
+    "day_index_peak": 13
   }
 ]

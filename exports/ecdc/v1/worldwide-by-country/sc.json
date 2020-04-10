@@ -77,9 +77,9 @@
     },
     "data_key": "0ca0f50b09a03108daf92e670b8874f7",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -9,
+    "day_index_peak_confirmed": -5,
     "day_index_peak_deaths": null,
-    "day_index_peak": -9
+    "day_index_peak": -5
   },
   {
     "dataset": "ecdc/worldwide",
@@ -163,9 +163,9 @@
     },
     "data_key": "0a0363294485efc4b3864d4c3e810190",
     "day_index_1": 2,
-    "day_index_peak_confirmed": -8,
+    "day_index_peak_confirmed": -4,
     "day_index_peak_deaths": null,
-    "day_index_peak": -8
+    "day_index_peak": -4
   },
   {
     "dataset": "ecdc/worldwide",
@@ -249,9 +249,9 @@
     },
     "data_key": "ff8b7698fdf5660a14314a0cccc7a9a4",
     "day_index_1": 3,
-    "day_index_peak_confirmed": -7,
+    "day_index_peak_confirmed": -3,
     "day_index_peak_deaths": null,
-    "day_index_peak": -7
+    "day_index_peak": -3
   },
   {
     "dataset": "ecdc/worldwide",
@@ -335,9 +335,9 @@
     },
     "data_key": "a12798fe22e1699a3be73d52917d5376",
     "day_index_1": 5,
-    "day_index_peak_confirmed": -5,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": null,
-    "day_index_peak": -5
+    "day_index_peak": -1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -421,9 +421,9 @@
     },
     "data_key": "30fcf084249c5fa46423254aa11cd199",
     "day_index_1": 7,
-    "day_index_peak_confirmed": -3,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": -3
+    "day_index_peak": 1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -507,9 +507,9 @@
     },
     "data_key": "bc1c6217a287fcb23698d036ef9b3ebe",
     "day_index_1": 16,
-    "day_index_peak_confirmed": 6,
+    "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": null,
-    "day_index_peak": 6
+    "day_index_peak": 10
   },
   {
     "dataset": "ecdc/worldwide",
@@ -594,95 +594,8 @@
     "data_key": "460d1128967b3734f85b82ef17824e38",
     "day_index_1": 17,
     "day_index_10": 1,
-    "day_index_peak_confirmed": 7,
+    "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": null,
-    "day_index_peak": 7
-  },
-  {
-    "dataset": "ecdc/worldwide",
-    "location": {
-      "key": "e7f609b3ddb96b2b6212533f0e854041",
-      "type": "total-country",
-      "label": "Seychelles",
-      "country": "Seychelles",
-      "country_code": "SC",
-      "country_latlong": [
-        -4.58333333,
-        55.66666666
-      ],
-      "province": null,
-      "region": "Africa",
-      "subregion": "Eastern Africa",
-      "administrative": null,
-      "latlong": [
-        -4.58333333,
-        55.66666666
-      ]
-    },
-    "date": {
-      "year": 2020,
-      "month": 4,
-      "day": 7,
-      "date": "2020-04-07",
-      "timestamp": 1586221200,
-      "index": 99
-    },
-    "values": {
-      "absolute": {
-        "confirmed": 11,
-        "infected": 11
-      },
-      "delta": {
-        "confirmed": 1,
-        "infected": 1
-      },
-      "delta_pct": {
-        "confirmed": 10,
-        "infected": 10
-      },
-      "peak_pct": {
-        "confirmed": 71.429,
-        "infected": 71.429
-      },
-      "relative": {
-        "infected": 100
-      },
-      "absolute_pop1k": {
-        "confirmed": 0.115,
-        "infected": 0.115
-      },
-      "absolute_pop10k": {
-        "confirmed": 1.146,
-        "infected": 1.146
-      },
-      "absolute_pop100k": {
-        "confirmed": 11.461,
-        "infected": 11.461
-      },
-      "delta_pop1k": {
-        "confirmed": 0.01,
-        "infected": 0.01
-      },
-      "delta_pop10k": {
-        "confirmed": 0.104,
-        "infected": 0.104
-      },
-      "delta_pop100k": {
-        "confirmed": 1.042,
-        "infected": 1.042
-      }
-    },
-    "factbook": {
-      "population": 95981,
-      "median_age": 36.8,
-      "death_rate": 7.1,
-      "area": 455
-    },
-    "data_key": "6a04f5ca478fe26fc6645b7cf171b9af",
-    "day_index_1": 24,
-    "day_index_10": 8,
-    "day_index_peak_confirmed": 14,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 14
+    "day_index_peak": 11
   }
 ]

@@ -3550,5 +3550,99 @@
     "day_index_peak_confirmed": 14,
     "day_index_peak_deaths": 14,
     "day_index_peak": 14
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "4828c0d2d39c20b15be5bdab32770990",
+      "type": "total-country",
+      "label": "Iceland",
+      "country": "Iceland",
+      "country_code": "IS",
+      "country_latlong": [
+        65,
+        -18
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        65,
+        -18
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1648,
+        "deaths": 6,
+        "infected": 1642
+      },
+      "delta": {
+        "confirmed": 32,
+        "infected": 32
+      },
+      "delta_pct": {
+        "confirmed": 1.98,
+        "infected": 1.988
+      },
+      "peak_pct": {
+        "confirmed": 36.613,
+        "infected": 36.697
+      },
+      "relative": {
+        "deaths": 0.364,
+        "infected": 99.636
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.699,
+        "deaths": 0.017,
+        "infected": 4.682
+      },
+      "absolute_pop10k": {
+        "confirmed": 46.987,
+        "deaths": 0.171,
+        "infected": 46.816
+      },
+      "absolute_pop100k": {
+        "confirmed": 469.872,
+        "deaths": 1.711,
+        "infected": 468.161
+      },
+      "delta_pop1k": {
+        "confirmed": 0.091,
+        "infected": 0.091
+      },
+      "delta_pop10k": {
+        "confirmed": 0.912,
+        "infected": 0.912
+      },
+      "delta_pop100k": {
+        "confirmed": 9.124,
+        "infected": 9.124
+      }
+    },
+    "factbook": {
+      "population": 350734,
+      "median_age": 37.1,
+      "death_rate": 6.6,
+      "area": 103000
+    },
+    "data_key": "aa72704d31855fad857b6a26269260e1",
+    "day_index_1": 42,
+    "day_index_10": 38,
+    "day_index_100": 29,
+    "day_index_1k": 12,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": 15,
+    "day_index_peak": 15
   }
 ]

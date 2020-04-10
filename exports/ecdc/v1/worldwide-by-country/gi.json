@@ -1303,5 +1303,93 @@
     "day_index_peak_confirmed": 13,
     "day_index_peak_deaths": null,
     "day_index_peak": 13
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 123,
+        "infected": 123
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 2.5,
+        "infected": 2.5
+      },
+      "peak_pct": {
+        "confirmed": 25.862,
+        "infected": 25.862
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.158,
+        "infected": 4.158
+      },
+      "absolute_pop10k": {
+        "confirmed": 41.581,
+        "infected": 41.581
+      },
+      "absolute_pop100k": {
+        "confirmed": 415.807,
+        "infected": 415.807
+      },
+      "delta_pop1k": {
+        "confirmed": 0.101,
+        "infected": 0.101
+      },
+      "delta_pop10k": {
+        "confirmed": 1.014,
+        "infected": 1.014
+      },
+      "delta_pop100k": {
+        "confirmed": 10.142,
+        "infected": 10.142
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "b87027dd5ada0c7a12bc26057c32d6dd",
+    "day_index_1": 22,
+    "day_index_10": 22,
+    "day_index_100": 5,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 14
   }
 ]

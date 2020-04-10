@@ -2505,5 +2505,98 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 7,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "b580d5dc7d6b597440be74bc898ce295",
+      "type": "total-country",
+      "label": "Lithuania",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "country_latlong": [
+        56,
+        24
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        56,
+        24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 955,
+        "deaths": 15,
+        "infected": 940
+      },
+      "delta": {
+        "confirmed": 43,
+        "infected": 43
+      },
+      "delta_pct": {
+        "confirmed": 4.715,
+        "infected": 4.794
+      },
+      "peak_pct": {
+        "confirmed": 64.955,
+        "infected": 65.749
+      },
+      "relative": {
+        "deaths": 1.571,
+        "infected": 98.429
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.35,
+        "deaths": 0.005,
+        "infected": 0.344
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.496,
+        "deaths": 0.055,
+        "infected": 3.441
+      },
+      "absolute_pop100k": {
+        "confirmed": 34.963,
+        "deaths": 0.549,
+        "infected": 34.414
+      },
+      "delta_pop1k": {
+        "confirmed": 0.016,
+        "infected": 0.016
+      },
+      "delta_pop10k": {
+        "confirmed": 0.157,
+        "infected": 0.157
+      },
+      "delta_pop100k": {
+        "confirmed": 1.574,
+        "infected": 1.574
+      }
+    },
+    "factbook": {
+      "population": 2731464,
+      "median_age": 44.5,
+      "death_rate": 15,
+      "area": 65300
+    },
+    "data_key": "5ffe0840bde1ba3835cddb47d94366a2",
+    "day_index_1": 43,
+    "day_index_10": 26,
+    "day_index_100": 20,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 9
   }
 ]

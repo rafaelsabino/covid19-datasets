@@ -2101,5 +2101,97 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": null,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "3a16c48748865b2821661bea3fee2d76",
+      "type": "total-country",
+      "label": "Monaco",
+      "country": "Monaco",
+      "country_code": "MC",
+      "country_latlong": [
+        43.73333333,
+        7.4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        43.73333333,
+        7.4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 84,
+        "deaths": 2,
+        "infected": 82
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 3.704,
+        "infected": 3.797
+      },
+      "peak_pct": {
+        "confirmed": 55.556,
+        "infected": 55.556
+      },
+      "relative": {
+        "deaths": 2.381,
+        "infected": 97.619
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.154,
+        "deaths": 0.051,
+        "infected": 2.103
+      },
+      "absolute_pop10k": {
+        "confirmed": 21.538,
+        "deaths": 0.513,
+        "infected": 21.026
+      },
+      "absolute_pop100k": {
+        "confirmed": 215.385,
+        "deaths": 5.128,
+        "infected": 210.256
+      },
+      "delta_pop1k": {
+        "confirmed": 0.077,
+        "infected": 0.077
+      },
+      "delta_pop10k": {
+        "confirmed": 0.769,
+        "infected": 0.769
+      },
+      "delta_pop100k": {
+        "confirmed": 7.692,
+        "infected": 7.692
+      }
+    },
+    "factbook": {
+      "population": 39000,
+      "median_age": 55.4,
+      "death_rate": 10.8,
+      "area": 2
+    },
+    "data_key": "55c6ca9a9cda9a74d8c98357156402ec",
+    "day_index_1": 42,
+    "day_index_10": 22,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
   }
 ]

@@ -2378,5 +2378,104 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": 5,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "73e8b0a3a896a6fd24e47242b43e734c",
+      "type": "total-country",
+      "label": "Bolivia",
+      "country": "Bolivia",
+      "country_code": "BO",
+      "country_latlong": [
+        -17,
+        -65
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        -17,
+        -65
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 268,
+        "deaths": 19,
+        "infected": 249
+      },
+      "delta": {
+        "confirmed": 4,
+        "deaths": 1,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 1.515,
+        "infected": 1.22,
+        "deaths": 5.556
+      },
+      "peak_pct": {
+        "confirmed": 20.619,
+        "deaths": 45.455,
+        "infected": 16.129
+      },
+      "relative": {
+        "deaths": 7.09,
+        "infected": 92.91
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.023,
+        "deaths": 0.002,
+        "infected": 0.021
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.23,
+        "deaths": 0.016,
+        "infected": 0.214
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.302,
+        "deaths": 0.163,
+        "infected": 2.139
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "deaths": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.003,
+        "deaths": 0.001,
+        "infected": 0.003
+      },
+      "delta_pop100k": {
+        "confirmed": 0.034,
+        "deaths": 0.009,
+        "infected": 0.026
+      }
+    },
+    "factbook": {
+      "population": 11639909,
+      "median_age": 25.3,
+      "death_rate": 6.3,
+      "area": 1098581
+    },
+    "data_key": "8b941565bfc0e11416185e40947a3b9c",
+    "day_index_1": 30,
+    "day_index_10": 28,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 7
   }
 ]

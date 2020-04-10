@@ -37,6 +37,10 @@
         "confirmed": 1,
         "infected": 1
       },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
       "relative": {
         "infected": 100
       },
@@ -73,8 +77,94 @@
     },
     "data_key": "f4a0fed0d2205ad0cbd40180326232d0",
     "day_index_1": 1,
-    "day_index_peak_confirmed": null,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": null
+    "day_index_peak": 0
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "77dc3efd9317ef83041822d4d2f2dbaf",
+      "type": "total-country",
+      "label": "Timor-Leste",
+      "country": "Timor-Leste",
+      "country_code": "TL",
+      "country_latlong": [
+        -8.83333333,
+        125.91666666
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        -8.83333333,
+        125.91666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.014,
+        "infected": 0.014
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.145,
+        "infected": 0.145
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.007,
+        "infected": 0.007
+      },
+      "delta_pop100k": {
+        "confirmed": 0.072,
+        "infected": 0.072
+      }
+    },
+    "factbook": {
+      "population": 1383723,
+      "median_age": 19.6,
+      "death_rate": 5.7,
+      "area": 14874
+    },
+    "data_key": "30358ef8f11baa3e4f35d52644935b93",
+    "day_index_1": 20,
+    "day_index_peak_confirmed": 19,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 19
   }
 ]

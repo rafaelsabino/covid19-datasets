@@ -77,9 +77,9 @@
     },
     "data_key": "6df1032bfa44eae45ea645d7ff6e8d2e",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -8,
+    "day_index_peak_confirmed": -11,
     "day_index_peak_deaths": null,
-    "day_index_peak": -8
+    "day_index_peak": -11
   },
   {
     "dataset": "ecdc/worldwide",
@@ -163,9 +163,9 @@
     },
     "data_key": "ff3563c47eb663621bf99e2baa696bcc",
     "day_index_1": 3,
-    "day_index_peak_confirmed": -6,
+    "day_index_peak_confirmed": -9,
     "day_index_peak_deaths": null,
-    "day_index_peak": -6
+    "day_index_peak": -9
   },
   {
     "dataset": "ecdc/worldwide",
@@ -249,9 +249,9 @@
     },
     "data_key": "e6e72cf922875f2d52f41bae7bf8b19b",
     "day_index_1": 4,
-    "day_index_peak_confirmed": -5,
+    "day_index_peak_confirmed": -8,
     "day_index_peak_deaths": null,
-    "day_index_peak": -5
+    "day_index_peak": -8
   },
   {
     "dataset": "ecdc/worldwide",
@@ -336,9 +336,9 @@
     "data_key": "ca713eff8aab282bee890f4b3cf06b6a",
     "day_index_1": 5,
     "day_index_10": 1,
-    "day_index_peak_confirmed": -4,
+    "day_index_peak_confirmed": -7,
     "day_index_peak_deaths": null,
-    "day_index_peak": -4
+    "day_index_peak": -7
   },
   {
     "dataset": "ecdc/worldwide",
@@ -423,9 +423,9 @@
     "data_key": "2305246d909bc2b606cb6dce42ab2810",
     "day_index_1": 11,
     "day_index_10": 7,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak": -1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -510,9 +510,9 @@
     "data_key": "14ada8a1b43505561afb3ea96896d44e",
     "day_index_1": 13,
     "day_index_10": 9,
-    "day_index_peak_confirmed": 4,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 4
+    "day_index_peak": 1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -597,6 +597,93 @@
     "data_key": "b4ff5b840a10c5d68c8345789ae71249",
     "day_index_1": 16,
     "day_index_10": 12,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "df4f0c4e0756200ea30e0b2feb315645",
+      "type": "total-country",
+      "label": "Dominica",
+      "country": "Dominica",
+      "country_code": "DM",
+      "country_latlong": [
+        15.41666666,
+        -61.33333333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        15.41666666,
+        -61.33333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 16,
+        "infected": 16
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 6.667,
+        "infected": 6.667
+      },
+      "peak_pct": {
+        "confirmed": 55.556,
+        "infected": 55.556
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.216,
+        "infected": 0.216
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.155,
+        "infected": 2.155
+      },
+      "absolute_pop100k": {
+        "confirmed": 21.551,
+        "infected": 21.551
+      },
+      "delta_pop1k": {
+        "confirmed": 0.013,
+        "infected": 0.013
+      },
+      "delta_pop10k": {
+        "confirmed": 0.135,
+        "infected": 0.135
+      },
+      "delta_pop100k": {
+        "confirmed": 1.347,
+        "infected": 1.347
+      }
+    },
+    "factbook": {
+      "population": 74243,
+      "median_age": 34.9,
+      "death_rate": 8,
+      "area": 751
+    },
+    "data_key": "a8009b386ea453f9e46287bf24fdab0c",
+    "day_index_1": 19,
+    "day_index_10": 15,
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": null,
     "day_index_peak": 7

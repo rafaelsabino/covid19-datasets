@@ -2932,5 +2932,99 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": 7,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "b0516adebd031e618d4a9f437c81d468",
+      "type": "total-country",
+      "label": "South Africa",
+      "country": "South Africa",
+      "country_code": "ZA",
+      "country_latlong": [
+        -29,
+        24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "administrative": null,
+      "latlong": [
+        -29,
+        24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 102
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1934,
+        "deaths": 18,
+        "infected": 1916
+      },
+      "delta": {
+        "confirmed": 89,
+        "infected": 89
+      },
+      "delta_pct": {
+        "confirmed": 4.824,
+        "infected": 4.871
+      },
+      "peak_pct": {
+        "confirmed": 59.413,
+        "infected": 59.812
+      },
+      "relative": {
+        "deaths": 0.931,
+        "infected": 99.069
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.034,
+        "deaths": 0,
+        "infected": 0.034
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.343,
+        "deaths": 0.003,
+        "infected": 0.339
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.425,
+        "deaths": 0.032,
+        "infected": 3.393
+      },
+      "delta_pop1k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.016,
+        "infected": 0.016
+      },
+      "delta_pop100k": {
+        "confirmed": 0.158,
+        "infected": 0.158
+      }
+    },
+    "factbook": {
+      "population": 56463617,
+      "median_age": 28,
+      "death_rate": 9.3,
+      "area": 1219090
+    },
+    "data_key": "d115cade6eee6490f39f4658401e7ccd",
+    "day_index_1": 36,
+    "day_index_10": 30,
+    "day_index_100": 23,
+    "day_index_1k": 14,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 10
   }
 ]

@@ -45,16 +45,16 @@
         "infected": 100
       },
       "absolute_pop1k": {
-        "confirmed": 3.2972964114830724e-05,
-        "infected": 3.2972964114830724e-05
+        "confirmed": 0,
+        "infected": 0
       },
       "absolute_pop10k": {
-        "confirmed": 0.00032972964114830726,
-        "infected": 0.00032972964114830726
+        "confirmed": 0,
+        "infected": 0
       },
       "absolute_pop100k": {
-        "confirmed": 0.0032972964114830723,
-        "infected": 0.0032972964114830723
+        "confirmed": 0.003,
+        "infected": 0.003
       }
     },
     "factbook": {
@@ -117,16 +117,16 @@
         "recovered": 100
       },
       "absolute_pop1k": {
-        "confirmed": 3.2972964114830724e-05,
-        "recovered": 3.2972964114830724e-05
+        "confirmed": 0,
+        "recovered": 0
       },
       "absolute_pop10k": {
-        "confirmed": 0.00032972964114830726,
-        "recovered": 0.00032972964114830726
+        "confirmed": 0,
+        "recovered": 0
       },
       "absolute_pop100k": {
-        "confirmed": 0.0032972964114830723,
-        "recovered": 0.0032972964114830723
+        "confirmed": 0.003,
+        "recovered": 0.003
       }
     },
     "factbook": {
@@ -192,19 +192,19 @@
         "infected": 50
       },
       "absolute_pop1k": {
-        "confirmed": 6.594592822966145e-05,
-        "recovered": 3.2972964114830724e-05,
-        "infected": 3.2972964114830724e-05
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": 0
       },
       "absolute_pop10k": {
-        "confirmed": 0.0006594592822966145,
-        "recovered": 0.00032972964114830726,
-        "infected": 0.00032972964114830726
+        "confirmed": 0.001,
+        "recovered": 0,
+        "infected": 0
       },
       "absolute_pop100k": {
-        "confirmed": 0.006594592822966145,
-        "recovered": 0.0032972964114830723,
-        "infected": 0.0032972964114830723
+        "confirmed": 0.007,
+        "recovered": 0.003,
+        "infected": 0.003
       }
     },
     "factbook": {
@@ -267,23 +267,23 @@
         "infected": 100
       },
       "relative": {
-        "recovered": 33.33333333333333,
-        "infected": 66.66666666666666
+        "recovered": 33.333,
+        "infected": 66.667
       },
       "absolute_pop1k": {
-        "confirmed": 9.891889234449217e-05,
-        "recovered": 3.2972964114830724e-05,
-        "infected": 6.594592822966145e-05
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": 0
       },
       "absolute_pop10k": {
-        "confirmed": 0.0009891889234449217,
-        "recovered": 0.00032972964114830726,
-        "infected": 0.0006594592822966145
+        "confirmed": 0.001,
+        "recovered": 0,
+        "infected": 0.001
       },
       "absolute_pop100k": {
-        "confirmed": 0.009891889234449216,
-        "recovered": 0.0032972964114830723,
-        "infected": 0.006594592822966145
+        "confirmed": 0.01,
+        "recovered": 0.003,
+        "infected": 0.007
       }
     },
     "factbook": {
@@ -338,7 +338,7 @@
         "infected": 1
       },
       "delta_pct": {
-        "confirmed": 33.333333333333336,
+        "confirmed": 33.333,
         "infected": 50
       },
       "peak_pct": {
@@ -350,19 +350,19 @@
         "infected": 75
       },
       "absolute_pop1k": {
-        "confirmed": 0.0001318918564593229,
-        "recovered": 3.2972964114830724e-05,
-        "infected": 9.891889234449217e-05
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": 0
       },
       "absolute_pop10k": {
-        "confirmed": 0.001318918564593229,
-        "recovered": 0.00032972964114830726,
-        "infected": 0.0009891889234449217
+        "confirmed": 0.001,
+        "recovered": 0,
+        "infected": 0.001
       },
       "absolute_pop100k": {
-        "confirmed": 0.01318918564593229,
-        "recovered": 0.0032972964114830723,
-        "infected": 0.009891889234449216
+        "confirmed": 0.013,
+        "recovered": 0.003,
+        "infected": 0.01
       }
     },
     "factbook": {
@@ -418,7 +418,7 @@
       },
       "delta_pct": {
         "confirmed": 25,
-        "infected": 33.333333333333336
+        "infected": 33.333
       },
       "peak_pct": {
         "confirmed": 100,
@@ -429,19 +429,19 @@
         "infected": 80
       },
       "absolute_pop1k": {
-        "confirmed": 0.0001648648205741536,
-        "recovered": 3.2972964114830724e-05,
-        "infected": 0.0001318918564593229
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": 0
       },
       "absolute_pop10k": {
-        "confirmed": 0.001648648205741536,
-        "recovered": 0.00032972964114830726,
-        "infected": 0.001318918564593229
+        "confirmed": 0.002,
+        "recovered": 0,
+        "infected": 0.001
       },
       "absolute_pop100k": {
-        "confirmed": 0.01648648205741536,
-        "recovered": 0.0032972964114830723,
-        "infected": 0.01318918564593229
+        "confirmed": 0.016,
+        "recovered": 0.003,
+        "infected": 0.013
       }
     },
     "factbook": {
@@ -504,23 +504,23 @@
         "infected": 100
       },
       "relative": {
-        "recovered": 16.666666666666664,
-        "infected": 83.33333333333334
+        "recovered": 16.667,
+        "infected": 83.333
       },
       "absolute_pop1k": {
-        "confirmed": 0.00019783778468898433,
-        "recovered": 3.2972964114830724e-05,
-        "infected": 0.0001648648205741536
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": 0
       },
       "absolute_pop10k": {
-        "confirmed": 0.0019783778468898433,
-        "recovered": 0.00032972964114830726,
-        "infected": 0.001648648205741536
+        "confirmed": 0.002,
+        "recovered": 0,
+        "infected": 0.002
       },
       "absolute_pop100k": {
-        "confirmed": 0.019783778468898432,
-        "recovered": 0.0032972964114830723,
-        "infected": 0.01648648205741536
+        "confirmed": 0.02,
+        "recovered": 0.003,
+        "infected": 0.016
       }
     },
     "factbook": {
@@ -583,23 +583,23 @@
         "infected": 300
       },
       "relative": {
-        "recovered": 11.11111111111111,
-        "infected": 88.88888888888889
+        "recovered": 11.111,
+        "infected": 88.889
       },
       "absolute_pop1k": {
-        "confirmed": 0.0002967566770334765,
-        "recovered": 3.2972964114830724e-05,
-        "infected": 0.0002637837129186458
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": 0
       },
       "absolute_pop10k": {
-        "confirmed": 0.002967566770334765,
-        "recovered": 0.00032972964114830726,
-        "infected": 0.002637837129186458
+        "confirmed": 0.003,
+        "recovered": 0,
+        "infected": 0.003
       },
       "absolute_pop100k": {
-        "confirmed": 0.02967566770334765,
-        "recovered": 0.0032972964114830723,
-        "infected": 0.02637837129186458
+        "confirmed": 0.03,
+        "recovered": 0.003,
+        "infected": 0.026
       }
     },
     "factbook": {

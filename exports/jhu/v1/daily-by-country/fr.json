@@ -55,6 +55,18 @@
       "absolute_pop100k": {
         "confirmed": 0.003,
         "infected": 0.003
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.003,
+        "infected": 0.003
       }
     },
     "factbook": {
@@ -129,6 +141,18 @@
       "absolute_pop100k": {
         "confirmed": 0.004,
         "infected": 0.004
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.001,
+        "infected": 0.001
       }
     },
     "factbook": {
@@ -203,6 +227,18 @@
       "absolute_pop100k": {
         "confirmed": 0.006,
         "infected": 0.006
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.001,
+        "infected": 0.001
       }
     },
     "factbook": {
@@ -277,6 +313,18 @@
       "absolute_pop100k": {
         "confirmed": 0.007,
         "infected": 0.007
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.001,
+        "infected": 0.001
       }
     },
     "factbook": {
@@ -351,6 +399,18 @@
       "absolute_pop100k": {
         "confirmed": 0.009,
         "infected": 0.009
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.001,
+        "infected": 0.001
       }
     },
     "factbook": {
@@ -425,6 +485,18 @@
       "absolute_pop100k": {
         "confirmed": 0.016,
         "infected": 0.016
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.007,
+        "infected": 0.007
       }
     },
     "factbook": {
@@ -504,6 +576,18 @@
         "confirmed": 0.016,
         "recovered": 0.003,
         "infected": 0.013
+      },
+      "delta_pop1k": {
+        "recovered": 0,
+        "infected": -0
+      },
+      "delta_pop10k": {
+        "recovered": 0,
+        "infected": -0
+      },
+      "delta_pop100k": {
+        "recovered": 0.003,
+        "infected": -0.003
       }
     },
     "factbook": {
@@ -594,6 +678,24 @@
         "recovered": 0.006,
         "deaths": 0.001,
         "infected": 0.01
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "recovered": 0,
+        "deaths": 0,
+        "infected": -0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "recovered": 0,
+        "deaths": 0,
+        "infected": -0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.001,
+        "recovered": 0.003,
+        "deaths": 0.001,
+        "infected": -0.003
       }
     },
     "factbook": {
@@ -682,6 +784,21 @@
         "recovered": 0.016,
         "deaths": 0.001,
         "infected": 0.003
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": -0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "recovered": 0.001,
+        "infected": -0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.003,
+        "recovered": 0.01,
+        "infected": -0.007
       }
     },
     "factbook": {
@@ -770,6 +887,21 @@
         "recovered": 0.016,
         "deaths": 0.003,
         "infected": 0.007
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "deaths": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "deaths": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.006,
+        "deaths": 0.001,
+        "infected": 0.004
       }
     },
     "factbook": {
@@ -855,6 +987,18 @@
         "recovered": 0.016,
         "deaths": 0.003,
         "infected": 0.037
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.003,
+        "infected": 0.003
+      },
+      "delta_pop100k": {
+        "confirmed": 0.029,
+        "infected": 0.029
       }
     },
     "factbook": {
@@ -940,6 +1084,18 @@
         "recovered": 0.016,
         "deaths": 0.003,
         "infected": 0.065
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.003,
+        "infected": 0.003
+      },
+      "delta_pop100k": {
+        "confirmed": 0.028,
+        "infected": 0.028
       }
     },
     "factbook": {
@@ -1028,6 +1184,21 @@
         "recovered": 0.018,
         "deaths": 0.003,
         "infected": 0.127
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "recovered": 0,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.006,
+        "recovered": 0,
+        "infected": 0.006
+      },
+      "delta_pop100k": {
+        "confirmed": 0.063,
+        "recovered": 0.001,
+        "infected": 0.062
       }
     },
     "factbook": {
@@ -1114,6 +1285,18 @@
         "recovered": 0.018,
         "deaths": 0.003,
         "infected": 0.171
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.004,
+        "infected": 0.004
+      },
+      "delta_pop100k": {
+        "confirmed": 0.044,
+        "infected": 0.044
       }
     },
     "factbook": {
@@ -1203,6 +1386,21 @@
         "recovered": 0.018,
         "deaths": 0.004,
         "infected": 0.259
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "deaths": 0,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.009,
+        "deaths": 0,
+        "infected": 0.009
+      },
+      "delta_pop100k": {
+        "confirmed": 0.09,
+        "deaths": 0.001,
+        "infected": 0.088
       }
     },
     "factbook": {
@@ -1292,6 +1490,21 @@
         "recovered": 0.018,
         "deaths": 0.006,
         "infected": 0.277
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "deaths": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.002,
+        "deaths": 0,
+        "infected": 0.002
+      },
+      "delta_pop100k": {
+        "confirmed": 0.019,
+        "deaths": 0.001,
+        "infected": 0.018
       }
     },
     "factbook": {
@@ -1378,6 +1591,18 @@
         "recovered": 0.018,
         "deaths": 0.006,
         "infected": 0.396
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.012,
+        "infected": 0.012
+      },
+      "delta_pop100k": {
+        "confirmed": 0.119,
+        "infected": 0.119
       }
     },
     "factbook": {
@@ -1467,6 +1692,21 @@
         "recovered": 0.018,
         "deaths": 0.009,
         "infected": 0.529
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "deaths": 0,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.014,
+        "deaths": 0,
+        "infected": 0.013
+      },
+      "delta_pop100k": {
+        "confirmed": 0.136,
+        "deaths": 0.003,
+        "infected": 0.133
       }
     },
     "factbook": {
@@ -1556,6 +1796,21 @@
         "recovered": 0.018,
         "deaths": 0.013,
         "infected": 0.931
+      },
+      "delta_pop1k": {
+        "confirmed": 0.004,
+        "deaths": 0,
+        "infected": 0.004
+      },
+      "delta_pop10k": {
+        "confirmed": 0.041,
+        "deaths": 0,
+        "infected": 0.04
+      },
+      "delta_pop100k": {
+        "confirmed": 0.407,
+        "deaths": 0.004,
+        "infected": 0.402
       }
     },
     "factbook": {
@@ -1645,6 +1900,21 @@
         "recovered": 0.018,
         "deaths": 0.016,
         "infected": 1.365
+      },
+      "delta_pop1k": {
+        "confirmed": 0.004,
+        "deaths": 0,
+        "infected": 0.004
+      },
+      "delta_pop10k": {
+        "confirmed": 0.044,
+        "deaths": 0,
+        "infected": 0.043
+      },
+      "delta_pop100k": {
+        "confirmed": 0.436,
+        "deaths": 0.003,
+        "infected": 0.433
       }
     },
     "factbook": {
@@ -1734,6 +2004,21 @@
         "recovered": 0.018,
         "deaths": 0.028,
         "infected": 1.614
+      },
+      "delta_pop1k": {
+        "confirmed": 0.003,
+        "deaths": 0,
+        "infected": 0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.026,
+        "deaths": 0.001,
+        "infected": 0.025
+      },
+      "delta_pop100k": {
+        "confirmed": 0.261,
+        "deaths": 0.012,
+        "infected": 0.249
       }
     },
     "factbook": {
@@ -1821,6 +2106,18 @@
         "recovered": 0.018,
         "deaths": 0.028,
         "infected": 1.736
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.012,
+        "infected": 0.012
+      },
+      "delta_pop100k": {
+        "confirmed": 0.122,
+        "infected": 0.122
       }
     },
     "factbook": {
@@ -1911,6 +2208,21 @@
         "recovered": 0.018,
         "deaths": 0.049,
         "infected": 2.563
+      },
+      "delta_pop1k": {
+        "confirmed": 0.008,
+        "deaths": 0,
+        "infected": 0.008
+      },
+      "delta_pop10k": {
+        "confirmed": 0.085,
+        "deaths": 0.002,
+        "infected": 0.083
+      },
+      "delta_pop100k": {
+        "confirmed": 0.847,
+        "deaths": 0.021,
+        "infected": 0.827
       }
     },
     "factbook": {
@@ -2001,6 +2313,21 @@
         "recovered": 0.018,
         "deaths": 0.071,
         "infected": 3.273
+      },
+      "delta_pop1k": {
+        "confirmed": 0.007,
+        "deaths": 0,
+        "infected": 0.007
+      },
+      "delta_pop10k": {
+        "confirmed": 0.073,
+        "deaths": 0.002,
+        "infected": 0.071
+      },
+      "delta_pop100k": {
+        "confirmed": 0.733,
+        "deaths": 0.022,
+        "infected": 0.71
       }
     },
     "factbook": {
@@ -2091,6 +2418,21 @@
         "recovered": 0.018,
         "deaths": 0.116,
         "infected": 5.262
+      },
+      "delta_pop1k": {
+        "confirmed": 0.02,
+        "deaths": 0,
+        "infected": 0.02
+      },
+      "delta_pop10k": {
+        "confirmed": 0.203,
+        "deaths": 0.005,
+        "infected": 0.199
+      },
+      "delta_pop100k": {
+        "confirmed": 2.034,
+        "deaths": 0.046,
+        "infected": 1.988
       }
     },
     "factbook": {
@@ -2181,6 +2523,21 @@
         "recovered": 0.018,
         "deaths": 0.134,
         "infected": 6.435
+      },
+      "delta_pop1k": {
+        "confirmed": 0.012,
+        "deaths": 0,
+        "infected": 0.012
+      },
+      "delta_pop10k": {
+        "confirmed": 0.119,
+        "deaths": 0.002,
+        "infected": 0.117
+      },
+      "delta_pop100k": {
+        "confirmed": 1.191,
+        "deaths": 0.018,
+        "infected": 1.173
       }
     },
     "factbook": {
@@ -2268,6 +2625,18 @@
         "recovered": 0.018,
         "deaths": 0.134,
         "infected": 6.479
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.004,
+        "infected": 0.004
+      },
+      "delta_pop100k": {
+        "confirmed": 0.044,
+        "infected": 0.044
       }
     },
     "factbook": {
@@ -2358,6 +2727,21 @@
         "recovered": 0.018,
         "deaths": 0.218,
         "infected": 9.54
+      },
+      "delta_pop1k": {
+        "confirmed": 0.031,
+        "deaths": 0.001,
+        "infected": 0.031
+      },
+      "delta_pop10k": {
+        "confirmed": 0.315,
+        "deaths": 0.008,
+        "infected": 0.306
+      },
+      "delta_pop100k": {
+        "confirmed": 3.145,
+        "deaths": 0.084,
+        "infected": 3.061
       }
     },
     "factbook": {
@@ -2445,6 +2829,18 @@
         "recovered": 0.018,
         "deaths": 0.218,
         "infected": 11.042
+      },
+      "delta_pop1k": {
+        "confirmed": 0.015,
+        "infected": 0.015
+      },
+      "delta_pop10k": {
+        "confirmed": 0.15,
+        "infected": 0.15
+      },
+      "delta_pop100k": {
+        "confirmed": 1.502,
+        "infected": 1.502
       }
     },
     "factbook": {
@@ -2532,6 +2928,18 @@
         "recovered": 0.018,
         "deaths": 0.218,
         "infected": 13.092
+      },
+      "delta_pop1k": {
+        "confirmed": 0.021,
+        "infected": 0.021
+      },
+      "delta_pop10k": {
+        "confirmed": 0.205,
+        "infected": 0.205
+      },
+      "delta_pop100k": {
+        "confirmed": 2.05,
+        "infected": 2.05
       }
     },
     "factbook": {
@@ -2622,6 +3030,21 @@
         "recovered": 0.018,
         "deaths": 0.358,
         "infected": 15.647
+      },
+      "delta_pop1k": {
+        "confirmed": 0.027,
+        "deaths": 0.001,
+        "infected": 0.026
+      },
+      "delta_pop10k": {
+        "confirmed": 0.269,
+        "deaths": 0.014,
+        "infected": 0.255
+      },
+      "delta_pop100k": {
+        "confirmed": 2.694,
+        "deaths": 0.14,
+        "infected": 2.554
       }
     },
     "factbook": {
@@ -2713,6 +3136,21 @@
         "recovered": 0.018,
         "deaths": 0.663,
         "infected": 17.908
+      },
+      "delta_pop1k": {
+        "confirmed": 0.026,
+        "deaths": 0.003,
+        "infected": 0.023
+      },
+      "delta_pop10k": {
+        "confirmed": 0.257,
+        "deaths": 0.031,
+        "infected": 0.226
+      },
+      "delta_pop100k": {
+        "confirmed": 2.566,
+        "deaths": 0.305,
+        "infected": 2.261
       }
     },
     "factbook": {
@@ -2804,6 +3242,21 @@
         "recovered": 0.018,
         "deaths": 0.828,
         "infected": 20.204
+      },
+      "delta_pop1k": {
+        "confirmed": 0.025,
+        "deaths": 0.002,
+        "infected": 0.023
+      },
+      "delta_pop10k": {
+        "confirmed": 0.246,
+        "deaths": 0.017,
+        "infected": 0.23
+      },
+      "delta_pop100k": {
+        "confirmed": 2.461,
+        "deaths": 0.165,
+        "infected": 2.296
       }
     },
     "factbook": {
@@ -2898,6 +3351,24 @@
         "recovered": 3.243,
         "deaths": 0.993,
         "infected": 19.373
+      },
+      "delta_pop1k": {
+        "confirmed": 0.026,
+        "recovered": 0.032,
+        "deaths": 0.002,
+        "infected": -0.008
+      },
+      "delta_pop10k": {
+        "confirmed": 0.256,
+        "recovered": 0.322,
+        "deaths": 0.017,
+        "infected": -0.083
+      },
+      "delta_pop100k": {
+        "confirmed": 2.559,
+        "recovered": 3.225,
+        "deaths": 0.165,
+        "infected": -0.831
       }
     },
     "factbook": {
@@ -2992,6 +3463,24 @@
         "recovered": 4.836,
         "deaths": 1.621,
         "infected": 26.416
+      },
+      "delta_pop1k": {
+        "confirmed": 0.093,
+        "recovered": 0.016,
+        "deaths": 0.006,
+        "infected": 0.07
+      },
+      "delta_pop10k": {
+        "confirmed": 0.926,
+        "recovered": 0.159,
+        "deaths": 0.063,
+        "infected": 0.704
+      },
+      "delta_pop100k": {
+        "confirmed": 9.265,
+        "recovered": 1.593,
+        "deaths": 0.628,
+        "infected": 7.044
       }
     },
     "factbook": {
@@ -3086,6 +3575,24 @@
         "recovered": 5.748,
         "deaths": 1.962,
         "infected": 29.481
+      },
+      "delta_pop1k": {
+        "confirmed": 0.043,
+        "recovered": 0.009,
+        "deaths": 0.003,
+        "infected": 0.031
+      },
+      "delta_pop10k": {
+        "confirmed": 0.432,
+        "recovered": 0.091,
+        "deaths": 0.034,
+        "infected": 0.306
+      },
+      "delta_pop100k": {
+        "confirmed": 4.317,
+        "recovered": 0.912,
+        "deaths": 0.34,
+        "infected": 3.064
       }
     },
     "factbook": {
@@ -3180,6 +3687,24 @@
         "recovered": 7.293,
         "deaths": 2.5,
         "infected": 33.178
+      },
+      "delta_pop1k": {
+        "confirmed": 0.058,
+        "recovered": 0.015,
+        "deaths": 0.005,
+        "infected": 0.037
+      },
+      "delta_pop10k": {
+        "confirmed": 0.578,
+        "recovered": 0.154,
+        "deaths": 0.054,
+        "infected": 0.37
+      },
+      "delta_pop100k": {
+        "confirmed": 5.781,
+        "recovered": 1.545,
+        "deaths": 0.538,
+        "infected": 3.698
       }
     },
     "factbook": {
@@ -3274,6 +3799,24 @@
         "recovered": 8.401,
         "deaths": 2.94,
         "infected": 37.243
+      },
+      "delta_pop1k": {
+        "confirmed": 0.056,
+        "recovered": 0.011,
+        "deaths": 0.004,
+        "infected": 0.041
+      },
+      "delta_pop10k": {
+        "confirmed": 0.561,
+        "recovered": 0.111,
+        "deaths": 0.044,
+        "infected": 0.406
+      },
+      "delta_pop100k": {
+        "confirmed": 5.614,
+        "recovered": 1.108,
+        "deaths": 0.441,
+        "infected": 4.065
       }
     },
     "factbook": {
@@ -3365,6 +3908,21 @@
         "recovered": 8.401,
         "deaths": 3.411,
         "infected": 43.569
+      },
+      "delta_pop1k": {
+        "confirmed": 0.068,
+        "deaths": 0.005,
+        "infected": 0.063
+      },
+      "delta_pop10k": {
+        "confirmed": 0.68,
+        "deaths": 0.047,
+        "infected": 0.633
+      },
+      "delta_pop100k": {
+        "confirmed": 6.796,
+        "deaths": 0.47,
+        "infected": 6.326
       }
     },
     "factbook": {
@@ -3459,6 +4017,24 @@
         "recovered": 10.615,
         "deaths": 3.841,
         "infected": 44.756
+      },
+      "delta_pop1k": {
+        "confirmed": 0.038,
+        "recovered": 0.022,
+        "deaths": 0.004,
+        "infected": 0.012
+      },
+      "delta_pop10k": {
+        "confirmed": 0.383,
+        "recovered": 0.221,
+        "deaths": 0.043,
+        "infected": 0.119
+      },
+      "delta_pop100k": {
+        "confirmed": 3.831,
+        "recovered": 2.214,
+        "deaths": 0.43,
+        "infected": 1.186
       }
     },
     "factbook": {
@@ -3553,6 +4129,24 @@
         "recovered": 11.683,
         "deaths": 4.457,
         "infected": 49.521
+      },
+      "delta_pop1k": {
+        "confirmed": 0.064,
+        "recovered": 0.011,
+        "deaths": 0.006,
+        "infected": 0.048
+      },
+      "delta_pop10k": {
+        "confirmed": 0.645,
+        "recovered": 0.107,
+        "deaths": 0.062,
+        "infected": 0.477
+      },
+      "delta_pop100k": {
+        "confirmed": 6.45,
+        "recovered": 1.069,
+        "deaths": 0.616,
+        "infected": 4.765
       }
     },
     "factbook": {
@@ -3647,6 +4241,24 @@
         "recovered": 13.919,
         "deaths": 5.192,
         "infected": 57.719
+      },
+      "delta_pop1k": {
+        "confirmed": 0.112,
+        "recovered": 0.022,
+        "deaths": 0.007,
+        "infected": 0.082
+      },
+      "delta_pop10k": {
+        "confirmed": 1.117,
+        "recovered": 0.224,
+        "deaths": 0.074,
+        "infected": 0.82
+      },
+      "delta_pop100k": {
+        "confirmed": 11.169,
+        "recovered": 2.236,
+        "deaths": 0.735,
+        "infected": 8.198
       }
     },
     "factbook": {
@@ -3741,6 +4353,24 @@
         "recovered": 16.115,
         "deaths": 5.943,
         "infected": 61.937
+      },
+      "delta_pop1k": {
+        "confirmed": 0.072,
+        "recovered": 0.022,
+        "deaths": 0.008,
+        "infected": 0.042
+      },
+      "delta_pop10k": {
+        "confirmed": 0.716,
+        "recovered": 0.22,
+        "deaths": 0.075,
+        "infected": 0.422
+      },
+      "delta_pop100k": {
+        "confirmed": 7.165,
+        "recovered": 2.196,
+        "deaths": 0.75,
+        "infected": 4.218
       }
     },
     "factbook": {
@@ -3835,6 +4465,24 @@
         "recovered": 18.317,
         "deaths": 7.94,
         "infected": 60.856
+      },
+      "delta_pop1k": {
+        "confirmed": 0.031,
+        "recovered": 0.022,
+        "deaths": 0.02,
+        "infected": -0.011
+      },
+      "delta_pop10k": {
+        "confirmed": 0.312,
+        "recovered": 0.22,
+        "deaths": 0.2,
+        "infected": -0.108
+      },
+      "delta_pop100k": {
+        "confirmed": 3.119,
+        "recovered": 2.202,
+        "deaths": 1.997,
+        "infected": -1.08
       }
     },
     "factbook": {
@@ -3929,6 +4577,24 @@
         "recovered": 20.646,
         "deaths": 9.591,
         "infected": 64.59
+      },
+      "delta_pop1k": {
+        "confirmed": 0.077,
+        "recovered": 0.023,
+        "deaths": 0.017,
+        "infected": 0.037
+      },
+      "delta_pop10k": {
+        "confirmed": 0.771,
+        "recovered": 0.233,
+        "deaths": 0.165,
+        "infected": 0.373
+      },
+      "delta_pop100k": {
+        "confirmed": 7.713,
+        "recovered": 2.329,
+        "deaths": 1.651,
+        "infected": 3.733
       }
     },
     "factbook": {
@@ -4023,6 +4689,24 @@
         "recovered": 22.754,
         "deaths": 11.143,
         "infected": 98.684
+      },
+      "delta_pop1k": {
+        "confirmed": 0.378,
+        "recovered": 0.021,
+        "deaths": 0.016,
+        "infected": 0.341
+      },
+      "delta_pop10k": {
+        "confirmed": 3.775,
+        "recovered": 0.211,
+        "deaths": 0.155,
+        "infected": 3.409
+      },
+      "delta_pop100k": {
+        "confirmed": 37.753,
+        "recovered": 2.108,
+        "deaths": 1.552,
+        "infected": 34.094
       }
     },
     "factbook": {
@@ -4117,6 +4801,24 @@
         "recovered": 23.852,
         "deaths": 11.906,
         "infected": 101.076
+      },
+      "delta_pop1k": {
+        "confirmed": 0.043,
+        "recovered": 0.011,
+        "deaths": 0.008,
+        "infected": 0.024
+      },
+      "delta_pop10k": {
+        "confirmed": 0.425,
+        "recovered": 0.11,
+        "deaths": 0.076,
+        "infected": 0.239
+      },
+      "delta_pop100k": {
+        "confirmed": 4.254,
+        "recovered": 1.098,
+        "deaths": 0.763,
+        "infected": 2.392
       }
     },
     "factbook": {
@@ -4211,6 +4913,24 @@
         "recovered": 25.424,
         "deaths": 13.134,
         "infected": 105.897
+      },
+      "delta_pop1k": {
+        "confirmed": 0.076,
+        "recovered": 0.016,
+        "deaths": 0.012,
+        "infected": 0.048
+      },
+      "delta_pop10k": {
+        "confirmed": 0.762,
+        "recovered": 0.157,
+        "deaths": 0.123,
+        "infected": 0.482
+      },
+      "delta_pop100k": {
+        "confirmed": 7.621,
+        "recovered": 1.573,
+        "deaths": 1.228,
+        "infected": 4.821
       }
     },
     "factbook": {
@@ -4305,6 +5025,24 @@
         "recovered": 28.5,
         "deaths": 15.222,
         "infected": 117.032
+      },
+      "delta_pop1k": {
+        "confirmed": 0.163,
+        "recovered": 0.031,
+        "deaths": 0.021,
+        "infected": 0.111
+      },
+      "delta_pop10k": {
+        "confirmed": 1.63,
+        "recovered": 0.308,
+        "deaths": 0.209,
+        "infected": 1.114
+      },
+      "delta_pop100k": {
+        "confirmed": 16.3,
+        "recovered": 3.076,
+        "deaths": 2.088,
+        "infected": 11.135
       }
     },
     "factbook": {
@@ -4399,6 +5137,24 @@
         "recovered": 31.326,
         "deaths": 16.02,
         "infected": 119.129
+      },
+      "delta_pop1k": {
+        "confirmed": 0.057,
+        "recovered": 0.028,
+        "deaths": 0.008,
+        "infected": 0.021
+      },
+      "delta_pop10k": {
+        "confirmed": 0.572,
+        "recovered": 0.283,
+        "deaths": 0.08,
+        "infected": 0.21
+      },
+      "delta_pop100k": {
+        "confirmed": 5.72,
+        "recovered": 2.825,
+        "deaths": 0.797,
+        "infected": 2.097
       }
     },
     "factbook": {
@@ -4493,6 +5249,24 @@
         "recovered": 34.203,
         "deaths": 17.996,
         "infected": 121.349
+      },
+      "delta_pop1k": {
+        "confirmed": 0.071,
+        "recovered": 0.029,
+        "deaths": 0.02,
+        "infected": 0.022
+      },
+      "delta_pop10k": {
+        "confirmed": 0.707,
+        "recovered": 0.288,
+        "deaths": 0.198,
+        "infected": 0.222
+      },
+      "delta_pop100k": {
+        "confirmed": 7.073,
+        "recovered": 2.877,
+        "deaths": 1.976,
+        "infected": 2.22
       }
     },
     "factbook": {

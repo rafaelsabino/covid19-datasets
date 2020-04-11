@@ -1405,5 +1405,68 @@
     "day_index_peak_confirmed": 14,
     "day_index_peak_deaths": 12,
     "day_index_peak": 13
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "030e812baaf548eb24d2f84482907cf2",
+      "type": "total-country",
+      "label": "Martinique",
+      "country": "Martinique",
+      "country_code": "MQ",
+      "country_latlong": [
+        14.666667,
+        -61
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        14.666667,
+        -61
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 155,
+        "deaths": 6,
+        "recovered": 50,
+        "infected": 99
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 0.649,
+        "infected": 1.02
+      },
+      "peak_pct": {
+        "confirmed": 8.772,
+        "infected": 9.804
+      },
+      "relative": {
+        "deaths": 3.871,
+        "recovered": 32.258,
+        "infected": 63.871
+      }
+    },
+    "factbook": null,
+    "data_key": "901462aa47eccb1a347ab08de9471758",
+    "day_index_1": 35,
+    "day_index_10": 26,
+    "day_index_100": 11,
+    "day_index_peak_confirmed": 16,
+    "day_index_peak_deaths": 14,
+    "day_index_peak": 15
   }
 ]

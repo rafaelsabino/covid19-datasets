@@ -3107,5 +3107,103 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 4,
     "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "4eedea208935a23d94528c639c12b4d3",
+      "type": "total-country",
+      "label": "Latvia",
+      "country": "Latvia",
+      "country_code": "LV",
+      "country_latlong": [
+        57,
+        25
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        57,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 612,
+        "deaths": 3,
+        "recovered": 16,
+        "infected": 593
+      },
+      "delta": {
+        "confirmed": 23,
+        "infected": 23
+      },
+      "delta_pct": {
+        "confirmed": 3.905,
+        "infected": 4.035
+      },
+      "peak_pct": {
+        "confirmed": 62.842,
+        "infected": 58.673
+      },
+      "relative": {
+        "deaths": 0.49,
+        "recovered": 2.614,
+        "infected": 96.895
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.325,
+        "recovered": 0.009,
+        "deaths": 0.002,
+        "infected": 0.315
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.253,
+        "recovered": 0.085,
+        "deaths": 0.016,
+        "infected": 3.152
+      },
+      "absolute_pop100k": {
+        "confirmed": 32.532,
+        "recovered": 0.851,
+        "deaths": 0.159,
+        "infected": 31.522
+      },
+      "delta_pop1k": {
+        "confirmed": 0.012,
+        "infected": 0.012
+      },
+      "delta_pop10k": {
+        "confirmed": 0.122,
+        "infected": 0.122
+      },
+      "delta_pop100k": {
+        "confirmed": 1.223,
+        "infected": 1.223
+      }
+    },
+    "factbook": {
+      "population": 1881232,
+      "median_age": 44.4,
+      "death_rate": 14.6,
+      "area": 64589
+    },
+    "data_key": "9f053ff3baa21bdc79a5180d0c948636",
+    "day_index_1": 40,
+    "day_index_10": 31,
+    "day_index_100": 22,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 8
   }
 ]

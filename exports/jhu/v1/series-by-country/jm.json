@@ -383,7 +383,7 @@
         "infected": -20
       },
       "peak_pct": {
-        "recovered": 114.286,
+        "recovered": 125,
         "infected": -41.667
       },
       "relative": {
@@ -1644,7 +1644,7 @@
       },
       "peak_pct": {
         "confirmed": 111.111,
-        "recovered": 285.714,
+        "recovered": 312.5,
         "infected": 20.833
       },
       "relative": {
@@ -1747,7 +1747,7 @@
       },
       "peak_pct": {
         "confirmed": 92.593,
-        "recovered": 57.143,
+        "recovered": 62.5,
         "infected": 83.333
       },
       "relative": {
@@ -1946,7 +1946,7 @@
         "deaths": 33.333
       },
       "peak_pct": {
-        "recovered": 114.286,
+        "recovered": 125,
         "deaths": 100,
         "infected": -62.5
       },
@@ -2047,7 +2047,7 @@
         "infected": -4.082
       },
       "peak_pct": {
-        "recovered": 114.286,
+        "recovered": 125,
         "infected": -41.667
       },
       "relative": {
@@ -2098,5 +2098,102 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": 11,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "5fc0e310e579f51c70914c2700b07f98",
+      "type": "total-country",
+      "label": "Jamaica",
+      "country": "Jamaica",
+      "country_code": "JM",
+      "country_latlong": [
+        18.25,
+        -77.5
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.25,
+        -77.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 63,
+        "deaths": 4,
+        "recovered": 13,
+        "infected": 46
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 8.333,
+        "infected": -2.128
+      },
+      "peak_pct": {
+        "recovered": 62.5,
+        "infected": -20.833
+      },
+      "relative": {
+        "deaths": 6.349,
+        "recovered": 20.635,
+        "infected": 73.016
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.022,
+        "recovered": 0.005,
+        "deaths": 0.001,
+        "infected": 0.016
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.224,
+        "recovered": 0.046,
+        "deaths": 0.014,
+        "infected": 0.164
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.243,
+        "recovered": 0.463,
+        "deaths": 0.142,
+        "infected": 1.638
+      },
+      "delta_pop1k": {
+        "recovered": 0,
+        "infected": -0
+      },
+      "delta_pop10k": {
+        "recovered": 0.004,
+        "infected": -0.004
+      },
+      "delta_pop100k": {
+        "recovered": 0.036,
+        "infected": -0.036
+      }
+    },
+    "factbook": {
+      "population": 2808570,
+      "median_age": 29.4,
+      "death_rate": 7.5,
+      "area": 10991
+    },
+    "data_key": "0ab9d9b7cbe0cc784963ff7d1f87f340",
+    "day_index_1": 31,
+    "day_index_10": 27,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 12,
+    "day_index_peak": 12
   }
 ]

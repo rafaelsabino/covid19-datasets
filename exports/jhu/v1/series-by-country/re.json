@@ -1546,5 +1546,66 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": null,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "13611b7c7de7d1342ab4596fefe84228",
+      "type": "total-country",
+      "label": "Reunion",
+      "country": "Reunion",
+      "country_code": "RE",
+      "country_latlong": [
+        -21.15,
+        55.5
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -21.15,
+        55.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 382,
+        "recovered": 40,
+        "infected": 342
+      },
+      "delta": {
+        "confirmed": 20,
+        "infected": 20
+      },
+      "delta_pct": {
+        "confirmed": 5.525,
+        "infected": 6.211
+      },
+      "peak_pct": {
+        "confirmed": 68.493,
+        "infected": 74.627
+      },
+      "relative": {
+        "recovered": 10.471,
+        "infected": 89.529
+      }
+    },
+    "factbook": null,
+    "data_key": "c4db3ef17d2ea3894f633cc6f8a39e3c",
+    "day_index_1": 31,
+    "day_index_10": 24,
+    "day_index_100": 17,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
   }
 ]

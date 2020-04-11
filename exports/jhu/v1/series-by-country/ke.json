@@ -560,7 +560,7 @@
       },
       "peak_pct": {
         "confirmed": 18.75,
-        "recovered": 55.556,
+        "recovered": 45.455,
         "infected": 13.889
       },
       "relative": {
@@ -1149,7 +1149,7 @@
       },
       "peak_pct": {
         "confirmed": 137.5,
-        "recovered": 111.111,
+        "recovered": 90.909,
         "infected": 138.889
       },
       "relative": {
@@ -1254,7 +1254,7 @@
       },
       "peak_pct": {
         "confirmed": 181.25,
-        "recovered": 55.556,
+        "recovered": 45.455,
         "deaths": 160,
         "infected": 180.556
       },
@@ -1766,7 +1766,7 @@
       },
       "peak_pct": {
         "confirmed": 87.5,
-        "recovered": 166.667,
+        "recovered": 136.364,
         "infected": 76.389
       },
       "relative": {
@@ -1870,7 +1870,7 @@
       },
       "peak_pct": {
         "confirmed": 43.75,
-        "recovered": 111.111,
+        "recovered": 90.909,
         "infected": 34.722
       },
       "relative": {
@@ -1976,7 +1976,7 @@
       },
       "peak_pct": {
         "confirmed": 31.25,
-        "recovered": 166.667,
+        "recovered": 136.364,
         "deaths": 80,
         "infected": 6.944
       },
@@ -2035,5 +2035,109 @@
     "day_index_peak_confirmed": 5,
     "day_index_peak_deaths": 7,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "45eaa8ad52c2d565f7e7594ebc90f3f1",
+      "type": "total-country",
+      "label": "Kenya",
+      "country": "Kenya",
+      "country_code": "KE",
+      "country_latlong": [
+        1,
+        38
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        1,
+        38
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 189,
+        "deaths": 7,
+        "recovered": 22,
+        "infected": 160
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 10,
+        "infected": -5
+      },
+      "delta_pct": {
+        "confirmed": 2.717,
+        "recovered": 83.333,
+        "infected": -3.03
+      },
+      "peak_pct": {
+        "confirmed": 31.25,
+        "recovered": 454.545,
+        "infected": -34.722
+      },
+      "relative": {
+        "deaths": 3.704,
+        "recovered": 11.64,
+        "infected": 84.656
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004,
+        "recovered": 0,
+        "deaths": 0,
+        "infected": 0.003
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.035,
+        "recovered": 0.004,
+        "deaths": 0.001,
+        "infected": 0.03
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.353,
+        "recovered": 0.041,
+        "deaths": 0.013,
+        "infected": 0.299
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": -0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "recovered": 0.002,
+        "infected": -0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.009,
+        "recovered": 0.019,
+        "infected": -0.009
+      }
+    },
+    "factbook": {
+      "population": 53527936,
+      "median_age": 20,
+      "death_rate": 5.2,
+      "area": 580367
+    },
+    "data_key": "5a7b3dc909d5c83d752044a7165539d0",
+    "day_index_1": 29,
+    "day_index_10": 20,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 7
   }
 ]

@@ -4238,5 +4238,110 @@
     "day_index_peak_confirmed": 16,
     "day_index_peak_deaths": 4,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "f3446d2293a09d7f114a5a7e48f843c3",
+      "type": "total-country",
+      "label": "Norway",
+      "country": "Norway",
+      "country_code": "NO",
+      "country_latlong": [
+        62,
+        10
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        62,
+        10
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6314,
+        "deaths": 113,
+        "recovered": 32,
+        "infected": 6169
+      },
+      "delta": {
+        "confirmed": 103,
+        "deaths": 5,
+        "infected": 98
+      },
+      "delta_pct": {
+        "confirmed": 1.658,
+        "infected": 1.614,
+        "deaths": 4.63
+      },
+      "peak_pct": {
+        "confirmed": 36.812,
+        "deaths": 56.818,
+        "infected": 35.714
+      },
+      "relative": {
+        "deaths": 1.79,
+        "recovered": 0.507,
+        "infected": 97.704
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.155,
+        "recovered": 0.006,
+        "deaths": 0.021,
+        "infected": 1.128
+      },
+      "absolute_pop10k": {
+        "confirmed": 11.548,
+        "recovered": 0.059,
+        "deaths": 0.207,
+        "infected": 11.283
+      },
+      "absolute_pop100k": {
+        "confirmed": 115.484,
+        "recovered": 0.585,
+        "deaths": 2.067,
+        "infected": 112.832
+      },
+      "delta_pop1k": {
+        "confirmed": 0.019,
+        "deaths": 0.001,
+        "infected": 0.018
+      },
+      "delta_pop10k": {
+        "confirmed": 0.188,
+        "deaths": 0.009,
+        "infected": 0.179
+      },
+      "delta_pop100k": {
+        "confirmed": 1.884,
+        "deaths": 0.091,
+        "infected": 1.792
+      }
+    },
+    "factbook": {
+      "population": 5467439,
+      "median_age": 39.5,
+      "death_rate": 8.1,
+      "area": 323802
+    },
+    "data_key": "ddb9880f03861430df5357271d6696c2",
+    "day_index_1": 45,
+    "day_index_10": 42,
+    "day_index_100": 36,
+    "day_index_1k": 28,
+    "day_index_peak_confirmed": 17,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 11
   }
 ]

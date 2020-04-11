@@ -123,7 +123,7 @@
         "infected": -100
       },
       "peak_pct": {
-        "recovered": 13.514,
+        "recovered": 11.628,
         "infected": -10.87
       },
       "relative": {
@@ -303,7 +303,7 @@
       },
       "peak_pct": {
         "confirmed": 52.083,
-        "recovered": 13.514,
+        "recovered": 11.628,
         "infected": 43.478
       },
       "relative": {
@@ -581,7 +581,7 @@
         "infected": -23.077
       },
       "peak_pct": {
-        "recovered": 40.541,
+        "recovered": 34.884,
         "infected": -32.609
       },
       "relative": {
@@ -768,7 +768,7 @@
       },
       "peak_pct": {
         "confirmed": 93.75,
-        "recovered": 108.108,
+        "recovered": 93.023,
         "infected": 10.87
       },
       "relative": {
@@ -866,7 +866,7 @@
       },
       "peak_pct": {
         "confirmed": 208.333,
-        "recovered": 13.514,
+        "recovered": 11.628,
         "infected": 206.522
       },
       "relative": {
@@ -1148,7 +1148,7 @@
       },
       "peak_pct": {
         "confirmed": 41.667,
-        "recovered": 270.27,
+        "recovered": 232.558,
         "infected": -173.913
       },
       "relative": {
@@ -1338,7 +1338,7 @@
       },
       "peak_pct": {
         "confirmed": 72.917,
-        "recovered": 162.162,
+        "recovered": 139.535,
         "infected": -54.348
       },
       "relative": {
@@ -1528,7 +1528,7 @@
       },
       "peak_pct": {
         "confirmed": 31.25,
-        "recovered": 81.081,
+        "recovered": 69.767,
         "infected": -32.609
       },
       "relative": {
@@ -1812,7 +1812,7 @@
       },
       "peak_pct": {
         "confirmed": 41.667,
-        "recovered": 108.108,
+        "recovered": 93.023,
         "infected": -43.478
       },
       "relative": {
@@ -2049,5 +2049,104 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": null,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 127,
+        "recovered": 69,
+        "infected": 58
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 9,
+        "infected": -5
+      },
+      "delta_pct": {
+        "confirmed": 3.252,
+        "recovered": 15,
+        "infected": -7.937
+      },
+      "peak_pct": {
+        "confirmed": 41.667,
+        "recovered": 104.651,
+        "infected": -54.348
+      },
+      "relative": {
+        "recovered": 54.331,
+        "infected": 45.669
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.293,
+        "recovered": 2.333,
+        "infected": 1.961
+      },
+      "absolute_pop10k": {
+        "confirmed": 42.933,
+        "recovered": 23.326,
+        "infected": 19.607
+      },
+      "absolute_pop100k": {
+        "confirmed": 429.33,
+        "recovered": 233.258,
+        "infected": 196.072
+      },
+      "delta_pop1k": {
+        "confirmed": 0.135,
+        "recovered": 0.304,
+        "infected": -0.169
+      },
+      "delta_pop10k": {
+        "confirmed": 1.352,
+        "recovered": 3.042,
+        "infected": -1.69
+      },
+      "delta_pop100k": {
+        "confirmed": 13.522,
+        "recovered": 30.425,
+        "infected": -16.903
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "f562a5edf4a6922df61acd7b102ce067",
+    "day_index_1": 38,
+    "day_index_10": 23,
+    "day_index_100": 6,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
   }
 ]

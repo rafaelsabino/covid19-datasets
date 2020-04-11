@@ -3015,5 +3015,103 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 9,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "ff5ce1b55da8bfa4cad89b23b90f1052",
+      "type": "total-country",
+      "label": "Tunisia",
+      "country": "Tunisia",
+      "country_code": "TN",
+      "country_latlong": [
+        34,
+        9
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "administrative": null,
+      "latlong": [
+        34,
+        9
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 671,
+        "deaths": 25,
+        "recovered": 25,
+        "infected": 621
+      },
+      "delta": {
+        "confirmed": 28,
+        "infected": 28
+      },
+      "delta_pct": {
+        "confirmed": 4.355,
+        "infected": 4.722
+      },
+      "peak_pct": {
+        "confirmed": 57.851,
+        "infected": 59.829
+      },
+      "relative": {
+        "deaths": 3.726,
+        "recovered": 3.726,
+        "infected": 92.548
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.057,
+        "recovered": 0.002,
+        "deaths": 0.002,
+        "infected": 0.053
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.572,
+        "recovered": 0.021,
+        "deaths": 0.021,
+        "infected": 0.53
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.725,
+        "recovered": 0.213,
+        "deaths": 0.213,
+        "infected": 5.298
+      },
+      "delta_pop1k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.024,
+        "infected": 0.024
+      },
+      "delta_pop100k": {
+        "confirmed": 0.239,
+        "infected": 0.239
+      }
+    },
+    "factbook": {
+      "population": 11721177,
+      "median_age": 32.7,
+      "death_rate": 6.4,
+      "area": 163610
+    },
+    "data_key": "5e6efda032d46867836235f626fd5fa2",
+    "day_index_1": 38,
+    "day_index_10": 29,
+    "day_index_100": 18,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 10
   }
 ]

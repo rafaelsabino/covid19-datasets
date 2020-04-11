@@ -560,7 +560,7 @@
       },
       "peak_pct": {
         "confirmed": 105.263,
-        "recovered": 100,
+        "recovered": 85.714,
         "deaths": 100,
         "infected": 33.333
       },
@@ -766,7 +766,7 @@
       },
       "peak_pct": {
         "confirmed": 52.632,
-        "recovered": 150,
+        "recovered": 128.571,
         "deaths": 100,
         "infected": -66.667
       },
@@ -873,7 +873,7 @@
       },
       "peak_pct": {
         "confirmed": 210.526,
-        "recovered": 100,
+        "recovered": 85.714,
         "infected": 200
       },
       "relative": {
@@ -927,5 +927,102 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": 6,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "7115d71bd53f0f4f51f059b70a8c56cf",
+      "type": "total-country",
+      "label": "Saint Martin",
+      "country": "Saint Martin",
+      "country_code": "MF",
+      "country_latlong": [
+        18.08333333,
+        -63.95
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.08333333,
+        -63.95
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 32,
+        "deaths": 2,
+        "recovered": 11,
+        "infected": 19
+      },
+      "delta": {
+        "recovered": 4,
+        "infected": -4
+      },
+      "delta_pct": {
+        "recovered": 57.143,
+        "infected": -17.391
+      },
+      "peak_pct": {
+        "recovered": 171.429,
+        "infected": -133.333
+      },
+      "relative": {
+        "deaths": 6.25,
+        "recovered": 34.375,
+        "infected": 59.375
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.983,
+        "recovered": 0.338,
+        "deaths": 0.061,
+        "infected": 0.584
+      },
+      "absolute_pop10k": {
+        "confirmed": 9.829,
+        "recovered": 3.379,
+        "deaths": 0.614,
+        "infected": 5.836
+      },
+      "absolute_pop100k": {
+        "confirmed": 98.292,
+        "recovered": 33.788,
+        "deaths": 6.143,
+        "infected": 58.361
+      },
+      "delta_pop1k": {
+        "recovered": 0.123,
+        "infected": -0.123
+      },
+      "delta_pop10k": {
+        "recovered": 1.229,
+        "infected": -1.229
+      },
+      "delta_pop100k": {
+        "recovered": 12.287,
+        "infected": -12.287
+      }
+    },
+    "factbook": {
+      "population": 32556,
+      "median_age": 33.3,
+      "death_rate": 4.6,
+      "area": 54.4
+    },
+    "data_key": "62c47d205e6cedb0f7ba5c510d2f3781",
+    "day_index_1": 33,
+    "day_index_10": 17,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 11
   }
 ]

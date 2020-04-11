@@ -559,7 +559,7 @@
       },
       "peak_pct": {
         "confirmed": 117.284,
-        "recovered": 166.667,
+        "recovered": 136.364,
         "infected": 65.217
       },
       "relative": {
@@ -816,7 +816,7 @@
       },
       "peak_pct": {
         "confirmed": 37.037,
-        "recovered": 66.667,
+        "recovered": 54.545,
         "infected": 14.493
       },
       "relative": {
@@ -945,7 +945,7 @@
       },
       "peak_pct": {
         "confirmed": 148.148,
-        "recovered": 133.333,
+        "recovered": 109.091,
         "infected": 115.942
       },
       "relative": {
@@ -1025,5 +1025,71 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": 9,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "6a7ce4a1953b7882859aa53ef3c8e3d7",
+      "type": "total-country",
+      "label": "Mayotte",
+      "country": "Mayotte",
+      "country_code": "YT",
+      "country_latlong": [
+        -12.83333333,
+        45.16666666
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -12.83333333,
+        45.16666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 191,
+        "deaths": 2,
+        "recovered": 50,
+        "infected": 139
+      },
+      "delta": {
+        "confirmed": 7,
+        "recovered": 28,
+        "infected": -21
+      },
+      "delta_pct": {
+        "confirmed": 3.804,
+        "recovered": 127.273,
+        "infected": -13.125
+      },
+      "peak_pct": {
+        "confirmed": 43.21,
+        "recovered": 381.818,
+        "infected": -152.174
+      },
+      "relative": {
+        "deaths": 1.047,
+        "recovered": 26.178,
+        "infected": 72.775
+      }
+    },
+    "factbook": null,
+    "data_key": "04a949eea88ba849c40bbb62bf8f89a4",
+    "day_index_1": 27,
+    "day_index_10": 20,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 9
   }
 ]

@@ -2769,5 +2769,98 @@
     "day_index_peak_confirmed": 19,
     "day_index_peak_deaths": null,
     "day_index_peak": 19
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd9bb4f2e800bc016af0187b8a684791",
+      "type": "total-country",
+      "label": "Faroe Islands",
+      "country": "Faroe Islands",
+      "country_code": "FO",
+      "country_latlong": [
+        62,
+        -7
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        62,
+        -7
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 10,
+      "date": "2020-04-10",
+      "timestamp": 1586480400,
+      "index": 80
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 184,
+        "recovered": 145,
+        "infected": 39
+      },
+      "delta": {
+        "recovered": 9,
+        "infected": -9
+      },
+      "delta_pct": {
+        "recovered": 6.618,
+        "infected": -18.75
+      },
+      "peak_pct": {
+        "recovered": 76.271,
+        "infected": -63.38
+      },
+      "relative": {
+        "recovered": 78.804,
+        "infected": 21.196
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.564,
+        "recovered": 2.809,
+        "infected": 0.755
+      },
+      "absolute_pop10k": {
+        "confirmed": 35.64,
+        "recovered": 28.086,
+        "infected": 7.554
+      },
+      "absolute_pop100k": {
+        "confirmed": 356.396,
+        "recovered": 280.855,
+        "infected": 75.54
+      },
+      "delta_pop1k": {
+        "recovered": 0.174,
+        "infected": -0.174
+      },
+      "delta_pop10k": {
+        "recovered": 1.743,
+        "infected": -1.743
+      },
+      "delta_pop100k": {
+        "recovered": 17.432,
+        "infected": -17.432
+      }
+    },
+    "factbook": {
+      "population": 51628,
+      "median_age": 37.2,
+      "death_rate": 8.8,
+      "area": 1393
+    },
+    "data_key": "f696b7d604cf2eafcf14b5bb5ceb2371",
+    "day_index_1": 38,
+    "day_index_10": 27,
+    "day_index_100": 20,
+    "day_index_peak_confirmed": 20,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 20
   }
 ]

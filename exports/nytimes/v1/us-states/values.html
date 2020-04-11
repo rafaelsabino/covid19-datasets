@@ -1,0 +1,12296 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		
+		<title>COVID-19 datasets</title>
+		
+		<meta charset="utf-8" />
+		
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=0.5, maximum-scale=1.0, user-scalable=yes" />
+		
+		<script src="https://cdn.jsdelivr.net/npm/handsontable@7.4.2/dist/handsontable.full.min.js" type="text/javascript"></script>
+		<link href="https://cdn.jsdelivr.net/npm/handsontable@7.4.2/dist/handsontable.full.min.css" rel="stylesheet">
+		
+		<style>
+			html {
+				font-family : "JetBrains Mono", "Fira Mono", "Fira Sans", "Verdana", "Trebuchet MS", sans-serif;
+				font-size : 10pt;
+				line-height : 1.40;
+			}
+			html:root, html:root > body {
+				display : block;
+				left : 0px;
+				right : 0px;
+				top : 0px;
+				bottom : 0px;
+				margin : 0px;
+				padding : 0px;
+				width : 100vw;
+				height : 100vh;
+				overflow : hidden;
+			}
+			html:root > *, script, style {
+				display : none;
+			}
+			#dataset {
+				display : block;
+				width : 100vw;
+				height : 100vh;
+				overflow : hidden;
+			}
+		</style>
+		
+	</head>
+	
+	<body>
+		
+		<div id="dataset" />
+		
+		<script type="text/javascript">
+			"use strict";
+			(function () {
+				
+				var _columns = [
+					//	{data : "type", title : "Type"},
+						{data : "country_code", title : "CC"},
+						{data : "country", title : "Country"},
+						{data : "date", title : "Date", type : "date"},
+					//	{data : "province", title : "Province"},
+					//	{data : "administrative", title : "Administrative"},
+						
+						{data : "absolute_confirmed", title : "conf.", type : "numeric"},
+						{data : "delta_confirmed", title : "+/-", type : "numeric"},
+						{data : "delta_pct_confirmed", title : "+/-%", type : "numeric"},
+					//	{data : "peak_pct_confirmed", title : "peak", type : "numeric"},
+						{data : "absolute_pop100k_confirmed", title : "/100k", type : "numeric"},
+						
+						{data : "absolute_deaths", title : "dead", type : "numeric"},
+						{data : "delta_deaths", title : "+/-", type : "numeric"},
+						{data : "delta_pct_deaths", title : "+/-%", type : "numeric"},
+					//	{data : "peak_pct_deaths", title : "peak", type : "numeric"},
+						{data : "absolute_pop100k_deaths", title : "/100k", type : "numeric"},
+						
+					//	{data : "absolute_recovered", title : "rec.", type : "numeric"},
+					//	{data : "delta_recovered", title : "+/-", type : "numeric"},
+					//	{data : "delta_pct_recovered", title : "+/-%", type : "numeric"},
+					//	{data : "peak_pct_recovered", title : "peak", type : "numeric"},
+						{data : "absolute_pop100k_recovered", title : "/100k", type : "numeric"},
+						
+					//	{data : "absolute_infected", title : "inf.", type : "numeric"},
+					//	{data : "delta_infected", title : "+/-", type : "numeric"},
+					//	{data : "delta_pct_infected", title : "+/-%", type : "numeric"},
+					//	{data : "peak_pct_infected", title : "peak", type : "numeric"},
+						{data : "absolute_pop100k_infected", title : "/100k", type : "numeric"},
+						
+						{data : "region", title : "Region"},
+						{data : "subregion", title : "Subregion"},
+						
+					];
+				
+				var _data = [
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					{
+						date : "2020-03-14",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 1,
+						
+						
+						absolute_infected : 1,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						
+						
+						
+						
+						
+						peak_pct_confirmed : 20,
+						
+						
+						peak_pct_infected : 20,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-16",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 2,
+						
+						
+						absolute_infected : 2,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 100,
+						
+						
+						delta_pct_infected : 100,
+						
+						peak_pct_confirmed : 20,
+						
+						
+						peak_pct_infected : 20,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-18",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 3,
+						
+						
+						absolute_infected : 3,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 50,
+						
+						
+						delta_pct_infected : 50,
+						
+						peak_pct_confirmed : 20,
+						
+						
+						peak_pct_infected : 20,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-20",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 6,
+						
+						
+						absolute_infected : 6,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 3,
+						
+						
+						delta_infected : 3,
+						
+						delta_pct_confirmed : 100,
+						
+						
+						delta_pct_infected : 100,
+						
+						peak_pct_confirmed : 60,
+						
+						
+						peak_pct_infected : 60,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-22",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 17,
+						
+						
+						absolute_infected : 17,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 11,
+						
+						
+						delta_infected : 11,
+						
+						delta_pct_confirmed : 183.333,
+						
+						
+						delta_pct_infected : 183.333,
+						
+						peak_pct_confirmed : 220,
+						
+						
+						peak_pct_infected : 220,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-27",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 19,
+						
+						
+						absolute_infected : 19,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 11.765,
+						
+						
+						delta_pct_infected : 11.765,
+						
+						peak_pct_confirmed : 40,
+						
+						
+						peak_pct_infected : 40,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-29",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 23,
+						
+						
+						absolute_infected : 23,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 4,
+						
+						
+						delta_infected : 4,
+						
+						delta_pct_confirmed : 21.053,
+						
+						
+						delta_pct_infected : 21.053,
+						
+						peak_pct_confirmed : 80,
+						
+						
+						peak_pct_infected : 80,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-30",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 30,
+						
+						
+						absolute_infected : 30,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 7,
+						
+						
+						delta_infected : 7,
+						
+						delta_pct_confirmed : 30.435,
+						
+						
+						delta_pct_infected : 30.435,
+						
+						peak_pct_confirmed : 140,
+						
+						
+						peak_pct_infected : 140,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-02",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 37,
+						
+						
+						absolute_infected : 37,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 7,
+						
+						
+						delta_infected : 7,
+						
+						delta_pct_confirmed : 23.333,
+						
+						
+						delta_pct_infected : 23.333,
+						
+						peak_pct_confirmed : 140,
+						
+						
+						peak_pct_infected : 140,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-03",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 38,
+						
+						
+						absolute_infected : 38,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 2.703,
+						
+						
+						delta_pct_infected : 2.703,
+						
+						peak_pct_confirmed : 20,
+						
+						
+						peak_pct_infected : 20,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-04",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 42,
+						
+						
+						absolute_infected : 42,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 4,
+						
+						
+						delta_infected : 4,
+						
+						delta_pct_confirmed : 10.526,
+						
+						
+						delta_pct_infected : 10.526,
+						
+						peak_pct_confirmed : 80,
+						
+						
+						peak_pct_infected : 80,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-06",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 43,
+						
+						absolute_deaths : 1,
+						absolute_infected : 42,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 1,
+						
+						delta_deaths : 1,
+						
+						
+						delta_pct_confirmed : 2.381,
+						
+						
+						
+						
+						peak_pct_confirmed : 20,
+						
+						
+						
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-07",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 45,
+						
+						absolute_deaths : 1,
+						absolute_infected : 44,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 4.651,
+						
+						
+						delta_pct_infected : 4.762,
+						
+						peak_pct_confirmed : 40,
+						
+						
+						peak_pct_infected : 40,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-09",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "VG",
+						country : "British Virgin Islands",
+						
+						
+						
+						absolute_confirmed : 46,
+						
+						absolute_deaths : 1,
+						absolute_infected : 45,
+						
+						
+						
+						
+						
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 2.222,
+						
+						
+						delta_pct_infected : 2.273,
+						
+						peak_pct_confirmed : 20,
+						
+						
+						peak_pct_infected : 20,
+						
+					},
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					{
+						date : "2020-03-15",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 3,
+						
+						
+						absolute_infected : 3,
+						
+						absolute_pop100k_confirmed : 1.781,
+						
+						
+						absolute_pop100k_infected : 1.781,
+						
+						delta_confirmed : 3,
+						
+						
+						delta_infected : 3,
+						
+						
+						
+						
+						
+						
+						peak_pct_confirmed : 4.412,
+						
+						
+						peak_pct_infected : 4.425,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-18",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 8,
+						
+						
+						absolute_infected : 8,
+						
+						absolute_pop100k_confirmed : 4.748,
+						
+						
+						absolute_pop100k_infected : 4.748,
+						
+						delta_confirmed : 5,
+						
+						
+						delta_infected : 5,
+						
+						delta_pct_confirmed : 166.667,
+						
+						
+						delta_pct_infected : 166.667,
+						
+						peak_pct_confirmed : 7.353,
+						
+						
+						peak_pct_infected : 7.375,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-19",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 12,
+						
+						
+						absolute_infected : 12,
+						
+						absolute_pop100k_confirmed : 7.122,
+						
+						
+						absolute_pop100k_infected : 7.122,
+						
+						delta_confirmed : 4,
+						
+						
+						delta_infected : 4,
+						
+						delta_pct_confirmed : 50,
+						
+						
+						delta_pct_infected : 50,
+						
+						peak_pct_confirmed : 5.882,
+						
+						
+						peak_pct_infected : 5.9,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-20",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 14,
+						
+						
+						absolute_infected : 14,
+						
+						absolute_pop100k_confirmed : 8.309,
+						
+						
+						absolute_pop100k_infected : 8.309,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 16.667,
+						
+						
+						delta_pct_infected : 16.667,
+						
+						peak_pct_confirmed : 2.941,
+						
+						
+						peak_pct_infected : 2.95,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-21",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 15,
+						
+						
+						absolute_infected : 15,
+						
+						absolute_pop100k_confirmed : 8.903,
+						
+						
+						absolute_pop100k_infected : 8.903,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 7.143,
+						
+						
+						delta_pct_infected : 7.143,
+						
+						peak_pct_confirmed : 1.471,
+						
+						
+						peak_pct_infected : 1.475,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-22",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 27,
+						
+						absolute_deaths : 1,
+						absolute_infected : 26,
+						
+						absolute_pop100k_confirmed : 16.025,
+						
+						absolute_pop100k_deaths : 0.594,
+						absolute_pop100k_infected : 15.432,
+						
+						delta_confirmed : 12,
+						
+						delta_deaths : 1,
+						delta_infected : 11,
+						
+						delta_pct_confirmed : 80,
+						
+						
+						delta_pct_infected : 73.333,
+						
+						peak_pct_confirmed : 17.647,
+						
+						peak_pct_deaths : 100,
+						peak_pct_infected : 16.224,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-23",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 29,
+						
+						absolute_deaths : 1,
+						absolute_infected : 28,
+						
+						absolute_pop100k_confirmed : 17.212,
+						
+						absolute_pop100k_deaths : 0.594,
+						absolute_pop100k_infected : 16.619,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 7.407,
+						
+						
+						delta_pct_infected : 7.692,
+						
+						peak_pct_confirmed : 2.941,
+						
+						
+						peak_pct_infected : 2.95,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-24",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 32,
+						
+						absolute_deaths : 1,
+						absolute_infected : 31,
+						
+						absolute_pop100k_confirmed : 18.993,
+						
+						absolute_pop100k_deaths : 0.594,
+						absolute_pop100k_infected : 18.399,
+						
+						delta_confirmed : 3,
+						
+						
+						delta_infected : 3,
+						
+						delta_pct_confirmed : 10.345,
+						
+						
+						delta_pct_infected : 10.714,
+						
+						peak_pct_confirmed : 4.412,
+						
+						
+						peak_pct_infected : 4.425,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-26",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 49,
+						
+						absolute_deaths : 1,
+						absolute_infected : 48,
+						
+						absolute_pop100k_confirmed : 29.083,
+						
+						absolute_pop100k_deaths : 0.594,
+						absolute_pop100k_infected : 28.489,
+						
+						delta_confirmed : 17,
+						
+						
+						delta_infected : 17,
+						
+						delta_pct_confirmed : 53.125,
+						
+						
+						delta_pct_infected : 54.839,
+						
+						peak_pct_confirmed : 25,
+						
+						
+						peak_pct_infected : 25.074,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-27",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 53,
+						
+						absolute_deaths : 1,
+						absolute_infected : 52,
+						
+						absolute_pop100k_confirmed : 31.457,
+						
+						absolute_pop100k_deaths : 0.594,
+						absolute_pop100k_infected : 30.863,
+						
+						delta_confirmed : 4,
+						
+						
+						delta_infected : 4,
+						
+						delta_pct_confirmed : 8.163,
+						
+						
+						delta_pct_infected : 8.333,
+						
+						peak_pct_confirmed : 5.882,
+						
+						
+						peak_pct_infected : 5.9,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-28",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 57,
+						
+						absolute_deaths : 1,
+						absolute_infected : 56,
+						
+						absolute_pop100k_confirmed : 33.831,
+						
+						absolute_pop100k_deaths : 0.594,
+						absolute_pop100k_infected : 33.237,
+						
+						delta_confirmed : 4,
+						
+						
+						delta_infected : 4,
+						
+						delta_pct_confirmed : 7.547,
+						
+						
+						delta_pct_infected : 7.692,
+						
+						peak_pct_confirmed : 5.882,
+						
+						
+						peak_pct_infected : 5.9,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-29",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 58,
+						
+						absolute_deaths : 1,
+						absolute_infected : 57,
+						
+						absolute_pop100k_confirmed : 34.424,
+						
+						absolute_pop100k_deaths : 0.594,
+						absolute_pop100k_infected : 33.831,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 1.754,
+						
+						
+						delta_pct_infected : 1.786,
+						
+						peak_pct_confirmed : 1.471,
+						
+						
+						peak_pct_infected : 1.475,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-30",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 60,
+						
+						absolute_deaths : 1,
+						absolute_infected : 59,
+						
+						absolute_pop100k_confirmed : 35.611,
+						
+						absolute_pop100k_deaths : 0.594,
+						absolute_pop100k_infected : 35.018,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 3.448,
+						
+						
+						delta_pct_infected : 3.509,
+						
+						peak_pct_confirmed : 2.941,
+						
+						
+						peak_pct_infected : 2.95,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-31",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 139,
+						
+						absolute_deaths : 2,
+						absolute_infected : 137,
+						
+						absolute_pop100k_confirmed : 82.5,
+						
+						absolute_pop100k_deaths : 1.187,
+						absolute_pop100k_infected : 81.313,
+						
+						delta_confirmed : 79,
+						
+						delta_deaths : 1,
+						delta_infected : 78,
+						
+						delta_pct_confirmed : 131.667,
+						
+						delta_pct_deaths : 100,
+						delta_pct_infected : 132.203,
+						
+						peak_pct_confirmed : 116.176,
+						
+						peak_pct_deaths : 100,
+						peak_pct_infected : 115.044,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-01",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 147,
+						
+						absolute_deaths : 3,
+						absolute_infected : 144,
+						
+						absolute_pop100k_confirmed : 87.248,
+						
+						absolute_pop100k_deaths : 1.781,
+						absolute_pop100k_infected : 85.468,
+						
+						delta_confirmed : 8,
+						
+						delta_deaths : 1,
+						delta_infected : 7,
+						
+						delta_pct_confirmed : 5.755,
+						
+						delta_pct_deaths : 50,
+						delta_pct_infected : 5.109,
+						
+						peak_pct_confirmed : 11.765,
+						
+						peak_pct_deaths : 100,
+						peak_pct_infected : 10.324,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-02",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 152,
+						
+						absolute_deaths : 3,
+						absolute_infected : 149,
+						
+						absolute_pop100k_confirmed : 90.216,
+						
+						absolute_pop100k_deaths : 1.781,
+						absolute_pop100k_infected : 88.435,
+						
+						delta_confirmed : 5,
+						
+						
+						delta_infected : 5,
+						
+						delta_pct_confirmed : 3.401,
+						
+						
+						delta_pct_infected : 3.472,
+						
+						peak_pct_confirmed : 7.353,
+						
+						
+						peak_pct_infected : 7.375,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-03",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 154,
+						
+						absolute_deaths : 4,
+						absolute_infected : 150,
+						
+						absolute_pop100k_confirmed : 91.403,
+						
+						absolute_pop100k_deaths : 2.374,
+						absolute_pop100k_infected : 89.029,
+						
+						delta_confirmed : 2,
+						
+						delta_deaths : 1,
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 1.316,
+						
+						delta_pct_deaths : 33.333,
+						delta_pct_infected : 0.671,
+						
+						peak_pct_confirmed : 2.941,
+						
+						peak_pct_deaths : 100,
+						peak_pct_infected : 1.475,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-04",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 223,
+						
+						absolute_deaths : 4,
+						absolute_infected : 219,
+						
+						absolute_pop100k_confirmed : 132.356,
+						
+						absolute_pop100k_deaths : 2.374,
+						absolute_pop100k_infected : 129.982,
+						
+						delta_confirmed : 69,
+						
+						
+						delta_infected : 69,
+						
+						delta_pct_confirmed : 44.805,
+						
+						
+						delta_pct_infected : 46,
+						
+						peak_pct_confirmed : 101.471,
+						
+						
+						peak_pct_infected : 101.77,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-05",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 265,
+						
+						absolute_deaths : 4,
+						absolute_infected : 261,
+						
+						absolute_pop100k_confirmed : 157.284,
+						
+						absolute_pop100k_deaths : 2.374,
+						absolute_pop100k_infected : 154.91,
+						
+						delta_confirmed : 42,
+						
+						
+						delta_infected : 42,
+						
+						delta_pct_confirmed : 18.834,
+						
+						
+						delta_pct_infected : 19.178,
+						
+						peak_pct_confirmed : 61.765,
+						
+						
+						peak_pct_infected : 61.947,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-06",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 266,
+						
+						absolute_deaths : 4,
+						absolute_infected : 262,
+						
+						absolute_pop100k_confirmed : 157.878,
+						
+						absolute_pop100k_deaths : 2.374,
+						absolute_pop100k_infected : 155.503,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 0.377,
+						
+						
+						delta_pct_infected : 0.383,
+						
+						peak_pct_confirmed : 1.471,
+						
+						
+						peak_pct_infected : 1.475,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-07",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 274,
+						
+						absolute_deaths : 4,
+						absolute_infected : 270,
+						
+						absolute_pop100k_confirmed : 162.626,
+						
+						absolute_pop100k_deaths : 2.374,
+						absolute_pop100k_infected : 160.252,
+						
+						delta_confirmed : 8,
+						
+						
+						delta_infected : 8,
+						
+						delta_pct_confirmed : 3.008,
+						
+						
+						delta_pct_infected : 3.053,
+						
+						peak_pct_confirmed : 11.765,
+						
+						
+						peak_pct_infected : 11.799,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-08",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 409,
+						
+						absolute_deaths : 4,
+						absolute_infected : 405,
+						
+						absolute_pop100k_confirmed : 242.752,
+						
+						absolute_pop100k_deaths : 2.374,
+						absolute_pop100k_infected : 240.377,
+						
+						delta_confirmed : 135,
+						
+						
+						delta_infected : 135,
+						
+						delta_pct_confirmed : 49.27,
+						
+						
+						delta_pct_infected : 50,
+						
+						peak_pct_confirmed : 198.529,
+						
+						
+						peak_pct_infected : 199.115,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-09",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "GU",
+						country : "Guam",
+						
+						
+						
+						absolute_confirmed : 542,
+						
+						absolute_deaths : 4,
+						absolute_infected : 538,
+						
+						absolute_pop100k_confirmed : 321.69,
+						
+						absolute_pop100k_deaths : 2.374,
+						absolute_pop100k_infected : 319.316,
+						
+						delta_confirmed : 133,
+						
+						
+						delta_infected : 133,
+						
+						delta_pct_confirmed : 32.518,
+						
+						
+						delta_pct_infected : 32.84,
+						
+						peak_pct_confirmed : 195.588,
+						
+						
+						peak_pct_infected : 196.165,
+						
+					},
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					{
+						date : "2020-03-28",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "MP",
+						country : "Northern Mariana Islands",
+						
+						
+						
+						absolute_confirmed : 2,
+						
+						
+						absolute_infected : 2,
+						
+						absolute_pop100k_confirmed : 3.889,
+						
+						
+						absolute_pop100k_infected : 3.889,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						
+						
+						
+						
+						
+						peak_pct_confirmed : 85.714,
+						
+						
+						peak_pct_infected : 85.714,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-01",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "MP",
+						country : "Northern Mariana Islands",
+						
+						
+						
+						absolute_confirmed : 6,
+						
+						absolute_deaths : 1,
+						absolute_infected : 5,
+						
+						absolute_pop100k_confirmed : 11.666,
+						
+						absolute_pop100k_deaths : 1.944,
+						absolute_pop100k_infected : 9.721,
+						
+						delta_confirmed : 4,
+						
+						delta_deaths : 1,
+						delta_infected : 3,
+						
+						delta_pct_confirmed : 200,
+						
+						
+						delta_pct_infected : 150,
+						
+						peak_pct_confirmed : 171.429,
+						
+						peak_pct_deaths : 100,
+						peak_pct_infected : 128.571,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-02",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "MP",
+						country : "Northern Mariana Islands",
+						
+						
+						
+						absolute_confirmed : 8,
+						
+						absolute_deaths : 1,
+						absolute_infected : 7,
+						
+						absolute_pop100k_confirmed : 15.554,
+						
+						absolute_pop100k_deaths : 1.944,
+						absolute_pop100k_infected : 13.61,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 33.333,
+						
+						
+						delta_pct_infected : 40,
+						
+						peak_pct_confirmed : 85.714,
+						
+						
+						peak_pct_infected : 85.714,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-07",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "MP",
+						country : "Northern Mariana Islands",
+						
+						
+						
+						absolute_confirmed : 8,
+						
+						absolute_deaths : 2,
+						absolute_infected : 6,
+						
+						absolute_pop100k_confirmed : 15.554,
+						
+						absolute_pop100k_deaths : 3.889,
+						absolute_pop100k_infected : 11.666,
+						
+						
+						
+						delta_deaths : 1,
+						delta_infected : -1,
+						
+						
+						
+						delta_pct_deaths : 100,
+						delta_pct_infected : -14.286,
+						
+						
+						
+						peak_pct_deaths : 100,
+						peak_pct_infected : -42.857,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-08",
+						type : "total-country",
+						subregion : "Micronesia",
+						region : "Oceania",
+						country_code : "MP",
+						country : "Northern Mariana Islands",
+						
+						
+						
+						absolute_confirmed : 11,
+						
+						absolute_deaths : 2,
+						absolute_infected : 9,
+						
+						absolute_pop100k_confirmed : 21.387,
+						
+						absolute_pop100k_deaths : 3.889,
+						absolute_pop100k_infected : 17.498,
+						
+						delta_confirmed : 3,
+						
+						
+						delta_infected : 3,
+						
+						delta_pct_confirmed : 37.5,
+						
+						
+						delta_pct_infected : 50,
+						
+						peak_pct_confirmed : 128.571,
+						
+						
+						peak_pct_infected : 128.571,
+						
+					},
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					{
+						date : "2020-03-13",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 3,
+						
+						
+						absolute_infected : 3,
+						
+						absolute_pop100k_confirmed : 0.094,
+						
+						
+						absolute_pop100k_infected : 0.094,
+						
+						delta_confirmed : 3,
+						
+						
+						delta_infected : 3,
+						
+						
+						
+						
+						
+						
+						peak_pct_confirmed : 5.051,
+						
+						
+						peak_pct_infected : 5.357,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-14",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 4,
+						
+						
+						absolute_infected : 4,
+						
+						absolute_pop100k_confirmed : 0.125,
+						
+						
+						absolute_pop100k_infected : 0.125,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 33.333,
+						
+						
+						delta_pct_infected : 33.333,
+						
+						peak_pct_confirmed : 1.684,
+						
+						
+						peak_pct_infected : 1.786,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-15",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 5,
+						
+						
+						absolute_infected : 5,
+						
+						absolute_pop100k_confirmed : 0.157,
+						
+						
+						absolute_pop100k_infected : 0.157,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 25,
+						
+						
+						delta_pct_infected : 25,
+						
+						peak_pct_confirmed : 1.684,
+						
+						
+						peak_pct_infected : 1.786,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-19",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 6,
+						
+						
+						absolute_infected : 6,
+						
+						absolute_pop100k_confirmed : 0.188,
+						
+						
+						absolute_pop100k_infected : 0.188,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 20,
+						
+						
+						delta_pct_infected : 20,
+						
+						peak_pct_confirmed : 1.684,
+						
+						
+						peak_pct_infected : 1.786,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-20",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 14,
+						
+						
+						absolute_infected : 14,
+						
+						absolute_pop100k_confirmed : 0.439,
+						
+						
+						absolute_pop100k_infected : 0.439,
+						
+						delta_confirmed : 8,
+						
+						
+						delta_infected : 8,
+						
+						delta_pct_confirmed : 133.333,
+						
+						
+						delta_pct_infected : 133.333,
+						
+						peak_pct_confirmed : 13.468,
+						
+						
+						peak_pct_infected : 14.286,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-21",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 21,
+						
+						absolute_deaths : 1,
+						absolute_infected : 20,
+						
+						absolute_pop100k_confirmed : 0.658,
+						
+						absolute_pop100k_deaths : 0.031,
+						absolute_pop100k_infected : 0.627,
+						
+						delta_confirmed : 7,
+						
+						delta_deaths : 1,
+						delta_infected : 6,
+						
+						delta_pct_confirmed : 50,
+						
+						
+						delta_pct_infected : 42.857,
+						
+						peak_pct_confirmed : 11.785,
+						
+						peak_pct_deaths : 38.462,
+						peak_pct_infected : 10.714,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-22",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 23,
+						
+						absolute_deaths : 1,
+						absolute_infected : 22,
+						
+						absolute_pop100k_confirmed : 0.721,
+						
+						absolute_pop100k_deaths : 0.031,
+						absolute_pop100k_infected : 0.69,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 9.524,
+						
+						
+						delta_pct_infected : 10,
+						
+						peak_pct_confirmed : 3.367,
+						
+						
+						peak_pct_infected : 3.571,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-23",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 31,
+						
+						absolute_deaths : 2,
+						absolute_infected : 29,
+						
+						absolute_pop100k_confirmed : 0.972,
+						
+						absolute_pop100k_deaths : 0.063,
+						absolute_pop100k_infected : 0.909,
+						
+						delta_confirmed : 8,
+						
+						delta_deaths : 1,
+						delta_infected : 7,
+						
+						delta_pct_confirmed : 34.783,
+						
+						delta_pct_deaths : 100,
+						delta_pct_infected : 31.818,
+						
+						peak_pct_confirmed : 13.468,
+						
+						peak_pct_deaths : 38.462,
+						peak_pct_infected : 12.5,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-24",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 39,
+						
+						absolute_deaths : 2,
+						absolute_infected : 37,
+						
+						absolute_pop100k_confirmed : 1.223,
+						
+						absolute_pop100k_deaths : 0.063,
+						absolute_pop100k_infected : 1.16,
+						
+						delta_confirmed : 8,
+						
+						
+						delta_infected : 8,
+						
+						delta_pct_confirmed : 25.806,
+						
+						
+						delta_pct_infected : 27.586,
+						
+						peak_pct_confirmed : 13.468,
+						
+						
+						peak_pct_infected : 14.286,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-25",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 51,
+						
+						absolute_deaths : 2,
+						absolute_infected : 49,
+						
+						absolute_pop100k_confirmed : 1.599,
+						
+						absolute_pop100k_deaths : 0.063,
+						absolute_pop100k_infected : 1.536,
+						
+						delta_confirmed : 12,
+						
+						
+						delta_infected : 12,
+						
+						delta_pct_confirmed : 30.769,
+						
+						
+						delta_pct_infected : 32.432,
+						
+						peak_pct_confirmed : 20.202,
+						
+						
+						peak_pct_infected : 21.429,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-26",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 64,
+						
+						absolute_deaths : 2,
+						absolute_infected : 62,
+						
+						absolute_pop100k_confirmed : 2.007,
+						
+						absolute_pop100k_deaths : 0.063,
+						absolute_pop100k_infected : 1.944,
+						
+						delta_confirmed : 13,
+						
+						
+						delta_infected : 13,
+						
+						delta_pct_confirmed : 25.49,
+						
+						
+						delta_pct_infected : 26.531,
+						
+						peak_pct_confirmed : 21.886,
+						
+						
+						peak_pct_infected : 23.214,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-27",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 79,
+						
+						absolute_deaths : 3,
+						absolute_infected : 76,
+						
+						absolute_pop100k_confirmed : 2.477,
+						
+						absolute_pop100k_deaths : 0.094,
+						absolute_pop100k_infected : 2.383,
+						
+						delta_confirmed : 15,
+						
+						delta_deaths : 1,
+						delta_infected : 14,
+						
+						delta_pct_confirmed : 23.438,
+						
+						delta_pct_deaths : 50,
+						delta_pct_infected : 22.581,
+						
+						peak_pct_confirmed : 25.253,
+						
+						peak_pct_deaths : 38.462,
+						peak_pct_infected : 25,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-28",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 100,
+						
+						absolute_deaths : 3,
+						absolute_infected : 97,
+						
+						absolute_pop100k_confirmed : 3.136,
+						
+						absolute_pop100k_deaths : 0.094,
+						absolute_pop100k_infected : 3.042,
+						
+						delta_confirmed : 21,
+						
+						
+						delta_infected : 21,
+						
+						delta_pct_confirmed : 26.582,
+						
+						
+						delta_pct_infected : 27.632,
+						
+						peak_pct_confirmed : 35.354,
+						
+						
+						peak_pct_infected : 37.5,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-29",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 127,
+						
+						absolute_deaths : 5,
+						absolute_infected : 122,
+						
+						absolute_pop100k_confirmed : 3.982,
+						
+						absolute_pop100k_deaths : 0.157,
+						absolute_pop100k_infected : 3.826,
+						
+						delta_confirmed : 27,
+						
+						delta_deaths : 2,
+						delta_infected : 25,
+						
+						delta_pct_confirmed : 27,
+						
+						delta_pct_deaths : 66.667,
+						delta_pct_infected : 25.773,
+						
+						peak_pct_confirmed : 45.455,
+						
+						peak_pct_deaths : 76.923,
+						peak_pct_infected : 44.643,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-30",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 174,
+						
+						absolute_deaths : 6,
+						absolute_infected : 168,
+						
+						absolute_pop100k_confirmed : 5.456,
+						
+						absolute_pop100k_deaths : 0.188,
+						absolute_pop100k_infected : 5.268,
+						
+						delta_confirmed : 47,
+						
+						delta_deaths : 1,
+						delta_infected : 46,
+						
+						delta_pct_confirmed : 37.008,
+						
+						delta_pct_deaths : 20,
+						delta_pct_infected : 37.705,
+						
+						peak_pct_confirmed : 79.125,
+						
+						peak_pct_deaths : 38.462,
+						peak_pct_infected : 82.143,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-31",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 239,
+						
+						absolute_deaths : 8,
+						absolute_infected : 231,
+						
+						absolute_pop100k_confirmed : 7.494,
+						
+						absolute_pop100k_deaths : 0.251,
+						absolute_pop100k_infected : 7.243,
+						
+						delta_confirmed : 65,
+						
+						delta_deaths : 2,
+						delta_infected : 63,
+						
+						delta_pct_confirmed : 37.356,
+						
+						delta_pct_deaths : 33.333,
+						delta_pct_infected : 37.5,
+						
+						peak_pct_confirmed : 109.428,
+						
+						peak_pct_deaths : 76.923,
+						peak_pct_infected : 112.5,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-01",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 286,
+						
+						absolute_deaths : 11,
+						absolute_infected : 275,
+						
+						absolute_pop100k_confirmed : 8.968,
+						
+						absolute_pop100k_deaths : 0.345,
+						absolute_pop100k_infected : 8.623,
+						
+						delta_confirmed : 47,
+						
+						delta_deaths : 3,
+						delta_infected : 44,
+						
+						delta_pct_confirmed : 19.665,
+						
+						delta_pct_deaths : 37.5,
+						delta_pct_infected : 19.048,
+						
+						peak_pct_confirmed : 79.125,
+						
+						peak_pct_deaths : 115.385,
+						peak_pct_infected : 78.571,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-02",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 316,
+						
+						absolute_deaths : 12,
+						absolute_infected : 304,
+						
+						absolute_pop100k_confirmed : 9.909,
+						
+						absolute_pop100k_deaths : 0.376,
+						absolute_pop100k_infected : 9.533,
+						
+						delta_confirmed : 30,
+						
+						delta_deaths : 1,
+						delta_infected : 29,
+						
+						delta_pct_confirmed : 10.49,
+						
+						delta_pct_deaths : 9.091,
+						delta_pct_infected : 10.545,
+						
+						peak_pct_confirmed : 50.505,
+						
+						peak_pct_deaths : 38.462,
+						peak_pct_infected : 51.786,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-03",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 378,
+						
+						absolute_deaths : 15,
+						absolute_infected : 363,
+						
+						absolute_pop100k_confirmed : 11.853,
+						
+						absolute_pop100k_deaths : 0.47,
+						absolute_pop100k_infected : 11.383,
+						
+						delta_confirmed : 62,
+						
+						delta_deaths : 3,
+						delta_infected : 59,
+						
+						delta_pct_confirmed : 19.62,
+						
+						delta_pct_deaths : 25,
+						delta_pct_infected : 19.408,
+						
+						peak_pct_confirmed : 104.377,
+						
+						peak_pct_deaths : 115.385,
+						peak_pct_infected : 105.357,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-04",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 452,
+						
+						absolute_deaths : 18,
+						absolute_infected : 434,
+						
+						absolute_pop100k_confirmed : 14.173,
+						
+						absolute_pop100k_deaths : 0.564,
+						absolute_pop100k_infected : 13.609,
+						
+						delta_confirmed : 74,
+						
+						delta_deaths : 3,
+						delta_infected : 71,
+						
+						delta_pct_confirmed : 19.577,
+						
+						delta_pct_deaths : 20,
+						delta_pct_infected : 19.559,
+						
+						peak_pct_confirmed : 124.579,
+						
+						peak_pct_deaths : 115.385,
+						peak_pct_infected : 126.786,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-05",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 475,
+						
+						absolute_deaths : 20,
+						absolute_infected : 455,
+						
+						absolute_pop100k_confirmed : 14.895,
+						
+						absolute_pop100k_deaths : 0.627,
+						absolute_pop100k_infected : 14.267,
+						
+						delta_confirmed : 23,
+						
+						delta_deaths : 2,
+						delta_infected : 21,
+						
+						delta_pct_confirmed : 5.088,
+						
+						delta_pct_deaths : 11.111,
+						delta_pct_infected : 4.839,
+						
+						peak_pct_confirmed : 38.721,
+						
+						peak_pct_deaths : 76.923,
+						peak_pct_infected : 37.5,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-06",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 513,
+						
+						absolute_deaths : 21,
+						absolute_infected : 492,
+						
+						absolute_pop100k_confirmed : 16.086,
+						
+						absolute_pop100k_deaths : 0.658,
+						absolute_pop100k_infected : 15.428,
+						
+						delta_confirmed : 38,
+						
+						delta_deaths : 1,
+						delta_infected : 37,
+						
+						delta_pct_confirmed : 8,
+						
+						delta_pct_deaths : 5,
+						delta_pct_infected : 8.132,
+						
+						peak_pct_confirmed : 63.973,
+						
+						peak_pct_deaths : 38.462,
+						peak_pct_infected : 66.071,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-07",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 573,
+						
+						absolute_deaths : 23,
+						absolute_infected : 550,
+						
+						absolute_pop100k_confirmed : 17.968,
+						
+						absolute_pop100k_deaths : 0.721,
+						absolute_pop100k_infected : 17.246,
+						
+						delta_confirmed : 60,
+						
+						delta_deaths : 2,
+						delta_infected : 58,
+						
+						delta_pct_confirmed : 11.696,
+						
+						delta_pct_deaths : 9.524,
+						delta_pct_infected : 11.789,
+						
+						peak_pct_confirmed : 101.01,
+						
+						peak_pct_deaths : 76.923,
+						peak_pct_infected : 103.571,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-08",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 620,
+						
+						absolute_deaths : 24,
+						absolute_infected : 596,
+						
+						absolute_pop100k_confirmed : 19.441,
+						
+						absolute_pop100k_deaths : 0.753,
+						absolute_pop100k_infected : 18.689,
+						
+						delta_confirmed : 47,
+						
+						delta_deaths : 1,
+						delta_infected : 46,
+						
+						delta_pct_confirmed : 8.202,
+						
+						delta_pct_deaths : 4.348,
+						delta_pct_infected : 8.364,
+						
+						peak_pct_confirmed : 79.125,
+						
+						peak_pct_deaths : 38.462,
+						peak_pct_infected : 82.143,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-09",
+						type : "total-country",
+						subregion : "Caribbean",
+						region : "Americas",
+						country_code : "PR",
+						country : "Puerto Rico",
+						
+						
+						
+						absolute_confirmed : 683,
+						
+						absolute_deaths : 33,
+						absolute_infected : 650,
+						
+						absolute_pop100k_confirmed : 21.417,
+						
+						absolute_pop100k_deaths : 1.035,
+						absolute_pop100k_infected : 20.382,
+						
+						delta_confirmed : 63,
+						
+						delta_deaths : 9,
+						delta_infected : 54,
+						
+						delta_pct_confirmed : 10.161,
+						
+						delta_pct_deaths : 37.5,
+						delta_pct_infected : 9.06,
+						
+						peak_pct_confirmed : 106.061,
+						
+						peak_pct_deaths : 346.154,
+						peak_pct_infected : 96.429,
+						
+					},
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					{
+						date : "2020-01-21",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 1,
+						
+						
+						absolute_infected : 1,
+						
+						absolute_pop100k_confirmed : 0,
+						
+						
+						absolute_pop100k_infected : 0,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						
+						
+						
+						
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-01-24",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 2,
+						
+						
+						absolute_infected : 2,
+						
+						absolute_pop100k_confirmed : 0.001,
+						
+						
+						absolute_pop100k_infected : 0.001,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 100,
+						
+						
+						delta_pct_infected : 100,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-01-25",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 3,
+						
+						
+						absolute_infected : 3,
+						
+						absolute_pop100k_confirmed : 0.001,
+						
+						
+						absolute_pop100k_infected : 0.001,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 50,
+						
+						
+						delta_pct_infected : 50,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-01-26",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 5,
+						
+						
+						absolute_infected : 5,
+						
+						absolute_pop100k_confirmed : 0.002,
+						
+						
+						absolute_pop100k_infected : 0.002,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 66.667,
+						
+						
+						delta_pct_infected : 66.667,
+						
+						peak_pct_confirmed : 0.006,
+						
+						
+						peak_pct_infected : 0.007,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-01-30",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 6,
+						
+						
+						absolute_infected : 6,
+						
+						absolute_pop100k_confirmed : 0.002,
+						
+						
+						absolute_pop100k_infected : 0.002,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 20,
+						
+						
+						delta_pct_infected : 20,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-01-31",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 7,
+						
+						
+						absolute_infected : 7,
+						
+						absolute_pop100k_confirmed : 0.002,
+						
+						
+						absolute_pop100k_infected : 0.002,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 16.667,
+						
+						
+						delta_pct_infected : 16.667,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-01",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 8,
+						
+						
+						absolute_infected : 8,
+						
+						absolute_pop100k_confirmed : 0.002,
+						
+						
+						absolute_pop100k_infected : 0.002,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 14.286,
+						
+						
+						delta_pct_infected : 14.286,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-02",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 11,
+						
+						
+						absolute_infected : 11,
+						
+						absolute_pop100k_confirmed : 0.003,
+						
+						
+						absolute_pop100k_infected : 0.003,
+						
+						delta_confirmed : 3,
+						
+						
+						delta_infected : 3,
+						
+						delta_pct_confirmed : 37.5,
+						
+						
+						delta_pct_infected : 37.5,
+						
+						peak_pct_confirmed : 0.009,
+						
+						
+						peak_pct_infected : 0.01,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-05",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 12,
+						
+						
+						absolute_infected : 12,
+						
+						absolute_pop100k_confirmed : 0.004,
+						
+						
+						absolute_pop100k_infected : 0.004,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 9.091,
+						
+						
+						delta_pct_infected : 9.091,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-10",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 13,
+						
+						
+						absolute_infected : 13,
+						
+						absolute_pop100k_confirmed : 0.004,
+						
+						
+						absolute_pop100k_infected : 0.004,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 8.333,
+						
+						
+						delta_pct_infected : 8.333,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-12",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 14,
+						
+						
+						absolute_infected : 14,
+						
+						absolute_pop100k_confirmed : 0.004,
+						
+						
+						absolute_pop100k_infected : 0.004,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 7.692,
+						
+						
+						delta_pct_infected : 7.692,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-13",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 15,
+						
+						
+						absolute_infected : 15,
+						
+						absolute_pop100k_confirmed : 0.005,
+						
+						
+						absolute_pop100k_infected : 0.005,
+						
+						delta_confirmed : 1,
+						
+						
+						delta_infected : 1,
+						
+						delta_pct_confirmed : 7.143,
+						
+						
+						delta_pct_infected : 7.143,
+						
+						peak_pct_confirmed : 0.003,
+						
+						
+						peak_pct_infected : 0.003,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-17",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 25,
+						
+						
+						absolute_infected : 25,
+						
+						absolute_pop100k_confirmed : 0.008,
+						
+						
+						absolute_pop100k_infected : 0.008,
+						
+						delta_confirmed : 10,
+						
+						
+						delta_infected : 10,
+						
+						delta_pct_confirmed : 66.667,
+						
+						
+						delta_pct_infected : 66.667,
+						
+						peak_pct_confirmed : 0.032,
+						
+						
+						peak_pct_infected : 0.033,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-20",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 27,
+						
+						
+						absolute_infected : 27,
+						
+						absolute_pop100k_confirmed : 0.008,
+						
+						
+						absolute_pop100k_infected : 0.008,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 8,
+						
+						
+						delta_pct_infected : 8,
+						
+						peak_pct_confirmed : 0.006,
+						
+						
+						peak_pct_infected : 0.007,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-21",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 30,
+						
+						
+						absolute_infected : 30,
+						
+						absolute_pop100k_confirmed : 0.009,
+						
+						
+						absolute_pop100k_infected : 0.009,
+						
+						delta_confirmed : 3,
+						
+						
+						delta_infected : 3,
+						
+						delta_pct_confirmed : 11.111,
+						
+						
+						delta_pct_infected : 11.111,
+						
+						peak_pct_confirmed : 0.009,
+						
+						
+						peak_pct_infected : 0.01,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-24",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 43,
+						
+						
+						absolute_infected : 43,
+						
+						absolute_pop100k_confirmed : 0.013,
+						
+						
+						absolute_pop100k_infected : 0.013,
+						
+						delta_confirmed : 13,
+						
+						
+						delta_infected : 13,
+						
+						delta_pct_confirmed : 43.333,
+						
+						
+						delta_pct_infected : 43.333,
+						
+						peak_pct_confirmed : 0.041,
+						
+						
+						peak_pct_infected : 0.043,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-25",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 45,
+						
+						
+						absolute_infected : 45,
+						
+						absolute_pop100k_confirmed : 0.014,
+						
+						
+						absolute_pop100k_infected : 0.014,
+						
+						delta_confirmed : 2,
+						
+						
+						delta_infected : 2,
+						
+						delta_pct_confirmed : 4.651,
+						
+						
+						delta_pct_infected : 4.651,
+						
+						peak_pct_confirmed : 0.006,
+						
+						
+						peak_pct_infected : 0.007,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-26",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 60,
+						
+						
+						absolute_infected : 60,
+						
+						absolute_pop100k_confirmed : 0.018,
+						
+						
+						absolute_pop100k_infected : 0.018,
+						
+						delta_confirmed : 15,
+						
+						
+						delta_infected : 15,
+						
+						delta_pct_confirmed : 33.333,
+						
+						
+						delta_pct_infected : 33.333,
+						
+						peak_pct_confirmed : 0.047,
+						
+						
+						peak_pct_infected : 0.05,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-28",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 65,
+						
+						
+						absolute_infected : 65,
+						
+						absolute_pop100k_confirmed : 0.02,
+						
+						
+						absolute_pop100k_infected : 0.02,
+						
+						delta_confirmed : 5,
+						
+						
+						delta_infected : 5,
+						
+						delta_pct_confirmed : 8.333,
+						
+						
+						delta_pct_infected : 8.333,
+						
+						peak_pct_confirmed : 0.016,
+						
+						
+						peak_pct_infected : 0.017,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-02-29",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 70,
+						
+						absolute_deaths : 1,
+						absolute_infected : 69,
+						
+						absolute_pop100k_confirmed : 0.021,
+						
+						absolute_pop100k_deaths : 0,
+						absolute_pop100k_infected : 0.021,
+						
+						delta_confirmed : 5,
+						
+						delta_deaths : 1,
+						delta_infected : 4,
+						
+						delta_pct_confirmed : 7.692,
+						
+						
+						delta_pct_infected : 6.154,
+						
+						peak_pct_confirmed : 0.016,
+						
+						peak_pct_deaths : 0.064,
+						peak_pct_infected : 0.013,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-01",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 88,
+						
+						absolute_deaths : 3,
+						absolute_infected : 85,
+						
+						absolute_pop100k_confirmed : 0.026,
+						
+						absolute_pop100k_deaths : 0.001,
+						absolute_pop100k_infected : 0.026,
+						
+						delta_confirmed : 18,
+						
+						delta_deaths : 2,
+						delta_infected : 16,
+						
+						delta_pct_confirmed : 25.714,
+						
+						delta_pct_deaths : 200,
+						delta_pct_infected : 23.188,
+						
+						peak_pct_confirmed : 0.057,
+						
+						peak_pct_deaths : 0.129,
+						peak_pct_infected : 0.053,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-02",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 104,
+						
+						absolute_deaths : 6,
+						absolute_infected : 98,
+						
+						absolute_pop100k_confirmed : 0.031,
+						
+						absolute_pop100k_deaths : 0.002,
+						absolute_pop100k_infected : 0.029,
+						
+						delta_confirmed : 16,
+						
+						delta_deaths : 3,
+						delta_infected : 13,
+						
+						delta_pct_confirmed : 18.182,
+						
+						delta_pct_deaths : 100,
+						delta_pct_infected : 15.294,
+						
+						peak_pct_confirmed : 0.05,
+						
+						peak_pct_deaths : 0.193,
+						peak_pct_infected : 0.043,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-03",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 125,
+						
+						absolute_deaths : 10,
+						absolute_infected : 115,
+						
+						absolute_pop100k_confirmed : 0.038,
+						
+						absolute_pop100k_deaths : 0.003,
+						absolute_pop100k_infected : 0.035,
+						
+						delta_confirmed : 21,
+						
+						delta_deaths : 4,
+						delta_infected : 17,
+						
+						delta_pct_confirmed : 20.192,
+						
+						delta_pct_deaths : 66.667,
+						delta_pct_infected : 17.347,
+						
+						peak_pct_confirmed : 0.066,
+						
+						peak_pct_deaths : 0.257,
+						peak_pct_infected : 0.056,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-04",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 161,
+						
+						absolute_deaths : 12,
+						absolute_infected : 149,
+						
+						absolute_pop100k_confirmed : 0.048,
+						
+						absolute_pop100k_deaths : 0.004,
+						absolute_pop100k_infected : 0.045,
+						
+						delta_confirmed : 36,
+						
+						delta_deaths : 2,
+						delta_infected : 34,
+						
+						delta_pct_confirmed : 28.8,
+						
+						delta_pct_deaths : 20,
+						delta_pct_infected : 29.565,
+						
+						peak_pct_confirmed : 0.113,
+						
+						peak_pct_deaths : 0.129,
+						peak_pct_infected : 0.113,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-05",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 228,
+						
+						absolute_deaths : 12,
+						absolute_infected : 216,
+						
+						absolute_pop100k_confirmed : 0.069,
+						
+						absolute_pop100k_deaths : 0.004,
+						absolute_pop100k_infected : 0.065,
+						
+						delta_confirmed : 67,
+						
+						
+						delta_infected : 67,
+						
+						delta_pct_confirmed : 41.615,
+						
+						
+						delta_pct_infected : 44.966,
+						
+						peak_pct_confirmed : 0.211,
+						
+						
+						peak_pct_infected : 0.222,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-06",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 311,
+						
+						absolute_deaths : 15,
+						absolute_infected : 296,
+						
+						absolute_pop100k_confirmed : 0.093,
+						
+						absolute_pop100k_deaths : 0.005,
+						absolute_pop100k_infected : 0.089,
+						
+						delta_confirmed : 83,
+						
+						delta_deaths : 3,
+						delta_infected : 80,
+						
+						delta_pct_confirmed : 36.404,
+						
+						delta_pct_deaths : 25,
+						delta_pct_infected : 37.037,
+						
+						peak_pct_confirmed : 0.262,
+						
+						peak_pct_deaths : 0.193,
+						peak_pct_infected : 0.265,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-07",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 428,
+						
+						absolute_deaths : 19,
+						absolute_infected : 409,
+						
+						absolute_pop100k_confirmed : 0.129,
+						
+						absolute_pop100k_deaths : 0.006,
+						absolute_pop100k_infected : 0.123,
+						
+						delta_confirmed : 117,
+						
+						delta_deaths : 4,
+						delta_infected : 113,
+						
+						delta_pct_confirmed : 37.621,
+						
+						delta_pct_deaths : 26.667,
+						delta_pct_infected : 38.176,
+						
+						peak_pct_confirmed : 0.369,
+						
+						peak_pct_deaths : 0.257,
+						peak_pct_infected : 0.375,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-08",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 547,
+						
+						absolute_deaths : 22,
+						absolute_infected : 525,
+						
+						absolute_pop100k_confirmed : 0.164,
+						
+						absolute_pop100k_deaths : 0.007,
+						absolute_pop100k_infected : 0.158,
+						
+						delta_confirmed : 119,
+						
+						delta_deaths : 3,
+						delta_infected : 116,
+						
+						delta_pct_confirmed : 27.804,
+						
+						delta_pct_deaths : 15.789,
+						delta_pct_infected : 28.362,
+						
+						peak_pct_confirmed : 0.375,
+						
+						peak_pct_deaths : 0.193,
+						peak_pct_infected : 0.385,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-09",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 748,
+						
+						absolute_deaths : 26,
+						absolute_infected : 722,
+						
+						absolute_pop100k_confirmed : 0.225,
+						
+						absolute_pop100k_deaths : 0.008,
+						absolute_pop100k_infected : 0.217,
+						
+						delta_confirmed : 201,
+						
+						delta_deaths : 4,
+						delta_infected : 197,
+						
+						delta_pct_confirmed : 36.746,
+						
+						delta_pct_deaths : 18.182,
+						delta_pct_infected : 37.524,
+						
+						peak_pct_confirmed : 0.633,
+						
+						peak_pct_deaths : 0.257,
+						peak_pct_infected : 0.654,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-10",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 1018,
+						
+						absolute_deaths : 31,
+						absolute_infected : 987,
+						
+						absolute_pop100k_confirmed : 0.306,
+						
+						absolute_pop100k_deaths : 0.009,
+						absolute_pop100k_infected : 0.297,
+						
+						delta_confirmed : 270,
+						
+						delta_deaths : 5,
+						delta_infected : 265,
+						
+						delta_pct_confirmed : 36.096,
+						
+						delta_pct_deaths : 19.231,
+						delta_pct_infected : 36.704,
+						
+						peak_pct_confirmed : 0.851,
+						
+						peak_pct_deaths : 0.322,
+						peak_pct_infected : 0.879,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-11",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 1263,
+						
+						absolute_deaths : 37,
+						absolute_infected : 1226,
+						
+						absolute_pop100k_confirmed : 0.38,
+						
+						absolute_pop100k_deaths : 0.011,
+						absolute_pop100k_infected : 0.369,
+						
+						delta_confirmed : 245,
+						
+						delta_deaths : 6,
+						delta_infected : 239,
+						
+						delta_pct_confirmed : 24.067,
+						
+						delta_pct_deaths : 19.355,
+						delta_pct_infected : 24.215,
+						
+						peak_pct_confirmed : 0.772,
+						
+						peak_pct_deaths : 0.386,
+						peak_pct_infected : 0.793,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-12",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 1668,
+						
+						absolute_deaths : 43,
+						absolute_infected : 1625,
+						
+						absolute_pop100k_confirmed : 0.501,
+						
+						absolute_pop100k_deaths : 0.013,
+						absolute_pop100k_infected : 0.489,
+						
+						delta_confirmed : 405,
+						
+						delta_deaths : 6,
+						delta_infected : 399,
+						
+						delta_pct_confirmed : 32.067,
+						
+						delta_pct_deaths : 16.216,
+						delta_pct_infected : 32.545,
+						
+						peak_pct_confirmed : 1.276,
+						
+						peak_pct_deaths : 0.386,
+						peak_pct_infected : 1.324,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-13",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 2221,
+						
+						absolute_deaths : 50,
+						absolute_infected : 2171,
+						
+						absolute_pop100k_confirmed : 0.668,
+						
+						absolute_pop100k_deaths : 0.015,
+						absolute_pop100k_infected : 0.653,
+						
+						delta_confirmed : 553,
+						
+						delta_deaths : 7,
+						delta_infected : 546,
+						
+						delta_pct_confirmed : 33.153,
+						
+						delta_pct_deaths : 16.279,
+						delta_pct_infected : 33.6,
+						
+						peak_pct_confirmed : 1.743,
+						
+						peak_pct_deaths : 0.45,
+						peak_pct_infected : 1.812,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-14",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 2893,
+						
+						absolute_deaths : 60,
+						absolute_infected : 2833,
+						
+						absolute_pop100k_confirmed : 0.87,
+						
+						absolute_pop100k_deaths : 0.018,
+						absolute_pop100k_infected : 0.852,
+						
+						delta_confirmed : 672,
+						
+						delta_deaths : 10,
+						delta_infected : 662,
+						
+						delta_pct_confirmed : 30.257,
+						
+						delta_pct_deaths : 20,
+						delta_pct_infected : 30.493,
+						
+						peak_pct_confirmed : 2.118,
+						
+						peak_pct_deaths : 0.643,
+						peak_pct_infected : 2.196,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-15",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 3591,
+						
+						absolute_deaths : 68,
+						absolute_infected : 3523,
+						
+						absolute_pop100k_confirmed : 1.08,
+						
+						absolute_pop100k_deaths : 0.02,
+						absolute_pop100k_infected : 1.059,
+						
+						delta_confirmed : 698,
+						
+						delta_deaths : 8,
+						delta_infected : 690,
+						
+						delta_pct_confirmed : 24.127,
+						
+						delta_pct_deaths : 13.333,
+						delta_pct_infected : 24.356,
+						
+						peak_pct_confirmed : 2.199,
+						
+						peak_pct_deaths : 0.514,
+						peak_pct_infected : 2.289,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-16",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 4497,
+						
+						absolute_deaths : 91,
+						absolute_infected : 4406,
+						
+						absolute_pop100k_confirmed : 1.352,
+						
+						absolute_pop100k_deaths : 0.027,
+						absolute_pop100k_infected : 1.325,
+						
+						delta_confirmed : 906,
+						
+						delta_deaths : 23,
+						delta_infected : 883,
+						
+						delta_pct_confirmed : 25.23,
+						
+						delta_pct_deaths : 33.824,
+						delta_pct_infected : 25.064,
+						
+						peak_pct_confirmed : 2.855,
+						
+						peak_pct_deaths : 1.479,
+						peak_pct_infected : 2.93,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-17",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 5895,
+						
+						absolute_deaths : 116,
+						absolute_infected : 5779,
+						
+						absolute_pop100k_confirmed : 1.772,
+						
+						absolute_pop100k_deaths : 0.035,
+						absolute_pop100k_infected : 1.737,
+						
+						delta_confirmed : 1398,
+						
+						delta_deaths : 25,
+						delta_infected : 1373,
+						
+						delta_pct_confirmed : 31.087,
+						
+						delta_pct_deaths : 27.473,
+						delta_pct_infected : 31.162,
+						
+						peak_pct_confirmed : 4.405,
+						
+						peak_pct_deaths : 1.608,
+						peak_pct_infected : 4.555,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-18",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 8329,
+						
+						absolute_deaths : 157,
+						absolute_infected : 8172,
+						
+						absolute_pop100k_confirmed : 2.504,
+						
+						absolute_pop100k_deaths : 0.047,
+						absolute_pop100k_infected : 2.457,
+						
+						delta_confirmed : 2434,
+						
+						delta_deaths : 41,
+						delta_infected : 2393,
+						
+						delta_pct_confirmed : 41.289,
+						
+						delta_pct_deaths : 35.345,
+						delta_pct_infected : 41.409,
+						
+						peak_pct_confirmed : 7.67,
+						
+						peak_pct_deaths : 2.637,
+						peak_pct_infected : 7.94,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-19",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 12392,
+						
+						absolute_deaths : 203,
+						absolute_infected : 12189,
+						
+						absolute_pop100k_confirmed : 3.725,
+						
+						absolute_pop100k_deaths : 0.061,
+						absolute_pop100k_infected : 3.664,
+						
+						delta_confirmed : 4063,
+						
+						delta_deaths : 46,
+						delta_infected : 4017,
+						
+						delta_pct_confirmed : 48.781,
+						
+						delta_pct_deaths : 29.299,
+						delta_pct_infected : 49.156,
+						
+						peak_pct_confirmed : 12.803,
+						
+						peak_pct_deaths : 2.958,
+						peak_pct_infected : 13.328,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-20",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 17962,
+						
+						absolute_deaths : 265,
+						absolute_infected : 17697,
+						
+						absolute_pop100k_confirmed : 5.4,
+						
+						absolute_pop100k_deaths : 0.08,
+						absolute_pop100k_infected : 5.32,
+						
+						delta_confirmed : 5570,
+						
+						delta_deaths : 62,
+						delta_infected : 5508,
+						
+						delta_pct_confirmed : 44.948,
+						
+						delta_pct_deaths : 30.542,
+						delta_pct_infected : 45.188,
+						
+						peak_pct_confirmed : 17.552,
+						
+						peak_pct_deaths : 3.987,
+						peak_pct_infected : 18.275,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-21",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 24490,
+						
+						absolute_deaths : 342,
+						absolute_infected : 24148,
+						
+						absolute_pop100k_confirmed : 7.362,
+						
+						absolute_pop100k_deaths : 0.103,
+						absolute_pop100k_infected : 7.26,
+						
+						delta_confirmed : 6528,
+						
+						delta_deaths : 77,
+						delta_infected : 6451,
+						
+						delta_pct_confirmed : 36.343,
+						
+						delta_pct_deaths : 29.057,
+						delta_pct_infected : 36.453,
+						
+						peak_pct_confirmed : 20.57,
+						
+						peak_pct_deaths : 4.952,
+						peak_pct_infected : 21.404,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-22",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 32994,
+						
+						absolute_deaths : 434,
+						absolute_infected : 32560,
+						
+						absolute_pop100k_confirmed : 9.919,
+						
+						absolute_pop100k_deaths : 0.13,
+						absolute_pop100k_infected : 9.788,
+						
+						delta_confirmed : 8504,
+						
+						delta_deaths : 92,
+						delta_infected : 8412,
+						
+						delta_pct_confirmed : 34.724,
+						
+						delta_pct_deaths : 26.901,
+						delta_pct_infected : 34.835,
+						
+						peak_pct_confirmed : 26.797,
+						
+						peak_pct_deaths : 5.916,
+						peak_pct_infected : 27.91,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-23",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 43422,
+						
+						absolute_deaths : 543,
+						absolute_infected : 42879,
+						
+						absolute_pop100k_confirmed : 13.054,
+						
+						absolute_pop100k_deaths : 0.163,
+						absolute_pop100k_infected : 12.891,
+						
+						delta_confirmed : 10428,
+						
+						delta_deaths : 109,
+						delta_infected : 10319,
+						
+						delta_pct_confirmed : 31.606,
+						
+						delta_pct_deaths : 25.115,
+						delta_pct_infected : 31.692,
+						
+						peak_pct_confirmed : 32.86,
+						
+						peak_pct_deaths : 7.01,
+						peak_pct_infected : 34.237,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-24",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 53850,
+						
+						absolute_deaths : 728,
+						absolute_infected : 53122,
+						
+						absolute_pop100k_confirmed : 16.189,
+						
+						absolute_pop100k_deaths : 0.219,
+						absolute_pop100k_infected : 15.97,
+						
+						delta_confirmed : 10428,
+						
+						delta_deaths : 185,
+						delta_infected : 10243,
+						
+						delta_pct_confirmed : 24.015,
+						
+						delta_pct_deaths : 34.07,
+						delta_pct_infected : 23.888,
+						
+						peak_pct_confirmed : 32.86,
+						
+						peak_pct_deaths : 11.897,
+						peak_pct_infected : 33.985,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-25",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 68437,
+						
+						absolute_deaths : 987,
+						absolute_infected : 67450,
+						
+						absolute_pop100k_confirmed : 20.574,
+						
+						absolute_pop100k_deaths : 0.297,
+						absolute_pop100k_infected : 20.277,
+						
+						delta_confirmed : 14587,
+						
+						delta_deaths : 259,
+						delta_infected : 14328,
+						
+						delta_pct_confirmed : 27.088,
+						
+						delta_pct_deaths : 35.577,
+						delta_pct_infected : 26.972,
+						
+						peak_pct_confirmed : 45.965,
+						
+						peak_pct_deaths : 16.656,
+						peak_pct_infected : 47.539,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-26",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 85403,
+						
+						absolute_deaths : 1272,
+						absolute_infected : 84131,
+						
+						absolute_pop100k_confirmed : 25.674,
+						
+						absolute_pop100k_deaths : 0.382,
+						absolute_pop100k_infected : 25.292,
+						
+						delta_confirmed : 16966,
+						
+						delta_deaths : 285,
+						delta_infected : 16681,
+						
+						delta_pct_confirmed : 24.791,
+						
+						delta_pct_deaths : 28.875,
+						delta_pct_infected : 24.731,
+						
+						peak_pct_confirmed : 53.461,
+						
+						peak_pct_deaths : 18.328,
+						peak_pct_infected : 55.346,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-27",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 102615,
+						
+						absolute_deaths : 1645,
+						absolute_infected : 100970,
+						
+						absolute_pop100k_confirmed : 30.849,
+						
+						absolute_pop100k_deaths : 0.495,
+						absolute_pop100k_infected : 30.354,
+						
+						delta_confirmed : 17212,
+						
+						delta_deaths : 373,
+						delta_infected : 16839,
+						
+						delta_pct_confirmed : 20.154,
+						
+						delta_pct_deaths : 29.324,
+						delta_pct_infected : 20.015,
+						
+						peak_pct_confirmed : 54.237,
+						
+						peak_pct_deaths : 23.987,
+						peak_pct_infected : 55.87,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-28",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 123441,
+						
+						absolute_deaths : 2130,
+						absolute_infected : 121311,
+						
+						absolute_pop100k_confirmed : 37.11,
+						
+						absolute_pop100k_deaths : 0.64,
+						absolute_pop100k_infected : 36.469,
+						
+						delta_confirmed : 20826,
+						
+						delta_deaths : 485,
+						delta_infected : 20341,
+						
+						delta_pct_confirmed : 20.295,
+						
+						delta_pct_deaths : 29.483,
+						delta_pct_infected : 20.146,
+						
+						peak_pct_confirmed : 65.625,
+						
+						peak_pct_deaths : 31.19,
+						peak_pct_infected : 67.489,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-29",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 141984,
+						
+						absolute_deaths : 2480,
+						absolute_infected : 139504,
+						
+						absolute_pop100k_confirmed : 42.684,
+						
+						absolute_pop100k_deaths : 0.746,
+						absolute_pop100k_infected : 41.939,
+						
+						delta_confirmed : 18543,
+						
+						delta_deaths : 350,
+						delta_infected : 18193,
+						
+						delta_pct_confirmed : 15.022,
+						
+						delta_pct_deaths : 16.432,
+						delta_pct_infected : 14.997,
+						
+						peak_pct_confirmed : 58.431,
+						
+						peak_pct_deaths : 22.508,
+						peak_pct_infected : 60.362,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-30",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 163417,
+						
+						absolute_deaths : 3066,
+						absolute_infected : 160351,
+						
+						absolute_pop100k_confirmed : 49.127,
+						
+						absolute_pop100k_deaths : 0.922,
+						absolute_pop100k_infected : 48.206,
+						
+						delta_confirmed : 21433,
+						
+						delta_deaths : 586,
+						delta_infected : 20847,
+						
+						delta_pct_confirmed : 15.095,
+						
+						delta_pct_deaths : 23.629,
+						delta_pct_infected : 14.944,
+						
+						peak_pct_confirmed : 67.537,
+						
+						peak_pct_deaths : 37.685,
+						peak_pct_infected : 69.168,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-03-31",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 187639,
+						
+						absolute_deaths : 3901,
+						absolute_infected : 183738,
+						
+						absolute_pop100k_confirmed : 56.409,
+						
+						absolute_pop100k_deaths : 1.173,
+						absolute_pop100k_infected : 55.236,
+						
+						delta_confirmed : 24222,
+						
+						delta_deaths : 835,
+						delta_infected : 23387,
+						
+						delta_pct_confirmed : 14.822,
+						
+						delta_pct_deaths : 27.234,
+						delta_pct_infected : 14.585,
+						
+						peak_pct_confirmed : 76.326,
+						
+						peak_pct_deaths : 53.698,
+						peak_pct_infected : 77.596,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-01",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 214242,
+						
+						absolute_deaths : 4826,
+						absolute_infected : 209416,
+						
+						absolute_pop100k_confirmed : 64.407,
+						
+						absolute_pop100k_deaths : 1.451,
+						absolute_pop100k_infected : 62.956,
+						
+						delta_confirmed : 26603,
+						
+						delta_deaths : 925,
+						delta_infected : 25678,
+						
+						delta_pct_confirmed : 14.178,
+						
+						delta_pct_deaths : 23.712,
+						delta_pct_infected : 13.975,
+						
+						peak_pct_confirmed : 83.829,
+						
+						peak_pct_deaths : 59.486,
+						peak_pct_infected : 85.197,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-02",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 243910,
+						
+						absolute_deaths : 6216,
+						absolute_infected : 237694,
+						
+						absolute_pop100k_confirmed : 73.326,
+						
+						absolute_pop100k_deaths : 1.869,
+						absolute_pop100k_infected : 71.457,
+						
+						delta_confirmed : 29668,
+						
+						delta_deaths : 1390,
+						delta_infected : 28278,
+						
+						delta_pct_confirmed : 13.848,
+						
+						delta_pct_deaths : 28.802,
+						delta_pct_infected : 13.503,
+						
+						peak_pct_confirmed : 93.487,
+						
+						peak_pct_deaths : 89.389,
+						peak_pct_infected : 93.823,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-03",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 275923,
+						
+						absolute_deaths : 7101,
+						absolute_infected : 268822,
+						
+						absolute_pop100k_confirmed : 82.95,
+						
+						absolute_pop100k_deaths : 2.135,
+						absolute_pop100k_infected : 80.815,
+						
+						delta_confirmed : 32013,
+						
+						delta_deaths : 885,
+						delta_infected : 31128,
+						
+						delta_pct_confirmed : 13.125,
+						
+						delta_pct_deaths : 14.237,
+						delta_pct_infected : 13.096,
+						
+						peak_pct_confirmed : 100.876,
+						
+						peak_pct_deaths : 56.913,
+						peak_pct_infected : 103.279,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-04",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 310811,
+						
+						absolute_deaths : 8476,
+						absolute_infected : 302335,
+						
+						absolute_pop100k_confirmed : 93.438,
+						
+						absolute_pop100k_deaths : 2.548,
+						absolute_pop100k_infected : 90.89,
+						
+						delta_confirmed : 34888,
+						
+						delta_deaths : 1375,
+						delta_infected : 33513,
+						
+						delta_pct_confirmed : 12.644,
+						
+						delta_pct_deaths : 19.363,
+						delta_pct_infected : 12.467,
+						
+						peak_pct_confirmed : 109.935,
+						
+						peak_pct_deaths : 88.424,
+						peak_pct_infected : 111.193,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-05",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 335984,
+						
+						absolute_deaths : 9630,
+						absolute_infected : 326354,
+						
+						absolute_pop100k_confirmed : 101.006,
+						
+						absolute_pop100k_deaths : 2.895,
+						absolute_pop100k_infected : 98.111,
+						
+						delta_confirmed : 25173,
+						
+						delta_deaths : 1154,
+						delta_infected : 24019,
+						
+						delta_pct_confirmed : 8.099,
+						
+						delta_pct_deaths : 13.615,
+						delta_pct_infected : 7.944,
+						
+						peak_pct_confirmed : 79.323,
+						
+						peak_pct_deaths : 74.212,
+						peak_pct_infected : 79.692,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-06",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 365408,
+						
+						absolute_deaths : 10932,
+						absolute_infected : 354476,
+						
+						absolute_pop100k_confirmed : 109.851,
+						
+						absolute_pop100k_deaths : 3.286,
+						absolute_pop100k_infected : 106.565,
+						
+						delta_confirmed : 29424,
+						
+						delta_deaths : 1302,
+						delta_infected : 28122,
+						
+						delta_pct_confirmed : 8.758,
+						
+						delta_pct_deaths : 13.52,
+						delta_pct_infected : 8.617,
+						
+						peak_pct_confirmed : 92.718,
+						
+						peak_pct_deaths : 83.73,
+						peak_pct_infected : 93.306,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-07",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 396854,
+						
+						absolute_deaths : 12926,
+						absolute_infected : 383928,
+						
+						absolute_pop100k_confirmed : 119.305,
+						
+						absolute_pop100k_deaths : 3.886,
+						absolute_pop100k_infected : 115.419,
+						
+						delta_confirmed : 31446,
+						
+						delta_deaths : 1994,
+						delta_infected : 29452,
+						
+						delta_pct_confirmed : 8.606,
+						
+						delta_pct_deaths : 18.24,
+						delta_pct_infected : 8.309,
+						
+						peak_pct_confirmed : 99.089,
+						
+						peak_pct_deaths : 128.232,
+						peak_pct_infected : 97.719,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-08",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 428234,
+						
+						absolute_deaths : 14772,
+						absolute_infected : 413462,
+						
+						absolute_pop100k_confirmed : 128.738,
+						
+						absolute_pop100k_deaths : 4.441,
+						absolute_pop100k_infected : 124.297,
+						
+						delta_confirmed : 31380,
+						
+						delta_deaths : 1846,
+						delta_infected : 29534,
+						
+						delta_pct_confirmed : 7.907,
+						
+						delta_pct_deaths : 14.281,
+						delta_pct_infected : 7.693,
+						
+						peak_pct_confirmed : 98.881,
+						
+						peak_pct_deaths : 118.714,
+						peak_pct_infected : 97.991,
+						
+					},
+					
+					
+					
+					{
+						date : "2020-04-09",
+						type : "total-country",
+						subregion : "North America",
+						region : "Americas",
+						country_code : "US",
+						country : "United States",
+						
+						
+						
+						absolute_confirmed : 462402,
+						
+						absolute_deaths : 16634,
+						absolute_infected : 445768,
+						
+						absolute_pop100k_confirmed : 139.01,
+						
+						absolute_pop100k_deaths : 5.001,
+						absolute_pop100k_infected : 134.01,
+						
+						delta_confirmed : 34168,
+						
+						delta_deaths : 1862,
+						delta_infected : 32306,
+						
+						delta_pct_confirmed : 7.979,
+						
+						delta_pct_deaths : 12.605,
+						delta_pct_infected : 7.814,
+						
+						peak_pct_confirmed : 107.667,
+						
+						peak_pct_deaths : 119.743,
+						peak_pct_infected : 107.188,
+						
+					},
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				]
+				
+				var _settings = {
+						
+						data : _data,
+						columns : _columns,
+						
+						dropdownMenu : true,
+						contextMenu : true,
+						hiddenRows : true,
+						hiddenColumns : true,
+						
+						filters : true,
+					//	columnSorting : true,
+						multiColumnSorting : true,
+						
+						rowHeaders : true,
+						colHeaders : true,
+						fixedColumnsLeft : 3,
+						manualRowMove : true,
+						manualRowResize : false,
+						manualColumnFreeze : true,
+						manualColumnMove : true,
+						manualColumnResize : true,
+						
+						
+						allowInsertRow : false,
+						allowRemoveRow : true,
+						allowInsertColumn : false,
+						allowRemoveColumn : true,
+						autoRowSize : false,
+						autoColumnSize : {
+							useHeaders : true,
+						},
+						
+						editor : false,
+						disableVisualSelection : false,
+						trimDropdown : false,
+						fillHandle : false,
+						fragmentSelection : false,
+						formulas : false,
+						headerTooltips : true,
+						dateFormat : "YYYY-MM-DD",
+						wordWrap : true,
+						className : "htCenter htMiddle",
+						
+						licenseKey : "non-commercial-and-evaluation",
+					};
+				
+				var _container = document.getElementById ("dataset");
+				var _table = new Handsontable (_container, _settings);
+				
+			}) ();
+		</script>
+		
+	</body>
+	
+</html>
+

@@ -3658,5 +3658,98 @@
     "day_index_peak_confirmed": 13,
     "day_index_peak_deaths": 10,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "2efc1ccf063fdca6a8c56cf4d00f5500",
+      "type": "total-country",
+      "label": "San Marino",
+      "country": "San Marino",
+      "country_code": "SM",
+      "country_latlong": [
+        43.76666666,
+        12.41666666
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        43.76666666,
+        12.41666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 344,
+        "deaths": 34,
+        "infected": 310
+      },
+      "delta": {
+        "confirmed": 11,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 3.303,
+        "infected": 3.679
+      },
+      "peak_pct": {
+        "confirmed": 46.218,
+        "infected": 46.218
+      },
+      "relative": {
+        "deaths": 9.884,
+        "infected": 90.116
+      },
+      "absolute_pop1k": {
+        "confirmed": 10.049,
+        "deaths": 0.993,
+        "infected": 9.056
+      },
+      "absolute_pop10k": {
+        "confirmed": 100.491,
+        "deaths": 9.932,
+        "infected": 90.559
+      },
+      "absolute_pop100k": {
+        "confirmed": 1004.908,
+        "deaths": 99.322,
+        "infected": 905.585
+      },
+      "delta_pop1k": {
+        "confirmed": 0.321,
+        "infected": 0.321
+      },
+      "delta_pop10k": {
+        "confirmed": 3.213,
+        "infected": 3.213
+      },
+      "delta_pop100k": {
+        "confirmed": 32.134,
+        "infected": 32.134
+      }
+    },
+    "factbook": {
+      "population": 34232,
+      "median_age": 45.2,
+      "death_rate": 9,
+      "area": 61
+    },
+    "data_key": "dec4ffa12c3cce32411341935bfc12b1",
+    "day_index_1": 44,
+    "day_index_10": 39,
+    "day_index_100": 26,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 12
   }
 ]

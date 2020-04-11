@@ -1068,5 +1068,97 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 9,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "197bd71c3e391926a39f738b96f5c251",
+      "type": "total-country",
+      "label": "Myanmar",
+      "country": "Myanmar",
+      "country_code": "MM",
+      "country_latlong": [
+        22,
+        98
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        22,
+        98
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 28,
+        "deaths": 3,
+        "infected": 25
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 3.704,
+        "infected": 4.167
+      },
+      "peak_pct": {
+        "confirmed": 31.25,
+        "infected": 31.25
+      },
+      "relative": {
+        "deaths": 10.714,
+        "infected": 89.286
+      },
+      "absolute_pop1k": {
+        "confirmed": 0,
+        "deaths": 0,
+        "infected": 0
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.005,
+        "deaths": 0.001,
+        "infected": 0.004
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.049,
+        "deaths": 0.005,
+        "infected": 0.044
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      }
+    },
+    "factbook": {
+      "population": 56590071,
+      "median_age": 29.2,
+      "death_rate": 7.2,
+      "area": 676578
+    },
+    "data_key": "c7e503eee21f0e19cb2939bf05da0467",
+    "day_index_1": 19,
+    "day_index_10": 12,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 10
   }
 ]

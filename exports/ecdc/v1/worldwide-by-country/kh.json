@@ -2087,5 +2087,93 @@
     "day_index_peak_confirmed": 19,
     "day_index_peak_deaths": null,
     "day_index_peak": 19
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 120,
+        "infected": 120
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 0.84,
+        "infected": 0.84
+      },
+      "peak_pct": {
+        "confirmed": 10.204,
+        "infected": 10.204
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007,
+        "infected": 0.007
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.071,
+        "infected": 0.071
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.709,
+        "infected": 0.709
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.006,
+        "infected": 0.006
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "2425550bfe162fd2adf2f44dba5f8650",
+    "day_index_1": 75,
+    "day_index_10": 27,
+    "day_index_100": 15,
+    "day_index_peak_confirmed": 20,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 20
   }
 ]

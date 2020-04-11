@@ -77,9 +77,9 @@
     },
     "data_key": "fb0ca298023a0f24f7e9b6be8a98c12f",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -12,
+    "day_index_peak_confirmed": -15,
     "day_index_peak_deaths": null,
-    "day_index_peak": -12
+    "day_index_peak": -15
   },
   {
     "dataset": "ecdc/worldwide",
@@ -163,9 +163,9 @@
     },
     "data_key": "696f49764506e988e18b33bb4a406a3b",
     "day_index_1": 12,
-    "day_index_peak_confirmed": -1,
+    "day_index_peak_confirmed": -4,
     "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak": -4
   },
   {
     "dataset": "ecdc/worldwide",
@@ -249,9 +249,9 @@
     },
     "data_key": "32a63d7c909a9f9e94e89d31f29c7500",
     "day_index_1": 15,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak": -1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -335,9 +335,9 @@
     },
     "data_key": "67e924846f1e406a277865040cdd8ac3",
     "day_index_1": 16,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 0
   },
   {
     "dataset": "ecdc/worldwide",
@@ -422,9 +422,9 @@
     "data_key": "759671ef66f85a3082278a9e22b03a7b",
     "day_index_1": 18,
     "day_index_10": 1,
-    "day_index_peak_confirmed": 5,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 5
+    "day_index_peak": 2
   },
   {
     "dataset": "ecdc/worldwide",
@@ -509,8 +509,95 @@
     "data_key": "a5711a34a452b95a5c14df05c1456962",
     "day_index_1": 22,
     "day_index_10": 5,
-    "day_index_peak_confirmed": 9,
+    "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
-    "day_index_peak": 9
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "b36dae3ef17bb2b13e4739ce0088667c",
+      "type": "total-country",
+      "label": "Saint Lucia",
+      "country": "Saint Lucia",
+      "country_code": "LC",
+      "country_latlong": [
+        13.88333333,
+        -60.96666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        13.88333333,
+        -60.96666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15,
+        "infected": 15
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 7.143,
+        "infected": 7.143
+      },
+      "peak_pct": {
+        "confirmed": 55.556,
+        "infected": 55.556
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.09,
+        "infected": 0.09
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.901,
+        "infected": 0.901
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.01,
+        "infected": 9.01
+      },
+      "delta_pop1k": {
+        "confirmed": 0.006,
+        "infected": 0.006
+      },
+      "delta_pop10k": {
+        "confirmed": 0.06,
+        "infected": 0.06
+      },
+      "delta_pop100k": {
+        "confirmed": 0.601,
+        "infected": 0.601
+      }
+    },
+    "factbook": {
+      "population": 166487,
+      "median_age": 36.9,
+      "death_rate": 8.1,
+      "area": 616
+    },
+    "data_key": "a280428ad9b4dec5e03139c473119eb1",
+    "day_index_1": 28,
+    "day_index_10": 11,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
   }
 ]

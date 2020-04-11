@@ -77,9 +77,9 @@
     },
     "data_key": "53bd400ebd03c96a4f795184b516887b",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -12,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -12
+    "day_index_peak_confirmed": -15,
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -14
   },
   {
     "dataset": "ecdc/worldwide",
@@ -163,9 +163,9 @@
     },
     "data_key": "0d8ac934371809c293e81b862973b093",
     "day_index_1": 3,
-    "day_index_peak_confirmed": -10,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -10
+    "day_index_peak_confirmed": -13,
+    "day_index_peak_deaths": -11,
+    "day_index_peak": -12
   },
   {
     "dataset": "ecdc/worldwide",
@@ -249,9 +249,9 @@
     },
     "data_key": "a154627bd8e8ba59c8172e7d1ddc06fd",
     "day_index_1": 8,
-    "day_index_peak_confirmed": -5,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -5
+    "day_index_peak_confirmed": -8,
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -7
   },
   {
     "dataset": "ecdc/worldwide",
@@ -335,9 +335,9 @@
     },
     "data_key": "4382336890ee93c0474517b0d1bb2cf6",
     "day_index_1": 12,
-    "day_index_peak_confirmed": -1,
-    "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak_confirmed": -4,
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -3
   },
   {
     "dataset": "ecdc/worldwide",
@@ -382,7 +382,8 @@
         "confirmed": 25
       },
       "peak_pct": {
-        "confirmed": 100
+        "confirmed": 100,
+        "deaths": 100
       },
       "relative": {
         "deaths": 20,
@@ -424,9 +425,9 @@
     },
     "data_key": "3f319a673da7f16343df4351555285e9",
     "day_index_1": 14,
-    "day_index_peak_confirmed": 1,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 1
+    "day_index_peak_confirmed": -2,
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -515,9 +516,9 @@
     },
     "data_key": "40af6beaac86ee7ad536d43d8a2c30f6",
     "day_index_1": 15,
-    "day_index_peak_confirmed": 2,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak_confirmed": -1,
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 0
   },
   {
     "dataset": "ecdc/worldwide",
@@ -606,9 +607,9 @@
     },
     "data_key": "35909aa1b41dccaac7fc692e18f04346",
     "day_index_1": 17,
-    "day_index_peak_confirmed": 4,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 4
+    "day_index_peak_confirmed": 1,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 2
   },
   {
     "dataset": "ecdc/worldwide",
@@ -697,8 +698,100 @@
     },
     "data_key": "e4be624a7360c57ab1c0983c4fd62603",
     "day_index_1": 18,
-    "day_index_peak_confirmed": 5,
-    "day_index_peak_deaths": null,
-    "day_index_peak": 5
+    "day_index_peak_confirmed": 2,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a68b7105462914ee6df0babc2d1a67e1",
+      "type": "total-country",
+      "label": "Belize",
+      "country": "Belize",
+      "country_code": "BZ",
+      "country_latlong": [
+        17.25,
+        -88.75
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        17.25,
+        -88.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 10,
+        "deaths": 2,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 1,
+        "deaths": 1
+      },
+      "delta_pct": {
+        "confirmed": 11.111,
+        "deaths": 100
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "deaths": 100
+      },
+      "relative": {
+        "deaths": 20,
+        "infected": 80
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.025,
+        "deaths": 0.005,
+        "infected": 0.02
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.25,
+        "deaths": 0.05,
+        "infected": 0.2
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.503,
+        "deaths": 0.501,
+        "infected": 2.002
+      },
+      "delta_pop1k": {
+        "confirmed": 0.003,
+        "deaths": 0.003
+      },
+      "delta_pop10k": {
+        "confirmed": 0.025,
+        "deaths": 0.025
+      },
+      "delta_pop100k": {
+        "confirmed": 0.25,
+        "deaths": 0.25
+      }
+    },
+    "factbook": {
+      "population": 399598,
+      "median_age": 23.9,
+      "death_rate": 4.1,
+      "area": 22966
+    },
+    "data_key": "6bb477a19515c962b85205f91c3540c3",
+    "day_index_1": 19,
+    "day_index_10": 1,
+    "day_index_peak_confirmed": 3,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 4
   }
 ]

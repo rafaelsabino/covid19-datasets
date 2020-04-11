@@ -1297,5 +1297,92 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "cc547fbd7c0f36d79fecce1546fc49df",
+      "type": "total-country",
+      "label": "Aruba",
+      "country": "Aruba",
+      "country_code": "AW",
+      "country_latlong": [
+        12.5,
+        -69.96666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.5,
+        -69.96666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 86,
+        "infected": 86
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 4.878,
+        "infected": 4.878
+      },
+      "peak_pct": {
+        "confirmed": 58.824,
+        "infected": 58.824
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.72,
+        "infected": 0.72
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.201,
+        "infected": 7.201
+      },
+      "absolute_pop100k": {
+        "confirmed": 72.01,
+        "infected": 72.01
+      },
+      "delta_pop1k": {
+        "confirmed": 0.033,
+        "infected": 0.033
+      },
+      "delta_pop10k": {
+        "confirmed": 0.335,
+        "infected": 0.335
+      },
+      "delta_pop100k": {
+        "confirmed": 3.349,
+        "infected": 3.349
+      }
+    },
+    "factbook": {
+      "population": 119428,
+      "median_age": 39.9,
+      "death_rate": 8.7,
+      "area": 180
+    },
+    "data_key": "3ddecbfb65b328dd1752aed14b646875",
+    "day_index_1": 30,
+    "day_index_10": 19,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
   }
 ]

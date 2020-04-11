@@ -996,7 +996,7 @@
       },
       "peak_pct": {
         "confirmed": 49.383,
-        "deaths": 37.037,
+        "deaths": 35.714,
         "infected": 49.516
       },
       "relative": {
@@ -1095,7 +1095,7 @@
       },
       "peak_pct": {
         "confirmed": 4.77,
-        "deaths": 18.519,
+        "deaths": 17.857,
         "infected": 4.553
       },
       "relative": {
@@ -1287,7 +1287,7 @@
       },
       "peak_pct": {
         "confirmed": 38.721,
-        "deaths": 37.037,
+        "deaths": 35.714,
         "infected": 38.702
       },
       "relative": {
@@ -1386,7 +1386,7 @@
       },
       "peak_pct": {
         "confirmed": 28.9,
-        "deaths": 18.519,
+        "deaths": 17.857,
         "infected": 29.027
       },
       "relative": {
@@ -1485,7 +1485,7 @@
       },
       "peak_pct": {
         "confirmed": 29.181,
-        "deaths": 18.519,
+        "deaths": 17.857,
         "infected": 29.311
       },
       "relative": {
@@ -1584,7 +1584,7 @@
       },
       "peak_pct": {
         "confirmed": 18.519,
-        "deaths": 18.519,
+        "deaths": 17.857,
         "infected": 18.497
       },
       "relative": {
@@ -1684,7 +1684,7 @@
       },
       "peak_pct": {
         "confirmed": 39.282,
-        "deaths": 18.519,
+        "deaths": 17.857,
         "infected": 39.556
       },
       "relative": {
@@ -1784,7 +1784,7 @@
       },
       "peak_pct": {
         "confirmed": 59.203,
-        "deaths": 37.037,
+        "deaths": 35.714,
         "infected": 59.476
       },
       "relative": {
@@ -1884,7 +1884,7 @@
       },
       "peak_pct": {
         "confirmed": 33.109,
-        "deaths": 37.037,
+        "deaths": 35.714,
         "infected": 33.011
       },
       "relative": {
@@ -1984,7 +1984,7 @@
       },
       "peak_pct": {
         "confirmed": 27.778,
-        "deaths": 92.593,
+        "deaths": 89.286,
         "infected": 26.75
       },
       "relative": {
@@ -2084,7 +2084,7 @@
       },
       "peak_pct": {
         "confirmed": 116.162,
-        "deaths": 148.148,
+        "deaths": 142.857,
         "infected": 115.538
       },
       "relative": {
@@ -2184,7 +2184,7 @@
       },
       "peak_pct": {
         "confirmed": 70.707,
-        "deaths": 92.593,
+        "deaths": 89.286,
         "infected": 70.29
       },
       "relative": {
@@ -2284,7 +2284,7 @@
       },
       "peak_pct": {
         "confirmed": 44.613,
-        "deaths": 74.074,
+        "deaths": 71.429,
         "infected": 44.109
       },
       "relative": {
@@ -2384,7 +2384,7 @@
       },
       "peak_pct": {
         "confirmed": 232.043,
-        "deaths": 277.778,
+        "deaths": 267.857,
         "infected": 231.076
       },
       "relative": {
@@ -2484,7 +2484,7 @@
       },
       "peak_pct": {
         "confirmed": 164.703,
-        "deaths": 74.074,
+        "deaths": 71.429,
         "infected": 165.908
       },
       "relative": {
@@ -2584,7 +2584,7 @@
       },
       "peak_pct": {
         "confirmed": 58.361,
-        "deaths": 74.074,
+        "deaths": 71.429,
         "infected": 58.054
       },
       "relative": {
@@ -2684,7 +2684,7 @@
       },
       "peak_pct": {
         "confirmed": 70.146,
-        "deaths": 92.593,
+        "deaths": 89.286,
         "infected": 69.721
       },
       "relative": {
@@ -2784,7 +2784,7 @@
       },
       "peak_pct": {
         "confirmed": 78.283,
-        "deaths": 55.556,
+        "deaths": 53.571,
         "infected": 78.543
       },
       "relative": {
@@ -2836,5 +2836,105 @@
     "day_index_peak_confirmed": 5,
     "day_index_peak_deaths": 6,
     "day_index_peak": 5
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "f272eb37cce24a75ace805978502b8c4",
+      "type": "total-country",
+      "label": "Pakistan",
+      "country": "Pakistan",
+      "country_code": "PK",
+      "country_latlong": [
+        30,
+        70
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "administrative": null,
+      "latlong": [
+        30,
+        70
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 4788,
+        "deaths": 71,
+        "infected": 4717
+      },
+      "delta": {
+        "confirmed": 187,
+        "deaths": 5,
+        "infected": 182
+      },
+      "delta_pct": {
+        "confirmed": 4.064,
+        "infected": 4.013,
+        "deaths": 7.576
+      },
+      "peak_pct": {
+        "confirmed": 52.469,
+        "deaths": 89.286,
+        "infected": 51.793
+      },
+      "relative": {
+        "deaths": 1.483,
+        "infected": 98.517
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.021,
+        "deaths": 0,
+        "infected": 0.02
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.205,
+        "deaths": 0.003,
+        "infected": 0.202
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.051,
+        "deaths": 0.03,
+        "infected": 2.02
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "deaths": 0,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.008,
+        "deaths": 0,
+        "infected": 0.008
+      },
+      "delta_pop100k": {
+        "confirmed": 0.08,
+        "deaths": 0.002,
+        "infected": 0.078
+      }
+    },
+    "factbook": {
+      "population": 233500636,
+      "median_age": 22,
+      "death_rate": 6.2,
+      "area": 796095
+    },
+    "data_key": "a32639e3cdbe51bdea9a3160def80d8f",
+    "day_index_1": 45,
+    "day_index_10": 33,
+    "day_index_100": 26,
+    "day_index_1k": 17,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 6
   }
 ]

@@ -4063,5 +4063,105 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": 4,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "f3446d2293a09d7f114a5a7e48f843c3",
+      "type": "total-country",
+      "label": "Norway",
+      "country": "Norway",
+      "country_code": "NO",
+      "country_latlong": [
+        62,
+        10
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        62,
+        10
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6244,
+        "deaths": 92,
+        "infected": 6152
+      },
+      "delta": {
+        "confirmed": 84,
+        "deaths": 4,
+        "infected": 80
+      },
+      "delta_pct": {
+        "confirmed": 1.364,
+        "infected": 1.318,
+        "deaths": 4.545
+      },
+      "peak_pct": {
+        "confirmed": 28.359,
+        "deaths": 47.619,
+        "infected": 27.379
+      },
+      "relative": {
+        "deaths": 1.473,
+        "infected": 98.527
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.142,
+        "deaths": 0.017,
+        "infected": 1.125
+      },
+      "absolute_pop10k": {
+        "confirmed": 11.42,
+        "deaths": 0.168,
+        "infected": 11.252
+      },
+      "absolute_pop100k": {
+        "confirmed": 114.203,
+        "deaths": 1.683,
+        "infected": 112.521
+      },
+      "delta_pop1k": {
+        "confirmed": 0.015,
+        "deaths": 0.001,
+        "infected": 0.015
+      },
+      "delta_pop10k": {
+        "confirmed": 0.154,
+        "deaths": 0.007,
+        "infected": 0.146
+      },
+      "delta_pop100k": {
+        "confirmed": 1.536,
+        "deaths": 0.073,
+        "infected": 1.463
+      }
+    },
+    "factbook": {
+      "population": 5467439,
+      "median_age": 39.5,
+      "death_rate": 8.1,
+      "area": 323802
+    },
+    "data_key": "6b461fbbe031510442b99453a4d46fbf",
+    "day_index_1": 45,
+    "day_index_10": 42,
+    "day_index_100": 36,
+    "day_index_1k": 27,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 9
   }
 ]

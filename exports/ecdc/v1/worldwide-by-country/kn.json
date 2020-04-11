@@ -77,9 +77,9 @@
     },
     "data_key": "09c013abc07b9fc19dfd03b55f75ce6d",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -7,
+    "day_index_peak_confirmed": -9,
     "day_index_peak_deaths": null,
-    "day_index_peak": -7
+    "day_index_peak": -9
   },
   {
     "dataset": "ecdc/worldwide",
@@ -163,9 +163,9 @@
     },
     "data_key": "e7c98aea34a9f8544efaf54fb9f90336",
     "day_index_1": 5,
-    "day_index_peak_confirmed": -3,
+    "day_index_peak_confirmed": -5,
     "day_index_peak_deaths": null,
-    "day_index_peak": -3
+    "day_index_peak": -5
   },
   {
     "dataset": "ecdc/worldwide",
@@ -249,9 +249,9 @@
     },
     "data_key": "7ad3d36bec45849d9c0356ed195675f7",
     "day_index_1": 7,
-    "day_index_peak_confirmed": -1,
+    "day_index_peak_confirmed": -3,
     "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak": -3
   },
   {
     "dataset": "ecdc/worldwide",
@@ -335,9 +335,9 @@
     },
     "data_key": "a7ca49f87fa25f579d37c7cdc2fd91bc",
     "day_index_1": 10,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak": 0
   },
   {
     "dataset": "ecdc/worldwide",
@@ -422,9 +422,9 @@
     "data_key": "d73672bbfb2c2c6293f47c19692cab82",
     "day_index_1": 11,
     "day_index_10": 1,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -509,8 +509,95 @@
     "data_key": "eb40e3d3cc0031aa894ba534e4f4693f",
     "day_index_1": 13,
     "day_index_10": 3,
-    "day_index_peak_confirmed": 5,
+    "day_index_peak_confirmed": 3,
     "day_index_peak_deaths": null,
-    "day_index_peak": 5
+    "day_index_peak": 3
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "ce85a5b6753133b6803b0cc5a3556782",
+      "type": "total-country",
+      "label": "Saint Kitts and Nevis",
+      "country": "Saint Kitts and Nevis",
+      "country_code": "KN",
+      "country_latlong": [
+        17.33333333,
+        -62.75
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        17.33333333,
+        -62.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 12,
+        "infected": 12
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 9.091,
+        "infected": 9.091
+      },
+      "peak_pct": {
+        "confirmed": 83.333,
+        "infected": 83.333
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.223,
+        "infected": 0.223
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.23,
+        "infected": 2.23
+      },
+      "absolute_pop100k": {
+        "confirmed": 22.296,
+        "infected": 22.296
+      },
+      "delta_pop1k": {
+        "confirmed": 0.019,
+        "infected": 0.019
+      },
+      "delta_pop10k": {
+        "confirmed": 0.186,
+        "infected": 0.186
+      },
+      "delta_pop100k": {
+        "confirmed": 1.858,
+        "infected": 1.858
+      }
+    },
+    "factbook": {
+      "population": 53821,
+      "median_age": 36.5,
+      "death_rate": 7.3,
+      "area": 261
+    },
+    "data_key": "93b198aa4c164281641fb4ac1025bfbb",
+    "day_index_1": 17,
+    "day_index_10": 7,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 7
   }
 ]

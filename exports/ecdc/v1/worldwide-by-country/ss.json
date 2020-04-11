@@ -77,9 +77,9 @@
     },
     "data_key": "c3c1b3cf2e05fda968534510fc4f282f",
     "day_index_1": 1,
-    "day_index_peak_confirmed": 0,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 0
+    "day_index_peak": -1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -163,8 +163,94 @@
     },
     "data_key": "77d35b3f90ba71d884db3afc15237572",
     "day_index_1": 4,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a1d4e91e97024996a0d576053b469263",
+      "type": "total-country",
+      "label": "South Sudan",
+      "country": "South Sudan",
+      "country_code": "SS",
+      "country_latlong": [
+        7,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        7,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.003,
+        "infected": 0.003
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.028,
+        "infected": 0.028
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.009,
+        "infected": 0.009
+      }
+    },
+    "factbook": {
+      "population": 10561244,
+      "median_age": 18.6,
+      "death_rate": 11.4,
+      "area": 644329
+    },
+    "data_key": "46ebebcbdab055a875cc0d0099681f99",
+    "day_index_1": 6,
+    "day_index_peak_confirmed": 4,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 4
   }
 ]

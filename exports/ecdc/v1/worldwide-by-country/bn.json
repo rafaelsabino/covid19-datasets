@@ -2218,5 +2218,98 @@
     "day_index_peak_confirmed": 19,
     "day_index_peak_deaths": null,
     "day_index_peak": 19
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "0b9845bb02fbe1d992d27b19a643d523",
+      "type": "total-country",
+      "label": "Brunei",
+      "country": "Brunei",
+      "country_code": "BN",
+      "country_latlong": [
+        4.5,
+        114.66666666
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        4.5,
+        114.66666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 136,
+        "deaths": 1,
+        "infected": 135
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 0.741,
+        "infected": 0.746
+      },
+      "peak_pct": {
+        "confirmed": 8.772,
+        "infected": 8.772
+      },
+      "relative": {
+        "deaths": 0.735,
+        "infected": 99.265
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.293,
+        "deaths": 0.002,
+        "infected": 0.291
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.928,
+        "deaths": 0.022,
+        "infected": 2.906
+      },
+      "absolute_pop100k": {
+        "confirmed": 29.28,
+        "deaths": 0.215,
+        "infected": 29.065
+      },
+      "delta_pop1k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.022,
+        "infected": 0.022
+      },
+      "delta_pop100k": {
+        "confirmed": 0.215,
+        "infected": 0.215
+      }
+    },
+    "factbook": {
+      "population": 464478,
+      "median_age": 31.1,
+      "death_rate": 3.8,
+      "area": 5765
+    },
+    "data_key": "b27ec65789c0caf24e91c1dacf583168",
+    "day_index_1": 33,
+    "day_index_10": 31,
+    "day_index_100": 18,
+    "day_index_peak_confirmed": 25,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 25
   }
 ]

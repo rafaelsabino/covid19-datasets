@@ -38,8 +38,8 @@
         "infected": 3
       },
       "peak_pct": {
-        "confirmed": 180,
-        "infected": 225
+        "confirmed": 200,
+        "infected": 240
       },
       "relative": {
         "infected": 100
@@ -77,9 +77,9 @@
     },
     "data_key": "be9149450ae528ad6831ffda320ce8e7",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -2,
+    "day_index_peak_confirmed": -3,
     "day_index_peak_deaths": null,
-    "day_index_peak": -2
+    "day_index_peak": -3
   },
   {
     "dataset": "ecdc/worldwide",
@@ -124,8 +124,8 @@
         "infected": 33.333
       },
       "peak_pct": {
-        "confirmed": 60,
-        "infected": 75
+        "confirmed": 66.667,
+        "infected": 80
       },
       "relative": {
         "infected": 100
@@ -163,9 +163,9 @@
     },
     "data_key": "dffa436e2ee0e03e6ba87bcc8f782345",
     "day_index_1": 3,
-    "day_index_peak_confirmed": 0,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 0
+    "day_index_peak": -1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -210,8 +210,8 @@
         "infected": 25
       },
       "peak_pct": {
-        "confirmed": 60,
-        "infected": 75
+        "confirmed": 66.667,
+        "infected": 80
       },
       "relative": {
         "infected": 100
@@ -249,9 +249,9 @@
     },
     "data_key": "92ce49f582bd9bb643d2b5fa6ab7e0b5",
     "day_index_1": 5,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak": 1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -298,8 +298,8 @@
         "infected": 40
       },
       "peak_pct": {
-        "confirmed": 180,
-        "infected": 150
+        "confirmed": 200,
+        "infected": 160
       },
       "relative": {
         "deaths": 12.5,
@@ -344,8 +344,99 @@
     },
     "data_key": "3870efc53798a2dd53cad18394bfd5be",
     "day_index_1": 6,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 2
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "b9858eb123a071cd112d6baea304bba2",
+      "type": "total-country",
+      "label": "Malawi",
+      "country": "Malawi",
+      "country_code": "MW",
+      "country_latlong": [
+        -13.5,
+        34
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -13.5,
+        34
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9,
+        "deaths": 1,
+        "infected": 8
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 12.5,
+        "infected": 14.286
+      },
+      "peak_pct": {
+        "confirmed": 66.667,
+        "infected": 80
+      },
+      "relative": {
+        "deaths": 11.111,
+        "infected": 88.889
+      },
+      "absolute_pop1k": {
+        "confirmed": 0,
+        "deaths": 0,
+        "infected": 0
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004,
+        "deaths": 0,
+        "infected": 0.004
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.042,
+        "deaths": 0.005,
+        "infected": 0.038
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.005,
+        "infected": 0.005
+      }
+    },
+    "factbook": {
+      "population": 21196629,
+      "median_age": 16.8,
+      "death_rate": 7.2,
+      "area": 118484
+    },
+    "data_key": "21c712b78c1d0059c9c81b511993dec1",
+    "day_index_1": 9,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 5
   }
 ]

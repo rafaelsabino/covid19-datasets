@@ -1545,5 +1545,98 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": 6,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "3b97532383be370a652d17cafe1516d5",
+      "type": "total-country",
+      "label": "El Salvador",
+      "country": "El Salvador",
+      "country_code": "SV",
+      "country_latlong": [
+        13.83333333,
+        -88.91666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13.83333333,
+        -88.91666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 118,
+        "deaths": 6,
+        "infected": 112
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 0.855,
+        "infected": 0.901
+      },
+      "peak_pct": {
+        "confirmed": 9.434,
+        "infected": 10.204
+      },
+      "relative": {
+        "deaths": 5.085,
+        "infected": 94.915
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.018,
+        "deaths": 0.001,
+        "infected": 0.017
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.182,
+        "deaths": 0.009,
+        "infected": 0.173
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.821,
+        "deaths": 0.093,
+        "infected": 1.728
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop100k": {
+        "confirmed": 0.015,
+        "infected": 0.015
+      }
+    },
+    "factbook": {
+      "population": 6481102,
+      "median_age": 27.7,
+      "death_rate": 5.9,
+      "area": 21041
+    },
+    "data_key": "30bfacc66a5112d7059d11561962647d",
+    "day_index_1": 24,
+    "day_index_10": 17,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 7
   }
 ]

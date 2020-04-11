@@ -3505,5 +3505,105 @@
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": 7,
     "day_index_peak": 7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "8ee8fe58fd84b8e758d73910b902a6f9",
+      "type": "total-country",
+      "label": "Iraq",
+      "country": "Iraq",
+      "country_code": "IQ",
+      "country_latlong": [
+        33,
+        44
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        33,
+        44
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1279,
+        "deaths": 70,
+        "infected": 1209
+      },
+      "delta": {
+        "confirmed": 47,
+        "deaths": 1,
+        "infected": 46
+      },
+      "delta_pct": {
+        "confirmed": 3.815,
+        "infected": 3.955,
+        "deaths": 1.449
+      },
+      "peak_pct": {
+        "confirmed": 55.164,
+        "deaths": 22.727,
+        "infected": 56.511
+      },
+      "relative": {
+        "deaths": 5.473,
+        "infected": 94.527
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.033,
+        "deaths": 0.002,
+        "infected": 0.031
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.329,
+        "deaths": 0.018,
+        "infected": 0.311
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.29,
+        "deaths": 0.18,
+        "infected": 3.11
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "deaths": 0,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.012,
+        "deaths": 0,
+        "infected": 0.012
+      },
+      "delta_pop100k": {
+        "confirmed": 0.121,
+        "deaths": 0.003,
+        "infected": 0.118
+      }
+    },
+    "factbook": {
+      "population": 38872655,
+      "median_age": 21.2,
+      "death_rate": 3.9,
+      "area": 438317
+    },
+    "data_key": "17c2f964f9261b94a3790cbac5663aae",
+    "day_index_1": 47,
+    "day_index_10": 42,
+    "day_index_100": 27,
+    "day_index_1k": 5,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 8
   }
 ]

@@ -1779,5 +1779,98 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": 8,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "996a579267d6287d836756b973a3be1e",
+      "type": "total-country",
+      "label": "DR Congo",
+      "country": "DR Congo",
+      "country_code": "CD",
+      "country_latlong": [
+        0,
+        25
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        0,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 223,
+        "deaths": 20,
+        "infected": 203
+      },
+      "delta": {
+        "confirmed": 8,
+        "infected": 8
+      },
+      "delta_pct": {
+        "confirmed": 3.721,
+        "infected": 4.103
+      },
+      "peak_pct": {
+        "confirmed": 37.736,
+        "infected": 41.237
+      },
+      "relative": {
+        "deaths": 8.969,
+        "infected": 91.031
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002,
+        "deaths": 0,
+        "infected": 0.002
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.022,
+        "deaths": 0.002,
+        "infected": 0.02
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.219,
+        "deaths": 0.02,
+        "infected": 0.199
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.008,
+        "infected": 0.008
+      }
+    },
+    "factbook": {
+      "population": 101780263,
+      "median_age": 16.7,
+      "death_rate": 8.4,
+      "area": 2344858
+    },
+    "data_key": "a158e0cfb4a88247962662ce12b416ac",
+    "day_index_1": 32,
+    "day_index_10": 24,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 9,
+    "day_index_peak": 9
   }
 ]

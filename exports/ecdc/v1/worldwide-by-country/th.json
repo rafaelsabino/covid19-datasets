@@ -4075,5 +4075,105 @@
     "day_index_peak_confirmed": 15,
     "day_index_peak_deaths": 7,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "ed88c597a95c76287264f8a624544231",
+      "type": "total-country",
+      "label": "Thailand",
+      "country": "Thailand",
+      "country_code": "TH",
+      "country_latlong": [
+        15,
+        100
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        15,
+        100
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 103
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 2518,
+        "deaths": 35,
+        "infected": 2483
+      },
+      "delta": {
+        "confirmed": 45,
+        "deaths": 2,
+        "infected": 43
+      },
+      "delta_pct": {
+        "confirmed": 1.82,
+        "infected": 1.762,
+        "deaths": 6.061
+      },
+      "peak_pct": {
+        "confirmed": 26.69,
+        "deaths": 58.824,
+        "infected": 25.656
+      },
+      "relative": {
+        "deaths": 1.39,
+        "infected": 98.61
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.037,
+        "deaths": 0.001,
+        "infected": 0.036
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.365,
+        "deaths": 0.005,
+        "infected": 0.36
+      },
+      "absolute_pop100k": {
+        "confirmed": 3.65,
+        "deaths": 0.051,
+        "infected": 3.6
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "deaths": 0,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.007,
+        "deaths": 0,
+        "infected": 0.006
+      },
+      "delta_pop100k": {
+        "confirmed": 0.065,
+        "deaths": 0.003,
+        "infected": 0.062
+      }
+    },
+    "factbook": {
+      "population": 68977400,
+      "median_age": 39,
+      "death_rate": 8.3,
+      "area": 513120
+    },
+    "data_key": "7ec8bbe050fe2507ed051d6733459e6a",
+    "day_index_1": 90,
+    "day_index_10": 75,
+    "day_index_100": 27,
+    "day_index_1k": 17,
+    "day_index_peak_confirmed": 16,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 12
   }
 ]

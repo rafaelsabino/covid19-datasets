@@ -949,5 +949,95 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": null,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "cb0cfcb7d380baa97d1fa325be5c11fb",
+      "type": "total-country",
+      "label": "Uganda",
+      "country": "Uganda",
+      "country_code": "UG",
+      "country_latlong": [
+        1,
+        32
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        1,
+        32
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 53,
+        "recovered": 4,
+        "infected": 49
+      },
+      "delta": {
+        "recovered": 4,
+        "infected": -4
+      },
+      "delta_pct": {
+        "infected": -7.547
+      },
+      "peak_pct": {
+        "infected": -60.606
+      },
+      "relative": {
+        "recovered": 7.547,
+        "infected": 92.453
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001,
+        "recovered": 0,
+        "infected": 0.001
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.012,
+        "recovered": 0.001,
+        "infected": 0.011
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.123,
+        "recovered": 0.009,
+        "infected": 0.113
+      },
+      "delta_pop1k": {
+        "recovered": 0,
+        "infected": -0
+      },
+      "delta_pop10k": {
+        "recovered": 0.001,
+        "infected": -0.001
+      },
+      "delta_pop100k": {
+        "recovered": 0.009,
+        "infected": -0.009
+      }
+    },
+    "factbook": {
+      "population": 43252966,
+      "median_age": 15.7,
+      "death_rate": 5.3,
+      "area": 241038
+    },
+    "data_key": "6d9bf414d7891c197441de04c8186eb6",
+    "day_index_1": 22,
+    "day_index_10": 18,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 15
   }
 ]

@@ -2001,5 +2001,102 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "3a16c48748865b2821661bea3fee2d76",
+      "type": "total-country",
+      "label": "Monaco",
+      "country": "Monaco",
+      "country_code": "MC",
+      "country_latlong": [
+        43.73333333,
+        7.4
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        43.73333333,
+        7.4
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 92,
+        "deaths": 1,
+        "recovered": 5,
+        "infected": 86
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 2.222,
+        "infected": 2.381
+      },
+      "peak_pct": {
+        "confirmed": 28.571,
+        "infected": 28.571
+      },
+      "relative": {
+        "deaths": 1.087,
+        "recovered": 5.435,
+        "infected": 93.478
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.359,
+        "recovered": 0.128,
+        "deaths": 0.026,
+        "infected": 2.205
+      },
+      "absolute_pop10k": {
+        "confirmed": 23.59,
+        "recovered": 1.282,
+        "deaths": 0.256,
+        "infected": 22.051
+      },
+      "absolute_pop100k": {
+        "confirmed": 235.897,
+        "recovered": 12.821,
+        "deaths": 2.564,
+        "infected": 220.513
+      },
+      "delta_pop1k": {
+        "confirmed": 0.051,
+        "infected": 0.051
+      },
+      "delta_pop10k": {
+        "confirmed": 0.513,
+        "infected": 0.513
+      },
+      "delta_pop100k": {
+        "confirmed": 5.128,
+        "infected": 5.128
+      }
+    },
+    "factbook": {
+      "population": 39000,
+      "median_age": 55.4,
+      "death_rate": 10.8,
+      "area": 2
+    },
+    "data_key": "a429214016166d463f2063950286c950",
+    "day_index_1": 43,
+    "day_index_10": 23,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
   }
 ]

@@ -2583,5 +2583,103 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 14,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "8ea3d17dfa2fded3fdc80b369e7b07eb",
+      "type": "total-country",
+      "label": "Paraguay",
+      "country": "Paraguay",
+      "country_code": "PY",
+      "country_latlong": [
+        -23,
+        -58
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        -23,
+        -58
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 133,
+        "deaths": 6,
+        "recovered": 18,
+        "infected": 109
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 3.101,
+        "infected": 3.81
+      },
+      "peak_pct": {
+        "confirmed": 43.478,
+        "infected": 48.78
+      },
+      "relative": {
+        "deaths": 4.511,
+        "recovered": 13.534,
+        "infected": 81.955
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.018,
+        "recovered": 0.003,
+        "deaths": 0.001,
+        "infected": 0.015
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.185,
+        "recovered": 0.025,
+        "deaths": 0.008,
+        "infected": 0.152
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.849,
+        "recovered": 0.25,
+        "deaths": 0.083,
+        "infected": 1.516
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.006,
+        "infected": 0.006
+      },
+      "delta_pop100k": {
+        "confirmed": 0.056,
+        "infected": 0.056
+      }
+    },
+    "factbook": {
+      "population": 7191685,
+      "median_age": 29.7,
+      "death_rate": 4.9,
+      "area": 406752
+    },
+    "data_key": "ae0a837720b2f12f9b964613eea0f403",
+    "day_index_1": 35,
+    "day_index_10": 25,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 15,
+    "day_index_peak": 13
   }
 ]

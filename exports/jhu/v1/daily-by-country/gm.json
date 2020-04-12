@@ -77,9 +77,9 @@
     },
     "data_key": "7e23b15e524bf68f1515bc7bdb8a1d41",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -4,
+    "day_index_peak_confirmed": -6,
     "day_index_peak_deaths": null,
-    "day_index_peak": -4
+    "day_index_peak": -6
   },
   {
     "dataset": "jhu/daily",
@@ -166,9 +166,9 @@
     },
     "data_key": "7c73df23abb44bb758549d3d78710ca6",
     "day_index_1": 7,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak": 0
   },
   {
     "dataset": "jhu/daily",
@@ -257,9 +257,9 @@
     },
     "data_key": "482c9fa5292785b65b31aa0aacd6b6d7",
     "day_index_1": 8,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 3
+    "day_index_peak": 1
   },
   {
     "dataset": "jhu/daily",
@@ -348,9 +348,9 @@
     },
     "data_key": "4602ea28bd0f2086b827a56feb1ebafa",
     "day_index_1": 13,
-    "day_index_peak_confirmed": 8,
+    "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
-    "day_index_peak": 8
+    "day_index_peak": 6
   },
   {
     "dataset": "jhu/daily",
@@ -442,8 +442,104 @@
     },
     "data_key": "f367b2707d4e0336fbfbffca37443de0",
     "day_index_1": 16,
-    "day_index_peak_confirmed": 11,
+    "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
-    "day_index_peak": 11
+    "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "b53b4747718f5ac33d93398e4251d35d",
+      "type": "total-country",
+      "label": "Gambia",
+      "country": "Gambia",
+      "country_code": "GM",
+      "country_latlong": [
+        13.46666666,
+        -16.56666666
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        13.46666666,
+        -16.56666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 9,
+        "deaths": 1,
+        "recovered": 2,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta_pct": {
+        "confirmed": 125,
+        "infected": 500
+      },
+      "peak_pct": {
+        "confirmed": 500,
+        "infected": 500
+      },
+      "relative": {
+        "deaths": 11.111,
+        "recovered": 22.222,
+        "infected": 66.667
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004,
+        "recovered": 0.001,
+        "deaths": 0,
+        "infected": 0.003
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.041,
+        "recovered": 0.009,
+        "deaths": 0.005,
+        "infected": 0.028
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.414,
+        "recovered": 0.092,
+        "deaths": 0.046,
+        "infected": 0.276
+      },
+      "delta_pop1k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.023,
+        "infected": 0.023
+      },
+      "delta_pop100k": {
+        "confirmed": 0.23,
+        "infected": 0.23
+      }
+    },
+    "factbook": {
+      "population": 2173999,
+      "median_age": 21.8,
+      "death_rate": 6.7,
+      "area": 11300
+    },
+    "data_key": "19ff3e2dc47c870ca837af1ee79000aa",
+    "day_index_1": 26,
+    "day_index_peak_confirmed": 19,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 19
   }
 ]

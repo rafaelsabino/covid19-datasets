@@ -77,9 +77,9 @@
     },
     "data_key": "af7dc12865b6bf971706e4cec1152ac6",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -7,
+    "day_index_peak_confirmed": -11,
     "day_index_peak_deaths": null,
-    "day_index_peak": -7
+    "day_index_peak": -11
   },
   {
     "dataset": "jhu/series",
@@ -163,9 +163,9 @@
     },
     "data_key": "4cde55e9911ed929ce08d2c8f0a57f58",
     "day_index_1": 2,
-    "day_index_peak_confirmed": -6,
+    "day_index_peak_confirmed": -10,
     "day_index_peak_deaths": null,
-    "day_index_peak": -6
+    "day_index_peak": -10
   },
   {
     "dataset": "jhu/series",
@@ -252,9 +252,9 @@
     },
     "data_key": "dc87e252fa18d8402a45a0e13afcd7c3",
     "day_index_1": 5,
-    "day_index_peak_confirmed": -3,
+    "day_index_peak_confirmed": -7,
     "day_index_peak_deaths": null,
-    "day_index_peak": -3
+    "day_index_peak": -7
   },
   {
     "dataset": "jhu/series",
@@ -343,9 +343,9 @@
     },
     "data_key": "da6fbcdf1c0a6f22e5b3045060cf3438",
     "day_index_1": 6,
-    "day_index_peak_confirmed": -2,
+    "day_index_peak_confirmed": -6,
     "day_index_peak_deaths": null,
-    "day_index_peak": -2
+    "day_index_peak": -6
   },
   {
     "dataset": "jhu/series",
@@ -434,9 +434,9 @@
     },
     "data_key": "f293be86144822e665b0c7ef1c6fc1cf",
     "day_index_1": 8,
-    "day_index_peak_confirmed": 0,
+    "day_index_peak_confirmed": -4,
     "day_index_peak_deaths": null,
-    "day_index_peak": 0
+    "day_index_peak": -4
   },
   {
     "dataset": "jhu/series",
@@ -525,9 +525,9 @@
     },
     "data_key": "8362d028b62acf5571b5ad8477d39837",
     "day_index_1": 10,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": -2,
     "day_index_peak_deaths": null,
-    "day_index_peak": 2
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/series",
@@ -616,9 +616,9 @@
     },
     "data_key": "723922b092592500c2a7c96c1164407f",
     "day_index_1": 16,
-    "day_index_peak_confirmed": 8,
+    "day_index_peak_confirmed": 4,
     "day_index_peak_deaths": null,
-    "day_index_peak": 8
+    "day_index_peak": 4
   },
   {
     "dataset": "jhu/series",
@@ -710,8 +710,104 @@
     },
     "data_key": "7aa78dbd48bf8a5c0bc3ce9cc5f06742",
     "day_index_1": 18,
-    "day_index_peak_confirmed": 10,
+    "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
-    "day_index_peak": 10
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "deaths": 1,
+        "recovered": 1,
+        "infected": 6
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 14.286,
+        "infected": 20
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 12.5,
+        "recovered": 12.5,
+        "infected": 75
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014,
+        "recovered": 0.002,
+        "deaths": 0.002,
+        "infected": 0.01
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.137,
+        "recovered": 0.017,
+        "deaths": 0.017,
+        "infected": 0.103
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.372,
+        "recovered": 0.171,
+        "deaths": 0.171,
+        "infected": 1.029
+      },
+      "delta_pop1k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.017,
+        "infected": 0.017
+      },
+      "delta_pop100k": {
+        "confirmed": 0.171,
+        "infected": 0.171
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "8cd9982f9967d0496267520648cef385",
+    "day_index_1": 23,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
   }
 ]

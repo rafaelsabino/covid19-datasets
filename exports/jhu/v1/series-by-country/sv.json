@@ -1023,7 +1023,7 @@
       },
       "peak_pct": {
         "confirmed": 96.154,
-        "recovered": 80,
+        "recovered": 71.429,
         "deaths": 100,
         "infected": 87.5
       },
@@ -1229,7 +1229,7 @@
       },
       "peak_pct": {
         "confirmed": 67.308,
-        "recovered": 120,
+        "recovered": 107.143,
         "deaths": 100,
         "infected": 37.5
       },
@@ -1435,7 +1435,7 @@
       },
       "peak_pct": {
         "confirmed": 144.231,
-        "recovered": 160,
+        "recovered": 142.857,
         "deaths": 100,
         "infected": 125
       },
@@ -1544,7 +1544,7 @@
       },
       "peak_pct": {
         "confirmed": 96.154,
-        "recovered": 200,
+        "recovered": 178.571,
         "deaths": 100,
         "infected": 50
       },
@@ -1652,7 +1652,7 @@
       },
       "peak_pct": {
         "confirmed": 134.615,
-        "recovered": 40,
+        "recovered": 35.714,
         "infected": 162.5
       },
       "relative": {
@@ -1707,5 +1707,109 @@
     "day_index_peak_confirmed": 4,
     "day_index_peak_deaths": 6,
     "day_index_peak": 5
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "3b97532383be370a652d17cafe1516d5",
+      "type": "total-country",
+      "label": "El Salvador",
+      "country": "El Salvador",
+      "country_code": "SV",
+      "country_latlong": [
+        13.83333333,
+        -88.91666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Central America",
+      "administrative": null,
+      "latlong": [
+        13.83333333,
+        -88.91666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 118,
+        "deaths": 6,
+        "recovered": 19,
+        "infected": 93
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 4,
+        "infected": -3
+      },
+      "delta_pct": {
+        "confirmed": 0.855,
+        "recovered": 26.667,
+        "infected": -3.125
+      },
+      "peak_pct": {
+        "confirmed": 9.615,
+        "recovered": 142.857,
+        "infected": -37.5
+      },
+      "relative": {
+        "deaths": 5.085,
+        "recovered": 16.102,
+        "infected": 78.814
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.018,
+        "recovered": 0.003,
+        "deaths": 0.001,
+        "infected": 0.014
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.182,
+        "recovered": 0.029,
+        "deaths": 0.009,
+        "infected": 0.143
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.821,
+        "recovered": 0.293,
+        "deaths": 0.093,
+        "infected": 1.435
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "recovered": 0.001,
+        "infected": -0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.002,
+        "recovered": 0.006,
+        "infected": -0.005
+      },
+      "delta_pop100k": {
+        "confirmed": 0.015,
+        "recovered": 0.062,
+        "infected": -0.046
+      }
+    },
+    "factbook": {
+      "population": 6481102,
+      "median_age": 27.7,
+      "death_rate": 5.9,
+      "area": 21041
+    },
+    "data_key": "f826043376054db69b25ca4300a299e1",
+    "day_index_1": 24,
+    "day_index_10": 17,
+    "day_index_100": 3,
+    "day_index_peak_confirmed": 5,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 6
   }
 ]

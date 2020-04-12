@@ -735,7 +735,7 @@
       },
       "peak_pct": {
         "confirmed": 13.393,
-        "recovered": 314.815,
+        "recovered": 223.684,
         "infected": -64.815
       },
       "relative": {
@@ -1105,7 +1105,7 @@
       },
       "peak_pct": {
         "confirmed": 31.25,
-        "recovered": 18.519,
+        "recovered": 13.158,
         "infected": 27.778
       },
       "relative": {
@@ -1485,7 +1485,7 @@
       },
       "peak_pct": {
         "confirmed": 147.321,
-        "recovered": 55.556,
+        "recovered": 39.474,
         "infected": 138.889
       },
       "relative": {
@@ -1614,7 +1614,7 @@
       },
       "peak_pct": {
         "confirmed": 89.286,
-        "recovered": 74.074,
+        "recovered": 52.632,
         "infected": 74.074
       },
       "relative": {
@@ -1680,7 +1680,7 @@
       },
       "peak_pct": {
         "confirmed": 75.893,
-        "recovered": -18.519,
+        "recovered": -13.158,
         "infected": 83.333
       },
       "relative": {
@@ -1746,7 +1746,7 @@
       },
       "peak_pct": {
         "confirmed": 31.25,
-        "recovered": 333.333,
+        "recovered": 236.842,
         "infected": -50.926
       },
       "relative": {
@@ -1810,7 +1810,7 @@
       },
       "peak_pct": {
         "confirmed": 8.929,
-        "recovered": 37.037
+        "recovered": 26.316
       },
       "relative": {
         "deaths": 0.38,
@@ -1877,7 +1877,7 @@
       },
       "peak_pct": {
         "confirmed": 17.857,
-        "recovered": 18.519,
+        "recovered": 13.158,
         "deaths": 100,
         "infected": 9.259
       },
@@ -1895,5 +1895,71 @@
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": 15,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "2676c51c36d0db3b26ffe2729be7f5d3",
+      "type": "total-country",
+      "label": "Palestine",
+      "country": "Palestine",
+      "country_code": "PS",
+      "country_latlong": [
+        31.9,
+        35.2
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.9,
+        35.2
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 268,
+        "deaths": 2,
+        "recovered": 57,
+        "infected": 209
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 12,
+        "infected": -11
+      },
+      "delta_pct": {
+        "confirmed": 0.375,
+        "recovered": 26.667,
+        "infected": -5
+      },
+      "peak_pct": {
+        "confirmed": 4.464,
+        "recovered": 157.895,
+        "infected": -50.926
+      },
+      "relative": {
+        "deaths": 0.746,
+        "recovered": 21.269,
+        "infected": 77.985
+      }
+    },
+    "factbook": null,
+    "data_key": "bd6a76b54ad0518dd968f92ccf34aee8",
+    "day_index_1": 38,
+    "day_index_10": 36,
+    "day_index_100": 14,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 16,
+    "day_index_peak": 12
   }
 ]

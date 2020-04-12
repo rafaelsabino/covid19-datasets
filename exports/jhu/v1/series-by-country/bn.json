@@ -2963,5 +2963,103 @@
     "day_index_peak_confirmed": 24,
     "day_index_peak_deaths": null,
     "day_index_peak": 24
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "0b9845bb02fbe1d992d27b19a643d523",
+      "type": "total-country",
+      "label": "Brunei",
+      "country": "Brunei",
+      "country_code": "BN",
+      "country_latlong": [
+        4.5,
+        114.66666666
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        4.5,
+        114.66666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 136,
+        "deaths": 1,
+        "recovered": 104,
+        "infected": 31
+      },
+      "delta": {
+        "recovered": 5,
+        "infected": -5
+      },
+      "delta_pct": {
+        "recovered": 5.051,
+        "infected": -13.889
+      },
+      "peak_pct": {
+        "recovered": 60.976,
+        "infected": -48.077
+      },
+      "relative": {
+        "deaths": 0.735,
+        "recovered": 76.471,
+        "infected": 22.794
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.293,
+        "recovered": 0.224,
+        "deaths": 0.002,
+        "infected": 0.067
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.928,
+        "recovered": 2.239,
+        "deaths": 0.022,
+        "infected": 0.667
+      },
+      "absolute_pop100k": {
+        "confirmed": 29.28,
+        "recovered": 22.391,
+        "deaths": 0.215,
+        "infected": 6.674
+      },
+      "delta_pop1k": {
+        "recovered": 0.011,
+        "infected": -0.011
+      },
+      "delta_pop10k": {
+        "recovered": 0.108,
+        "infected": -0.108
+      },
+      "delta_pop100k": {
+        "recovered": 1.076,
+        "infected": -1.076
+      }
+    },
+    "factbook": {
+      "population": 464478,
+      "median_age": 31.1,
+      "death_rate": 3.8,
+      "area": 5765
+    },
+    "data_key": "5d3d84b6ca1a4c769d3ed43a99e5b5d6",
+    "day_index_1": 34,
+    "day_index_10": 32,
+    "day_index_100": 19,
+    "day_index_peak_confirmed": 25,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 25
   }
 ]

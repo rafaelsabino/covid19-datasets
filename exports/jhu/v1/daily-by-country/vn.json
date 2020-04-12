@@ -4149,5 +4149,98 @@
     "day_index_peak_confirmed": 16,
     "day_index_peak_deaths": null,
     "day_index_peak": 16
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "dd3f190e091d5bc1ea3520add25cffdf",
+      "type": "total-country",
+      "label": "Vietnam",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "country_latlong": [
+        16.16666666,
+        107.83333333
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        16.16666666,
+        107.83333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 258,
+        "recovered": 144,
+        "infected": 114
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 0.389,
+        "infected": 0.885
+      },
+      "peak_pct": {
+        "confirmed": 7.353,
+        "infected": 9.434
+      },
+      "relative": {
+        "recovered": 55.814,
+        "infected": 44.186
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.003,
+        "recovered": 0.001,
+        "infected": 0.001
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.026,
+        "recovered": 0.015,
+        "infected": 0.012
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.261,
+        "recovered": 0.146,
+        "infected": 0.115
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      }
+    },
+    "factbook": {
+      "population": 98721275,
+      "median_age": 31.9,
+      "death_rate": 6,
+      "area": 331210
+    },
+    "data_key": "d997accea8b61eb18656440d2bd27b5b",
+    "day_index_1": 80,
+    "day_index_10": 66,
+    "day_index_100": 21,
+    "day_index_peak_confirmed": 17,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 17
   }
 ]

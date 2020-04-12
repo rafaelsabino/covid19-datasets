@@ -2362,5 +2362,109 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": 7,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "d54b28d43af22b349a67117b235a305a",
+      "type": "total-country",
+      "label": "Uruguay",
+      "country": "Uruguay",
+      "country_code": "UY",
+      "country_latlong": [
+        -33,
+        -56
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        -33,
+        -56
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 11,
+      "date": "2020-04-11",
+      "timestamp": 1586566800,
+      "index": 81
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 494,
+        "deaths": 7,
+        "recovered": 214,
+        "infected": 273
+      },
+      "delta": {
+        "confirmed": 21,
+        "recovered": 8,
+        "infected": 13
+      },
+      "delta_pct": {
+        "confirmed": 4.44,
+        "recovered": 3.883,
+        "infected": 5
+      },
+      "peak_pct": {
+        "confirmed": 70,
+        "recovered": 27.972,
+        "infected": 47.101
+      },
+      "relative": {
+        "deaths": 1.417,
+        "recovered": 43.32,
+        "infected": 55.263
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.146,
+        "recovered": 0.063,
+        "deaths": 0.002,
+        "infected": 0.081
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.458,
+        "recovered": 0.632,
+        "deaths": 0.021,
+        "infected": 0.806
+      },
+      "absolute_pop100k": {
+        "confirmed": 14.583,
+        "recovered": 6.317,
+        "deaths": 0.207,
+        "infected": 8.059
+      },
+      "delta_pop1k": {
+        "confirmed": 0.006,
+        "recovered": 0.002,
+        "infected": 0.004
+      },
+      "delta_pop10k": {
+        "confirmed": 0.062,
+        "recovered": 0.024,
+        "infected": 0.038
+      },
+      "delta_pop100k": {
+        "confirmed": 0.62,
+        "recovered": 0.236,
+        "infected": 0.384
+      }
+    },
+    "factbook": {
+      "population": 3387605,
+      "median_age": 35.5,
+      "death_rate": 9.3,
+      "area": 176215
+    },
+    "data_key": "7466857e6166d4a58050023e37c67b7a",
+    "day_index_1": 29,
+    "day_index_10": 26,
+    "day_index_100": 22,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 10
   }
 ]

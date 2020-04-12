@@ -1774,5 +1774,66 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 15,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "2676c51c36d0db3b26ffe2729be7f5d3",
+      "type": "total-country",
+      "label": "Palestine",
+      "country": "Palestine",
+      "country_code": "PS",
+      "country_latlong": [
+        31.9,
+        35.2
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.9,
+        35.2
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 268,
+        "deaths": 2,
+        "infected": 266
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 0.752,
+        "infected": 0.758
+      },
+      "peak_pct": {
+        "confirmed": 9.524,
+        "infected": 9.615
+      },
+      "relative": {
+        "deaths": 0.746,
+        "infected": 99.254
+      }
+    },
+    "factbook": null,
+    "data_key": "84ee5d8684d8ebd0dd94efc21ece3c81",
+    "day_index_1": 38,
+    "day_index_10": 37,
+    "day_index_100": 14,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 16,
+    "day_index_peak": 13
   }
 ]

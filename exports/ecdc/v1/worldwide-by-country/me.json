@@ -2182,5 +2182,98 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": 15,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "22bc3e7c4c66d2dd0d2f43e3dc43dcdb",
+      "type": "total-country",
+      "label": "Montenegro",
+      "country": "Montenegro",
+      "country_code": "ME",
+      "country_latlong": [
+        42.5,
+        19.3
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        42.5,
+        19.3
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 263,
+        "deaths": 2,
+        "infected": 261
+      },
+      "delta": {
+        "confirmed": 6,
+        "infected": 6
+      },
+      "delta_pct": {
+        "confirmed": 2.335,
+        "infected": 2.353
+      },
+      "peak_pct": {
+        "confirmed": 28.571,
+        "infected": 28.846
+      },
+      "relative": {
+        "deaths": 0.76,
+        "infected": 99.24
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.431,
+        "deaths": 0.003,
+        "infected": 0.428
+      },
+      "absolute_pop10k": {
+        "confirmed": 4.312,
+        "deaths": 0.033,
+        "infected": 4.28
+      },
+      "absolute_pop100k": {
+        "confirmed": 43.125,
+        "deaths": 0.328,
+        "infected": 42.797
+      },
+      "delta_pop1k": {
+        "confirmed": 0.01,
+        "infected": 0.01
+      },
+      "delta_pop10k": {
+        "confirmed": 0.098,
+        "infected": 0.098
+      },
+      "delta_pop100k": {
+        "confirmed": 0.984,
+        "infected": 0.984
+      }
+    },
+    "factbook": {
+      "population": 609859,
+      "median_age": 39.6,
+      "death_rate": 10.4,
+      "area": 13812
+    },
+    "data_key": "e62f8bd943b4981871de1cc8c3107ead",
+    "day_index_1": 26,
+    "day_index_10": 24,
+    "day_index_100": 12,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 16,
+    "day_index_peak": 13
   }
 ]

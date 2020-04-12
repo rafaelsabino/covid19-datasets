@@ -2787,5 +2787,99 @@
     "day_index_peak_confirmed": 14,
     "day_index_peak_deaths": 7,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "f33865cccca28106a647873a1a25c1f3",
+      "type": "total-country",
+      "label": "New Zealand",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "country_latlong": [
+        -41,
+        174
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "administrative": null,
+      "latlong": [
+        -41,
+        174
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1049,
+        "deaths": 4,
+        "infected": 1045
+      },
+      "delta": {
+        "confirmed": 14,
+        "infected": 14
+      },
+      "delta_pct": {
+        "confirmed": 1.353,
+        "infected": 1.358
+      },
+      "peak_pct": {
+        "confirmed": 18.47,
+        "infected": 18.47
+      },
+      "relative": {
+        "deaths": 0.381,
+        "infected": 99.619
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.213,
+        "deaths": 0.001,
+        "infected": 0.212
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.13,
+        "deaths": 0.008,
+        "infected": 2.122
+      },
+      "absolute_pop100k": {
+        "confirmed": 21.297,
+        "deaths": 0.081,
+        "infected": 21.216
+      },
+      "delta_pop1k": {
+        "confirmed": 0.003,
+        "infected": 0.003
+      },
+      "delta_pop10k": {
+        "confirmed": 0.028,
+        "infected": 0.028
+      },
+      "delta_pop100k": {
+        "confirmed": 0.284,
+        "infected": 0.284
+      }
+    },
+    "factbook": {
+      "population": 4925477,
+      "median_age": 37.2,
+      "death_rate": 6.9,
+      "area": 268838
+    },
+    "data_key": "746df59d9b4b22042a63bb2ca44476dc",
+    "day_index_1": 45,
+    "day_index_10": 26,
+    "day_index_100": 21,
+    "day_index_1k": 3,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": 8,
+    "day_index_peak": 11
   }
 ]

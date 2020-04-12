@@ -3846,5 +3846,99 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": 5,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "e2f07a346bf32df23a115491513c8d83",
+      "type": "total-country",
+      "label": "Croatia",
+      "country": "Croatia",
+      "country_code": "HR",
+      "country_latlong": [
+        45.16666666,
+        15.5
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        45.16666666,
+        15.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1534,
+        "deaths": 21,
+        "infected": 1513
+      },
+      "delta": {
+        "confirmed": 39,
+        "infected": 39
+      },
+      "delta_pct": {
+        "confirmed": 2.609,
+        "infected": 2.646
+      },
+      "peak_pct": {
+        "confirmed": 47.215,
+        "infected": 47.445
+      },
+      "relative": {
+        "deaths": 1.369,
+        "infected": 98.631
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.363,
+        "deaths": 0.005,
+        "infected": 0.358
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.628,
+        "deaths": 0.05,
+        "infected": 3.579
+      },
+      "absolute_pop100k": {
+        "confirmed": 36.284,
+        "deaths": 0.497,
+        "infected": 35.787
+      },
+      "delta_pop1k": {
+        "confirmed": 0.009,
+        "infected": 0.009
+      },
+      "delta_pop10k": {
+        "confirmed": 0.092,
+        "infected": 0.092
+      },
+      "delta_pop100k": {
+        "confirmed": 0.922,
+        "infected": 0.922
+      }
+    },
+    "factbook": {
+      "population": 4227746,
+      "median_age": 43.9,
+      "death_rate": 12.8,
+      "area": 56594
+    },
+    "data_key": "75e75a30c5726437d197b5d3017f476f",
+    "day_index_1": 47,
+    "day_index_10": 38,
+    "day_index_100": 24,
+    "day_index_1k": 10,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 9
   }
 ]

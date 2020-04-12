@@ -1056,5 +1056,97 @@
     "day_index_peak_confirmed": 13,
     "day_index_peak_deaths": 1,
     "day_index_peak": 7
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "4d08587ecc9f3b0b27feaf87e19b3a34",
+      "type": "total-country",
+      "label": "Bermuda",
+      "country": "Bermuda",
+      "country_code": "BM",
+      "country_latlong": [
+        32.33333333,
+        -64.75
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "North America",
+      "administrative": null,
+      "latlong": [
+        32.33333333,
+        -64.75
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 50,
+        "deaths": 4,
+        "infected": 46
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 4.167,
+        "infected": 4.545
+      },
+      "peak_pct": {
+        "confirmed": 35.714,
+        "infected": 37.037
+      },
+      "relative": {
+        "deaths": 8,
+        "infected": 92
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.697,
+        "deaths": 0.056,
+        "infected": 0.641
+      },
+      "absolute_pop10k": {
+        "confirmed": 6.969,
+        "deaths": 0.557,
+        "infected": 6.411
+      },
+      "absolute_pop100k": {
+        "confirmed": 69.686,
+        "deaths": 5.575,
+        "infected": 64.111
+      },
+      "delta_pop1k": {
+        "confirmed": 0.028,
+        "infected": 0.028
+      },
+      "delta_pop10k": {
+        "confirmed": 0.279,
+        "infected": 0.279
+      },
+      "delta_pop100k": {
+        "confirmed": 2.787,
+        "infected": 2.787
+      }
+    },
+    "factbook": {
+      "population": 71750,
+      "median_age": 43.6,
+      "death_rate": 9.1,
+      "area": 54
+    },
+    "data_key": "059cf88c5def16e59da376d1c4fbd6d5",
+    "day_index_1": 24,
+    "day_index_10": 17,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 9
   }
 ]

@@ -1479,5 +1479,93 @@
     "day_index_peak_confirmed": 15,
     "day_index_peak_deaths": null,
     "day_index_peak": 15
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "a76522ab741156c5290e551812832e7a",
+      "type": "total-country",
+      "label": "Gibraltar",
+      "country": "Gibraltar",
+      "country_code": "GI",
+      "country_latlong": [
+        36.13333333,
+        -5.35
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        36.13333333,
+        -5.35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 129,
+        "infected": 129
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 1.575,
+        "infected": 1.575
+      },
+      "peak_pct": {
+        "confirmed": 17.241,
+        "infected": 17.241
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 4.361,
+        "infected": 4.361
+      },
+      "absolute_pop10k": {
+        "confirmed": 43.609,
+        "infected": 43.609
+      },
+      "absolute_pop100k": {
+        "confirmed": 436.091,
+        "infected": 436.091
+      },
+      "delta_pop1k": {
+        "confirmed": 0.068,
+        "infected": 0.068
+      },
+      "delta_pop10k": {
+        "confirmed": 0.676,
+        "infected": 0.676
+      },
+      "delta_pop100k": {
+        "confirmed": 6.761,
+        "infected": 6.761
+      }
+    },
+    "factbook": {
+      "population": 29581,
+      "median_age": 35.5,
+      "death_rate": 8.6,
+      "area": 6.5
+    },
+    "data_key": "e7b775d7ede25c9e18f21cb6a567e492",
+    "day_index_1": 24,
+    "day_index_10": 24,
+    "day_index_100": 7,
+    "day_index_peak_confirmed": 16,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 16
   }
 ]

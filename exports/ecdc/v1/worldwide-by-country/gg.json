@@ -1810,5 +1810,98 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": 3,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "d9e51a2157720eb45a5f5958446516af",
+      "type": "total-country",
+      "label": "Guernsey",
+      "country": "Guernsey",
+      "country_code": "GG",
+      "country_latlong": [
+        49.46666666,
+        -2.58333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        49.46666666,
+        -2.58333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 209,
+        "deaths": 6,
+        "infected": 203
+      },
+      "delta": {
+        "confirmed": 9,
+        "infected": 9
+      },
+      "delta_pct": {
+        "confirmed": 4.5,
+        "infected": 4.639
+      },
+      "peak_pct": {
+        "confirmed": 50.562,
+        "infected": 51.724
+      },
+      "relative": {
+        "deaths": 2.871,
+        "infected": 97.129
+      },
+      "absolute_pop1k": {
+        "confirmed": 3.117,
+        "deaths": 0.089,
+        "infected": 3.028
+      },
+      "absolute_pop10k": {
+        "confirmed": 31.17,
+        "deaths": 0.895,
+        "infected": 30.275
+      },
+      "absolute_pop100k": {
+        "confirmed": 311.698,
+        "deaths": 8.948,
+        "infected": 302.75
+      },
+      "delta_pop1k": {
+        "confirmed": 0.134,
+        "infected": 0.134
+      },
+      "delta_pop10k": {
+        "confirmed": 1.342,
+        "infected": 1.342
+      },
+      "delta_pop100k": {
+        "confirmed": 13.422,
+        "infected": 13.422
+      }
+    },
+    "factbook": {
+      "population": 67052,
+      "median_age": 44.3,
+      "death_rate": 9.2,
+      "area": 78
+    },
+    "data_key": "97d59dd914b777e62d2e908198ff8c10",
+    "day_index_1": 24,
+    "day_index_10": 21,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 7
   }
 ]

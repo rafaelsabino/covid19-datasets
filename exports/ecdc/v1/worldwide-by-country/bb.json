@@ -1512,5 +1512,97 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": 4,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "c102e80d9bf3ea14a619cb1f25c9f785",
+      "type": "total-country",
+      "label": "Barbados",
+      "country": "Barbados",
+      "country_code": "BB",
+      "country_latlong": [
+        13.16666666,
+        -59.53333333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        13.16666666,
+        -59.53333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 68,
+        "deaths": 4,
+        "infected": 64
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 1.493,
+        "infected": 1.587
+      },
+      "peak_pct": {
+        "confirmed": 15.625,
+        "infected": 16.129
+      },
+      "relative": {
+        "deaths": 5.882,
+        "infected": 94.118
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.231,
+        "deaths": 0.014,
+        "infected": 0.217
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.309,
+        "deaths": 0.136,
+        "infected": 2.173
+      },
+      "absolute_pop100k": {
+        "confirmed": 23.085,
+        "deaths": 1.358,
+        "infected": 21.727
+      },
+      "delta_pop1k": {
+        "confirmed": 0.003,
+        "infected": 0.003
+      },
+      "delta_pop10k": {
+        "confirmed": 0.034,
+        "infected": 0.034
+      },
+      "delta_pop100k": {
+        "confirmed": 0.339,
+        "infected": 0.339
+      }
+    },
+    "factbook": {
+      "population": 294560,
+      "median_age": 39.5,
+      "death_rate": 8.8,
+      "area": 430
+    },
+    "data_key": "036a4cfa4aa85eb1d78711bacbea84e8",
+    "day_index_1": 26,
+    "day_index_10": 22,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 9
   }
 ]

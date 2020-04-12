@@ -2148,5 +2148,98 @@
     "day_index_peak_confirmed": 8,
     "day_index_peak_deaths": 14,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "66fcc8b48a420b96dcb7a4ba0207518e",
+      "type": "total-country",
+      "label": "Mauritius",
+      "country": "Mauritius",
+      "country_code": "MU",
+      "country_latlong": [
+        -20.28333333,
+        57.55
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -20.28333333,
+        57.55
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 319,
+        "deaths": 9,
+        "infected": 310
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 0.314,
+        "infected": 0.324
+      },
+      "peak_pct": {
+        "confirmed": 4.065,
+        "infected": 4.065
+      },
+      "relative": {
+        "deaths": 2.821,
+        "infected": 97.179
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.231,
+        "deaths": 0.007,
+        "infected": 0.225
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.313,
+        "deaths": 0.065,
+        "infected": 2.247
+      },
+      "absolute_pop100k": {
+        "confirmed": 23.127,
+        "deaths": 0.652,
+        "infected": 22.474
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.007,
+        "infected": 0.007
+      },
+      "delta_pop100k": {
+        "confirmed": 0.072,
+        "infected": 0.072
+      }
+    },
+    "factbook": {
+      "population": 1379365,
+      "median_age": 36.3,
+      "death_rate": 7.3,
+      "area": 2040
+    },
+    "data_key": "e7dc8c5549882dc534db1c41e67fff15",
+    "day_index_1": 24,
+    "day_index_10": 23,
+    "day_index_100": 15,
+    "day_index_peak_confirmed": 9,
+    "day_index_peak_deaths": 15,
+    "day_index_peak": 12
   }
 ]

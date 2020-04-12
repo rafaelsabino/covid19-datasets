@@ -2261,5 +2261,98 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": 8,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "baa184084f6e3be352bfed718f01fb6f",
+      "type": "total-country",
+      "label": "Trinidad and Tobago",
+      "country": "Trinidad and Tobago",
+      "country_code": "TT",
+      "country_latlong": [
+        11,
+        -61
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        11,
+        -61
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 112,
+        "deaths": 8,
+        "infected": 104
+      },
+      "delta": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 2.752,
+        "infected": 2.97
+      },
+      "peak_pct": {
+        "confirmed": 44.118,
+        "infected": 45.455
+      },
+      "relative": {
+        "deaths": 7.143,
+        "infected": 92.857
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.093,
+        "deaths": 0.007,
+        "infected": 0.086
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.927,
+        "deaths": 0.066,
+        "infected": 0.86
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.265,
+        "deaths": 0.662,
+        "infected": 8.604
+      },
+      "delta_pop1k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.025,
+        "infected": 0.025
+      },
+      "delta_pop100k": {
+        "confirmed": 0.248,
+        "infected": 0.248
+      }
+    },
+    "factbook": {
+      "population": 1208789,
+      "median_age": 37.8,
+      "death_rate": 9.1,
+      "area": 5128
+    },
+    "data_key": "1223770b39ffecf0900e7402c480e3fa",
+    "day_index_1": 31,
+    "day_index_10": 22,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": 10,
+    "day_index_peak": 12
   }
 ]

@@ -523,5 +523,65 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "393d02cc89a65fc23377d58c9d397e44",
+      "type": "total-country",
+      "label": "United States Virgin Islands",
+      "country": "United States Virgin Islands",
+      "country_code": "VI",
+      "country_latlong": [
+        18.35,
+        -64.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.35,
+        -64.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 51,
+        "deaths": 1,
+        "infected": 50
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 2,
+        "infected": 2.041
+      },
+      "peak_pct": {
+        "confirmed": 19.231,
+        "infected": 19.231
+      },
+      "relative": {
+        "deaths": 1.961,
+        "infected": 98.039
+      }
+    },
+    "factbook": null,
+    "data_key": "61bc6045e91bbe0ef45e6cc366c97f24",
+    "day_index_1": 20,
+    "day_index_10": 20,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
   }
 ]

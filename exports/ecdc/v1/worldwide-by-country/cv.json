@@ -77,9 +77,9 @@
     },
     "data_key": "0e663da73c54a2449f7974b63bf9dc1b",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -7,
+    "day_index_peak_confirmed": -11,
     "day_index_peak_deaths": null,
-    "day_index_peak": -7
+    "day_index_peak": -11
   },
   {
     "dataset": "ecdc/worldwide",
@@ -163,9 +163,9 @@
     },
     "data_key": "3160a675d0150e72f32e8d79bb2a8bf4",
     "day_index_1": 2,
-    "day_index_peak_confirmed": -6,
+    "day_index_peak_confirmed": -10,
     "day_index_peak_deaths": null,
-    "day_index_peak": -6
+    "day_index_peak": -10
   },
   {
     "dataset": "ecdc/worldwide",
@@ -252,9 +252,9 @@
     },
     "data_key": "eacbdb1fd63312ea29a45c32c2f5a61a",
     "day_index_1": 5,
-    "day_index_peak_confirmed": -3,
+    "day_index_peak_confirmed": -7,
     "day_index_peak_deaths": null,
-    "day_index_peak": -3
+    "day_index_peak": -7
   },
   {
     "dataset": "ecdc/worldwide",
@@ -343,9 +343,9 @@
     },
     "data_key": "77c4d35deebe7ed4ff59faff1d78aaaf",
     "day_index_1": 6,
-    "day_index_peak_confirmed": -2,
+    "day_index_peak_confirmed": -6,
     "day_index_peak_deaths": null,
-    "day_index_peak": -2
+    "day_index_peak": -6
   },
   {
     "dataset": "ecdc/worldwide",
@@ -434,9 +434,9 @@
     },
     "data_key": "b4b6872fc67af7867916d7c9b244524b",
     "day_index_1": 7,
-    "day_index_peak_confirmed": -1,
+    "day_index_peak_confirmed": -5,
     "day_index_peak_deaths": null,
-    "day_index_peak": -1
+    "day_index_peak": -5
   },
   {
     "dataset": "ecdc/worldwide",
@@ -525,9 +525,9 @@
     },
     "data_key": "4e7e5b5a8bc2c54f3ad633b3308052a2",
     "day_index_1": 12,
-    "day_index_peak_confirmed": 4,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": null,
-    "day_index_peak": 4
+    "day_index_peak": 0
   },
   {
     "dataset": "ecdc/worldwide",
@@ -616,8 +616,99 @@
     },
     "data_key": "2b3bd41bcdba4776ab5554f4ab3079f2",
     "day_index_1": 16,
-    "day_index_peak_confirmed": 8,
+    "day_index_peak_confirmed": 4,
     "day_index_peak_deaths": null,
-    "day_index_peak": 8
+    "day_index_peak": 4
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "acfcb86808b6ad8e9684f6f290e048da",
+      "type": "total-country",
+      "label": "Cape Verde",
+      "country": "Cape Verde",
+      "country_code": "CV",
+      "country_latlong": [
+        16,
+        -24
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        -24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 8,
+        "deaths": 1,
+        "infected": 7
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 14.286,
+        "infected": 16.667
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "deaths": 12.5,
+        "infected": 87.5
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.014,
+        "deaths": 0.002,
+        "infected": 0.012
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.137,
+        "deaths": 0.017,
+        "infected": 0.12
+      },
+      "absolute_pop100k": {
+        "confirmed": 1.372,
+        "deaths": 0.171,
+        "infected": 1.2
+      },
+      "delta_pop1k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.017,
+        "infected": 0.017
+      },
+      "delta_pop100k": {
+        "confirmed": 0.171,
+        "infected": 0.171
+      }
+    },
+    "factbook": {
+      "population": 583255,
+      "median_age": 26.8,
+      "death_rate": 5.9,
+      "area": 4033
+    },
+    "data_key": "d21a4f1975642cf0d3b0d76610c8aff7",
+    "day_index_1": 23,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 11
   }
 ]

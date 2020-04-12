@@ -4270,5 +4270,106 @@
     "day_index_peak_confirmed": 16,
     "day_index_peak_deaths": 5,
     "day_index_peak": 10
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "6d8f361005f563c2cf7694c325a72036",
+      "type": "total-country",
+      "label": "Austria",
+      "country": "Austria",
+      "country_code": "AT",
+      "country_latlong": [
+        47.33333333,
+        13.33333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "administrative": null,
+      "latlong": [
+        47.33333333,
+        13.33333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 13807,
+        "deaths": 337,
+        "infected": 13470
+      },
+      "delta": {
+        "confirmed": 247,
+        "deaths": 18,
+        "infected": 229
+      },
+      "delta_pct": {
+        "confirmed": 1.822,
+        "infected": 1.729,
+        "deaths": 5.643
+      },
+      "peak_pct": {
+        "confirmed": 33.101,
+        "deaths": 81.081,
+        "infected": 31.165
+      },
+      "relative": {
+        "deaths": 2.441,
+        "infected": 97.559
+      },
+      "absolute_pop1k": {
+        "confirmed": 1.558,
+        "deaths": 0.038,
+        "infected": 1.52
+      },
+      "absolute_pop10k": {
+        "confirmed": 15.584,
+        "deaths": 0.38,
+        "infected": 15.204
+      },
+      "absolute_pop100k": {
+        "confirmed": 155.845,
+        "deaths": 3.804,
+        "infected": 152.041
+      },
+      "delta_pop1k": {
+        "confirmed": 0.028,
+        "deaths": 0.002,
+        "infected": 0.026
+      },
+      "delta_pop10k": {
+        "confirmed": 0.279,
+        "deaths": 0.02,
+        "infected": 0.258
+      },
+      "delta_pop100k": {
+        "confirmed": 2.788,
+        "deaths": 0.203,
+        "infected": 2.585
+      }
+    },
+    "factbook": {
+      "population": 8859449,
+      "median_age": 44.5,
+      "death_rate": 9.8,
+      "area": 83871
+    },
+    "data_key": "7bd8f2b7fce1dd5b7f8e313b11b2f97c",
+    "day_index_1": 47,
+    "day_index_10": 43,
+    "day_index_100": 35,
+    "day_index_1k": 27,
+    "day_index_10k": 12,
+    "day_index_peak_confirmed": 17,
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 11
   }
 ]

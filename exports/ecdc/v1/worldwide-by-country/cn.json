@@ -9069,5 +9069,100 @@
     "day_index_peak_confirmed": 64,
     "day_index_peak_deaths": 52,
     "day_index_peak": 58
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "7f65b40cf52df9cc5e1143cd5878213c",
+      "type": "total-country",
+      "label": "China",
+      "country": "China",
+      "country_code": "CN",
+      "country_latlong": [
+        35,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        35,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 83097,
+        "deaths": 3343,
+        "infected": 79754
+      },
+      "delta": {
+        "confirmed": 93,
+        "infected": 93
+      },
+      "delta_pct": {
+        "confirmed": 0.112,
+        "infected": 0.117
+      },
+      "peak_pct": {
+        "confirmed": 2.526,
+        "infected": 2.568
+      },
+      "relative": {
+        "deaths": 4.023,
+        "infected": 95.977
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.06,
+        "deaths": 0.002,
+        "infected": 0.057
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.596,
+        "deaths": 0.024,
+        "infected": 0.572
+      },
+      "absolute_pop100k": {
+        "confirmed": 5.961,
+        "deaths": 0.24,
+        "infected": 5.721
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.007,
+        "infected": 0.007
+      }
+    },
+    "factbook": {
+      "population": 1394015977,
+      "median_age": 38.4,
+      "death_rate": 8.2,
+      "area": 9596960
+    },
+    "data_key": "e38680268b44445c9c3361f18aec7104",
+    "day_index_1": 104,
+    "day_index_10": 104,
+    "day_index_100": 85,
+    "day_index_1k": 79,
+    "day_index_10k": 72,
+    "day_index_peak_confirmed": 65,
+    "day_index_peak_deaths": 53,
+    "day_index_peak": 59
   }
 ]

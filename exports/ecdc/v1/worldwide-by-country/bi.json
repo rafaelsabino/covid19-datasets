@@ -38,8 +38,8 @@
         "infected": 2
       },
       "peak_pct": {
-        "confirmed": 200,
-        "infected": 200
+        "confirmed": 133.333,
+        "infected": 133.333
       },
       "relative": {
         "infected": 100
@@ -77,9 +77,9 @@
     },
     "data_key": "6ca352f40bbb1d922f8400650a62868f",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -2,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": null,
-    "day_index_peak": -2
+    "day_index_peak": -1
   },
   {
     "dataset": "ecdc/worldwide",
@@ -124,8 +124,8 @@
         "infected": 50
       },
       "peak_pct": {
-        "confirmed": 100,
-        "infected": 100
+        "confirmed": 66.667,
+        "infected": 66.667
       },
       "relative": {
         "infected": 100
@@ -163,8 +163,94 @@
     },
     "data_key": "d1ac282d71dde760ffb692e2c138eb4b",
     "day_index_1": 3,
-    "day_index_peak_confirmed": 0,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": null,
-    "day_index_peak": 0
+    "day_index_peak": 1
+  },
+  {
+    "dataset": "ecdc/worldwide",
+    "location": {
+      "key": "f4407b93807168c596d6afd5f8a9ae1f",
+      "type": "total-country",
+      "label": "Burundi",
+      "country": "Burundi",
+      "country_code": "BI",
+      "country_latlong": [
+        -3.5,
+        30
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -3.5,
+        30
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 104
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 5,
+        "infected": 5
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 66.667,
+        "infected": 66.667
+      },
+      "peak_pct": {
+        "confirmed": 133.333,
+        "infected": 133.333
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.004,
+        "infected": 0.004
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.042,
+        "infected": 0.042
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.002,
+        "infected": 0.002
+      },
+      "delta_pop100k": {
+        "confirmed": 0.017,
+        "infected": 0.017
+      }
+    },
+    "factbook": {
+      "population": 11865821,
+      "median_age": 17.7,
+      "death_rate": 6.2,
+      "area": 27830
+    },
+    "data_key": "ef60c6cfa825e9d63da6b662bef79987",
+    "day_index_1": 12,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
   }
 ]

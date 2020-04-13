@@ -446,7 +446,7 @@
       },
       "peak_pct": {
         "confirmed": 37.5,
-        "recovered": 81.081,
+        "recovered": 76.923,
         "infected": -50
       },
       "relative": {
@@ -505,7 +505,7 @@
         "infected": 50
       },
       "peak_pct": {
-        "recovered": -81.081,
+        "recovered": -76.923,
         "infected": 100
       },
       "relative": {
@@ -566,7 +566,7 @@
       },
       "peak_pct": {
         "confirmed": 25,
-        "recovered": 81.081,
+        "recovered": 76.923,
         "infected": -66.667
       },
       "relative": {
@@ -809,7 +809,7 @@
       },
       "peak_pct": {
         "confirmed": 100,
-        "recovered": 121.622,
+        "recovered": 115.385,
         "infected": -16.667
       },
       "relative": {
@@ -872,7 +872,7 @@
       },
       "peak_pct": {
         "confirmed": 75,
-        "recovered": 94.595,
+        "recovered": 89.744,
         "infected": -16.667
       },
       "relative": {
@@ -995,7 +995,7 @@
       },
       "peak_pct": {
         "confirmed": 137.5,
-        "recovered": 162.162,
+        "recovered": 153.846,
         "infected": -16.667
       },
       "relative": {
@@ -1118,7 +1118,7 @@
       },
       "peak_pct": {
         "confirmed": 75,
-        "recovered": 121.622,
+        "recovered": 115.385,
         "infected": -50
       },
       "relative": {
@@ -1133,5 +1133,68 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "110fe8acfdbad6119f0f709515749cf0",
+      "type": "total-country",
+      "label": "French Guiana",
+      "country": "French Guiana",
+      "country_code": "GF",
+      "country_latlong": [
+        4,
+        -53
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "South America",
+      "administrative": null,
+      "latlong": [
+        4,
+        -53
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 86,
+        "recovered": 51,
+        "infected": 35
+      },
+      "delta": {
+        "confirmed": 3,
+        "recovered": 8,
+        "infected": -5
+      },
+      "delta_pct": {
+        "confirmed": 3.614,
+        "recovered": 18.605,
+        "infected": -12.5
+      },
+      "peak_pct": {
+        "confirmed": 37.5,
+        "recovered": 102.564,
+        "infected": -83.333
+      },
+      "relative": {
+        "recovered": 59.302,
+        "infected": 40.698
+      }
+    },
+    "factbook": null,
+    "data_key": "da50b1bfa1714ba64b5530025c81d123",
+    "day_index_1": 37,
+    "day_index_10": 30,
+    "day_index_peak_confirmed": 12,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 12
   }
 ]

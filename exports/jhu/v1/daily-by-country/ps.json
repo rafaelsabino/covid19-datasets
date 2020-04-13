@@ -38,8 +38,8 @@
         "infected": 4
       },
       "peak_pct": {
-        "confirmed": 16.667,
-        "infected": 17.544
+        "confirmed": 16,
+        "infected": 16.807
       },
       "relative": {
         "infected": 100
@@ -48,9 +48,9 @@
     "factbook": null,
     "data_key": "5a6be06388c21b4ec570313f7a20f17e",
     "day_index_1": 1,
-    "day_index_peak_confirmed": -30,
+    "day_index_peak_confirmed": -31,
     "day_index_peak_deaths": -21,
-    "day_index_peak": -25
+    "day_index_peak": -26
   },
   {
     "dataset": "jhu/daily",
@@ -95,8 +95,8 @@
         "infected": 300
       },
       "peak_pct": {
-        "confirmed": 50,
-        "infected": 52.632
+        "confirmed": 48,
+        "infected": 50.42
       },
       "relative": {
         "infected": 100
@@ -106,9 +106,9 @@
     "data_key": "215df6924dfbc422c79d966120570dba",
     "day_index_1": 2,
     "day_index_10": 1,
-    "day_index_peak_confirmed": -29,
+    "day_index_peak_confirmed": -30,
     "day_index_peak_deaths": -20,
-    "day_index_peak": -24
+    "day_index_peak": -25
   },
   {
     "dataset": "jhu/daily",
@@ -153,8 +153,8 @@
         "infected": 37.5
       },
       "peak_pct": {
-        "confirmed": 25,
-        "infected": 26.316
+        "confirmed": 24,
+        "infected": 25.21
       },
       "relative": {
         "infected": 100
@@ -164,9 +164,9 @@
     "data_key": "f16d84acef646eb1d5eb38aeefe025f0",
     "day_index_1": 3,
     "day_index_10": 2,
-    "day_index_peak_confirmed": -28,
+    "day_index_peak_confirmed": -29,
     "day_index_peak_deaths": -19,
-    "day_index_peak": -23
+    "day_index_peak": -24
   },
   {
     "dataset": "jhu/daily",
@@ -211,8 +211,8 @@
         "infected": 13.636
       },
       "peak_pct": {
-        "confirmed": 12.5,
-        "infected": 13.158
+        "confirmed": 12,
+        "infected": 12.605
       },
       "relative": {
         "infected": 100
@@ -222,9 +222,9 @@
     "data_key": "02905d7f4b36e862b13c0ed0dfbe12c0",
     "day_index_1": 6,
     "day_index_10": 5,
-    "day_index_peak_confirmed": -25,
+    "day_index_peak_confirmed": -26,
     "day_index_peak_deaths": -16,
-    "day_index_peak": -20
+    "day_index_peak": -21
   },
   {
     "dataset": "jhu/daily",
@@ -265,17 +265,17 @@
         "infected": -100
       },
       "peak_pct": {
-        "confirmed": -104.167,
-        "infected": -109.649
+        "confirmed": -100,
+        "infected": -105.042
       }
     },
     "factbook": null,
     "data_key": "2949ebb85b12558bc1e111f7f416b5b7",
     "day_index_1": 7,
     "day_index_10": 6,
-    "day_index_peak_confirmed": -24,
+    "day_index_peak_confirmed": -25,
     "day_index_peak_deaths": -15,
-    "day_index_peak": -19
+    "day_index_peak": -20
   },
   {
     "dataset": "jhu/daily",
@@ -320,10 +320,10 @@
         "infected": 66
       },
       "peak_pct": {
-        "confirmed": 350,
+        "confirmed": 336,
         "recovered": 223.684,
         "deaths": 100,
-        "infected": 289.474
+        "infected": 277.311
       },
       "relative": {
         "deaths": 1.19,
@@ -335,9 +335,9 @@
     "data_key": "9e5459886f464b5b8f0106030bf811a2",
     "day_index_1": 22,
     "day_index_10": 21,
-    "day_index_peak_confirmed": -9,
+    "day_index_peak_confirmed": -10,
     "day_index_peak_deaths": 0,
-    "day_index_peak": -4
+    "day_index_peak": -5
   },
   {
     "dataset": "jhu/daily",
@@ -384,8 +384,8 @@
         "infected": 10.606
       },
       "peak_pct": {
-        "confirmed": 29.167,
-        "infected": 30.702
+        "confirmed": 28,
+        "infected": 29.412
       },
       "relative": {
         "deaths": 1.099,
@@ -397,9 +397,9 @@
     "data_key": "2a6e3893a06f39c1dec51110acc61aa2",
     "day_index_1": 23,
     "day_index_10": 22,
-    "day_index_peak_confirmed": -8,
+    "day_index_peak_confirmed": -9,
     "day_index_peak_deaths": 1,
-    "day_index_peak": -3
+    "day_index_peak": -4
   },
   {
     "dataset": "jhu/daily",
@@ -448,9 +448,9 @@
         "infected": 8.219
       },
       "peak_pct": {
-        "confirmed": 29.167,
+        "confirmed": 28,
         "recovered": 13.158,
-        "infected": 26.316
+        "infected": 25.21
       },
       "relative": {
         "deaths": 1.02,
@@ -462,9 +462,9 @@
     "data_key": "aabc87471ee2988eedeb4ada6a96f9d2",
     "day_index_1": 24,
     "day_index_10": 23,
-    "day_index_peak_confirmed": -7,
+    "day_index_peak_confirmed": -8,
     "day_index_peak_deaths": 2,
-    "day_index_peak": -2
+    "day_index_peak": -3
   },
   {
     "dataset": "jhu/daily",
@@ -511,8 +511,8 @@
         "infected": 13.924
       },
       "peak_pct": {
-        "confirmed": 45.833,
-        "infected": 48.246
+        "confirmed": 44,
+        "infected": 46.218
       },
       "relative": {
         "deaths": 0.917,
@@ -525,9 +525,9 @@
     "day_index_1": 25,
     "day_index_10": 24,
     "day_index_100": 1,
-    "day_index_peak_confirmed": -6,
+    "day_index_peak_confirmed": -7,
     "day_index_peak_deaths": 3,
-    "day_index_peak": -1
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/daily",
@@ -574,8 +574,8 @@
         "infected": 7.778
       },
       "peak_pct": {
-        "confirmed": 29.167,
-        "infected": 30.702
+        "confirmed": 28,
+        "infected": 29.412
       },
       "relative": {
         "deaths": 0.862,
@@ -588,9 +588,9 @@
     "day_index_1": 26,
     "day_index_10": 25,
     "day_index_100": 2,
-    "day_index_peak_confirmed": -5,
+    "day_index_peak_confirmed": -6,
     "day_index_peak_deaths": 4,
-    "day_index_peak": -0
+    "day_index_peak": -1
   },
   {
     "dataset": "jhu/daily",
@@ -637,8 +637,8 @@
         "infected": 3.093
       },
       "peak_pct": {
-        "confirmed": 12.5,
-        "infected": 13.158
+        "confirmed": 12,
+        "infected": 12.605
       },
       "relative": {
         "deaths": 0.84,
@@ -651,7 +651,7 @@
     "day_index_1": 27,
     "day_index_10": 26,
     "day_index_100": 3,
-    "day_index_peak_confirmed": -4,
+    "day_index_peak_confirmed": -5,
     "day_index_peak_deaths": 5,
     "day_index_peak": 0
   },
@@ -700,8 +700,8 @@
         "infected": 15
       },
       "peak_pct": {
-        "confirmed": 62.5,
-        "infected": 65.789
+        "confirmed": 60,
+        "infected": 63.025
       },
       "relative": {
         "deaths": 0.746,
@@ -714,7 +714,7 @@
     "day_index_1": 28,
     "day_index_10": 27,
     "day_index_100": 4,
-    "day_index_peak_confirmed": -3,
+    "day_index_peak_confirmed": -4,
     "day_index_peak_deaths": 6,
     "day_index_peak": 1
   },
@@ -763,8 +763,8 @@
         "infected": 23.478
       },
       "peak_pct": {
-        "confirmed": 112.5,
-        "infected": 118.421
+        "confirmed": 108,
+        "infected": 113.445
       },
       "relative": {
         "deaths": 0.621,
@@ -777,7 +777,7 @@
     "day_index_1": 29,
     "day_index_10": 28,
     "day_index_100": 5,
-    "day_index_peak_confirmed": -2,
+    "day_index_peak_confirmed": -3,
     "day_index_peak_deaths": 7,
     "day_index_peak": 2
   },
@@ -828,9 +828,9 @@
         "infected": 21.127
       },
       "peak_pct": {
-        "confirmed": 137.5,
+        "confirmed": 132,
         "recovered": 39.474,
-        "infected": 131.579
+        "infected": 126.05
       },
       "relative": {
         "deaths": 0.515,
@@ -843,7 +843,7 @@
     "day_index_1": 30,
     "day_index_10": 29,
     "day_index_100": 6,
-    "day_index_peak_confirmed": -1,
+    "day_index_peak_confirmed": -2,
     "day_index_peak_deaths": 8,
     "day_index_peak": 3
   },
@@ -892,8 +892,8 @@
         "infected": 13.372
       },
       "peak_pct": {
-        "confirmed": 95.833,
-        "infected": 100.877
+        "confirmed": 92,
+        "infected": 96.639
       },
       "relative": {
         "deaths": 0.461,
@@ -906,7 +906,7 @@
     "day_index_1": 31,
     "day_index_10": 30,
     "day_index_100": 7,
-    "day_index_peak_confirmed": 0,
+    "day_index_peak_confirmed": -1,
     "day_index_peak_deaths": 9,
     "day_index_peak": 4
   },
@@ -957,9 +957,9 @@
         "infected": 8.205
       },
       "peak_pct": {
-        "confirmed": 83.333,
+        "confirmed": 80,
         "recovered": 52.632,
-        "infected": 70.175
+        "infected": 67.227
       },
       "relative": {
         "deaths": 0.422,
@@ -972,7 +972,7 @@
     "day_index_1": 32,
     "day_index_10": 31,
     "day_index_100": 8,
-    "day_index_peak_confirmed": 1,
+    "day_index_peak_confirmed": 0,
     "day_index_peak_deaths": 10,
     "day_index_peak": 5
   },
@@ -1023,9 +1023,9 @@
         "infected": 8.531
       },
       "peak_pct": {
-        "confirmed": 70.833,
+        "confirmed": 68,
         "recovered": -13.158,
-        "infected": 78.947
+        "infected": 75.63
       },
       "relative": {
         "deaths": 0.394,
@@ -1038,7 +1038,7 @@
     "day_index_1": 33,
     "day_index_10": 32,
     "day_index_100": 9,
-    "day_index_peak_confirmed": 2,
+    "day_index_peak_confirmed": 1,
     "day_index_peak_deaths": 11,
     "day_index_peak": 6
   },
@@ -1089,9 +1089,9 @@
         "infected": -4.803
       },
       "peak_pct": {
-        "confirmed": 29.167,
+        "confirmed": 28,
         "recovered": 236.842,
-        "infected": -48.246
+        "infected": -46.218
       },
       "relative": {
         "deaths": 0.383,
@@ -1104,7 +1104,7 @@
     "day_index_1": 34,
     "day_index_10": 33,
     "day_index_100": 10,
-    "day_index_peak_confirmed": 3,
+    "day_index_peak_confirmed": 2,
     "day_index_peak_deaths": 12,
     "day_index_peak": 7
   },
@@ -1153,7 +1153,7 @@
         "recovered": 4.762
       },
       "peak_pct": {
-        "confirmed": 8.333,
+        "confirmed": 8,
         "recovered": 26.316
       },
       "relative": {
@@ -1167,7 +1167,7 @@
     "day_index_1": 35,
     "day_index_10": 34,
     "day_index_100": 11,
-    "day_index_peak_confirmed": 4,
+    "day_index_peak_confirmed": 3,
     "day_index_peak_deaths": 13,
     "day_index_peak": 8
   },
@@ -1220,10 +1220,10 @@
         "deaths": 100
       },
       "peak_pct": {
-        "confirmed": 16.667,
+        "confirmed": 16,
         "recovered": 13.158,
         "deaths": 100,
-        "infected": 8.772
+        "infected": 8.403
       },
       "relative": {
         "deaths": 0.749,
@@ -1236,7 +1236,7 @@
     "day_index_1": 37,
     "day_index_10": 36,
     "day_index_100": 13,
-    "day_index_peak_confirmed": 6,
+    "day_index_peak_confirmed": 5,
     "day_index_peak_deaths": 15,
     "day_index_peak": 10
   },
@@ -1287,9 +1287,9 @@
         "infected": -5
       },
       "peak_pct": {
-        "confirmed": 4.167,
+        "confirmed": 4,
         "recovered": 157.895,
-        "infected": -48.246
+        "infected": -46.218
       },
       "relative": {
         "deaths": 0.746,
@@ -1302,8 +1302,74 @@
     "day_index_1": 38,
     "day_index_10": 37,
     "day_index_100": 14,
-    "day_index_peak_confirmed": 7,
+    "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": 16,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "2676c51c36d0db3b26ffe2729be7f5d3",
+      "type": "total-country",
+      "label": "Palestine",
+      "country": "Palestine",
+      "country_code": "PS",
+      "country_latlong": [
+        31.9,
+        35.2
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "administrative": null,
+      "latlong": [
+        31.9,
+        35.2
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 290,
+        "deaths": 2,
+        "recovered": 58,
+        "infected": 230
+      },
+      "delta": {
+        "confirmed": 22,
+        "recovered": 1,
+        "infected": 21
+      },
+      "delta_pct": {
+        "confirmed": 8.209,
+        "recovered": 1.754,
+        "infected": 10.048
+      },
+      "peak_pct": {
+        "confirmed": 88,
+        "recovered": 13.158,
+        "infected": 88.235
+      },
+      "relative": {
+        "deaths": 0.69,
+        "recovered": 20,
+        "infected": 79.31
+      }
+    },
+    "factbook": null,
+    "data_key": "51b3794f03c667c5817febd6c0d2a87c",
+    "day_index_1": 39,
+    "day_index_10": 38,
+    "day_index_100": 15,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 17,
+    "day_index_peak": 12
   }
 ]

@@ -296,6 +296,7 @@
         "infected": -33.333
       },
       "peak_pct": {
+        "recovered": 100,
         "infected": -62.5
       },
       "relative": {
@@ -708,5 +709,97 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": null,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "b36dae3ef17bb2b13e4739ce0088667c",
+      "type": "total-country",
+      "label": "Saint Lucia",
+      "country": "Saint Lucia",
+      "country_code": "LC",
+      "country_latlong": [
+        13.88333333,
+        -60.96666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        13.88333333,
+        -60.96666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 15,
+        "recovered": 4,
+        "infected": 11
+      },
+      "delta": {
+        "recovered": 3,
+        "infected": -3
+      },
+      "delta_pct": {
+        "recovered": 300,
+        "infected": -21.429
+      },
+      "peak_pct": {
+        "recovered": 300,
+        "infected": -187.5
+      },
+      "relative": {
+        "recovered": 26.667,
+        "infected": 73.333
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.09,
+        "recovered": 0.024,
+        "infected": 0.066
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.901,
+        "recovered": 0.24,
+        "infected": 0.661
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.01,
+        "recovered": 2.403,
+        "infected": 6.607
+      },
+      "delta_pop1k": {
+        "recovered": 0.018,
+        "infected": -0.018
+      },
+      "delta_pop10k": {
+        "recovered": 0.18,
+        "infected": -0.18
+      },
+      "delta_pop100k": {
+        "recovered": 1.802,
+        "infected": -1.802
+      }
+    },
+    "factbook": {
+      "population": 166487,
+      "median_age": 36.9,
+      "death_rate": 8.1,
+      "area": 616
+    },
+    "data_key": "d89713eb5f1db5c6622b8b48ca276256",
+    "day_index_1": 30,
+    "day_index_10": 13,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 14
   }
 ]

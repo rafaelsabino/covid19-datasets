@@ -792,5 +792,97 @@
     "day_index_peak_confirmed": 12,
     "day_index_peak_deaths": null,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "aaac25a69e8ea4d2c4f9eb36a98bc0e3",
+      "type": "total-country",
+      "label": "Mozambique",
+      "country": "Mozambique",
+      "country_code": "MZ",
+      "country_latlong": [
+        -18.25,
+        35
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -18.25,
+        35
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 21,
+        "recovered": 2,
+        "infected": 19
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 5,
+        "infected": 5.556
+      },
+      "peak_pct": {
+        "confirmed": 45.455,
+        "infected": 50
+      },
+      "relative": {
+        "recovered": 9.524,
+        "infected": 90.476
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.001,
+        "recovered": 0,
+        "infected": 0.001
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.007,
+        "recovered": 0.001,
+        "infected": 0.006
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.07,
+        "recovered": 0.007,
+        "infected": 0.063
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop100k": {
+        "confirmed": 0.003,
+        "infected": 0.003
+      }
+    },
+    "factbook": {
+      "population": 30098197,
+      "median_age": 17,
+      "death_rate": 11,
+      "area": 799380
+    },
+    "data_key": "e6978a74d50ea8d16acfe5795869c6f6",
+    "day_index_1": 22,
+    "day_index_10": 12,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 14
   }
 ]

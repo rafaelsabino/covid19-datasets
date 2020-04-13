@@ -385,7 +385,7 @@
       },
       "peak_pct": {
         "confirmed": 6.289,
-        "recovered": 37.5,
+        "recovered": 7.843,
         "infected": 4.777
       },
       "relative": {
@@ -1854,7 +1854,7 @@
       },
       "peak_pct": {
         "confirmed": 48.742,
-        "recovered": 225,
+        "recovered": 47.059,
         "infected": 39.809
       },
       "relative": {
@@ -2572,7 +2572,7 @@
       },
       "peak_pct": {
         "confirmed": 50.314,
-        "recovered": 37.5,
+        "recovered": 7.843,
         "deaths": 100,
         "infected": 46.178
       },
@@ -2982,7 +2982,7 @@
       },
       "peak_pct": {
         "confirmed": 69.182,
-        "recovered": 1725,
+        "recovered": 360.784,
         "deaths": 300,
         "infected": -12.739
       },
@@ -3146,5 +3146,110 @@
     "day_index_peak_confirmed": 15,
     "day_index_peak_deaths": 10,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "b580d5dc7d6b597440be74bc898ce295",
+      "type": "total-country",
+      "label": "Lithuania",
+      "country": "Lithuania",
+      "country_code": "LT",
+      "country_latlong": [
+        56,
+        24
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        56,
+        24
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 1053,
+        "deaths": 23,
+        "recovered": 97,
+        "infected": 933
+      },
+      "delta": {
+        "confirmed": 27,
+        "recovered": 43,
+        "infected": -16
+      },
+      "delta_pct": {
+        "confirmed": 2.632,
+        "recovered": 79.63,
+        "infected": -1.686
+      },
+      "peak_pct": {
+        "confirmed": 42.453,
+        "recovered": 337.255,
+        "infected": -25.478
+      },
+      "relative": {
+        "deaths": 2.184,
+        "recovered": 9.212,
+        "infected": 88.604
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.386,
+        "recovered": 0.036,
+        "deaths": 0.008,
+        "infected": 0.342
+      },
+      "absolute_pop10k": {
+        "confirmed": 3.855,
+        "recovered": 0.355,
+        "deaths": 0.084,
+        "infected": 3.416
+      },
+      "absolute_pop100k": {
+        "confirmed": 38.551,
+        "recovered": 3.551,
+        "deaths": 0.842,
+        "infected": 34.158
+      },
+      "delta_pop1k": {
+        "confirmed": 0.01,
+        "recovered": 0.016,
+        "infected": -0.006
+      },
+      "delta_pop10k": {
+        "confirmed": 0.099,
+        "recovered": 0.157,
+        "infected": -0.059
+      },
+      "delta_pop100k": {
+        "confirmed": 0.988,
+        "recovered": 1.574,
+        "infected": -0.586
+      }
+    },
+    "factbook": {
+      "population": 2731464,
+      "median_age": 44.5,
+      "death_rate": 15,
+      "area": 65300
+    },
+    "data_key": "9a41f9d322703ffbdf09d57bd9895b51",
+    "day_index_1": 45,
+    "day_index_10": 29,
+    "day_index_100": 22,
+    "day_index_1k": 2,
+    "day_index_peak_confirmed": 16,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 13
   }
 ]

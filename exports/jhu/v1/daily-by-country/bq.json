@@ -37,6 +37,10 @@
         "confirmed": 2,
         "infected": 2
       },
+      "peak_pct": {
+        "confirmed": 200,
+        "infected": 200
+      },
       "relative": {
         "infected": 100
       }
@@ -44,8 +48,65 @@
     "factbook": null,
     "data_key": "ba05aebd05284c8170994623b09a987e",
     "day_index_1": 1,
-    "day_index_peak_confirmed": null,
+    "day_index_peak_confirmed": -10,
     "day_index_peak_deaths": null,
-    "day_index_peak": null
+    "day_index_peak": -10
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "a190d12e8b1ba9f06a51cc74924ddf4c",
+      "type": "total-country",
+      "label": "Caribbean Netherlands",
+      "country": "Caribbean Netherlands",
+      "country_code": "BQ",
+      "country_latlong": [
+        12.18,
+        -68.25
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.18,
+        -68.25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 3,
+        "infected": 3
+      },
+      "delta": {
+        "confirmed": 1,
+        "infected": 1
+      },
+      "delta_pct": {
+        "confirmed": 50,
+        "infected": 50
+      },
+      "peak_pct": {
+        "confirmed": 100,
+        "infected": 100
+      },
+      "relative": {
+        "infected": 100
+      }
+    },
+    "factbook": null,
+    "data_key": "a0672971692d8ae393a3743589662638",
+    "day_index_1": 11,
+    "day_index_peak_confirmed": 0,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 0
   }
 ]

@@ -995,7 +995,7 @@
       },
       "peak_pct": {
         "confirmed": 19.231,
-        "recovered": 66.667
+        "recovered": 54.545
       },
       "relative": {
         "recovered": 2.778,
@@ -1181,7 +1181,7 @@
       },
       "peak_pct": {
         "confirmed": 57.692,
-        "recovered": 166.667,
+        "recovered": 136.364,
         "infected": 9.615
       },
       "relative": {
@@ -1279,7 +1279,7 @@
       },
       "peak_pct": {
         "confirmed": 48.077,
-        "recovered": 133.333,
+        "recovered": 109.091,
         "infected": 9.615
       },
       "relative": {
@@ -1422,5 +1422,104 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "0e368eb34a418da4a8411491b0753a62",
+      "type": "total-country",
+      "label": "Madagascar",
+      "country": "Madagascar",
+      "country_code": "MG",
+      "country_latlong": [
+        -20,
+        47
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -20,
+        47
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 106,
+        "recovered": 20,
+        "infected": 86
+      },
+      "delta": {
+        "confirmed": 4,
+        "recovered": 9,
+        "infected": -5
+      },
+      "delta_pct": {
+        "confirmed": 3.922,
+        "recovered": 81.818,
+        "infected": -5.495
+      },
+      "peak_pct": {
+        "confirmed": 38.462,
+        "recovered": 245.455,
+        "infected": -48.077
+      },
+      "relative": {
+        "recovered": 18.868,
+        "infected": 81.132
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.004,
+        "recovered": 0.001,
+        "infected": 0.003
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.039,
+        "recovered": 0.007,
+        "infected": 0.032
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.393,
+        "recovered": 0.074,
+        "infected": 0.319
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "recovered": 0,
+        "infected": -0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "recovered": 0.003,
+        "infected": -0.002
+      },
+      "delta_pop100k": {
+        "confirmed": 0.015,
+        "recovered": 0.033,
+        "infected": -0.019
+      }
+    },
+    "factbook": {
+      "population": 26955737,
+      "median_age": 20.3,
+      "death_rate": 6.2,
+      "area": 587041
+    },
+    "data_key": "80c84ccd483a2c4d7f4fb38ce201bb77",
+    "day_index_1": 24,
+    "day_index_10": 21,
+    "day_index_100": 2,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 10
   }
 ]

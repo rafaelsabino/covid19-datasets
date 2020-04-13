@@ -471,7 +471,7 @@
       },
       "peak_pct": {
         "confirmed": 44.118,
-        "recovered": 29.412,
+        "recovered": 26.316,
         "infected": 31.25
       },
       "relative": {
@@ -1397,7 +1397,7 @@
       },
       "peak_pct": {
         "confirmed": 102.941,
-        "recovered": 29.412,
+        "recovered": 26.316,
         "infected": 93.75
       },
       "relative": {
@@ -1495,7 +1495,7 @@
       },
       "peak_pct": {
         "confirmed": 44.118,
-        "recovered": 352.941,
+        "recovered": 315.789,
         "infected": -140.625
       },
       "relative": {
@@ -1685,7 +1685,7 @@
       },
       "peak_pct": {
         "confirmed": 73.529,
-        "recovered": 176.471,
+        "recovered": 157.895,
         "infected": -15.625
       },
       "relative": {
@@ -1783,7 +1783,7 @@
       },
       "peak_pct": {
         "confirmed": 58.824,
-        "recovered": 205.882,
+        "recovered": 184.211,
         "infected": -46.875
       },
       "relative": {
@@ -1881,7 +1881,7 @@
       },
       "peak_pct": {
         "confirmed": 88.235,
-        "recovered": 58.824,
+        "recovered": 52.632,
         "infected": 62.5
       },
       "relative": {
@@ -1931,5 +1931,97 @@
     "day_index_peak_confirmed": 7,
     "day_index_peak_deaths": null,
     "day_index_peak": 7
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "cc547fbd7c0f36d79fecce1546fc49df",
+      "type": "total-country",
+      "label": "Aruba",
+      "country": "Aruba",
+      "country_code": "AW",
+      "country_latlong": [
+        12.5,
+        -69.96666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.5,
+        -69.96666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 92,
+        "recovered": 32,
+        "infected": 60
+      },
+      "delta": {
+        "recovered": 3,
+        "infected": -3
+      },
+      "delta_pct": {
+        "recovered": 10.345,
+        "infected": -4.762
+      },
+      "peak_pct": {
+        "recovered": 78.947,
+        "infected": -46.875
+      },
+      "relative": {
+        "recovered": 34.783,
+        "infected": 65.217
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.77,
+        "recovered": 0.268,
+        "infected": 0.502
+      },
+      "absolute_pop10k": {
+        "confirmed": 7.703,
+        "recovered": 2.679,
+        "infected": 5.024
+      },
+      "absolute_pop100k": {
+        "confirmed": 77.034,
+        "recovered": 26.794,
+        "infected": 50.239
+      },
+      "delta_pop1k": {
+        "recovered": 0.025,
+        "infected": -0.025
+      },
+      "delta_pop10k": {
+        "recovered": 0.251,
+        "infected": -0.251
+      },
+      "delta_pop100k": {
+        "recovered": 2.512,
+        "infected": -2.512
+      }
+    },
+    "factbook": {
+      "population": 119428,
+      "median_age": 39.9,
+      "death_rate": 8.7,
+      "area": 180
+    },
+    "data_key": "49dac246213feec36d683576fa9d503a",
+    "day_index_1": 31,
+    "day_index_10": 20,
+    "day_index_peak_confirmed": 8,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 8
   }
 ]

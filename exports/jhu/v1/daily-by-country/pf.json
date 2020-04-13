@@ -1358,5 +1358,95 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": null,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "e7061ea066580b67c14f6a81cf284d01",
+      "type": "total-country",
+      "label": "French Polynesia",
+      "country": "French Polynesia",
+      "country_code": "PF",
+      "country_latlong": [
+        -15,
+        -140
+      ],
+      "province": null,
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "administrative": null,
+      "latlong": [
+        -15,
+        -140
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 53,
+        "infected": 53
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 3.922,
+        "infected": 3.922
+      },
+      "peak_pct": {
+        "confirmed": 40,
+        "infected": 40
+      },
+      "relative": {
+        "infected": 100
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.18,
+        "infected": 0.18
+      },
+      "absolute_pop10k": {
+        "confirmed": 1.796,
+        "infected": 1.796
+      },
+      "absolute_pop100k": {
+        "confirmed": 17.959,
+        "infected": 17.959
+      },
+      "delta_pop1k": {
+        "confirmed": 0.007,
+        "infected": 0.007
+      },
+      "delta_pop10k": {
+        "confirmed": 0.068,
+        "infected": 0.068
+      },
+      "delta_pop100k": {
+        "confirmed": 0.678,
+        "infected": 0.678
+      }
+    },
+    "factbook": {
+      "population": 295121,
+      "median_age": 33.3,
+      "death_rate": 5.5,
+      "area": 4167
+    },
+    "data_key": "10f71edf2d2c81d398132aa547537947",
+    "day_index_1": 31,
+    "day_index_10": 24,
+    "day_index_100": 21,
+    "day_index_1k": 21,
+    "day_index_10k": 21,
+    "day_index_peak_confirmed": 13,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 13
   }
 ]

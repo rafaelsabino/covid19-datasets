@@ -482,7 +482,7 @@
         "infected": -40
       },
       "peak_pct": {
-        "recovered": 120,
+        "recovered": 133.333,
         "infected": -111.111
       },
       "relative": {
@@ -771,7 +771,7 @@
         "infected": -12.5
       },
       "peak_pct": {
-        "recovered": 60,
+        "recovered": 66.667,
         "infected": -55.556
       },
       "relative": {
@@ -868,7 +868,7 @@
         "infected": -28.571
       },
       "peak_pct": {
-        "recovered": 120,
+        "recovered": 133.333,
         "infected": -111.111
       },
       "relative": {
@@ -1062,7 +1062,7 @@
         "infected": -28.571
       },
       "peak_pct": {
-        "recovered": 120,
+        "recovered": 133.333,
         "infected": -111.111
       },
       "relative": {
@@ -1210,5 +1210,102 @@
     "day_index_peak_confirmed": 11,
     "day_index_peak_deaths": null,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "fefecbe5ffc6e0fee5e00cd544914a5a",
+      "type": "total-country",
+      "label": "Curacao",
+      "country": "Curacao",
+      "country_code": "CW",
+      "country_latlong": [
+        12.116667,
+        -68.933333
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        12.116667,
+        -68.933333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 14,
+        "deaths": 1,
+        "recovered": 8,
+        "infected": 5
+      },
+      "delta": {
+        "recovered": 1,
+        "infected": -1
+      },
+      "delta_pct": {
+        "recovered": 14.286,
+        "infected": -16.667
+      },
+      "peak_pct": {
+        "recovered": 66.667,
+        "infected": -55.556
+      },
+      "relative": {
+        "deaths": 7.143,
+        "recovered": 57.143,
+        "infected": 35.714
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.093,
+        "recovered": 0.053,
+        "deaths": 0.007,
+        "infected": 0.033
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.925,
+        "recovered": 0.529,
+        "deaths": 0.066,
+        "infected": 0.33
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.25,
+        "recovered": 5.286,
+        "deaths": 0.661,
+        "infected": 3.304
+      },
+      "delta_pop1k": {
+        "recovered": 0.007,
+        "infected": -0.007
+      },
+      "delta_pop10k": {
+        "recovered": 0.066,
+        "infected": -0.066
+      },
+      "delta_pop100k": {
+        "recovered": 0.661,
+        "infected": -0.661
+      }
+    },
+    "factbook": {
+      "population": 151345,
+      "median_age": 36.7,
+      "death_rate": 8.7,
+      "area": 444
+    },
+    "data_key": "dd16a4c2e2b56d3ade5a3a15fe7ac16c",
+    "day_index_1": 30,
+    "day_index_10": 14,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 15
   }
 ]

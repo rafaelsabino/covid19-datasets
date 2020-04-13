@@ -382,7 +382,8 @@
         "confirmed": 20
       },
       "peak_pct": {
-        "confirmed": 60
+        "confirmed": 60,
+        "recovered": 100
       },
       "relative": {
         "recovered": 16.667,
@@ -427,5 +428,96 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": null,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "e81c13d49468d19ed1cea3c26e0fa7a2",
+      "type": "total-country",
+      "label": "Saint Barthelemy",
+      "country": "Saint Barthelemy",
+      "country_code": "BL",
+      "country_latlong": [
+        18.5,
+        -63.41666666
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.5,
+        -63.41666666
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 6,
+        "recovered": 4,
+        "infected": 2
+      },
+      "delta": {
+        "recovered": 3,
+        "infected": -3
+      },
+      "delta_pct": {
+        "recovered": 300,
+        "infected": -60
+      },
+      "peak_pct": {
+        "recovered": 300,
+        "infected": -150
+      },
+      "relative": {
+        "recovered": 66.667,
+        "infected": 33.333
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.842,
+        "recovered": 0.562,
+        "infected": 0.281
+      },
+      "absolute_pop10k": {
+        "confirmed": 8.425,
+        "recovered": 5.616,
+        "infected": 2.808
+      },
+      "absolute_pop100k": {
+        "confirmed": 84.246,
+        "recovered": 56.164,
+        "infected": 28.082
+      },
+      "delta_pop1k": {
+        "recovered": 0.421,
+        "infected": -0.421
+      },
+      "delta_pop10k": {
+        "recovered": 4.212,
+        "infected": -4.212
+      },
+      "delta_pop100k": {
+        "recovered": 42.123,
+        "infected": -42.123
+      }
+    },
+    "factbook": {
+      "population": 7122,
+      "median_age": 45.6,
+      "death_rate": 8.7,
+      "area": 25
+    },
+    "data_key": "a92bb0d817affa8a7f8c9e62c1420736",
+    "day_index_1": 40,
+    "day_index_peak_confirmed": 19,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 19
   }
 ]

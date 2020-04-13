@@ -299,7 +299,7 @@
       },
       "peak_pct": {
         "confirmed": 26.549,
-        "recovered": 60,
+        "recovered": 25,
         "infected": 22.523
       },
       "relative": {
@@ -581,7 +581,7 @@
       },
       "peak_pct": {
         "confirmed": 39.823,
-        "recovered": 60,
+        "recovered": 25,
         "infected": 36.036
       },
       "relative": {
@@ -2348,7 +2348,7 @@
       },
       "peak_pct": {
         "confirmed": 61.947,
-        "recovered": 180,
+        "recovered": 75,
         "infected": 49.55
       },
       "relative": {
@@ -2635,7 +2635,7 @@
       },
       "peak_pct": {
         "confirmed": 26.549,
-        "recovered": 660,
+        "recovered": 275,
         "deaths": 100,
         "infected": -27.027
       },
@@ -3000,5 +3000,109 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 3,
     "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "a063888454aed178c9a45290a7ceb587",
+      "type": "total-country",
+      "label": "Malta",
+      "country": "Malta",
+      "country_code": "MT",
+      "country_latlong": [
+        35.83333333,
+        14.58333333
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "administrative": null,
+      "latlong": [
+        35.83333333,
+        14.58333333
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 378,
+        "deaths": 3,
+        "recovered": 44,
+        "infected": 331
+      },
+      "delta": {
+        "confirmed": 8,
+        "recovered": 28,
+        "infected": -20
+      },
+      "delta_pct": {
+        "confirmed": 2.162,
+        "recovered": 175,
+        "infected": -5.698
+      },
+      "peak_pct": {
+        "confirmed": 35.398,
+        "recovered": 700,
+        "infected": -90.09
+      },
+      "relative": {
+        "deaths": 0.794,
+        "recovered": 11.64,
+        "infected": 87.566
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.827,
+        "recovered": 0.096,
+        "deaths": 0.007,
+        "infected": 0.724
+      },
+      "absolute_pop10k": {
+        "confirmed": 8.267,
+        "recovered": 0.962,
+        "deaths": 0.066,
+        "infected": 7.239
+      },
+      "absolute_pop100k": {
+        "confirmed": 82.665,
+        "recovered": 9.622,
+        "deaths": 0.656,
+        "infected": 72.387
+      },
+      "delta_pop1k": {
+        "confirmed": 0.017,
+        "recovered": 0.061,
+        "infected": -0.044
+      },
+      "delta_pop10k": {
+        "confirmed": 0.175,
+        "recovered": 0.612,
+        "infected": -0.437
+      },
+      "delta_pop100k": {
+        "confirmed": 1.75,
+        "recovered": 6.123,
+        "infected": -4.374
+      }
+    },
+    "factbook": {
+      "population": 457267,
+      "median_age": 42.3,
+      "death_rate": 8.3,
+      "area": 316
+    },
+    "data_key": "a38b87731b810c9840845f32ca1cbf72",
+    "day_index_1": 37,
+    "day_index_10": 31,
+    "day_index_100": 21,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 7
   }
 ]

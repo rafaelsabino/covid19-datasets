@@ -1545,7 +1545,7 @@
       },
       "peak_pct": {
         "confirmed": 39.37,
-        "recovered": 164.706,
+        "recovered": 125,
         "infected": 12
       },
       "relative": {
@@ -1845,7 +1845,7 @@
       },
       "peak_pct": {
         "confirmed": 94.488,
-        "recovered": 23.529,
+        "recovered": 17.857,
         "infected": 92
       },
       "relative": {
@@ -1949,7 +1949,7 @@
       },
       "peak_pct": {
         "confirmed": 19.685,
-        "recovered": 258.824,
+        "recovered": 196.429,
         "infected": -24
       },
       "relative": {
@@ -2053,7 +2053,7 @@
       },
       "peak_pct": {
         "confirmed": 161.417,
-        "recovered": 94.118,
+        "recovered": 71.429,
         "infected": 148
       },
       "relative": {
@@ -2261,7 +2261,7 @@
       },
       "peak_pct": {
         "confirmed": 3.937,
-        "recovered": 117.647,
+        "recovered": 89.286,
         "infected": -16
       },
       "relative": {
@@ -2316,5 +2316,109 @@
     "day_index_peak_confirmed": 10,
     "day_index_peak_deaths": 13,
     "day_index_peak": 11
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "66fcc8b48a420b96dcb7a4ba0207518e",
+      "type": "total-country",
+      "label": "Mauritius",
+      "country": "Mauritius",
+      "country_code": "MU",
+      "country_latlong": [
+        -20.28333333,
+        57.55
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "administrative": null,
+      "latlong": [
+        -20.28333333,
+        57.55
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 324,
+        "deaths": 9,
+        "recovered": 42,
+        "infected": 273
+      },
+      "delta": {
+        "confirmed": 5,
+        "recovered": 14,
+        "infected": -9
+      },
+      "delta_pct": {
+        "confirmed": 1.567,
+        "recovered": 50,
+        "infected": -3.191
+      },
+      "peak_pct": {
+        "confirmed": 19.685,
+        "recovered": 250,
+        "infected": -36
+      },
+      "relative": {
+        "deaths": 2.778,
+        "recovered": 12.963,
+        "infected": 84.259
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.235,
+        "recovered": 0.03,
+        "deaths": 0.007,
+        "infected": 0.198
+      },
+      "absolute_pop10k": {
+        "confirmed": 2.349,
+        "recovered": 0.304,
+        "deaths": 0.065,
+        "infected": 1.979
+      },
+      "absolute_pop100k": {
+        "confirmed": 23.489,
+        "recovered": 3.045,
+        "deaths": 0.652,
+        "infected": 19.792
+      },
+      "delta_pop1k": {
+        "confirmed": 0.004,
+        "recovered": 0.01,
+        "infected": -0.007
+      },
+      "delta_pop10k": {
+        "confirmed": 0.036,
+        "recovered": 0.101,
+        "infected": -0.065
+      },
+      "delta_pop100k": {
+        "confirmed": 0.362,
+        "recovered": 1.015,
+        "infected": -0.652
+      }
+    },
+    "factbook": {
+      "population": 1379365,
+      "median_age": 36.3,
+      "death_rate": 7.3,
+      "area": 2040
+    },
+    "data_key": "fd03663ba9a3c038633e95e611f38034",
+    "day_index_1": 26,
+    "day_index_10": 24,
+    "day_index_100": 16,
+    "day_index_peak_confirmed": 11,
+    "day_index_peak_deaths": 14,
+    "day_index_peak": 12
   }
 ]

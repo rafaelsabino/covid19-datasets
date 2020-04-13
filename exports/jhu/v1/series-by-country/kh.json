@@ -2809,5 +2809,98 @@
     "day_index_peak_confirmed": 17,
     "day_index_peak_deaths": null,
     "day_index_peak": 17
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "3b992e648876a7003faf6ad7959db5a4",
+      "type": "total-country",
+      "label": "Cambodia",
+      "country": "Cambodia",
+      "country_code": "KH",
+      "country_latlong": [
+        13,
+        105
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        13,
+        105
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 122,
+        "recovered": 77,
+        "infected": 45
+      },
+      "delta": {
+        "confirmed": 2,
+        "recovered": 2
+      },
+      "delta_pct": {
+        "confirmed": 1.667,
+        "recovered": 2.667
+      },
+      "peak_pct": {
+        "confirmed": 18.868,
+        "recovered": 26.316
+      },
+      "relative": {
+        "recovered": 63.115,
+        "infected": 36.885
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.007,
+        "recovered": 0.005,
+        "infected": 0.003
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.072,
+        "recovered": 0.045,
+        "infected": 0.027
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.721,
+        "recovered": 0.455,
+        "infected": 0.266
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "recovered": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "recovered": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.012,
+        "recovered": 0.012
+      }
+    },
+    "factbook": {
+      "population": 16926984,
+      "median_age": 26.4,
+      "death_rate": 7.3,
+      "area": 181035
+    },
+    "data_key": "b25707365d6a879bf1a8a3455da32db4",
+    "day_index_1": 77,
+    "day_index_10": 27,
+    "day_index_100": 15,
+    "day_index_peak_confirmed": 18,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 18
   }
 ]

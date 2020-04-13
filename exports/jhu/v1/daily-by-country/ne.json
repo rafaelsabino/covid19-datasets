@@ -78,8 +78,8 @@
     "data_key": "8f1fcb9f07c94dcf232293050f62f2a5",
     "day_index_1": 1,
     "day_index_peak_confirmed": -17,
-    "day_index_peak_deaths": -12,
-    "day_index_peak": -14
+    "day_index_peak_deaths": -15,
+    "day_index_peak": -16
   },
   {
     "dataset": "jhu/daily",
@@ -164,8 +164,8 @@
     "data_key": "a2edb04c17adf7c8985ddf0164924fef",
     "day_index_1": 3,
     "day_index_peak_confirmed": -15,
-    "day_index_peak_deaths": -10,
-    "day_index_peak": -12
+    "day_index_peak_deaths": -13,
+    "day_index_peak": -14
   },
   {
     "dataset": "jhu/daily",
@@ -250,8 +250,8 @@
     "data_key": "399623cb6ae27eef706f9233414b2620",
     "day_index_1": 4,
     "day_index_peak_confirmed": -14,
-    "day_index_peak_deaths": -9,
-    "day_index_peak": -11
+    "day_index_peak_deaths": -12,
+    "day_index_peak": -13
   },
   {
     "dataset": "jhu/daily",
@@ -346,8 +346,8 @@
     "data_key": "bc172382e63a539833e2f70d506c5fa5",
     "day_index_1": 6,
     "day_index_peak_confirmed": -12,
-    "day_index_peak_deaths": -7,
-    "day_index_peak": -9
+    "day_index_peak_deaths": -10,
+    "day_index_peak": -11
   },
   {
     "dataset": "jhu/daily",
@@ -438,8 +438,8 @@
     "day_index_1": 7,
     "day_index_10": 1,
     "day_index_peak_confirmed": -11,
-    "day_index_peak_deaths": -6,
-    "day_index_peak": -8
+    "day_index_peak_deaths": -9,
+    "day_index_peak": -10
   },
   {
     "dataset": "jhu/daily",
@@ -530,8 +530,8 @@
     "day_index_1": 10,
     "day_index_10": 4,
     "day_index_peak_confirmed": -8,
-    "day_index_peak_deaths": -3,
-    "day_index_peak": -5
+    "day_index_peak_deaths": -6,
+    "day_index_peak": -7
   },
   {
     "dataset": "jhu/daily",
@@ -628,8 +628,8 @@
     "day_index_1": 11,
     "day_index_10": 5,
     "day_index_peak_confirmed": -7,
-    "day_index_peak_deaths": -2,
-    "day_index_peak": -4
+    "day_index_peak_deaths": -5,
+    "day_index_peak": -6
   },
   {
     "dataset": "jhu/daily",
@@ -726,8 +726,8 @@
     "day_index_1": 13,
     "day_index_10": 7,
     "day_index_peak_confirmed": -5,
-    "day_index_peak_deaths": 0,
-    "day_index_peak": -2
+    "day_index_peak_deaths": -3,
+    "day_index_peak": -4
   },
   {
     "dataset": "jhu/daily",
@@ -818,8 +818,8 @@
     "day_index_1": 14,
     "day_index_10": 8,
     "day_index_peak_confirmed": -4,
-    "day_index_peak_deaths": 1,
-    "day_index_peak": -1
+    "day_index_peak_deaths": -2,
+    "day_index_peak": -3
   },
   {
     "dataset": "jhu/daily",
@@ -911,8 +911,8 @@
     "day_index_10": 9,
     "day_index_100": 1,
     "day_index_peak_confirmed": -3,
-    "day_index_peak_deaths": 2,
-    "day_index_peak": -0
+    "day_index_peak_deaths": -1,
+    "day_index_peak": -2
   },
   {
     "dataset": "jhu/daily",
@@ -1010,8 +1010,8 @@
     "day_index_10": 10,
     "day_index_100": 2,
     "day_index_peak_confirmed": -2,
-    "day_index_peak_deaths": 3,
-    "day_index_peak": 0
+    "day_index_peak_deaths": 0,
+    "day_index_peak": -1
   },
   {
     "dataset": "jhu/daily",
@@ -1062,7 +1062,7 @@
       },
       "peak_pct": {
         "confirmed": 73.529,
-        "recovered": 185.714,
+        "recovered": 158.537,
         "deaths": 125,
         "infected": 52.743
       },
@@ -1119,8 +1119,8 @@
     "day_index_10": 11,
     "day_index_100": 3,
     "day_index_peak_confirmed": -1,
-    "day_index_peak_deaths": 4,
-    "day_index_peak": 1
+    "day_index_peak_deaths": 1,
+    "day_index_peak": 0
   },
   {
     "dataset": "jhu/daily",
@@ -1170,7 +1170,7 @@
       },
       "peak_pct": {
         "confirmed": 126.838,
-        "recovered": 185.714,
+        "recovered": 158.537,
         "infected": 118.143
       },
       "relative": {
@@ -1223,8 +1223,8 @@
     "day_index_10": 12,
     "day_index_100": 4,
     "day_index_peak_confirmed": 0,
-    "day_index_peak_deaths": 5,
-    "day_index_peak": 2
+    "day_index_peak_deaths": 2,
+    "day_index_peak": 1
   },
   {
     "dataset": "jhu/daily",
@@ -1327,8 +1327,8 @@
     "day_index_10": 13,
     "day_index_100": 5,
     "day_index_peak_confirmed": 1,
-    "day_index_peak_deaths": 6,
-    "day_index_peak": 3
+    "day_index_peak_deaths": 3,
+    "day_index_peak": 2
   },
   {
     "dataset": "jhu/daily",
@@ -1378,7 +1378,7 @@
       },
       "peak_pct": {
         "confirmed": 117.647,
-        "recovered": 28.571,
+        "recovered": 24.39,
         "infected": 130.802
       },
       "relative": {
@@ -1431,8 +1431,8 @@
     "day_index_10": 14,
     "day_index_100": 6,
     "day_index_peak_confirmed": 2,
-    "day_index_peak_deaths": 7,
-    "day_index_peak": 4
+    "day_index_peak_deaths": 4,
+    "day_index_peak": 3
   },
   {
     "dataset": "jhu/daily",
@@ -1482,7 +1482,7 @@
       },
       "peak_pct": {
         "confirmed": 125,
-        "recovered": 171.429,
+        "recovered": 146.341,
         "infected": 118.143
       },
       "relative": {
@@ -1535,8 +1535,8 @@
     "day_index_10": 15,
     "day_index_100": 7,
     "day_index_peak_confirmed": 3,
-    "day_index_peak_deaths": 8,
-    "day_index_peak": 5
+    "day_index_peak_deaths": 5,
+    "day_index_peak": 4
   },
   {
     "dataset": "jhu/daily",
@@ -1586,7 +1586,7 @@
       },
       "peak_pct": {
         "confirmed": 51.471,
-        "recovered": 14.286,
+        "recovered": 12.195,
         "infected": 56.962
       },
       "relative": {
@@ -1639,8 +1639,8 @@
     "day_index_10": 16,
     "day_index_100": 8,
     "day_index_peak_confirmed": 4,
-    "day_index_peak_deaths": 9,
-    "day_index_peak": 6
+    "day_index_peak_deaths": 6,
+    "day_index_peak": 5
   },
   {
     "dataset": "jhu/daily",
@@ -1737,7 +1737,117 @@
     "day_index_10": 17,
     "day_index_100": 9,
     "day_index_peak_confirmed": 5,
-    "day_index_peak_deaths": 10,
+    "day_index_peak_deaths": 7,
+    "day_index_peak": 6
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "6841e814f70ca2dfc48faff657f8bbff",
+      "type": "total-country",
+      "label": "Niger",
+      "country": "Niger",
+      "country_code": "NE",
+      "country_latlong": [
+        16,
+        8
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "administrative": null,
+      "latlong": [
+        16,
+        8
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 529,
+        "deaths": 12,
+        "recovered": 75,
+        "infected": 442
+      },
+      "delta": {
+        "confirmed": 38,
+        "recovered": 34,
+        "deaths": 1,
+        "infected": 3
+      },
+      "delta_pct": {
+        "confirmed": 7.739,
+        "recovered": 82.927,
+        "infected": 0.683,
+        "deaths": 9.091
+      },
+      "peak_pct": {
+        "confirmed": 69.853,
+        "recovered": 414.634,
+        "deaths": 62.5,
+        "infected": 6.329
+      },
+      "relative": {
+        "deaths": 2.268,
+        "recovered": 14.178,
+        "infected": 83.554
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.023,
+        "recovered": 0.003,
+        "deaths": 0.001,
+        "infected": 0.019
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.232,
+        "recovered": 0.033,
+        "deaths": 0.005,
+        "infected": 0.194
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.323,
+        "recovered": 0.329,
+        "deaths": 0.053,
+        "infected": 1.941
+      },
+      "delta_pop1k": {
+        "confirmed": 0.002,
+        "recovered": 0.001,
+        "deaths": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.017,
+        "recovered": 0.015,
+        "deaths": 0,
+        "infected": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.167,
+        "recovered": 0.149,
+        "deaths": 0.004,
+        "infected": 0.013
+      }
+    },
+    "factbook": {
+      "population": 22772361,
+      "median_age": 14.8,
+      "death_rate": 10.2,
+      "area": 1267000
+    },
+    "data_key": "6ccf7220aafe30245cb826aa294fdcc3",
+    "day_index_1": 24,
+    "day_index_10": 18,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 6,
+    "day_index_peak_deaths": 8,
     "day_index_peak": 7
   }
 ]

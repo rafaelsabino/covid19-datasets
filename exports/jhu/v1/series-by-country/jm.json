@@ -2292,5 +2292,102 @@
     "day_index_peak_confirmed": 13,
     "day_index_peak_deaths": 13,
     "day_index_peak": 13
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "5fc0e310e579f51c70914c2700b07f98",
+      "type": "total-country",
+      "label": "Jamaica",
+      "country": "Jamaica",
+      "country_code": "JM",
+      "country_latlong": [
+        18.25,
+        -77.5
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        18.25,
+        -77.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 69,
+        "deaths": 4,
+        "recovered": 13,
+        "infected": 52
+      },
+      "delta": {
+        "confirmed": 4,
+        "infected": 4
+      },
+      "delta_pct": {
+        "confirmed": 6.154,
+        "infected": 8.333
+      },
+      "peak_pct": {
+        "confirmed": 74.074,
+        "infected": 83.333
+      },
+      "relative": {
+        "deaths": 5.797,
+        "recovered": 18.841,
+        "infected": 75.362
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.025,
+        "recovered": 0.005,
+        "deaths": 0.001,
+        "infected": 0.019
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.246,
+        "recovered": 0.046,
+        "deaths": 0.014,
+        "infected": 0.185
+      },
+      "absolute_pop100k": {
+        "confirmed": 2.457,
+        "recovered": 0.463,
+        "deaths": 0.142,
+        "infected": 1.851
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop10k": {
+        "confirmed": 0.014,
+        "infected": 0.014
+      },
+      "delta_pop100k": {
+        "confirmed": 0.142,
+        "infected": 0.142
+      }
+    },
+    "factbook": {
+      "population": 2808570,
+      "median_age": 29.4,
+      "death_rate": 7.5,
+      "area": 10991
+    },
+    "data_key": "0735ce348d053422c3eb8c972906aaa6",
+    "day_index_1": 33,
+    "day_index_10": 29,
+    "day_index_peak_confirmed": 14,
+    "day_index_peak_deaths": 14,
+    "day_index_peak": 14
   }
 ]

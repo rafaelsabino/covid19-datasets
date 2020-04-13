@@ -1953,5 +1953,103 @@
     "day_index_peak_confirmed": 6,
     "day_index_peak_deaths": 10,
     "day_index_peak": 8
+  },
+  {
+    "dataset": "jhu/series",
+    "location": {
+      "key": "dd260e6857a3491564bbd6c2c287399c",
+      "type": "total-country",
+      "label": "Isle of Man",
+      "country": "Isle of Man",
+      "country_code": "IM",
+      "country_latlong": [
+        54.25,
+        -4.5
+      ],
+      "province": null,
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "administrative": null,
+      "latlong": [
+        54.25,
+        -4.5
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 228,
+        "deaths": 2,
+        "recovered": 112,
+        "infected": 114
+      },
+      "delta": {
+        "confirmed": 2,
+        "infected": 2
+      },
+      "delta_pct": {
+        "confirmed": 0.885,
+        "infected": 1.786
+      },
+      "peak_pct": {
+        "confirmed": 10.526,
+        "infected": 12.658
+      },
+      "relative": {
+        "deaths": 0.877,
+        "recovered": 49.123,
+        "infected": 50
+      },
+      "absolute_pop1k": {
+        "confirmed": 2.519,
+        "recovered": 1.238,
+        "deaths": 0.022,
+        "infected": 1.26
+      },
+      "absolute_pop10k": {
+        "confirmed": 25.194,
+        "recovered": 12.376,
+        "deaths": 0.221,
+        "infected": 12.597
+      },
+      "absolute_pop100k": {
+        "confirmed": 251.936,
+        "recovered": 123.758,
+        "deaths": 2.21,
+        "infected": 125.968
+      },
+      "delta_pop1k": {
+        "confirmed": 0.022,
+        "infected": 0.022
+      },
+      "delta_pop10k": {
+        "confirmed": 0.221,
+        "infected": 0.221
+      },
+      "delta_pop100k": {
+        "confirmed": 2.21,
+        "infected": 2.21
+      }
+    },
+    "factbook": {
+      "population": 90499,
+      "median_age": 44.6,
+      "death_rate": 10.4,
+      "area": 572
+    },
+    "data_key": "292a62326f3c65e4dcc3f6e483dcbde7",
+    "day_index_1": 24,
+    "day_index_10": 21,
+    "day_index_100": 10,
+    "day_index_peak_confirmed": 7,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 9
   }
 ]

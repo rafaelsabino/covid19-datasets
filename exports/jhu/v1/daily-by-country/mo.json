@@ -641,7 +641,7 @@
         "infected": -10
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 83.333,
         "infected": -29.412
       },
       "relative": {
@@ -733,7 +733,7 @@
         "infected": -11.111
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 83.333,
         "infected": -29.412
       },
       "relative": {
@@ -825,7 +825,7 @@
         "infected": -12.5
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 83.333,
         "infected": -29.412
       },
       "relative": {
@@ -917,7 +917,7 @@
         "infected": -28.571
       },
       "peak_pct": {
-        "recovered": 200,
+        "recovered": 166.667,
         "infected": -58.824
       },
       "relative": {
@@ -1009,7 +1009,7 @@
         "infected": -20
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 83.333,
         "infected": -29.412
       },
       "relative": {
@@ -1101,7 +1101,7 @@
         "infected": -25
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 83.333,
         "infected": -29.412
       },
       "relative": {
@@ -1193,7 +1193,7 @@
         "infected": -33.333
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 83.333,
         "infected": -29.412
       },
       "relative": {
@@ -1285,7 +1285,7 @@
         "infected": -50
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 83.333,
         "infected": -29.412
       },
       "relative": {
@@ -1376,7 +1376,7 @@
         "infected": -100
       },
       "peak_pct": {
-        "recovered": 100,
+        "recovered": 83.333,
         "infected": -29.412
       },
       "relative": {
@@ -2982,5 +2982,97 @@
     "day_index_peak_confirmed": 26,
     "day_index_peak_deaths": null,
     "day_index_peak": 26
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "528507a5cf1830c6d894a6c608b6056e",
+      "type": "total-country",
+      "label": "Macau",
+      "country": "Macau",
+      "country_code": "MO",
+      "country_latlong": [
+        22.16666666,
+        113.55
+      ],
+      "province": null,
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "administrative": null,
+      "latlong": [
+        22.16666666,
+        113.55
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 45,
+        "recovered": 13,
+        "infected": 32
+      },
+      "delta": {
+        "recovered": 3,
+        "infected": -3
+      },
+      "delta_pct": {
+        "recovered": 30,
+        "infected": -8.571
+      },
+      "peak_pct": {
+        "recovered": 250,
+        "infected": -88.235
+      },
+      "relative": {
+        "recovered": 28.889,
+        "infected": 71.111
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.073,
+        "recovered": 0.021,
+        "infected": 0.052
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.732,
+        "recovered": 0.212,
+        "infected": 0.521
+      },
+      "absolute_pop100k": {
+        "confirmed": 7.324,
+        "recovered": 2.116,
+        "infected": 5.208
+      },
+      "delta_pop1k": {
+        "recovered": 0.005,
+        "infected": -0.005
+      },
+      "delta_pop10k": {
+        "recovered": 0.049,
+        "infected": -0.049
+      },
+      "delta_pop100k": {
+        "recovered": 0.488,
+        "infected": -0.488
+      }
+    },
+    "factbook": {
+      "population": 614458,
+      "median_age": 40.8,
+      "death_rate": 4.9,
+      "area": 28.2
+    },
+    "data_key": "e1a5685fbe8e1f8d97a51a8a555e4df1",
+    "day_index_1": 82,
+    "day_index_10": 69,
+    "day_index_peak_confirmed": 30,
+    "day_index_peak_deaths": null,
+    "day_index_peak": 30
   }
 ]

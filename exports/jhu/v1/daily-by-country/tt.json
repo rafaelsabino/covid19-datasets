@@ -471,7 +471,7 @@
       },
       "peak_pct": {
         "confirmed": 689.655,
-        "recovered": 100,
+        "recovered": 50,
         "infected": 696.429
       },
       "relative": {
@@ -568,7 +568,7 @@
       },
       "peak_pct": {
         "confirmed": 17.241,
-        "recovered": -100,
+        "recovered": -50,
         "infected": 35.714
       },
       "relative": {
@@ -1027,7 +1027,7 @@
       },
       "peak_pct": {
         "confirmed": 17.241,
-        "recovered": 100,
+        "recovered": 50,
         "deaths": 100,
         "infected": -17.857
       },
@@ -2321,7 +2321,7 @@
       },
       "peak_pct": {
         "confirmed": 51.724,
-        "recovered": 1100,
+        "recovered": 550,
         "infected": -142.857
       },
       "relative": {
@@ -2376,5 +2376,109 @@
     "day_index_peak_confirmed": 14,
     "day_index_peak_deaths": 10,
     "day_index_peak": 12
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "baa184084f6e3be352bfed718f01fb6f",
+      "type": "total-country",
+      "label": "Trinidad and Tobago",
+      "country": "Trinidad and Tobago",
+      "country_code": "TT",
+      "country_latlong": [
+        11,
+        -61
+      ],
+      "province": null,
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "administrative": null,
+      "latlong": [
+        11,
+        -61
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 113,
+        "deaths": 8,
+        "recovered": 16,
+        "infected": 89
+      },
+      "delta": {
+        "confirmed": 1,
+        "recovered": 4,
+        "infected": -3
+      },
+      "delta_pct": {
+        "confirmed": 0.893,
+        "recovered": 33.333,
+        "infected": -3.261
+      },
+      "peak_pct": {
+        "confirmed": 17.241,
+        "recovered": 200,
+        "infected": -53.571
+      },
+      "relative": {
+        "deaths": 7.08,
+        "recovered": 14.159,
+        "infected": 78.761
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.093,
+        "recovered": 0.013,
+        "deaths": 0.007,
+        "infected": 0.074
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.935,
+        "recovered": 0.132,
+        "deaths": 0.066,
+        "infected": 0.736
+      },
+      "absolute_pop100k": {
+        "confirmed": 9.348,
+        "recovered": 1.324,
+        "deaths": 0.662,
+        "infected": 7.363
+      },
+      "delta_pop1k": {
+        "confirmed": 0.001,
+        "recovered": 0.003,
+        "infected": -0.002
+      },
+      "delta_pop10k": {
+        "confirmed": 0.008,
+        "recovered": 0.033,
+        "infected": -0.025
+      },
+      "delta_pop100k": {
+        "confirmed": 0.083,
+        "recovered": 0.331,
+        "infected": -0.248
+      }
+    },
+    "factbook": {
+      "population": 1208789,
+      "median_age": 37.8,
+      "death_rate": 9.1,
+      "area": 5128
+    },
+    "data_key": "d2a5ad8125c1f389e5b702db663dff92",
+    "day_index_1": 30,
+    "day_index_10": 23,
+    "day_index_100": 9,
+    "day_index_peak_confirmed": 15,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 13
   }
 ]

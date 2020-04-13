@@ -2220,5 +2220,103 @@
     "day_index_peak_confirmed": 9,
     "day_index_peak_deaths": 10,
     "day_index_peak": 9
+  },
+  {
+    "dataset": "jhu/daily",
+    "location": {
+      "key": "996a579267d6287d836756b973a3be1e",
+      "type": "total-country",
+      "label": "DR Congo",
+      "country": "DR Congo",
+      "country_code": "CD",
+      "country_latlong": [
+        0,
+        25
+      ],
+      "province": null,
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "administrative": null,
+      "latlong": [
+        0,
+        25
+      ]
+    },
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 12,
+      "date": "2020-04-12",
+      "timestamp": 1586653200,
+      "index": 82
+    },
+    "values": {
+      "absolute": {
+        "confirmed": 234,
+        "deaths": 20,
+        "recovered": 16,
+        "infected": 198
+      },
+      "delta": {
+        "confirmed": 11,
+        "infected": 11
+      },
+      "delta_pct": {
+        "confirmed": 4.933,
+        "infected": 5.882
+      },
+      "peak_pct": {
+        "confirmed": 56.701,
+        "infected": 67.073
+      },
+      "relative": {
+        "deaths": 8.547,
+        "recovered": 6.838,
+        "infected": 84.615
+      },
+      "absolute_pop1k": {
+        "confirmed": 0.002,
+        "recovered": 0,
+        "deaths": 0,
+        "infected": 0.002
+      },
+      "absolute_pop10k": {
+        "confirmed": 0.023,
+        "recovered": 0.002,
+        "deaths": 0.002,
+        "infected": 0.019
+      },
+      "absolute_pop100k": {
+        "confirmed": 0.23,
+        "recovered": 0.016,
+        "deaths": 0.02,
+        "infected": 0.195
+      },
+      "delta_pop1k": {
+        "confirmed": 0,
+        "infected": 0
+      },
+      "delta_pop10k": {
+        "confirmed": 0.001,
+        "infected": 0.001
+      },
+      "delta_pop100k": {
+        "confirmed": 0.011,
+        "infected": 0.011
+      }
+    },
+    "factbook": {
+      "population": 101780263,
+      "median_age": 16.7,
+      "death_rate": 8.4,
+      "area": 2344858
+    },
+    "data_key": "86fa371f70ec58821a73bdb471c47fb5",
+    "day_index_1": 33,
+    "day_index_10": 25,
+    "day_index_100": 12,
+    "day_index_peak_confirmed": 10,
+    "day_index_peak_deaths": 11,
+    "day_index_peak": 10
   }
 ]
